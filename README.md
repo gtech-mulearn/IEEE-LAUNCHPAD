@@ -1,4 +1,4 @@
-# GitHub Foundations
+# LAUNCHPAD Job Fair
 
 <img width="1366" alt="Screenshot 2024-03-29 at 1 19 13 PM" src="https://github.com/vishakh-abhayan/GitHub-Foundations/assets/94307781/52373715-85ee-4d86-bf8d-f5b9d56de6f0">
 
