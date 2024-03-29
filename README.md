@@ -1,6 +1,7 @@
 # LAUNCHPAD Job Fair
 
 
+![banner](https://github.com/gtech-mulearn/LAUNCHPAD/assets/94307781/580826be-d266-48c1-b8ec-463294c47f86)
 
 
 
