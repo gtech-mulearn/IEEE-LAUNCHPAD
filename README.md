@@ -43,43 +43,10 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 #
 
-## Step 3:
-
-<div align="left">
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/Top-100-Coders/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profile` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> ### 🌟 Pro Tip: Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-Embark on this step with passion and precision.
-
-Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-</div>
-
-#
 
 <div align="center">
 
-## 🚀 Step 4: Dive into the Digital Arena!
+## 🚀 Step 3: Dive into the Digital Arena!
 
 ### Welcome to the heart of our competition
 
@@ -119,6 +86,44 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 > Remember, in the world of coding, it's not just about skills, but also about community and collaboration. Engage actively, seek help when needed, and most importantly, enjoy the journey! 🔥
 
 </div>
+
+#
+
+## Step 4:
+
+<div align="left">
+
+#### 🛠️ Craft Your Digital Identity!
+
+Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
+
+#### 🍴 Fork It!
+
+Start by forking [this repository](https://github.com/gtech-mulearn/Top-100-Coders/fork) to your own GitHub realm.
+
+#### 📄 Name Your File!
+
+Craft a new markdown file inside the `/profile` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
+
+#### ✍️ Fill It Out!
+
+Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
+
+#### 🚀 Pull It!
+
+Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
+
+> ### 🌟 Pro Tip: Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
+
+Embark on this step with passion and precision.
+
+Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
+
+</div>
+
+#
+
+
 
 #
 
