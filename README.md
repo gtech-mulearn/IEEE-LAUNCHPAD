@@ -48,7 +48,7 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 ## 🚀 Step 3: Dive into the Digital Arena!
 
-### Welcome to the heart of our competition
+### Welcome to the heart of our **LAUNCHPAD**
 
 > The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
 
