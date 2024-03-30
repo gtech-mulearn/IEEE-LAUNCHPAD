@@ -59,12 +59,12 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 <div align="left">
 
-#### 📢 #iee-launchpad-announcment 
+#### 📢 #ieee-launchpad-announcment 
 
 - Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
 - Tip: Stay alert! You wouldn't want to miss out on any crucial info.
 
-#### 🚀 #iee-launchpad
+#### 🚀 #ieee-launchpad
 
 - Purpose: The battleground where you showcase your skills.
 - Action: Submit your completed tasks and let the world witness your coding prowess.
