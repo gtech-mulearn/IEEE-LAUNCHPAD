@@ -1,7 +1,8 @@
 # IEEE LAUNCHPAD Job Fair
 
 
-![Frame](https://github.com/gtech-mulearn/LAUNCHPAD/assets/94307781/6d677903-987e-444d-8f5d-2d79fdf43a2e)
+![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+
 
 
 
