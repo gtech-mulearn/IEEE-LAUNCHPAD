@@ -104,7 +104,8 @@ Once you're ready, create a pull request targeting the main branch. Let the worl
 > The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
 
 
-<img width="214" alt="Screenshot 2024-03-30 at 9 57 55 PM" src="https://github.com/gtech-mulearn/LAUNCHPAD/assets/94307781/0fa0d4bf-6217-4c59-9492-7bc8d765958c">
+<img width="233" alt="Screenshot 2024-04-02 at 3 13 45 PM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/cce9d139-a390-48a2-b5a8-9deb50c650e7">
+
 
 </div>
 
@@ -119,6 +120,12 @@ Once you're ready, create a pull request targeting the main branch. Let the worl
 
 - Purpose: The battleground where you showcase your skills.
 - Action: Submit your completed tasks and let the world witness your coding prowess.
+
+#### 🎙️ #ieee-launchpad-officehours
+
+- Purpose: Got questions? We've got answers!
+- Timing: Tune in every day from 8 PM to 9 PM.
+- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
 
 
 </div>
