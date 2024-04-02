@@ -124,10 +124,12 @@ Once you're ready, create a pull request targeting the main branch. Let the worl
 
 </div>
 
-
+#
 
 
 :memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
+
+#
 
 > [!IMPORTANT]  
 > If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
