@@ -1,7 +1,13 @@
 # IEEE LAUNCHPAD Job Fair
 
 
+
+
+
+
+
 ![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+
 
 
 
@@ -18,6 +24,7 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 
 <div align="center">
+
 
 
 
@@ -43,11 +50,12 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 ![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
 
+</div>
 #
 
 ## Step 3:
 
-<div align="left">
+
 
 #### 🛠️ Craft Your Digital Identity!
 
@@ -69,20 +77,20 @@ Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
 
 Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
 
-> ### 🌟 Pro Tip: Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
+> [!TIP]
+> ### Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
 
-Embark on this step with passion and precision.
 
-Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
 
-</div>
+> Embark on this step with passion and precision.
+> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
+
+
+
+
+
 
 #
-
-
-<div aling='center'>
-
-</div>
 
 
 <div align="center">
@@ -114,10 +122,16 @@ Your portfolio is the beacon that will guide others to recognize your coding pro
 </div>
 
 
-#
+</div>
+
+
+
 
 :memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
 
-> If you're new to editing markdown, you can learn more by following this [Introduction to Markdown ](https://discord.com/channels/771670169691881483/1115381777792499805/1115727847647092808).
+> [!IMPORTANT]  
+> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
+
+
 
 ---
