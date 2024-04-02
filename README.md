@@ -51,10 +51,12 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 ![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
 
 </div>
-#
+
+<div align="center">
 
 ## Step 3:
 
+</div>
 
 
 #### 🛠️ Craft Your Digital Identity!
