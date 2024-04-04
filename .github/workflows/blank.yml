@@ -1,0 +1,49 @@
+name: Check PR for Markdown Files in Profile Folder
+on:
+  pull_request:
+    branches:
+      - main # Modify according to your branch name requirements
+    paths:
+      - '**.md' # Trigger the workflow only if .md files are modified
+
+jobs:
+  check-markdown-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Check for Markdown files in Profile folder
+        run: |
+          markdown_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.md$')
+          profile_md_files=$(echo "$markdown_files" | grep '^profile/')
+          if [ -z "$profile_md_files" ]; then
+            echo "No Markdown files found in the 'profile' folder."
+            echo "::set-output name=valid_pr::false"
+          else
+            echo "Markdown files found in the 'profile' folder:"
+            echo "$profile_md_files"
+            echo "::set-output name=valid_pr::true"
+          fi
+
+      - name: Add label based on PR validity
+        if: steps.check-markdown-files.outputs.valid_pr == 'true'
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.issues.addLabels({
+              issue_number: context.issue.number,
+              labels: ['valid']
+            })
+
+      - name: Add label based on PR validity
+        if: steps.check-markdown-files.outputs.valid_pr == 'false'
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.issues.addLabels({
+              issue_number: context.issue.number,
+              labels: ['invalid']
+            })
