@@ -1,7 +1,15 @@
-# LAUNCHPAD Job Fair
+# IEEE LAUNCHPAD Job Fair
 
 
-<img width="1200" alt="banner" src="https://github.com/gtech-mulearn/LAUNCHPAD/assets/94307781/aa241f2f-2b99-483e-ac09-242b911a4c9d">
+
+
+
+
+
+![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+
+
+
 
 
 
@@ -16,6 +24,7 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 
 <div align="center">
+
 
 
 
@@ -41,11 +50,14 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 ![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
 
-#
+</div>
+
+<div align="center">
 
 ## Step 3:
 
-<div align="left">
+</div>
+
 
 #### 🛠️ Craft Your Digital Identity!
 
@@ -67,72 +79,70 @@ Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
 
 Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
 
-> ### 🌟 Pro Tip: Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
+> [!TIP]
+> ### Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
 
-Embark on this step with passion and precision.
 
-Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
 
-</div>
+> Embark on this step with passion and precision.
+> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
+
+
+
+
+
 
 #
+
 
 <div align="center">
 
 ## 🚀 Step 4: Dive into the Digital Arena!
 
-### Welcome to the heart of our competition
+### Welcome to the heart of our **LAUNCHPAD**
 
-> The Discord server's KSUM Top Hundred section. Here's your guide to navigating the neon-lit channels:
+> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
 
-<img width="236" alt="Screenshot 2023-09-29 at 5 01 08 PM" src="https://github.com/vishakh-abhayan/Top-100-Coders/assets/94307781/aa06d569-db42-43e6-b4d0-88d1bcd5132c">
+
+<img width="233" alt="Screenshot 2024-04-02 at 3 13 45 PM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/cce9d139-a390-48a2-b5a8-9deb50c650e7">
+
+
 </div>
 
 <div align="left">
 
-#### 📢 top100-announcements
+#### 📢 #ieee-launchpad-announcment 
 
 - Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
 - Tip: Stay alert! You wouldn't want to miss out on any crucial info.
 
-#### 🤖 #top100-introduction
-
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the Top 100.
-
-#### 🚀 #top-100-submission
+#### 🚀 #ieee-launchpad
 
 - Purpose: The battleground where you showcase your skills.
 - Action: Submit your completed tasks and let the world witness your coding prowess.
 
-#### 🏆 #top-100-leaderboard
-
-- Purpose: The hall of fame! See where you stand among the coding elites.
-- Tip: Aim for the top. Every byte and bit counts!
-
-#### 🎙️ #top-100-officehours
+#### 🎙️ #ieee-launchpad-officehours
 
 - Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 6 PM to 7 PM.
+- Timing: Tune in every day from 8 PM to 9 PM.
 - Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
 
-> Remember, in the world of coding, it's not just about skills, but also about community and collaboration. Engage actively, seek help when needed, and most importantly, enjoy the journey! 🔥
+
+</div>
+
 
 </div>
 
 #
 
-:memo: **Note:** That's it! You're all set to participate in Kerala Top 100 Coders - Huddle Global 2023. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
 
-> If you're new to editing markdown, you can learn more by following this [Introduction to Markdown ](https://discord.com/channels/771670169691881483/1115381777792499805/1115727847647092808).
+:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
+
+#
+
+> [!IMPORTANT]  
+> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
+
+
 
 ---
-
-<div aling='center'>
-
-</div>
-
-
-
-
-
