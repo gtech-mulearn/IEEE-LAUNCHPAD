@@ -16,12 +16,12 @@ jobs:
       - name: Check for Markdown files in Profile folder
         run: |
           markdown_files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '\.md$')
-          profile_md_files=$(echo "$markdown_files" | grep '^profile/')
+          profile_md_files=$(echo "$markdown_files" | grep '^profiles/')
           if [ -z "$profile_md_files" ]; then
-            echo "No Markdown files found in the 'profile' folder."
+            echo "No Markdown files found in the 'profiles' folder."
             echo "::set-output name=valid_pr::false"
           else
-            echo "Markdown files found in the 'profile' folder:"
+            echo "Markdown files found in the 'profiles' folder:"
             echo "$profile_md_files"
             echo "::set-output name=valid_pr::true"
           fi
