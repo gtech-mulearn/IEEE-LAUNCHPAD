@@ -15,8 +15,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **ProAgro**  | A marketplace application for the farmers using flutter                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **HandRehab**  | A virtual hand rehabilitation web application using react                                               | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **ProAgro**  | A marketplace application for the farmers using FLUTTER                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **HandRehab**  | A virtual hand rehabilitation web application using REACT                                               | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 
 
