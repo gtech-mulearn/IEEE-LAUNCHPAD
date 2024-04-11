@@ -12,8 +12,7 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Autism Detection**  | ml project to detect autism                                              |    |              |
-| **Animal Healthcare System**  | It is a project developed using Python and Django to streamline and
-enhance veterinary services for better health service to animals                                              |    | https://github.com/bibinvincent55/animalhealthcare             |
+| **Animal Healthcare System**  | It is a project developed using Python and Django to streamline and enhance veterinary services for better health service to animals                                              |    | https://github.com/bibinvincent55/animalhealthcare             |
 
 
 
