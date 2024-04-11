@@ -9,7 +9,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Liz's Portfolio**        | My personalized portfolio website                                                 | [Portfolio](https://lizchaitanya.xyz/) |[Repo Link](https://github.com/CLiz17/lizchaitanya.xyz)   |
+| **Liz's Portfolio**        | My personalized portfolio website                                                 | [Website Link](https://lizchaitanya.xyz/) |[Repo Link](https://github.com/CLiz17/lizchaitanya.xyz)   |
 | **Tremor Control Spoon**        | IOT Device to compensate for hand tremors during meals    |     | [Repo Link](https://github.com/CLiz17/tremor-stabilising-spoon) |
 | **Face Recog**        | Face Detector and Expression Detector using facial landmarks    |     | [Repo Link](https://github.com/CLiz17/facial-expression-detection) |
 
@@ -48,7 +48,7 @@
 #### Highly Visible Technical Content:
 
 - YouTube videos with around 200 views on Tech Events and Projects
-- Influential LinkedIn [LinkedIn](https://www.linkedin.com/in/lizchaitanya/) with over 1k followers
+- Influential [LinkedIn](https://www.linkedin.com/in/lizchaitanya/) with over 1k followers
   
 #### Competitive Website Profiles:
 
