@@ -33,7 +33,7 @@ in this dynamic and innovative field.
 
 #### Career Plan:
 
-Immediate Plan:
+### Immediate Plan:
 
 1.Engage in mentorship programs: I plan to actively participate in mentorship programs tailored for aspiring entrepreneurs in Kerala. Sharing my journey and insights can provide valuable guidance and support to those navigating the startup landscape.
 
@@ -41,7 +41,7 @@ Immediate Plan:
 
 3.Collaborative initiatives: I intend to initiate and join collaborative initiatives aimed at addressing specific challenges faced by startups in Kerala. By pooling resources and expertise, we can create impactful solutions and strengthen the ecosystem together.
 
-Longer-Term Plan:
+### Longer-Term Plan:
 
 1.Establishing a startup incubator: My vision involves establishing a startup incubator in Kerala that offers comprehensive support to early-stage tech startups. Providing access to mentorship, funding, and resources, this incubator will serve as a launchpad for innovative ideas to thrive.
 
