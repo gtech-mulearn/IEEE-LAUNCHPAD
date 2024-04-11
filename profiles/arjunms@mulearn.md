@@ -24,11 +24,18 @@ Now, my interest is more into building and shipping products
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- Campus Lead for 3 years at TinkerHub-JEC
+- ACTO for IEDC-JEC
+- AI Interest Group Lead for Gtech Mulearn
+- Made Python, ML, and tech content on X, gaining over 2,000 followers.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- [Pytest Tutorial](https://www.lambdatest.com/learning-hub/pytest-tutorial)
+- [SQL-Ease Shorts](https://youtube.com/shorts/S_bu1qPaz_w)
+- [Build a Command Line Tool to Resize and Change Formats of Images Using Python](https://betterprogramming.pub/build-a-command-line-tool-to-resize-and-change-formats-of-images-using-python-40c1149ea80e)
+- [Static Typing VS Dynamic Typing: The Difference Explained](https://medium.com/@arjun-ms/static-typing-vs-dynamic-typing-the-difference-explained-9b6c847ac1ee)
+- [𝐇𝐚𝐜𝐤𝐚𝐭𝐡𝐨𝐧𝐬: 𝐅𝐢𝐧𝐝 𝐓𝐡𝐞𝐦 𝐀𝐧𝐝 𝐖𝐢𝐧 🏆](https://medium.com/@arjun-ms/-fb09722e21d6)
 
 #### Highly Used Software Tools:
 
@@ -36,15 +43,30 @@ Now, my interest is more into building and shipping products
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- [Exercism](https://exercism.org/profiles/arjun-ms)
+- [Kaggle](https://www.kaggle.com/arjunachu)
+- [LeetCode](https://leetcode.com/arjun-ms/)
+- [HackerRank](https://www.hackerrank.com/profile/arjun_ms)
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+1. Campus Lead at TinkerHub Foundation
+
+    • Managed 150+ students with my team.
+
+    • Spread the importance of technology and communities in my college by conducting online sessions.
+
+2. ACTO at IEDC-JECC
+
+    • Conducted many events related to Entrepreneurship and Tech.
+
+3. AI Interest Group Lead for Gtech Mulearn
+
+    • 
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+I have been actively connecting with like-minded using my social media accounts as a medium. Earlier, I used to share a lot of content related to Python, ML and Tech on my social media accounts and have grown a total of more than 2,000+ followers on Twitter, and about 1000+ connection on LinkedIn and around 100+ Followers on Github.
 
 #### Career Plan:
 
