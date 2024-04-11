@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+Electronics and Communication Engineering graduate with knowledge of firmware development, real-time operating systems, and embedded programming. Familiar with C/C++, Embedded C, ARM microcontrollers, and simulation tools like Proteus and Keil. Strong team player with a focus on time management and adaptability.
 
 
 ## Portfolio Highlights
