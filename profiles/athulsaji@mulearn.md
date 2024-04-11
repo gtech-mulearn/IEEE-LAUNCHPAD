@@ -56,7 +56,7 @@
 #### Career Plan:
 
 - My immediate-term goal is to kick start my career in computer science and to have a contributing part in the Kerala tech revolution. I intend to learn from the industry's best and to work within a professional work environment while maintaining a proper work-life balance.
-- My long-term plan would be to harness the experience I have attained and utilize it by teaching the same to budding students and learners. I intend to inspire and educate them about the opportunities within the tech startup world and the ways they too can contribute to the society.
+- My long-term plan would be to harness the experience I have attained and utilize it by teaching the same to budding students and learners. I intend to inspire and educate them about the opportunities within the tech startup world and the ways they too can contribute to society.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
