@@ -47,8 +47,7 @@ However, challenges such as limited access to funding, infrastructure gaps, and 
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
----
+
+
 
