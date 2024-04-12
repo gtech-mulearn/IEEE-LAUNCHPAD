@@ -11,16 +11,18 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Solar panel Obstacle Detection using Image Processing| Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- Secretary of IEEE SB CE Pathanapuram and Student Lead of IEDC (Innovation and Entrepreneurship Development Cell) 
+- Secretary of IEEE SB CE Pathanapuram
+- Student Lead of IEDC (Innovation and Entrepreneurship Development Cell) PEC
+- Community Developer IEDC NEST- Kerala Startup Mission
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- I plan to engage with the Top 100 community by actively listening, sharing insights, and fostering meaningful conversations. Through thoughtful contributions and by staying informed about industry trends, I aim to influence and lead others by offering valuable perspectives, innovative solutions, and by encouraging collaboration among peers.
 
 #### Career Plan:
 
@@ -28,7 +30,7 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- In the immediate term, I would focus on building connections within the Kerala startup ecosystem by participating in relevant events, joining online forums, and engaging with local entrepreneurs and stakeholders.For the longer term, I envision contributing to the Kerala startup ecosystem by fostering a culture of innovation and entrepreneurship. This could involve collaborating with educational institutions to promote tech entrepreneurship programs, advocating for supportive government policies, and facilitating access to funding and resources for startups.
 
 #### History of Open Source Contributions:
 
