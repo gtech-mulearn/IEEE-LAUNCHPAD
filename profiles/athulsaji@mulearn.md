@@ -1,11 +1,13 @@
-# Full Name 
+# Athul Saji
 
 ### About Me
+>I am a fourth-year B.Tech Computer Science and Engineering student at St. Joseph's College of Engineering and Technology, Palai. My academic journey has been dedicated to honing skills in software development, coding, testing, and deployment. I am deeply passionate about exploring the realms of technology and constantly strive to expand my knowledge and expertise.
 
-> I am a 4th year B.Tech Computer Science and Engineering student of St. Joseph's College of Engineering and Technology Palai. As a budding Computer Science student, I share a strong passion towards software development, coding, testing and deployment. I have been dedicated during my academic years to develop skills in Web Development, Database, competitive coding.
-> My programming skills include C, Java, Python, HTML, CSS, JavaScript, PHP.
-> My knowledge in frameworks include FastAPI, React.
-> I have experience in workig with database such as MongoDB, SQL. I have experience working in a team environment and I am looking for an organization where  I can contribute and grow together.
+>My programming proficiency encompasses languages such as C, Java, Python, HTML, CSS, JavaScript, and PHP. Additionally, I have hands-on experience with frameworks like FastAPI and React, which have further enriched my understanding of modern web development practices.
+
+>In the realm of databases, I am adept at working with MongoDB and SQL, leveraging them to efficiently manage and manipulate data for various projects. Throughout my academic tenure, I have actively participated in collaborative projects, gaining valuable experience in teamwork, communication, and problem-solving.
+
+>As I embark on the next phase of my career journey, I am eager to leverage my skills and expertise in a dynamic and challenging environment. I am seeking opportunities to contribute meaningfully to an organization's goals while continuing to learn and grow alongside seasoned professionals.
 
 
 
@@ -13,32 +15,16 @@
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **ProAgro**  | A marketplace application for the farmers using FLUTTER                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **HandRehab**  | A virtual hand rehabilitation web application using REACT                                               | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                               | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
+| **ProAgro**  | A marketplace application for the farmers using FLUTTER                                                  | [Repo Link 1](https://github.com/Athul-Saji/ProAgro)             |
+| **HandRehab**  | A virtual hand rehabilitation web application using REACT                                                | [Repo Link 2](https://github.com/HandRehab)             |
 
 
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
 
-- I am a member of Hackerrank, where I learn competitive coding as a hobby.
+- I am a member of Hackerrank and CodeChef, where I learn competitive coding as a hobby.
 
 #### Leadership and Influence:
 
@@ -60,7 +46,8 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- By focusing on innovation, skill development, industry-academia collaboration and through supportive policies, Kerala can excel as the biggest technology startup hub for the generations to come.
+  
 
 
 > In your portfolio, include the following details:
