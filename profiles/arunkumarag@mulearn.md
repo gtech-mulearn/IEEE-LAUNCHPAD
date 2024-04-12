@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Direct Hire**  | Built an application for Facilitating seamless connections between workers and 
- clients, eliminating the needfor intermediaries.                                            |   |              |
+| **Direct Hire**  | Built an application for Facilitating seamless connections between workers and clients, eliminating the 
+                     need for intermediaries.                                            |   |              |
 | **Smart Image**  | Machine learning project that detect human emotion and age prediction from webcam.                                             |     |             |
 
 
