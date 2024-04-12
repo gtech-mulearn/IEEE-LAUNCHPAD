@@ -119,7 +119,7 @@ Once you're ready, create a pull request targeting the main branch. Let the worl
 
 #### 🤖 #ieee-lp-introduction 
 - Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the Top 100.
+- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
 
 #### 🚀 #ieee-lp-task-dropbox
 
