@@ -1,8 +1,9 @@
-# Full Name 
+# Jerrin Mathew George  
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Energetic and dedicated B.Tech Electronics and Communication Engineering student at College of Engineering Adoor,APJ Abdul Kalam Technological University. Proficient in Python, C, Google Firebase, Power BI, Raspberry Pi systems,ESP32, Arduino, and Microsoft Office tools (PowerPoint, Excel, and Word) with excellent touch typing skills. Seeking to launch a career in embedded systems, where I can leverage my technical acumen and contribute to a growth-oriented organization while continuously enhancing my professional skills.
+
 
 
 ## Portfolio Highlights
