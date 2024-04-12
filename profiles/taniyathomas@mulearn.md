@@ -11,7 +11,7 @@
 
 | Name                | Description                                                                  | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|--------------------------------------------------------------|
-| ** AgriBulletIn Website** | A website that enables Krishi Bhavan staff to post schemes, send out notifications, and handle users .                                             |   [Project1](https://github.com/TANIY-A/agribulletin)            |
+| **AgriBulletIn Website** | A website that enables Krishi Bhavan staff to post schemes, send out notifications, and handle users .                                             |   [Project1](https://github.com/TANIY-A/agribulletin)            |
 | **Energy Forecasting Website** | Developed a web platform focused on energy efficiency optimization for industrial machinery.                                                 | [Project2](https://github.com/TANIY-A/Fulmine)            |
 
 
