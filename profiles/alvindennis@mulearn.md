@@ -1,4 +1,4 @@
-# Alvin Dennis (21EE013)
+# Alvin Dennis
 
 ### About Me
 
@@ -22,7 +22,7 @@
 - Strong networking skills demonstrated through active participation summits and events.
 - I'm able to interact with people in a professional manner also expanding my network with people by buildung a root connection with them with the help of technology.
 
-#### As a Top 20 Member:
+#### As a IEEE Launchpad participant:
 
 - Applying for launchpad to collaborate with like-minded individuals and contribute to Kerala's startup ecosystem.
 - Believing that being part of this launchpad will open doors to new opportunities, foster innovation, and enhance my career.
