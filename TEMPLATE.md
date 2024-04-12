@@ -1,4 +1,4 @@
-# Full Name Aparna. S
+# Aparna. S
 
 ### About Me
 
