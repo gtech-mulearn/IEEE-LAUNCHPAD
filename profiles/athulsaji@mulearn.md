@@ -49,9 +49,5 @@
 - By focusing on innovation, skill development, industry-academia collaboration and through supportive policies, Kerala can excel as the biggest technology startup hub for the generations to come.
   
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
 ---
 
