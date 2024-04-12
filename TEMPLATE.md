@@ -1,8 +1,8 @@
-# Full Name 
+# Full Name Aparna. S
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am a dedicated electronics and communication engineering student from College of Engineering Pathanapuram. I have honed my skills in leadership, organizing, and coordinating throughout my academic journey. My coursework has not only equipped me with a solid foundation in electronics and communication engineering but has also fostered a problem-solving mindset. I've been selected to leadership roles in various student organizations, where I've successfully led teams and orchestrated events that required meticulous planning and coordination.
 
 
 ## Portfolio Highlights
@@ -16,7 +16,7 @@
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Secretary of IEEE SB CE Pathanapuram and Student Lead of IEDC (Innovation and Entrepreneurship Development Cell) 
 
 #### Networking:
 
