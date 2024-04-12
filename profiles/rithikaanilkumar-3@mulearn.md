@@ -9,10 +9,14 @@ dynamic software development team to apply and expand my skills.
 
 ### My Projects
 
-| Name                | Description                                                                                         | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Fulmine**  | Develop a user-friendly website for efficient energymanagement in industries. Provide accurate energyconsumption forecasts to ensure sustainability and reduce operational costs. Address the rising costs of electricity by offering insights to optimize energy usage. Prioritize a simple and intuitive interface for easy navigation and accessibility. Offer a one-stop platform for industries to efficiently monitor their energy usage. | [Repo Link 1](https://github.com/Rithika-Anilkumar/MajorProject.git)             |
-| **PAALAN**  | PAALAN is a website that enhances Anganwadi services which are a part of Integrated Child Development Services(ICDS) program.Developed and maintained a user-friendly platform enabling beneficiaries to register for services and nutrition support,enhancing accessibility and efficiency.| [Repo Link 2](https://github.com/priyababu07/MiniProject.git)             |
+| Name                | Description                                                               | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
+| **Fulmine**       | Develop a user-friendly website for efficient energymanagement in industries. Provide accurate energyconsumption forecasts to ensure sustainability and reduce operational costs. Address the rising costs of electricity by offering insights to optimize energy usage. Prioritize a simple and intuitive interface for easy navigation and accessibility. Offer a one-stop platform for industries to efficiently monitor their energy usage.                                            | [Project Link](https://github.com/Rithika-Anilkumar/MajorProject.git)             |
+| **PAALAN**      |  PAALAN is a website that enhances Anganwadi services which are a part of Integrated Child Development Services(ICDS) program.Developed and maintained a user-friendly platform enabling beneficiaries to register for services and nutrition support,enhancing accessibility and efficiency.                                             | [Repo Link ](https://github.com/SkillVault)             |
+| **TechVillage**     |  "TechVillage" is a pioneering project designed to revolutionize the way goods are bought and sold while fostering community connections within a Panchayat.                                           | [Repo Link ](https://github.com/priyababu07/MiniProject.git)             |
+
+
+          |
 
 #### Leadership and Influence:
 
