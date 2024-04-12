@@ -20,43 +20,40 @@
 
 
 
-#### History of Open Source Contributions:
-
-- Have made may contribution to small open source projects and currently developing an open source AR platform to make navigation easier.
 
 #### History of Community Engagement:
 
--  Professional reddit user (I just made that up). But yes, you can find me answering techincal questions a lot, or even non-technical. 
+-  Professional reddit user (I just made that up). But yes, you can find me answering techincal questions a lot, or even non-technical.
+-  Active in discord servers which focuses on XR activities.
 #### Highly Visible Technical Content:
 
 -  You can find all my bloges here, [Medium](https://medium.com/@aneefchulu205)
   
-#### 
-
--
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- 165 Hackos in HakerRank [HackerRank](https://www.hackerrank.com/profile/aneefchulu205)
 
 #### Leadership and Influence:
 
-- Experince in conducting various events as their lead. Conducted various workshops and events for interetsed students. A person who relies on other ideas rather than trying to all myself. 
+- Experince in conducting various events as their lead.
+- Conducted various workshops both in my college and other colleges.
+
 
 #### Networking:
 
-- 
+- Participated in many Talk sessions conducted by GDC, Mulearn and other organizations on novel technologies.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- For short-term, I am focusing on bulding a XR based product startup and reintroduce that technology for all keralities in a new light.
+- As for long-term goals, I want to create a community on students to help them introduced to new technology, and focus on their interest, not the stack itself.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Latest action of govts, both state and central in really pushing the start up ecosystem.
+- More and more people can follow their unique passion and build thier carrer on that.
+- We are going to see BOOM in this field.
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
