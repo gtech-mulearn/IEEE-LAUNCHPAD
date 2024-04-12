@@ -18,7 +18,7 @@
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+-Work in a reputed Company as Software Engineer
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
