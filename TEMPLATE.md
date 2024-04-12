@@ -14,7 +14,21 @@
 | **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
+#### Leadership and Influence:
 
+- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+
+#### Networking:
+
+- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+
+#### Career Plan:
+
+- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+
+#### Thoughts on Kerala's Tech Ecosystem:
+
+- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 #### History of Open Source Contributions:
 
@@ -36,21 +50,6 @@
 
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
-#### Leadership and Influence:
-
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking:
-
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
-
-#### Career Plan:
-
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### Thoughts on Kerala's Tech Ecosystem:
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 
 > In your portfolio, include the following details:
