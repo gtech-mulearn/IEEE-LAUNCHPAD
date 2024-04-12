@@ -24,8 +24,8 @@
 
 #### As a Top 20 Member:
 
-- Applying for Top 20 to collaborate with like-minded individuals and contribute to Kerala's startup ecosystem.
-- Believing that being part of Top 20 will open doors to new opportunities, foster innovation, and enhance my career.
+- Applying for launchpad to collaborate with like-minded individuals and contribute to Kerala's startup ecosystem.
+- Believing that being part of this launchpad will open doors to new opportunities, foster innovation, and enhance my career.
 
 #### Career Plan:
 
@@ -85,7 +85,3 @@ I have contributed to various open-source projects. The links for the original r
 
 -[MuLearn](https://app.mulearn.org/profile/alvindennis@mulearn)
 
-### Opinion on Indian Engineering Education and SJCET Palai
-
-Indian engineering education has strengths in producing a large number of graduates annually but faces challenges such as outdated curricula, inadequate infrastructure, and limited industry collaboration. Improvement areas include updating curricula, enhancing faculty quality, improving infrastructure, fostering industry partnerships, and promoting research and innovation.
-SJCET Palai is a reputable institution known for its commitment to technical education. Improvement opportunities include strengthening industry ties for practical exposure, investing in faculty development, upgrading infrastructure, offering comprehensive student support services, and promoting entrepreneurship among students. These enhancements can further elevate the quality of education and contribute to students' holistic development.
