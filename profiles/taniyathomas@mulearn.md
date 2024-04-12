@@ -22,31 +22,25 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala's collaborative model brings together education, industry, research, and startups. KSUM's initiatives offer students opportunities for creativity and innovation. Government support through incentives, mentorship, and infrastructure boosts the tech ecosystem's growth.
 
-#### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
-#### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Microsoft Office
+- Canva
+- Figma
+- VS code
+  
 
-#### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
 
 > In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+>> check out [taniyathomas@mulearn.md](./profile/taniyathomas@mulearn.md) 
 
 ---
