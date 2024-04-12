@@ -2,9 +2,9 @@
 
 ### About Me
 
-> A mixed reality developer and a passionate story maker.
+> A mixed reality developer and a passionate story teller.
 > Skilled in Game Development, Virtual Reality and Augmented reality.
-> Curretly checking out generative AI and its implementation of Game Dev to provide an unique experience to each player.
+> Curretly checking out generative AI and its implementation on Game Dev to provide an unique experience to each player.
 > I always try to tell my stories to others through any medium which i possibly can, which includes games, 3D animation of through XR content.
 > 
 
