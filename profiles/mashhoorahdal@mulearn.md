@@ -13,10 +13,9 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Promptopia**  | Promtopia is a open-source prompting tool for modern world to discover, create and share creative prompts.
-
-| [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/mashhoorahdal/promptopia)             |
-| **Edulinx**  | Study material retrieval system                                            | [Hosted](https://edulinx.vercel.app)    | [Repo Link 2](https://github.com/mashhoorahdal/edulinx)             |
+| **Promptopia**  | Promtopia is a open-source prompting tool for modern world to discover, create and share creative prompts.|    | [Repo Link ](https://github.com/mashhoorahdal/promptopia)             |
+| **Edulinx**  | Study material retrieval system                                            | [Hosted](https://edulinx.vercel.app)    | [Repo Link ](https://github.com/mashhoorahdal/edulinx)                |
+| **OpenTalk**  | Real time chat application                                       | [Hosted](https://open-talk.vercel.app)    | [Repo Link ](https://github.com/mashhoorahdal/OpenTalk)                |
 
 #### Leadership and Influence:
 
@@ -31,7 +30,10 @@
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups.
-
+#### Highly Used Technology Tools:
+- Python -> Django , Flask 
+- Javascript -> React , Next JS , Node JS
+- Databases -> Firebase , Mongo DB , Sql , Postgres , Sqlite
 #### Highly Visible Technical Content:
 
 - My blog site is [here](https://mashhoor.vercel.app) 
