@@ -13,11 +13,7 @@ dynamic software development team to apply and expand my skills.
 |---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
 | **Fulmine**       | Develop a user-friendly website for efficient energymanagement in industries. Provide accurate energyconsumption forecasts to ensure sustainability and reduce operational costs. Address the rising costs of electricity by offering insights to optimize energy usage. Prioritize a simple and intuitive interface for easy navigation and accessibility. Offer a one-stop platform for industries to efficiently monitor their energy usage.                                            | [Project Link](https://github.com/Rithika-Anilkumar/MajorProject.git)             |
 | **PAALAN**      |  PAALAN is a website that enhances Anganwadi services which are a part of Integrated Child Development Services(ICDS) program.Developed and maintained a user-friendly platform enabling beneficiaries to register for services and nutrition support,enhancing accessibility and efficiency.                                             | [Repo Link ](https://github.com/SkillVault)             |
-      |
-
-
-          |
-
+     
 #### Leadership and Influence:
 
 With volunteering experience at TechFest and IEDC Summit, I'm a passionate tech enthusiast known for fostering innovation and collaboration.Committed to driving positive change and shaping the future of technology.
