@@ -47,12 +47,12 @@
 #### Career Plan:
 
 - For short-term, I am focusing on bulding a XR based product startup and reintroduce that technology for all keralities in a new light.
-- As for long-term goals, I want to create a community on students to help them introduced to new technology, and focus on their interest, not the stack itself.
+- As for long-term goals, I want to create a community of students to help them get introduced to new technology, and focus on their interest, not the stack itself.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Latest action of govts, both state and central in really pushing the start up ecosystem.
-- More and more people can follow their unique passion and build thier carrer on that.
+- More and more people can follow their unique passion and build their carrer on that.
 - We are going to see BOOM in this field.
 
 
