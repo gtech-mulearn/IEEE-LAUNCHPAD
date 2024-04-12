@@ -1,4 +1,4 @@
-# Full Name 
+# Amal Muhammed
 
 ### About Me
 
