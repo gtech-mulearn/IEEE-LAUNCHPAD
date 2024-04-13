@@ -52,7 +52,7 @@
 
 
 
->> linkedin [https://www.linkedin.com/in/afnan-yusuf-1181a0210/](./profile/vishakhabhayan@mulearn.md) 
+>> **linkedin** [Afnan Yusuf](https://www.linkedin.com/in/afnan-yusuf-1181a0210/) 
 
 ---
 
