@@ -52,7 +52,7 @@
 
 
 
->> **linkedin** [Afnan Yusuf](https://www.linkedin.com/in/afnan-yusuf-1181a0210/) \
+>> **linkedin** [Afnan Yusuf](https://www.linkedin.com/in/afnan-yusuf-1181a0210/) 
 
 >> **HackerRank** [Afnan Yusuf](https://www.hackerrank.com/profile/afnanyusufpp1) 
 
