@@ -83,19 +83,17 @@ I have been actively connecting with like-minded using my social media accounts 
 
 - Immediate plans:
 
-    - Identify and connect with key stakeholders in the Kerala startup ecosystem. This includes startups, investors, mentors, and government officials.
-
-    - Learn more about the challenges and opportunities facing the Kerala startup ecosystem. This will help me to develop targeted solutions and initiatives.
-
-    - Start sharing my knowledge and expertise with the Kerala startup community. I can do this through blog posts, webinars, and workshops.
+    - To work as an intern or a full time employee in a product based startup company.
+    - Connect with a lot of like-minded people and to collabrate together.
+    - To focus on my health and relations more.
+    - To learn new things that I am curious about whether it's tech or non-tech.
+    - Build a Product and earn an MRR from it.
 
 - Long-term plans:
 
-    - Develop educational and training programs on emerging technologies for startups. This will help startups to develop the skills and knowledge they need to succeed in the future.
-
-    - Create a platform to connect startups with mentors and investors. This will help startups to access the support and resources they need to grow their businesses.
-
-    - Help to promote Kerala as a global destination for startups and entrepreneurs. I can do this by writing articles and giving talks at international startup events. 
+    - To be a Founder of a well-established Product based startup.
+    - To learn and grow as much as I can.
+    - To achieve financial freedom.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
