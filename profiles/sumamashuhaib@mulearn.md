@@ -13,10 +13,6 @@
  #### Networking:
 - As a student, I am committed to building a strong network within the technology community and I plan to effectively use it to for upskilling my technical knowledge,to help my fellow guys by sharing tech knowledge and informations with me and also to create a strong bond with them.
 
-#### As a Top 100 Member:
-
-- Learn, Socialize and Grow together as a community to strive great things fir the future.
-- 
 #### Career Plan:
 
 - I am improving my skillset everyday whether it be by doing tasks in the workplace or by learning new things that comes to my path.
