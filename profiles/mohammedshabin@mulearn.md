@@ -45,7 +45,7 @@
 
 #### Highly Visible Technical Content:
 
-- Authored a technical blog post on [Dev.to](https://dev.to/shabink/making-a-custom-404-page-in-nextjs-2ajg that received 9k+ views and 13+ Reactions.
+- Authored a technical blog post on [Dev.to](https://dev.to/shabink/making-a-custom-404-page-in-nextjs-2ajg) that received 9k+ views and 13+ Reactions.
 
 
   
