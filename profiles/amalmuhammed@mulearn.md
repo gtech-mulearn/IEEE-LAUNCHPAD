@@ -2,7 +2,7 @@
 
 ### About Me
 
-> Hey! Myself Amal Muhammed, a final year Computer Science Engineering student at MES College of Engineering. I am on the brink of graduation and eagerly seeking opportunities to kickstart my career. I have a strong background in leadership and event organization, cultivated during my time as the Webmaster at the IEEE Student Branch. I have developed a keen interest in web and software development. My projects, crafted using React and other front-end technologies, reflect my dedication and passion for coding. Now, as I embark on this journey, I am determined to leverage my skills and experiences to make a meaningful impact in the tech industry.
+> Hey! Myself Amal Muhammed, a final year Computer Science Engineering student at MES College of Engineering. I am on the brink of graduation and eagerly seeking opportunities to kickstart my career. I have a strong background in leadership and event organization, cultivated during my time as the Webmaster at the IEEE Student Branch. I have a keen interest in web and software development. I have crafted projects using React and other technologies which reflect my dedication and passion for coding. My current goal is to graduate and secure a position in a reputable company.
 
 
 ## Portfolio Highlights
@@ -37,4 +37,4 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala can excel in the technology startup ecosystem by investing in infrastructure, encouraging innovation, providing access to funding, implementing supportive policies, fostering skill development, promoting collaboration, and leveraging global outreach initiatives.
+- Kerala's tech ecosystem holds immense potential for growth, marked by its vibrant startup culture, pool of skilled talent, and supportive infrastructure. Kerala can excel in the technology startup ecosystem by investing in infrastructure, encouraging innovation, providing access to funding, implementing supportive policies, fostering skill development, promoting collaboration, and leveraging global outreach initiatives.
