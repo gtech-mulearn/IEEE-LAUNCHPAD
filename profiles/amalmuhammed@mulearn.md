@@ -29,14 +29,13 @@
 
 #### Leadership and Influence:
 
-##### Joint Volunteer Secretary at NSS Unit 304
-- As Joint Volunteer Secretary at NSS Unit 304, I led various initiatives, coordinating programs and providing guidance to volunteers. This involved not only hosting events but also ensuring smooth execution through effective leadership.
+  ##### Joint Volunteer Secretary at NSS Unit 304
+  - As Joint Volunteer Secretary at NSS Unit 304, I led various initiatives, coordinating programs and providing guidance to volunteers. This involved not only  hosting events but also ensuring smooth execution through effective leadership.
 
   ##### Webmaster in the Executive Committee of IEEE SB MESCE
 
-- Being part of the execom provided opportunities to contribute to diverse programs organized by the SB, leveraging my leadership skills to make meaningful contributions.
+  - Being part of the execom provided opportunities to contribute to diverse programs organized by the SB, leveraging my leadership skills to make meaningful contributions.
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
 #### Networking:
 
