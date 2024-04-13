@@ -20,7 +20,11 @@ Now, my interest is more into building and shipping products
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- [SQL-Ease](https://sqlease.buildnship.in/)
+- [Annual Report Reader](https://github.com/arjun-ms/Annual-Report-Reader)
+- [Pixage](https://github.com/arjun-ms/Pixage)
+- [20-20](https://github.com/arjun-ms/20-20)
+
 
 #### History of Community Engagement:
 
@@ -69,6 +73,7 @@ Now, my interest is more into building and shipping products
 3. AI Interest Group Lead for Gtech Mulearn
 
     • Conducted many sessions on "Grab Your Superpowers" which introduces a new AI tool to the Mulearners.
+    • Planned for conducting bootcamps and workshops with my fellow teammates.
    
 #### Networking:
 
@@ -76,10 +81,30 @@ I have been actively connecting with like-minded using my social media accounts 
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Immediate plans:
+
+    - Identify and connect with key stakeholders in the Kerala startup ecosystem. This includes startups, investors, mentors, and government officials.
+
+    - Learn more about the challenges and opportunities facing the Kerala startup ecosystem. This will help me to develop targeted solutions and initiatives.
+
+    - Start sharing my knowledge and expertise with the Kerala startup community. I can do this through blog posts, webinars, and workshops.
+
+- Long-term plans:
+
+    - Develop educational and training programs on emerging technologies for startups. This will help startups to develop the skills and knowledge they need to succeed in the future.
+
+    - Create a platform to connect startups with mentors and investors. This will help startups to access the support and resources they need to grow their businesses.
+
+    - Help to promote Kerala as a global destination for startups and entrepreneurs. I can do this by writing articles and giving talks at international startup events. 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Focus on emerging technologies such as artificial intelligence, machine learning, robotics, and blockchain.
+
+- Build a strong network of mentors and advisors who can help startups navigate the challenges of starting and growing a business.
+
+- Provide access to funding through grants, loans, and venture capital funds.
+
+- Create a supportive culture for startups and entrepreneurs by promoting a risk-taking culture and celebrating success stories.
 
 ---
