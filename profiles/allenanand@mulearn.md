@@ -32,7 +32,7 @@ Update TEMPLATE.md
 #### Leadership and Influence:
 
 - Establishing a Right workflow for development cycle
-- Dividing tasks into small chunks for efficient and modular working of a prokect
+- Dividing tasks into small chunks for efficient and modular working of a project
 - Pair Programming to avoid dependence
 - Git workflows that integrates automated deployments
 - Listening and communicating information with accuracy and correctness without any holes
