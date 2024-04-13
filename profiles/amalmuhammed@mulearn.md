@@ -12,8 +12,8 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Securechain - EHR Using Blockchain**  |   It is an electronic health record management web app powered by blockchain which is ongoing as part of my final year project. This innovative solution ensures data integrity and privacy while facilitating seamless access and sharing among healthcare providers.  |  |         |
-| **Blog App using Next.js and sanity studio**  | It is a simple blog app using Next.js and Sanity Studio, which i did to gain familiarity with the mentioned technologies.  | https://initialblog-nextjs-sanity.vercel.app/    | https://github.com/amalmhd/blog-nextjs-sanity           |
-| **YouTube Clone using React**  | Developed a YouTube clone using React and Material-UI as a personal learning project to gain proficiency in these technologies.  | https://firstytclone.netlify.app  | https://github.com/amalmhd/YouTubeClone |
+| **Blog App using Next.js and sanity studio**  | It is a simple blog app using Next.js and Sanity Studio, which i did to gain familiarity with the mentioned technologies.  | [Host link](https://initialblog-nextjs-sanity.vercel.app/)    |  [Github repo link](https://github.com/amalmhd/blog-nextjs-sanity)           |
+| **YouTube Clone using React**  | Developed a YouTube clone using React and Material-UI as a personal learning project to gain proficiency in these technologies.  | [Host link](https://firstytclone.netlify.app)  | [Github repo link](https://github.com/amalmhd/YouTubeClone) |
 
 
 
