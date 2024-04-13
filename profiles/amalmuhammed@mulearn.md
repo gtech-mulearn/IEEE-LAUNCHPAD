@@ -17,16 +17,6 @@
 
 
 
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
 #### Leadership and Influence:
 
   ##### Joint Volunteer Secretary at NSS Unit 304
@@ -39,18 +29,12 @@
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- My networking skills have been cultivated through active involvement in various organizations and events since my first year of college. Joining IEEE early on exposed me to diverse opportunities, where I participated in technical events and engaged with professionals. In my second year, being part of the IEDC team expanded my network through summits and programs by KSUM and IEDC. Participation in national-level technical programs like AICSSYC further broadened my connections. Additionally, involvement in NSS provided networking opportunities within and outside of the college community, contributing to my personal and professional growth.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My immediate career plan is to graduate and secure a position in a reputable company where I can contribute my skills while continuing to develop personally and professionally. I aim to become a well-regarded developer in either the web or software department. In the long term, I aspire to start my own company to create employment opportunities and make a positive impact in the industry.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
----
+- Kerala can excel in the technology startup ecosystem by investing in infrastructure, encouraging innovation, providing access to funding, implementing supportive policies, fostering skill development, promoting collaboration, and leveraging global outreach initiatives.
