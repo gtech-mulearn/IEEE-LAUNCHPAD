@@ -1,9 +1,8 @@
-# Full Name 
+# Full Name Susmitha Vasudevan
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+Hey! I am Susmitha a passionate and driven individual dedicated to making impactful contributions in the world of technology and innovation. With a background in Web Development, App Development etc, I thrive in dynamic environments where creativity and problem-solving skills are valued. My journey in the tech industry has been guided by a relentless pursuit of excellence and a commitment to continuous learning and growth.
 
 ## Portfolio Highlights
 
@@ -11,16 +10,16 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://github.com/Susmitha65/mysite))    | [Repo Link 1](https://github.com/Susmitha65/mysite))             |
+             |
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+I possess strong leadership and influencing skills demonstrated in leading a project teams etc. My ability in the qualities like communication, decision-making etc, has enabled me to effectively lead and motivate teams towards achieving common goals.
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+I plan to engage with the Top 100 community by active participation in discussions, offering assistance to peers, or initiating collaborative projects. 
 
 #### Career Plan:
 
@@ -28,32 +27,26 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
+Kerala possesses immense potential to excel in the Technology Startup Ecosystem . However, to fully realize this potential, it is essential to improvement such as infrastructure development, access to funding, or fostering a culture of risk-taking and innovation. By addressing these challenges collectively, Kerala can emerge as a hub for tech innovation and entrepreneurship in the future.
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
+I have not yet contributed to any open source since i didnt get chance for such contribution.Eargly waiting to get a chance to contribute to the open source with all by talents.
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
+I have a rich history of community engagement, evident through activities like answering questions on technical forums, organizing meetups, or volunteering at tech events. Whether it's sharing knowledge, seeking advice, or collaborating on projects, I am deeply invested in contributing to and learning from the broader tech community.
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
+I have created an educational app on placement cell. These resources have been widely appreciated.
 #### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+The software used by me in creating app and all is android studio,jotform,kodular etc. these are user friendly software.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
+https://www.hackerrank.com/profile/susmithavasdev
 
 
 > In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+>> check out [susmithav@mulearn.md](susmithav@mulearn.md) for an exmaple
 
 ---
 
