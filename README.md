@@ -104,7 +104,8 @@ Once you're ready, create a pull request targeting the main branch. Let the worl
 > The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
 
 
-<img width="233" alt="Screenshot 2024-04-02 at 3 13 45 PM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/cce9d139-a390-48a2-b5a8-9deb50c650e7">
+<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
+
 
 
 </div>
@@ -116,7 +117,11 @@ Once you're ready, create a pull request targeting the main branch. Let the worl
 - Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
 - Tip: Stay alert! You wouldn't want to miss out on any crucial info.
 
-#### 🚀 #ieee-launchpad
+#### 🤖 #ieee-lp-introduction 
+- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
+- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
+
+#### 🚀 #ieee-lp-task-dropbox
 
 - Purpose: The battleground where you showcase your skills.
 - Action: Submit your completed tasks and let the world witness your coding prowess.
