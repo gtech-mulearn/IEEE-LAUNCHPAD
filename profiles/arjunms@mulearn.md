@@ -38,8 +38,14 @@ Now, my interest is more into building and shipping products
 - [𝐇𝐚𝐜𝐤𝐚𝐭𝐡𝐨𝐧𝐬: 𝐅𝐢𝐧𝐝 𝐓𝐡𝐞𝐦 𝐀𝐧𝐝 𝐖𝐢𝐧 🏆](https://medium.com/@arjun-ms/-fb09722e21d6)
 
 #### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- ChatGPT
+- GitHub
+- Git
+- Jupyter Notebook
+- Vercel
+- Postman
+- Netlify
+- Cursor.sh
 
 #### Competitive Website Profiles:
 
@@ -62,8 +68,8 @@ Now, my interest is more into building and shipping products
 
 3. AI Interest Group Lead for Gtech Mulearn
 
-    • 
-
+    • Conducted many sessions on "Grab Your Superpowers" which introduces a new AI tool to the Mulearners.
+   
 #### Networking:
 
 I have been actively connecting with like-minded using my social media accounts as a medium. Earlier, I used to share a lot of content related to Python, ML and Tech on my social media accounts and have grown a total of more than 2,000+ followers on Twitter, and about 1000+ connection on LinkedIn and around 100+ Followers on Github.
