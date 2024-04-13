@@ -48,12 +48,11 @@
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- You can find me on the following places:-
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+>> linkedin [https://www.linkedin.com/in/afnan-yusuf-1181a0210/](./profile/vishakhabhayan@mulearn.md) 
 
 ---
 
