@@ -11,7 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Washing Machine Controller Using Atmega328**  | An replacement board for your topload washing Machine                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/Afnan-Yusuf/Washing_Machine_Controller)             |
+| **Washing Machine Controller Using Atmega328**  | An replacement board for your topload washing Machine                                              | [Hosted Link 1](https://example.com)    | [Washing_Machine_Controller](https://github.com/Afnan-Yusuf/Washing_Machine_Controller)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
