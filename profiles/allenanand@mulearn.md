@@ -1,4 +1,4 @@
-# Full Name 
+# Allen Anand
 
 ### About Me
 
@@ -64,9 +64,5 @@ last week
 
 - https://www.linkedin.com/in/allen-anand/
 - Publications https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=allen+anand&btnG=
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
