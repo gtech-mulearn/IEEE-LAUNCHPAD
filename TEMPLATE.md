@@ -1,59 +1,62 @@
-# Full Name 
+Nikhil Jose
+
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>
+I'm Nikhil Jose, a passionate and driven Computer Science student always seeking new challenges and learning opportunities. I believe in applying my knowledge to real-world scenarios with enthusiasm and a continuous drive for growth. With a knack for problem-solving and effective communication, I thrive in team environments and eagerly contribute to exciting projects. Proficient in programming languages like Python, C, and web development using React.js, I'm constantly pursuing opportunities for professional development fueled by my passion for growth in my field. I firmly believe that my enthusiasm and commitment make me an invaluable addition to any project or team. Outside of coding, I enjoy reading, sports, and exploring new technologies, and my fluency in English and Malayalam adds versatility to my communication skills. Feel free to connect with me on LinkedIn or check out my GitHub profile to learn more about my journey and projects—I'm looking forward to the exciting opportunities ahead!
+>Checkout my github profile : https://github.com/nikhiljose-123
+>
+>Checkout my linkedln profile : https://www.linkedin.com/in/nikhil-jose-b92208201
+
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                               |Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
+| **People's Ration**  |“People’s Ration” is a web application for distributing the ration provided by the Government and provision for online booking.The ultimate aim of this project is to avoid the bootlegging in our local ration shops. | https://github.com/nikhiljose-123/Mini_Project     
+| **AquaTech**  | "AquaTech" is a mobile application which is used by anyone to reduce the consumption of water for watering the plant.   |https://github.com/nikhiljose-123/code     
+#### History of Community Engagement:
+
+- IEEE member for the year 2020-2021.
+
+- Marketing Officer at IEDC Bootcamp SJCET for the year 2022-2023.
+
+- An active participant of the mulearn discord server.
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Organized Star event of ‘ASTHRA’,‘STAR OF ASTHRA’, Collaborated in a team of two.
+- Team lead of the projects done in college.
+- Organized an event named "Web with superheroes" as a part of college tech fest "ASTHRA".
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
+- My networking prowess extends beyond the digital realm, where I've formed meaningful connections through platforms like MuLearn and LinkedIn, as well as through direct conversations. By engaging with peers and professionals, I've not only expanded my network but also stayed updated on industry insights and trends. Additionally, I actively follow the work of others in my field, showcasing my dedication to continuous learning and staying informed.
+  
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Immediate goal is to graduate B.Tech with an excellent GPA and to be placed at an MNC where i could grow myself .
+- Gain experience in the firm i'm working , and experience how the world industries thrive and fumctions.
+- My ultimate aspiration is to become an entrepreneur, creating a platform where I can utilize my resources and expertise to nurture and empower innovative minds, fostering their growth and development.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- The tech landscape in Kerala holds immense promise, propelled by its innovative ethos and a pool of talented young individuals, positioning the state for significant strides in technology startups. Through initiatives offering mentorship, funding, and enhanced infrastructure, Kerala can foster an environment conducive to the flourishing of startups. Collaboration among educational institutions, enterprises, and governmental bodies will catalyze this growth, leading to job creation and economic advancement. With adequate backing, Kerala has the potential to emerge as a formidable force in the tech arena, driving advancements and positively impacting lives.
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+
+
+
+
+
+
+
 
 ---
 
