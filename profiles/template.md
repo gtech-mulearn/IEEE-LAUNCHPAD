@@ -12,7 +12,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **IOT-Based-AUTOMATED-PRECISION-AGRICULTURE**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1]([https://github.com/username/project1](https://github.com/jerrinmg/IOT-Based-AUTOMATED-PRECISION-AGRICULTURE))             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 
