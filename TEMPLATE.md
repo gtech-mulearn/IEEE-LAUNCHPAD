@@ -1,8 +1,8 @@
-# Afnan Yusuf P P 
+# Full Name 
 
 ### About Me
 
-> Driven robotics enthusiast dedicated to conceptualizing, designing, and constructing cutting-edge robotic systems. Proficient in electronics design and implementation, with hands-on experience in bringing numerous projects to life. Committed to continuous learning and pushing the boundaries of innovation in the field of robotics. Let's connect to discuss how we can leverage our skills and passion to make an impact together.
+> write about your self .................. (minimum 200 Characters)
 
 
 ## Portfolio Highlights
@@ -11,40 +11,48 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Washing Machine Controller Using Atmega328**  | An replacement board for your topload washing Machine                                              | [Hosted Link 1](https://example.com)    | [Washing_Machine_Controller](https://github.com/Afnan-Yusuf/Washing_Machine_Controller)             |
-| **High Speed Pid Line Follwer**  | An high speed line follower using esp32 and ir sensors                                              | [Hosted Link 2](https://example.com)    | [High Speed Line Follower](https://github.com/Afnan-Yusuf/Line_Follower_IR_8CH)             |
+| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
+#### Leadership and Influence:
 
+- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
+#### Networking:
 
+- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
 
 #### Career Plan:
 
-- To build a startup around my interests.
+- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- I strongly believe kerala have a great feature in techology and innovative field, and we can change our state into a hub of technology and networking
+- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 #### History of Open Source Contributions:
 
-- Contributed to many open source projects on github
+- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
+#### History of Community Engagement:
 
+-  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
 
+#### Highly Visible Technical Content:
+
+- Highlight any highly visible technical blog posts, articles, or video series you have created.
+
+#### Highly Used Software Tools:
+
+- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
 
-- You can find me on the following places:-
+- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
 
->> **linkedin** [Afnan Yusuf](https://www.linkedin.com/in/afnan-yusuf-1181a0210/) 
-
->> **HackerRank** [Afnan Yusuf](https://www.hackerrank.com/profile/afnanyusufpp1) 
-
->> **medium.com** [Afnan Yusuf]https://medium.com/@afnanyusufpp) 
-
+> In your portfolio, include the following details:
+>> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
-
