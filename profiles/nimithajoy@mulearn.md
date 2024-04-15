@@ -3,7 +3,7 @@
 ### About Me
 
 >  Highly motivated and detail-oriented tech enthusiast with a backgroundin software development and a strong 
-commitmentto innovation.Seeking a challenging role in the tech industry where I can apply my skills, collaborate 
+commitment to innovation.Seeking a challenging role in the tech industry where I can apply my skills, collaborate 
 with a dynamic team,and contribute to creating cutting-edge solutions that make a positive impact on the world.
 
 
