@@ -25,10 +25,15 @@ I'm a dynamic computer science student passionate about excelling as a System So
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala's tech ecosystem holds significant potential for growth with its strong talent pool and increasing focus on innovation and entrepreneurship.
+
+#### History of Community Engagement:
+
+- Active in Defcon Trivandrum
+
 #### Competitive Website Profiles:
 
 - [https://www.hackerrank.com/b1n4ryw0rm](https://www.hackerrank.com/b1n4ryw0rm)
-- https://tryhackme.com/p/binaryworm
+- [https://tryhackme.com/p/binaryworm](https://tryhackme.com/p/binaryworm)
 - [https://play.picoctf.org/users/b1n4ryw0rm](https://play.picoctf.org/users/b1n4ryw0rm)
 
 ---
