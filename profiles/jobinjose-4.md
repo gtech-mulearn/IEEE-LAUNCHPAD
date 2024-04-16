@@ -1,9 +1,7 @@
-# Alvin Dennis (21EE013)
+# Jobin Jose (21EE034)
 
 ### About Me
-
-> I'm a Tech Enthusiast and  Frontend Web Developer with a passion for creating frontend for innovative web applications. I have a deep understanding of the full backend web development life cycle. I am proficient in `C`, `Python` and a bunch of frameworks, such as Django and React. I have experience working with databases such as MySQL. Currently I am exploring and have practical experience in IoT, DevOps, Figma and software quality testing.  I look forward to learning new tools and technologies and gaining new experiences, collaborating with my fellow developers.
-
+Passionate hardware aficionado with a knack for teaching, adept at breaking down complex concepts into digestible bits for eager learners. Thrives on exploring the intricacies of technology and sharing knowledge to empower others in the world of hardware..
 ---
 
 ### Portfolio Highlights
@@ -11,11 +9,11 @@
 #### Leadership and Influence:
 
 
-- Organized Smart India Hackathon as a part of SJCET Startup Bootcamp IEDC.
+- Contributedy skills at many projects 
 - Hosted various events in college.
-- Worked as a Technical Officer at SJCET Startup Bootcamp IEDC.
-- Currently working as Chief Financial Officer at SJCET Startup Bootcamp IEDC.
-- Currently working as Technical Lead at Radio Community SJCET 
+- Participated at Beyond Us Hackathon 
+- Gave mentorship and guidance to aspiring hardware enthusiasts, offering support and advice on projects and learning resources
+- Currently working as Event coordinator at Radio Community SJCET 
 
 #### Networking:
 
@@ -29,35 +27,22 @@
 
 #### Career Plan:
 
-- In the immediate term, I plan to mentor my fellow colleagues, tech enthusiasts and make them proficient in their interest fields. Also looking for intern works which helps to boost my skill and experience.
-- In the long term, I plan on obtaining a job according to my interest on computer science and related technology. It will help to express my potential and fulfil my passion.
+- I like to Design and develop electronic components, circuits, and systems for a wide range of applications. And use technical expertise to support sales efforts, providing product demonstrations, technical specifications, and solutions to potential customers.
+- In the long term, I plan to explore emerging technologies and trends in hardware design, conducting research and experimentation to drive innovation within an organization.
+- Offer consulting services to companies seeking expertise in hardware design, development, or optimization, providing valuable insights and solutions to improve their products or processes.
 
 
 ### History of Open-Source Contributions
+Contribute to open source hardware projects by designing and refining circuit schematics, PCB layouts, and 3D printable enclosure designs. Platforms like GitHub and GitLab host repositories for open source hardware projects where you can collaborate with others.
+Helps to improve the documentation for open source hardware projects by writing clear and comprehensive guides, tutorials, and technical documentation. This can make it easier for others to understand and contribute to the project.
 
-I have contributed to various open-source projects. The links for the original repositories are given below
-- [Medcare](https://github.com/BTANISHA11/medcare)
-- [Reading-Matters](https://github.com/ishitaraina1807/Reading-Matters)
-- [WebQuest-QuizGame](https://github.com/ishitaraina1807/WebQuest-QuizGame)
-- [Blog_Website](https://github.com/Kritika30032002/Blog_Website)
-- [CityPlus](https://github.com/Nandini80/CityPlus)
-- [Dorm-Deals-Frontend](https://github.com/RishabhJain0721/Dorm-Deals-Frontend)
-- [Spotify_Api](https://github.com/Eklavya-sus/Spotify_Api)
-- [SkillShala](https://github.com/Namya13Jain/Skill_Shala)
-  
- Contributions to college repos
-- [Mulearn SJCET](https://github.com/mulearnsjc/campus-chapter)
-- [IEDC SJCET](https://github.com/IEDC-SJCET/IEDC)
 
 #### History of Community Engagement:
+Conducted events at tech fests.
+Working as an event coordinator at Radio Community.
+Part of departmental editorial board 
+NSS volunteer
 
-- Regularly answer technical questions and doubts of students from my college and help them in their tasks.
-- Active participant in Gtech Mulearn where I help newcomers and share my knowledge in my college.
-- Active user in GitHub for the purpose of backend web development and deployment of websites.
-- Active user in LinkedIn where I post and share valuable content.
-- Active member at Startup Bootcamp IEDC SJCET.
-- Active member at GDSC SJCET.
-- Active member at Radio Community SJCET.
 
 #### Highly Visible Technical Content:
 
@@ -65,27 +50,6 @@ I have contributed to various open-source projects. The links for the original r
 
 #### Highly Used Software Tools:
 
-- SQL
-- Figma
-- GitHub
-- Git
-- Firebase
-- Vercel
-- Postman
-- Netlify
-- VScode
+- Adobe Lightroom
+- Arduino
 
-#### Competitive Website Profiles:
-
--[Github](https://github.com/alvin-dennis)
-
--[LinkedIn](https://www.linkedin.com/in/alvin-dennis-0a70ba163)
-
--[Portfolio](https://www.alvindennis.vercel.app)
-
--[MuLearn](https://app.mulearn.org/profile/alvindennis@mulearn)
-
-### Opinion on Indian Engineering Education and SJCET Palai
-
-Indian engineering education has strengths in producing a large number of graduates annually but faces challenges such as outdated curricula, inadequate infrastructure, and limited industry collaboration. Improvement areas include updating curricula, enhancing faculty quality, improving infrastructure, fostering industry partnerships, and promoting research and innovation.
-SJCET Palai is a reputable institution known for its commitment to technical education. Improvement opportunities include strengthening industry ties for practical exposure, investing in faculty development, upgrading infrastructure, offering comprehensive student support services, and promoting entrepreneurship among students. These enhancements can further elevate the quality of education and contribute to students' holistic development.
