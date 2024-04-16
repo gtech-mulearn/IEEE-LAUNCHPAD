@@ -24,12 +24,8 @@
 #### Leadership and Influence:
 
 **DESIGN LEAD | GDSC SJCET (July 2022-July 2023)**
->• Designed and crafted 10 event posters and 2 certificates, effectively capturing event themes.
-<br>• Helped 4 team members, equipping them with some design techniques and fostering proficiency in Figma, leading to a 20% improvement in their design quality.
-
-**DESIGN TEAM | TinkerHub SJCET (March 2022-March 2023)**
->• Worked closely with event organizers and other team members to understand requirements, designed about 20 posters.
-<br>• Implemented innovative solutions to enhance the effectiveness of promotional materials.
+>Designed and crafted 10 event posters and 2 certificates, effectively capturing event themes.
+<br>Helped 4 team members, equipping them with some design techniques and fostering proficiency in Figma, leading to a 20% improvement in their design quality.
 
 #### Networking:
 
@@ -39,11 +35,15 @@
 
 - outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
+#### History of Community Engagement:
 
-#### Highly Visible Technical Content:
+>Expanded network across colleges by leading design communities at TinkerHub and DSC Sjcet, fostering valuable connections with like-minded peers.
+<br>Actively networks by participating in events like IEDC summits and hackathons (GDGC WoW), building genuine relationships with other professionals and offering help whenever possible.
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
+#### Highly Visible Technical Content::
+
+- Helped in writing and publishing a paper named "ImagineAI: Illuminating The Path For The Blind" at APJ AKTU TECHFEST and KETCON 2024, organized by APJ Abdul Kalam Technological University and hosted at Ahalia School of Engineering and Technology.
 #### Highly Used Software Tools:
 
 - If you've developed software tools that are widely used by users (not just contributors), mention them.
