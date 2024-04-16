@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'profile/**'
+      - 'profiles/**'
 
 jobs:
   check-paths:
@@ -24,7 +24,7 @@ jobs:
             if [[ $FILE != "profile/"* ]]; then
               echo "::set-output name=outside_changes::true"
               OUTSIDE_CHANGES=true
-              echo "Changes detected outside the /profile directory in file: $FILE"
+              echo "Changes detected outside the /profiles directory in file: $FILE"
               break
             fi
           done
@@ -37,7 +37,7 @@ jobs:
         if: steps.check_changes.outputs.outside_changes == 'true'
         uses: actions/github-script@v5
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GIT_ACCESS_TOKEN }}
           script: |
             const issue_number = context.issue.number;
             github.rest.issues.addLabels({
