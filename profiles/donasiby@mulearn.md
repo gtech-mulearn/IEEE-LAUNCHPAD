@@ -29,12 +29,13 @@
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- My experience as a Design Lead and team member has equipped me with the skills to engage with the community effectively, influence others through mentorship and collaboration, and lead by example in the field of design. I am committed to continuing to expand my network, inspire others, and drive positive change within my respective field.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My goal to leverage my software development skills and knowledge to pursue a career in the field of AI. By continuously expanding my expertise in AI-related domains, I can position myself as a versatile and sought-after professional.
 
+  
 #### History of Community Engagement:
 
 >Expanded network across colleges by leading design communities at TinkerHub and DSC Sjcet, fostering valuable connections with like-minded peers.
@@ -44,11 +45,9 @@
 #### Highly Visible Technical Content::
 
 - Helped in writing and publishing a paper named "ImagineAI: Illuminating The Path For The Blind" at APJ AKTU TECHFEST and KETCON 2024, organized by APJ Abdul Kalam Technological University and hosted at Ahalia School of Engineering and Technology.
-#### Highly Used Software Tools:
+- Have a behance profile where i share my designs
+- My behance profile : https://www.behance.net/donasiby
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
-#### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
