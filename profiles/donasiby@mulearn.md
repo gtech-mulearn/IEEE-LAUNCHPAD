@@ -45,7 +45,8 @@
 #### Highly Visible Technical Content::
 
 - Helped in writing and publishing a paper named "ImagineAI: Illuminating The Path For The Blind" at APJ AKTU TECHFEST and KETCON 2024, organized by APJ Abdul Kalam Technological University and hosted at Ahalia School of Engineering and Technology.
-- Have a behance profile where I share my designs
+- Book of Abstracts : https://drive.google.com/file/d/1BK6kybgU4yw5AA21vP57KY3olWJxISvd/view?usp=drive_link
+- Have a behance profile where I share my designs 
 - My behance profile : https://www.behance.net/donasiby
 
 
