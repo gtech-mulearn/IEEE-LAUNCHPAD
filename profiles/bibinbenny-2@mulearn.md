@@ -1,14 +1,14 @@
-# KARUN CHERY JAMES 
+# Bibin Benny
 
 ### About Me
 
-Hey there!I'm Karun Chery James, a final year Computer Science Engineering student at SJCET Palai, known for my talent, ambition, and diligent work ethic in the tech sphere.
+Hey there!I'm Bibin Benny, a final year Computer Science Engineering student at SJCET Palai, known for my talent, ambition, and diligent work ethic in the tech sphere.
 
-Proficient in web development (HTML, CSS, PHP, MySQL), MERN stack, Python, and C, I've led projects recognized both academically and professionally. Notably, I was part of the team ranked among the top 30 in the WOW Hackathon, a prestigious competition by Google Developer Student Clubs as part of GDSC WOW Kerala 2023.
+Proficient in web development (HTML, CSS, PHP, MySQL), MERN stack, Python, and C, I've led projects recognized both academically and professionally.
 
 In addition to my technical skills, I'm well-versed in tools such as Canva, Figma, and GitHub, leveraging them to enhance collaboration and streamline workflows. My knack for multitasking, problem-solving, and fostering collaboration ensures successful outcomes in every endeavor.
 
-Let's connect and explore how we can leverage technology to make an impact together!Github Profile: https://github.com/Karuncj LinkedIn Profile: https://www.linkedin.com/in/karun-chery-james-76b165206/
+Let's connect and explore how we can leverage technology to make an impact together!Github Profile: https://github.com/Bibin2024 LinkedIn Profile: https://www.linkedin.com/in/bibin-benny-648aa9212/
 
 
 ## Portfolio Highlights
@@ -17,15 +17,15 @@ Let's connect and explore how we can leverage technology to make an impact toget
 
 | Name                | Description                                                               | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
-| IMAGINE AI  |ImagineAI is a blind assistive spectacle designed to enhance the mobility and awareness of visually impaired individuals by integrating image processing, object detection, and wireless connectivity, offering real-time feedback and guidance in navigating their surroundings.|[Github Repo Link 1](https://github.com/Karuncj/ImagineAI) |
-| GIVE APP  | Mobile app simplifying the donation of gently used items to charities.The user-friendly interface allows item listings, connections with recipients,and showcases charity needs.| [Github Repo Link 2](https://github.com/Karuncj/Mini-Project---Give-App1) |
-|EDUHUB  | Developed a student record management system (DBMS) to efficiently store, retrieve, and manage student information, including names, fees etc.Streamlined administrative tasks and improved data accessibility.| [Repo Link 3](https://github.com/Karuncj/DBMS_Project)             |
+| PRINTEASE  |Printease is a printing service provided by our college that offers a variety of printing solutions for students, faculty, and staff. Printease aims to streamline the printing process by providing efficient and reliable printing services tailored to the needs of the college community.| [Github Repo Link 1](https://github.com/Bibin2024/PRINT_EASE) |
+| SKILLVAULT  | SkillVault is a dynamic platform that serves as a dual-purpose hub for both hiring companies and aspiring candidates, facilitating the discovery of top talents and the cultivation of essential skills.| [Repo Link 3](https://github.com/SkillVault) |
+
 
 #### Leadership and Influence:
 I adeptly guided project teams towards successful outcomes by fostering engagement and cultivating a supportive learning atmosphere. Moreover, my involvement as a volunteer at the Astra 8.0 National Level Tech Fest in 2024 extended beyond coordination duties; I actively contributed to event planning and execution, demonstrating a passion for enriching campus experiences and fostering community connections.
 
 #### Networking:
-My networking skills, cultivated through societies like Mulearn and CSI, are grounded in empathy. I engage proactively, leveraging these channels to stay informed and build meaningful relationships. I actively contribute to the community through volunteering and mentoring, emphasizing active listening and mutual respect in every interaction.
+My networking skills, cultivated through societies like Mulearn, are grounded in empathy. I engage proactively, leveraging these channels to stay informed and build meaningful relationships. I actively contribute to the community through volunteering and mentoring, emphasizing active listening and mutual respect in every interaction.
 
 #### Career Plan:
 
@@ -48,14 +48,13 @@ Embracing Collaboration and Innovation:
 Kerala believes in the power of collaboration. By bringing academia, industry, and startups together, we create a supportive community where ideas can be shared and partnerships formed, propelling startups towards success.
 
 #### History of Community Engagement:
-An active participant of the Mulearn discord server.
+As a committed member of the National Service Scheme (NSS), I actively engaged in community service projects, demonstrating my commitment to social responsibility and fostering positive change. Through teamwork and leadership within NSS initiatives, I honed valuable communication and problem-solving skills essential for effective collaboration and impact-driven outcomes.
 
 #### Competitive Website Profiles:
 
--Member of [CodeChef](https://www.codechef.com/users/karun_cj), Hackerrank, and LeetCode.
+-Member of [CodeChef](https://www.codechef.com/users/bibinbenny).
 
 
->> check out [karuncheryjames@mulearn.md](./profile/karuncheryjames@mulearn.md)
+>> check out [bibinbenny-2@mulearn.md](./profile/bibinbenny-2@mulearn.md)
 
 ---
-
