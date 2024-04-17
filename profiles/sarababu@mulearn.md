@@ -25,6 +25,15 @@ Checkout my linkedln profile : https://www.linkedin.com/in/sara-babu-16b525201/
 
 - I'm focused on securing a role as a Software Engineer in a reputable company, where I can contribute to impactful projects and continue developing my skills. Concurrently, I'll prioritize expanding my technical expertise and establishing a solid foundation in the field to excel in my role.
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
+- Kerala's tech ecosystem holds immense potential for growth by emphasizing innovation, investment, and cultivating an entrepreneurial mindset. By strategically focusing on these pillars, Kerala can evolve into a leading destination for technology startups, attracting top talent, fostering collaboration, and driving sustainable economic development. This concerted effort will create a dynamic ecosystem that nurtures creativity, fosters partnerships, and positions Kerala as a beacon of innovation in the global tech landscape.
+
+#### Highly Used Software Tools:
+
+- Github
+- Canva
+- VS code
+  
 >> check out [sarababu@mulearn.md](https://app.mulearn.org/profile/sarababu@mulearn.md)
 
