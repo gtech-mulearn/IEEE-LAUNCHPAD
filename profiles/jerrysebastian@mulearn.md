@@ -18,12 +18,9 @@ Hello. I'm Jerry Sebastian, a CSE final-year student obtaining a bachelor's degr
   
 #### Career Plan:
 
--Foundation (Year 1-2):
-Master fundamentals, code competitions, basic ML.
--Specialization (Year 3-4):
-Deep dive: ML techniques, advanced web dev, internships.
--Integration (Year 5 and Beyond):
-Master's, research, network, full-time roles, continuous learning.
+Over two years, master fundamentals and engage in coding competitions. Deepen skills in machine learning and web development through advanced coursework and internships. Pursue further education, research, and full-time roles for integration and advancement.
+
+
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
