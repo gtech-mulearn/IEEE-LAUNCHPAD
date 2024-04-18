@@ -33,9 +33,7 @@ Passionate hardware aficionado with a knack for teaching, adept at breaking down
 
 
 ### History of Open-Source Contributions
-Contribute to open source hardware projects by designing and refining circuit schematics, PCB layouts, and 3D printable enclosure designs. Platforms like GitHub and GitLab host repositories for open source hardware projects where you can collaborate with others.
-Helps to improve the documentation for open source hardware projects by writing clear and comprehensive guides, tutorials, and technical documentation. This can make it easier for others to understand and contribute to the project.
-
+Currently I don't have a history for open source contributions, but collaborated on various hardware projects.
 
 #### History of Community Engagement:
 Conducted events at tech fests.
@@ -51,5 +49,13 @@ NSS volunteer
 #### Highly Used Software Tools:
 
 - Adobe Lightroom
-- Arduino
+- Arduino IDE
+- Matlab
+- Proteus
+- CAD
 
+### Competitive Website Profiles
+
+-[LinkedIn](https://www.linkedin.com/in/jobin-jose-343a5a27b)
+
+-[GitHub](https://www.github.com/S10533)
