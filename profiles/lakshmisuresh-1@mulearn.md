@@ -28,4 +28,4 @@ Checkout my linkedln profile : https://www.linkedin.com/in/lakshmi-suresh-512622
 - Kerala's tech ecosystem holds immense potential for growth by emphasizing innovation, investment, and cultivating an entrepreneurial mindset. By strategically focusing on these pillars, Kerala can evolve into a leading destination for technology startups, attracting top talent, fostering collaboration, and driving sustainable economic development. This concerted effort will create a dynamic ecosystem that nurtures creativity, fosters partnerships, and positions Kerala as a beacon of innovation in the global tech landscape.
 
   
->> check out [sarababu@mulearn.md](https://app.mulearn.org/profile/sarababu@mulearn.md)
+>> check out [[lakshmisuresh-1@mulearn.md](https://app.mulearn.org/profile/lakshmisuresh-1@mulearn.md)]
