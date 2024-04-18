@@ -3,7 +3,8 @@
 
 ### About Me
 
-Hello As a final-year CSE student seeking a bachelor's degree, my name is Jerry Sebastian. I have a strong interest in technology, and I have actively participated in a number of hackathons to obtain practical software development expertise.I understand the fundamentals of programming languages like Python, C, C++, and Java quite well. I am also skilled in Flask, FastAPI, and React backend frameworks. I'm currently undergoing training for machine learning projects in order to succeed in the rapidly changing IT industry.
+Hello. I'm Jerry Sebastian, a CSE final-year student obtaining a bachelor's degree. I have a great love for technology, and I've actively participated in a number of hackathons to obtain practical software development expertise.
+ I have a solid foundation in the fundamentals of programming languages including Python, C, C++, and Java. I am also skilled in Flask, FastAPI, and React backend frameworks. I'm now pursuing training in machine learning projects to advance in the rapidly changing IT sector.
 
 ## Portfolio Highlights
 
