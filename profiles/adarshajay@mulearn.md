@@ -130,9 +130,7 @@ Fluent in English and Malayalam, enabling effective communication in diverse set
 
 In our main project, I orchestrated the division of tasks into separate modules, ensuring equitable participation and timely completion. This approach fostered a sense of ownership among team members, motivating them to meet project deadlines.
 
-#### Networking:
 
-As part of the survey team for the IEEE Gramina Digital Hub organized by the IEEE section of the College of Engineering Chengannur, I leveraged the opportunity to expand my professional network and gain valuable insights.
 
 #### GitHub and LinkedIn:
 
