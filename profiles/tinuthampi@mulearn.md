@@ -49,4 +49,13 @@
 
 #### Highly Visible Technical Content:
 - [GeeksfoGeeks Article](https://www.geeksforgeeks.org/what-are-widgets-available-in-flutter/)
+
+#### History of Open Source Contributions:
+
+- Participated in HACKTOBERFEST 2021, 2022.
+
+#### History of Community Engagement:
+
+- Collaborated on various projects and resolved issues through GitHub.
+- Actively involved within the Linkedin community.
 ---
