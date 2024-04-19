@@ -14,16 +14,15 @@ Checkout my linkedln profile : https://www.linkedin.com/in/rohanreji/
 
 ### My Projects
 
-| Name                | Description                                                                                      | Repo Link                                                      | Hosted Link
-|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
-| **World Rank**         | Developed a responsive country ranking web application. Utilized API integration to fetch real-time data for countries, enabling dynamic content updates. Implemented sorting functionality by population, area using pipe. Integrated filtering options by regions, United Nations membership, and independence status. Implemented search functionality for countries by name, region, and subregion using pipe. Designed and developed detailed country pages displaying population, area, capital, and neighboring countries. Ensured seamless navigation between country pages and neighboring countries' details. Technologies Used: Angular.|[Github Repo](https://github.com/rohxnn/world-rank)            | [World Rank]( https://world-rank-rose-five.vercel.app/world-rank)
-| **Nike-Clone Website**          | Designed and implemented a fully functional e-commerce website clone inspired by Nike, using a modern technology stack.                                             | [Github Repo](https://github.com/rohxnn/NIke-Application)            |                                         |           |
-
-
+| Name                | Description                                                                                      | Repo Link                                                      | Hosted Link                                               |
+|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------|
+| **World Rank**     | Developed a responsive country ranking web application. Utilized API integration to fetch real-time data for countries, enabling dynamic content updates. Implemented sorting functionality by population, area using pipe. Integrated filtering options by regions, United Nations membership, and independence status. Implemented search functionality for countries by name, region, and subregion using pipe. Designed and developed detailed country pages displaying population, area, capital, and neighboring countries. Ensured seamless navigation between country pages and neighboring countries' details. Technologies Used: Angular.| [Github Repo](https://github.com/rohxnn/world-rank) | [World Rank](https://world-rank-rose-five.vercel.app/world-rank) |
+| **Nike-Clone Website** | Designed and implemented a fully functional e-commerce website clone inspired by Nike, using a modern technology stack. | [Github Repo](https://github.com/rohxnn/NIke-Application) |                                                           |
 
 #### Career Plan:
 
 - I am dedicated to pursuing a position as a Software Engineer with a respected company, aiming to contribute to meaningful projects and further enhance my skills. Simultaneously, I will focus on broadening my technical proficiency and laying a strong groundwork in the industry to excel in my chosen field. Moreover, I am eager to expand my knowledge to its fullest extent.
+
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
