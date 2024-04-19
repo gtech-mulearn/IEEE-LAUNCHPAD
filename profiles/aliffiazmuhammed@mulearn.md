@@ -11,8 +11,8 @@ Hey there! I'm Alif Fiaz Muhammed, a pre final year B.tech student pursuing Comp
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **YOUTUBE ASSISTANT**  | This is an LLM application in which you enter an url and ask questions about the specified video                                             |            |[Repo Link 1](https://github.com/aliffiazmuhammed/youtube-assistant-LLM-app-.git)  
-| **CHAT APP**  | THis is a simple chat application where you can connect to your freinds and chat.It is built using React in as fronend and Node in backend                                           |            |[Repo Link 2](https://github.com/aliffiazmuhammed/chat-app.git)  
+| **YOUTUBE ASSISTANT**  | This is an LLM application in which you enter an url and ask questions about the specified video                                             |            |[LLM app](https://github.com/aliffiazmuhammed/youtube-assistant-LLM-app-.git)  
+| **CHAT APP**  | THis is a simple chat application where you can connect to your freinds and chat.It is built using React in as fronend and Node in backend                                           |            |[chat app](https://github.com/aliffiazmuhammed/chat-app.git)  
 
 #### Leadership and Influence:
 
