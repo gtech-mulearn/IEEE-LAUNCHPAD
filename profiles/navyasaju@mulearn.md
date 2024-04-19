@@ -4,7 +4,7 @@
  
 > Hello! I'm Navya Saju, a passionate computer science student eager to carve out a career in technology and innovation. I'm driven by hands-on projects where I can apply my expertise to real-world challenges. I thrive on learning, growing, and contributing to cutting-edge solutions that make a positive impact. Let's connect on LinkedIn or explore my GitHub to learn more about my journey and projects. I'm always seeking exciting opportunities and collaborations that push the boundaries of technology.
 > 
-Checkout my github profile : https://navya-1231.github.io/
+Checkout my github profile : https://github.com/navya-1231
 
 Checkout my linkedln profile : https://www.linkedin.com/in/navya-saju-31aa4b230/  
 
@@ -21,7 +21,9 @@ Checkout my linkedln profile : https://www.linkedin.com/in/navya-saju-31aa4b230/
 
 #### History of Community Engagement:
 
--Documentation Team for the Computer Science and Engineering Association at SJCET Palai .
+-Documentation Team for the Computer Science and Engineering Association at SJCET Palai
+
+-GTech Mulearn member
 
 
 
