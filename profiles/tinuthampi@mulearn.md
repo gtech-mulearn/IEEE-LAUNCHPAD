@@ -23,6 +23,7 @@
 - [Leetcode](https://leetcode.com/Tinu_thampi/)
 - [CSSBattle](https://cssbattle.dev/player/tinu)
 - [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/9d42d072-0982-48c1-a62e-a0a376f462ca)
+- [Linkedin](https://www.linkedin.com/in/tinu-thampi/)
 
 #### Leadership and Influence:
 
