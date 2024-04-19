@@ -34,10 +34,5 @@ Kerala can excel in tech startups by focusing on skilled talent, fostering innov
 
 - Visual Studio Code
 
-
-
-> In your portfolio, include the following details:
->> check out [abinaugustine@mulearn.md](./profile/abinaugustine@mulearn.md) for an exmaple
-
 ---
 
