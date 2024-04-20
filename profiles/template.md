@@ -12,8 +12,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **IOT-Based-AUTOMATED-PRECISION-AGRICULTURE**  | The objective of this project is to propose IoT based Smart Farming System which will enable farmers to have plant disease detection at a very low cost.                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1]([https://github.com/username/project1](https://github.com/jerrinmg/IOT-Based-AUTOMATED-PRECISION-AGRICULTURE))             |
-| **Advanced Triple-Mode Algorithmic Automatic Battery Protection System**  | The Project presents an innovative solution for protection, real-time monitoring and remote management of battery health and performance. | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **IOT-Based-AUTOMATED-PRECISION-AGRICULTURE**  | The objective of this project is to propose IoT based Smart Farming System which will enable farmers to have plant disease detection at a very low cost.                                           | [Repo Link 1]([https://github.com/username/project1](https://github.com/jerrinmg/IOT-Based-AUTOMATED-PRECISION-AGRICULTURE))             |
+| **Advanced Triple-Mode Algorithmic Automatic Battery Protection System**  | The Project presents an innovative solution for protection, real-time monitoring and remote management of battery health and performance. |     | [Github Repo]([https://github.com/username/project2](https://github.com/jerrinmg/Advanced-Triple-Mode-Algorithmic-Automatic-Battery-Protection-System/tree/main))             |
 
 
 
