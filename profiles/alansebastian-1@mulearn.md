@@ -12,8 +12,8 @@ With a solid foundation in languages such as Java, C, and JavaScript, I excel in
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Student-TodoList**  | This web-application is built using HTML,CSS,JS and PHP.student-todolist is a web-application  mainly concentrated for students to mark their academic activities, personal todos and they can identify their progress by progress graph.this application has connection with openAi to ask doubts in task completion.                                         |    | https://github.com/Alan-Sebastian/todolist       |
-| **ShoppingKart**  | Developed functionalities enabling administrators to add, update, and delete products, along with the
-capability to view customer details.Implemented features for users to perform actions such as purchasing products, adding items to the cart,
+| **ShoppingKart**  | Developed functionalities enabling administrators to add, update, and delete products, along with the capability to view customer
+details.Implemented features for users to perform actions such as purchasing products, adding items to the cart,
 and viewing order status.                                         |     |https://github.com/Alan-Sebastian/shoppingkart            |
 
 #### Leadership and Influence:
