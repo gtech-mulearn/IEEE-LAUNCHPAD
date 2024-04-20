@@ -43,9 +43,4 @@ So, if you're up for some tech adventures or just want to chat about the latest 
 -  An active participant of the mulearn discord server.
 -  An IEEE member for the last 2 years.
 
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
 ---
