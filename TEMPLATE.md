@@ -1,4 +1,4 @@
-# Full Name 
+# Full Nam
 
 ### About Me
 
