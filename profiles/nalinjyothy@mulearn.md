@@ -1,5 +1,5 @@
 # Full Name 
-
+Nalin Jyothy
 ### About Me
 
 > Hello! I'm Nalin J, a first-year Computer Science Engineering student with five years of experience in Python. Passionate about both Discord bot development and web development, I'm eager to delve deeper into the world of web development and explore its endless possibilities. Excited to merge my Python expertise with web technologies to create impactful projects. 
