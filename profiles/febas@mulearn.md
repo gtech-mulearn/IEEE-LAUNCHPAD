@@ -11,7 +11,7 @@
 |---------------------|---------------------------------------------------------------------------|
 | **E-commerce Fashion Website**        | The proposed project is an online fashion store that caters to men, women, and children. The website will offer a wide range of products including clothing, accessories, and makeup items.The website will be designed with user-friendly navigation and an intuitive interface. Users can browse through the various categories, search for specific items, and view detailed descriptions and images of the products.The website will also offer features such as ‘Add to Cart’ and ‘Add to Wishlist’, allowing users to save their favorite items and purchase them at their convenience.|
 | **Helmet and Triple Ride Detection using Deep Learning**        | This project is used to detect helmetless and triple riders using real time image processing techniques   |    
-| **Hoapital Management System**        | used in hospitals   |   
+| **Hospital Management System**        | used in hospitals   |   
 
 
 #### Leadership and Influence:
@@ -30,6 +30,8 @@
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala has good tech culture and community spread fostering minds and growth of startups.
+- Focus on emerging technologies such as AI,ML,Robotics,IOT etc
+- Provide access to fundings through grants,loans and venture capital funds.
 
 #### Skills:
 
@@ -39,6 +41,11 @@
 - JavaScript
 - Sql
 - Django
+
+#### Highly used software tools
+- ChatGPT
+- GitHub
+- Postman
 
 #### History of Community Engagement:
  
