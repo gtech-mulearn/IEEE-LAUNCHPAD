@@ -2,17 +2,21 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm Mohammed Asif, currently pursuing a BTech in Computer Science and Engineering at the College of Engineering Thalassery. Alongside my studies, I've dedicated the past year to freelancing as a Flutter developer. Hailing from Malappuram, Kerala, I've cultivated a passion for technology and a knack for problem-solving. My experience in Flutter development has allowed me to craft cross-platform mobile applications with efficiency and precision, delivering top-notch solutions to clients. I thrive in dynamic environments, where I can harness my creativity and adaptability to tackle challenges head-on. As I navigate my journey in software development, I'm eager to connect with industry professionals and explore opportunities that allow me to leverage my skills for impactful projects. Let's collaborate and innovate together to create remarkable solutions!
+
+
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                                       | Hosted Link                              | Repo Link                                                      |
+|---------------------|-----------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| CoviPlus            | A Post-COVID Health Management System including disease prediction by lung x-rays |                                          |                                                                |
+| GestureFlow         | Hand Gesture Based media and pdf controller                                       |                                          |                                                                |
+| eCanteen Admin      | Admin Application amde with flutter for eCanteen mobile application,made for college canteen |                                          |                                                                |
+| myRent              | Flutter made application for keeping income and expense for rental property owners   
 
 #### Leadership and Influence:
 
