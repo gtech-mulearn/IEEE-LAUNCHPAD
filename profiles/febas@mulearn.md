@@ -10,12 +10,9 @@
 | Name                | Description                                                               |                                                                                  
 |---------------------|---------------------------------------------------------------------------|
 | **E-commerce Fashion Website**        | The proposed project is an online fashion store that caters to men, women, and children. The website will offer a wide range of products including clothing, accessories, and makeup items.The website will be designed with user-friendly navigation and an intuitive interface. Users can browse through the various categories, search for specific items, and view detailed descriptions and images of the products.The website will also offer features such as ‘Add to Cart’ and ‘Add to Wishlist’, allowing users to save their favorite items and purchase them at their convenience.|
-                                               
 | **Helmet and Triple Ride Detection using Deep Learning**        | This project is used to detect helmetless and triple riders using real time image processing techniques   |    
 | **Hoapital Management System**        | used in hospitals   |   
 
-
-### Portfolio Highlights
 
 #### Leadership and Influence:
 
@@ -34,21 +31,22 @@
 
 - Kerala has good tech culture and community spread fostering minds and growth of startups.
 
-#### History of Open Source Contributions:
+#### Skills:
 
-- Active member of the FOSS Community
-- Been a part of the Malayalam open source club
+- Python
+- HTML
+- CSS
+- JavaScript
+- Sql
+- Django
 
 #### History of Community Engagement:
  
-- Webmaster of IEEE Student Branch in college
+- Membeer of IEEE Student Branch in college
 - Student Lead of iEDC in college
 - Led clubs and techinical events in college
+- Member of NSS
 
-#### Highly Visible Technical Content:
-
-- YouTube videos with around 200 views on Tech Events and Projects
-- Influential [LinkedIn](https://www.linkedin.com/in/lizchaitanya/) with over 1k followers
   
 #### Competitive Website Profiles:
 
