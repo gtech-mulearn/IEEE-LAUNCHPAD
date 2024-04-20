@@ -1,4 +1,4 @@
-# Full Name 
+# Mohammed Asif 
 
 ### About Me
 
@@ -16,11 +16,11 @@
 | CoviPlus            | A Post-COVID Health Management System including disease prediction by lung x-rays |                                          |                                                                |
 | GestureFlow         | Hand Gesture Based media and pdf controller                                       |                                          |                                                                |
 | eCanteen Admin      | Admin Application amde with flutter for eCanteen mobile application,made for college canteen |                                          |                                                                |
-| myRent              | Flutter made application for keeping income and expense for rental property owners   
+| myRent              | Flutter made application for keeping income and expense for rental property owners |  
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- As a Flutter developer freelancer, I've extended my leadership beyond projects to mentorship, guiding numerous students in their journey. Providing personalized support and expertise, I've empowered aspiring developers to navigate challenges and cultivate their skills effectively. Through one-on-one interactions and group sessions, I've fostered a collaborative learning environment, sharing insights and best practices in Flutter development. Witnessing their growth and success has been immensely rewarding, reaffirming my commitment to nurturing talent and contributing to the growth of the Flutter community. This mentoring experience highlights my dedication to empowering others, and demonstrating my leadership in fostering skill development and knowledge sharing within the next generation of developers.
 
 #### Networking:
 
@@ -28,36 +28,25 @@
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- In the immediate term, I plan to work as a flutter developer in an esteemed company in India.
+
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- Flutter developer facilitator of GDSC Thalassery
+- Coordinated a tech hackathon in College
 
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Android Studio
+- VsCode
 
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
 
