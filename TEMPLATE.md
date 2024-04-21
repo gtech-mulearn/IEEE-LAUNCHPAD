@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am a BSc Computer Science student about to graduate from Mar Ivanios College, Thiruvananthapuram.
 
 
 ## Portfolio Highlights
