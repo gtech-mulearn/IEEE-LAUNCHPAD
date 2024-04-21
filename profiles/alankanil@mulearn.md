@@ -52,14 +52,9 @@ Computer Science and Engineering student with a strong track record in internshi
 
 #### History of Community Engagement:
 
-- Active participant in the Mulearn Foundation where I help newcomers and share my knowledge `Current rank #1`.
-- Contributed to GTA series Hackathon website organised by Mulearn.
-- KKEM Campus Ambassador at SNGIST.
-- Organiser for the weekly tech program `Scale it` where we discuss about the system design of an application.
+- Active participant in the Mulearn Foundation .
+- Benig part of the weekly tech program `Scale it` where we discuss about the system design of an application.
 - Organized varoius teach events such Hackathons, coding competitions etc.
-- Active Member at Pygrammers community.
-- Mentored beweb.dev bootcamp Level 3 (Django).
-- Mentored beweb.dev bootcamp Level 2 (Python and Flask).
 - Mentored beweb.dev bootcamp Level 1 (HTML, CSS, JavaScript).
 - Conducted Sessions and Workshops for students about web-development.
 
@@ -69,17 +64,12 @@ Computer Science and Engineering student with a strong track record in internshi
 
 #### Highly Used Software Tools:
 
-- [MuLearn](https://app.mulearn.org/) Developed the Learning Circle feature for Mulearn used by 20000+ users.
+- [MuLearn](https://app.mulearn.org/) Contributed in button component in Mulearn used by 20000+ users.
 - [Agreya.live](https://agreya.live/) was used by 2000+ users.
-- [Maze App](https://iedc-summit-app.vercel.app/) was used by 2500+ students.
-- [YIP Interns Management Website](https://yip.mulearn.org/) 5000+ users
-- [EachPays](https://each-pays.vercel.app/) 100+ users.
-- [In50Hours](in50hours.vercel.app) 200+ users.
-- [Cupid's Chase](https://cupidschase.vercel.app/) 200+ users.
+- [Sngist-IEDC](https://iedc.sngist.org/) was used by 100+ students.
+
 
 #### Competitive Website Profiles:
 
-- Ranked #1 at [Mulearn](https://app.mulearn.org/profile/jeninjoseph@mulearn) based on Karma Points.
-- Ranked within the Top 9,000 on HackerRank.
-
+- Ranked #31 at [Mulearn](https://app.mulearn.org/profile/alankanil@mulearn) based on Karma Points.
 ---
