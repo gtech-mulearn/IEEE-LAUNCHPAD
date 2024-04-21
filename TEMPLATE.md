@@ -1,59 +1,44 @@
-# Full Name
+# MOHAMMED AMAN M A
+
 
 ### About Me
+ 
+>I'm Mohammed Aman m a , a passionate and driven Computer Science student always seeking new challenges and learning opportunities. I believe in applying my knowledge to real-world scenarios with enthusiasm and a continuous drive for growth. With a knack for problem-solving and effective communication, I thrive in team environments and eagerly contribute to exciting projects. Proficient in programming languages like javascript , C, java and web development using React.js, I'm constantly pursuing opportunities for professional development fueled by my passion for growth in my field. I firmly believe that my enthusiasm and commitment make me an invaluable addition to any project or team. Outside of coding, I enjoy reading, sports, and exploring new technologies, and my fluency in English and Malayalam adds versatility to my communication skills. Feel free to connect with me on LinkedIn or check out my GitHub profile to learn more about my journey and projects—I'm looking forward to the exciting opportunities ahead!
 
-> write about your self .................. (minimum 200 Characters)
+Checkout my github profile : https://github.com/Mohdamanma
 
-
+Checkout my linkedln profile : www.linkedin.com/in/amanma-link
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name          | Description                                                                                                                   | Repo Link                                                  |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Netflix-clone   | Netflix is subscription-based streaming service that allows our memeber to watch TV shows and movie on an internetconnected device.it is solo project made in the span of 1 month by using TMDB's,APITech StackReact,Html,TailWindCss,Javascript,Supabase,Versel for deployment  | [Repo Link 1](https://github.com/Mohdamanma/Netflix-clone) |
+| Techshop-app    | ElectroLux is a Electronic shop app that provide electronic items with on-demand. It is solo project made in a span of one month.it is solo project by using React component,Style-componentTech-Stack -React.Javascript,MockAPI,SupaBase for databas                  | [Repo Link 2](https://github.com/Mohdamanma/Techshop-app)      |
 
-#### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking:
-
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
-#### Career Plan:
-
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### Thoughts on Kerala's Tech Ecosystem:
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+-  An active participant of the mulearn discord server.
+-  Help them to boost their social media and coordinate a group of students to support their campaign
 
-#### Highly Visible Technical Content:
+#### Leadership and Influence:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Led project teams to successful outcomes by fostering active participation and facilitating a conducive learning environment.
+-  Run campaign and handled 40 students’ team and volunteer a grand event that support Diversity in Entrepreneurship
+- Also I have experience in Student police cadet (SPC) volunteer 
+#### Networking:
 
-#### Highly Used Software Tools:
+- My networking prowess extends beyond the digital realm, where I've formed meaningful connections through platforms like MuLearn and LinkedIn, as well as through direct conversations. By engaging with peers and professionals, I've not only expanded my network but also stayed updated on industry insights and trends. Additionally, I actively follow the work of others in my field, showcasing my dedication to continuous learning and staying informed.
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+#### Career Plan:
 
-#### Competitive Website Profiles:
+- I graduate BCA with an excellent GPA and to be placed at an MNC where i could grow myself.
+- Gain experience in the firm i'm working , and experience how the world industries thrive and functions.
+- My ultimate aspiration is to become an entrepreneur, creating a platform where I can utilize my resources and expertise to nurture and empower innovative minds, fostering their growth and development.
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+#### Thoughts on Kerala's Tech Ecosystem:
 
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
-
+- The tech landscape in Kerala holds immense promise, propelled by its innovative ethos and a pool of talented young individuals, positioning the state for significant strides in technology startups. Through initiatives offering mentorship, funding, and enhanced infrastructure, Kerala can foster an environment conducive to the flourishing of startups. Collaboration among educational institutions, enterprises, and governmental bodies will catalyze this growth, leading to job creation and economic advancement. With adequate backing, Kerala has the potential to emerge as a formidable force in the tech arena, driving advancements and positively impacting lives.
