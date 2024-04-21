@@ -14,20 +14,12 @@ Computer Science and Engineering student with a strong track record in internshi
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Agreya**  | Dynamic React Supabase website for Techfest at SNGIST group of institutions | [agreya.live](https://agreya.live/) | [GitHub](https://github.com/Jenin82/tech-fest-sngist-2024) |
 | **ResumeWiz**  | An Open-source AI resume builder with ATS checker, using Next, TypeScript and Supabase | [resumewiz.vercel.app](https://resumewiz.vercel.app/) | [GitHub](https://github.com/SynthCod3/ResumeWiz) |
-| **YIP Interns**  | Dynamic React TypeScript website for Young Innovators Program to manage their interns | [yip.mulearn.org](https://yip.mulearn.org/) | [GitHub](https://github.com/Jenin82/yiptracking) |
-| **IEDC SNGIST**  | Dynamic NextJs website for IEDC at SNGIST group of institutions | [iedc.sngist.org](https://iedc.sngist.org/) | [GitHub](https://github.com/Jenin82/sngist-iedc) |
-| **EachPays**  |  PWA designed to simplify the way groups manage and split expenses. EachPays makes it easy to keep track of who owes what. | [each-pays.vercel.app](https://each-pays.vercel.app/) | [GitHub](https://github.com/Jenin82/EachPays) |
-| **Portfolio Website**  | A portfolio website build using React, ThreeJs and Framer motion | [jenin.xyz](https://jenin.xyz/) | [GitHub](https://github.com/Jenin82/threejs-portfolio) |
-| **In50Hours**  | A React Supabase PWA app build for the In50Hous competition event organized by MuLearn | [in50hours.vercel.app](https://in50hours.vercel.app/) | [GitHub](https://github.com/Jenin82/Maze) |
-| **Campus Chapter**  | No Code website to be used for MuLearn Community's Campus Chapters. | [Not Hosted](https://github.com/Jenin82/) | [GitHub](https://github.com/Jenin82/campus-chapter) |
-| **SNGIST Website**  | A college website with grievance system and user management build using Django. | [sngist.up.railway.app](https://sngist.up.railway.app/) | [GitHub](https://github.com/Jenin82/django-web) |
-| **Cupid's Chase**  | A React Supabase PWA app build for tresure hunt competition at Christ College of Engineering | [cupidschase.vercel.app](https://cupidschase.vercel.app/) | [GitHub](https://github.com/fundesigns/TreasureHunt) |
-| **Maze App**  | A React PWA game app build for IEDC Summit 2023 | [iedc-summit-app.vercel.app](https://iedc-summit-app.vercel.app/) | [GitHub](https://github.com/Jenin82/iedc-summit-app) |
-| **Portfolio Website**  | A space themed portfolio website build using NextJs | [space.jenin.xyz](https://space.jenin.xyz/) | [GitHub](https://github.com/Jenin82/SpacePortfolio) |
-| **Mystery Inc**  | A React Supabase PWA app build for tresure hunt competition at SNGIST | [mystery.agreya.live](https://mystery.agreya.live/) | [GitHub](https://github.com/Jenin82/MYSTERY-INC) |
-| **Skill Spectrum**  | A React website build as part of Top100Coders Challege for job identification with Beckn | [careerio-dev.vercel.app](https://careerio-dev.vercel.app/) | [GitHub](https://github.com/Jenin82/SkillSpectrum) |
-| **Park Plus**  | A React web app build for parking management | [park-plus-weld.vercel.app](https://park-plus-weld.vercel.app/) | [GitHub](https://github.com/Jenin82/ParkPlus) |
-| **First Portfolio Website**  | A webpage build with HTML, CSS and JS | [old.jenin.xyz](https://old.jenin.xyz/) | [GitHub](https://github.com/Jenin82/Jenin82.github.io) |
+| **IEDC SNGIST**  | Dynamic NextJs website for IEDC at SNGIST group of institutions | [iedc.sngist.org](https://iedc.sngist.org/) | [GitHub](https://github.com/Alan0602/sngist-iedc) |
+| **SNGIST Website**  | A college website with grievance system and user management build using Django. | [sngist.up.railway.app](https://sngist.up.railway.app/) | [GitHub](https://github.com/Alan0602/sngist) |
+| **Mystery Inc**  | A React Supabase PWA app build for tresure hunt competition at SNGIST | [mystery.agreya.live](https://mystery.agreya.live/) | [GitHub](https://github.com/Alan0602/MYSTERY-INC) |
+| **Re-Tech**  | A React website build as part of In 50 Hours| [careerio-dev.vercel.app](https://re-tech-five.vercel.app/) | [GitHub](https://github.com/Alan0602/Re-Tech) |
+| **Love Prediction**  | A web app build for love prediction | [love-prediction.vercel.app](https://love-prediction.vercel.app) | [GitHub](https://github.com/Alan0602/loveprediction) |
+| **Sudoku Solver**  | A webpage build with HTML, CSS and JS | [alan0602.github.io/SudokuSolver/](https://alan0602.github.io/SudokuSolver/) | [GitHub](https://github.com/Alan0602/SudokuSolver) |
 
 #### Leadership and Influence:
 
