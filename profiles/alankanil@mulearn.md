@@ -37,13 +37,13 @@ Computer Science and Engineering student with a strong track record in internshi
 
 #### Career Plan:
 
-- In the immediate term, I plan to develop my own skills as well help others grow their technical skills.
-- In the long term, I'm Seeking to leverage my technical expertise and creative problem-solving skills in a challenging role at a forward-thinking company where I can contribute to complex projects and develop cutting-edge software solutions. Eager to apply my proficiency in web development to drive efficiency and quality in software products. Committed to continuous learning and adapting to emerging trends in the IT field.
+- In the short term,I want to improve my technical abilities and assist others in doing the same.
+- In the long term, I'm looking for a demanding role that will allow me to contribute to complicated projects and produce cutting-edge software solutions. I am eager to use my web development skills to improve the efficiency and quality of software products. I am committed to constant learning and adapting to changing IT trends.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups.
-- Collaboration between academia, government, and industry will be key to achieving this vision.
+- By developing local talent, encouraging innovation, and providing a welcoming atmosphere for businesses, Kerala has the potential to flourish in the technology startup ecosystem
+- Collaboration between academia, government, and industry will be critical to realizing this ambition.
 
 #### History of Open Source Contributions:
 
