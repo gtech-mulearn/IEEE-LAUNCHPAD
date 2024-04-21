@@ -47,8 +47,8 @@ Computer Science and Engineering student with a strong track record in internshi
 
 #### History of Open Source Contributions:
 
-- Contributed to the open-source project [Mulearn](https://github.com/gtech-mulearn/mulearn) by implementing a lot of it's core components such as Reusable table components, Modals, Buttons etc.
-- Contributed in the open source project [ResumeWiz](https://github.com/SynthCod3/ResumeWiz) by implementing the Resume editor as well as the AI integration.
+- Contributed to the open-source project [Mulearn](https://github.com/gtech-mulearn/mulearn) by optimizing Mulearn's code using customizable components.
+- Contributed in the open source project [ResumeWiz](https://github.com/SynthCod3/ResumeWiz) by implementing the UI and templates of ATS resumes.
 
 #### History of Community Engagement:
 
