@@ -23,17 +23,17 @@ Computer Science and Engineering student with a strong track record in internshi
 
 #### Leadership and Influence:
 
-- College Union Chairman at SNGIST for the AY: 2023-2024
-- IEDC Lead at SNGIST for the AY: 2023-2024
-- Campus Lead for MuLearn at SNGIST AY: 2022-2024 
-- Tech team lead at MuLearn
-- Top 100 Coders Fellow
+- College Arts Club Secretary Chairman at SNGIST for the AY: 2022-2023
+- IEDC QA Lead at SNGIST for the AY: 2022-2023
+- Campus Execom Member for MuLearn at SNGIST AY: 2022-2024 
+- IEDC Technical Lead at SNGIST for the AY: 2021-2022
+- TIEDC Operational Lead at SNGIST for the AY: 2020-2021
 
 #### Networking:
 
-- Participated in various community events organized my the varoius tech communities such as MuLearn, Tinkerspace, ICFOSS, IEEE etc.
-- Organized an event at IEDC Summit for MuLearn in which more than 2500 students participated. 
-- active engagement in industry events like Huddle Global, IEDC Summit, and NASTECH.
+- Participated in various community events organized my the varoius tech communities such as MuLearn, Tinkerspace, IEEE etc.
+- Volunteered an event at IEDC Summit for MuLearn in which more than 2500 students participated. 
+- active engagement in industry events like  IEDC Summit, and Faya-Port80.
 
 #### Career Plan:
 
