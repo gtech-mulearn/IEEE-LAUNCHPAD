@@ -1,48 +1,43 @@
-name: Check PR Paths and Label
+name: Label Pull Request
 
-on: 
+on:
   pull_request:
-    branches:
-      - main
     paths:
       - 'profiles/**'
 
 jobs:
-  check-paths:
+
+  label:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Check for file changes outside /profile directory
-        id: check_changes
-        run: |
-          git fetch origin ${{ github.base_ref }}
-          FILES=$(git diff --name-only origin/${{ github.base_ref }}...HEAD)
-          OUTSIDE_CHANGES=false
-          for FILE in $FILES; do
-            if [[ $FILE != "profile/"* ]]; then
-              echo "::set-output name=outside_changes::true"
-              OUTSIDE_CHANGES=true
-              echo "Changes detected outside the /profiles directory in file: $FILE"
-              break
-            fi
-          done
-          if [[ $OUTSIDE_CHANGES == "true" ]]; then
-            echo "Invalid PR due to changes outside /profile directory."
-            exit 1
-          fi
-
-      - name: Label PR as invalid
-        if: steps.check_changes.outputs.outside_changes == 'true'
-        uses: actions/github-script@v5
-        with:
-          github-token: ${{ secrets.GIT_ACCESS_TOKEN }}
-          script: |
-            const issue_number = context.issue.number;
-            github.rest.issues.addLabels({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: issue_number,
-              labels: ['invalid']
-            })
+    - uses: actions/checkout@v2
+    
+    - name: Label Pull Request
+      run: |
+        INVALID=false
+        
+        # Check if changes are made outside 'profiles' folder
+        if [[ $(git diff --name-only HEAD..HEAD^ | grep -v '^profiles/') ]]; then
+          INVALID=true
+        fi
+        
+        # Check if files inside 'profiles' folder don't have '.md' extension
+        if [[ $(git diff --name-only HEAD..HEAD^ | grep '^profiles/' | grep -v '\.md$') ]]; then
+          INVALID=true
+        fi
+        
+        if $INVALID; then
+          LABEL="invalid"
+        else
+          LABEL="valid"
+        fi
+        
+        echo "Labeling pull request as $LABEL"
+        
+        # Use GitHub API to add label
+        curl -X POST \
+          -H "Accept: application/vnd.github+json" \
+          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/labels \
+          -d "{\"labels\":[\"$LABEL\"]}"
