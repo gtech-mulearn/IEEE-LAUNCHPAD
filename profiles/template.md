@@ -14,16 +14,14 @@
 |---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
 | **IOT-Based-AUTOMATED-PRECISION-AGRICULTURE**  | The objective of this project is to propose an IoT-based Smart Farming System which will enable farmers to have plant disease detection at a very low cost. | [Repo Link 1](https://github.com/jerrinmg/IOT-Based-AUTOMATED-PRECISION-AGRICULTURE) |
 | **Advanced Triple-Mode Algorithmic Automatic Battery Protection System**  | The Project presents an innovative solution for protection, real-time monitoring, and remote management of battery health and performance. | [Github Repo](https://github.com/jerrinmg/Advanced-Triple-Mode-Algorithmic-Automatic-Battery-Protection-System/tree/main) |
-
+| **AIR-MED**  | This project tackles a critical challenge in emergency medicine: the race against time to save lives. With a staggering number of accidents happening worldwide, prompt medical attention is the ultimate difference between life and death.| [Github Repo](https://github.com/Anantha9004/AIR-MED) |
 
 
 
 #### History of Open Source Contributions:
 
--IoT-Based-AUTOMATED-PRECISION-AGRICULTURE : 
+- [AIRMED](https://github.com/Anantha9004/AIR-MED)
 
-- AIRMED 
-Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
@@ -43,7 +41,21 @@ Share details of your open-source contributions, whether they are your own proje
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+##### CHAIR, IEEE PES SBC CEA
+- **Responsibilities:**
+  - Managed the executive committee effectively.
+  - Demonstrated strong leadership qualities.
+
+##### VICE-CHAIR, IEEE PES SBC CEA
+- **Responsibilities:**
+  - Coordinated with the executive committee to conduct quality events.
+  - Showcased strong event management capabilities.
+
+##### SECRETARY, IEEE PES SBC CEA
+- **Responsibilities:**
+  - Ensured active participation of IEEE members in various IEEE events.
+  - Authored over 20 detailed reports on conducted events.
+
 
 #### Networking:
 
