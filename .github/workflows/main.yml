@@ -6,7 +6,6 @@ on:
       - 'profiles/**'
 
 jobs:
-
   label:
     runs-on: ubuntu-latest
     
@@ -14,16 +13,18 @@ jobs:
     - uses: actions/checkout@v2
     
     - name: Label Pull Request
+      env:
+        TOKEN: ${{ secrets.PERSONAL_TOKEN }}
       run: |
         INVALID=false
         
         # Check if changes are made outside 'profiles' folder
-        if [[ $(git diff --name-only HEAD..HEAD^ | grep -v '^profiles/') ]]; then
+        if [[ $(git diff --name-only HEAD^ -- | grep -v '^profiles/') ]]; then
           INVALID=true
         fi
         
         # Check if files inside 'profiles' folder don't have '.md' extension
-        if [[ $(git diff --name-only HEAD..HEAD^ | grep '^profiles/' | grep -v '\.md$') ]]; then
+        if [[ $(git diff --name-only HEAD^ -- profiles | grep -v '\.md$') ]]; then
           INVALID=true
         fi
         
@@ -36,13 +37,8 @@ jobs:
         echo "Labeling pull request as $LABEL"
         
         # Use GitHub API to add label
-        - name: Label Pull Request
-          env:
-            TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-          run: |
-            # ... (the rest of the script remains the same)
-            curl -X POST \
-              -H "Accept: application/vnd.github+json" \
-              -H "Authorization: Bearer $TOKEN" \
-              https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/labels \
-              -d "{\"labels\":[\"$LABEL\"]}"
+        curl -X POST \
+          -H "Accept: application/vnd.github+json" \
+          -H "Authorization: Bearer $TOKEN" \
+          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/labels \
+          -d "{\"labels\":[\"$LABEL\"]}"
