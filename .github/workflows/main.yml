@@ -38,6 +38,6 @@ jobs:
         # Use GitHub API to add label
         curl -X POST \
           -H "Accept: application/vnd.github+json" \
-          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Authorization: Bearer ${{ secrets.GIT_ACCESS_TOKEN }}" \
           https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/labels \
           -d "{\"labels\":[\"$LABEL\"]}"
