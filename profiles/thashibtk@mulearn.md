@@ -27,8 +27,7 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- 
-Kerala can excel in tech startups by focusing on skilled talent, fostering innovation partnerships, and providing strong support for startups with resources and funding.
+- Kerala can excel in tech startups by focusing on skilled talent, fostering innovation partnerships, and providing strong support for startups with resources and funding.
 
 #### Highly Used Software Tools:
 
