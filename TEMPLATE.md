@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm an enthusiastic Python Full Stack Developer with a keen eye for detail and a passion for crafting efficient, user-centric solutions. With expertise in Python, HTML, CSS, Bootstrap, JavaScript, jQuery, Django, Flask, MySQL, MongoDB, and Angular, I thrive in collaborative environments where I can leverage these technologies to build robust web applications. My strong foundation in computer science enables me to tackle complex problems and implement innovative solutions. Outside of work, I enjoy exploring new technologies, engaging in community initiatives, and pursuing creative hobbies like art and singing.
 
 
 ## Portfolio Highlights
@@ -11,7 +11,10 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Job Portal Application**  |Using Python, Django, Javascript and MySQL, built a job portal
+ application . The Recruiter module is typically used to handle job posting,
+ accept/reject applicant, manage job opening session. The Jobseeker module users can search for job based on job title,
+ location and job type, and apply for desired jobs.                                             | [Hosted Link 1](https://example.com)    | [[Repo Link 1]](https://github.com/anju1jacob/Job-Portal-Application-python-Django.git)(https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
