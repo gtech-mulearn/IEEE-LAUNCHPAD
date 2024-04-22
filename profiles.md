@@ -43,7 +43,7 @@
 
 ##### CHAIR, IEEE PES SBC CEA
 - **Responsibilities:**
-  - Managed the executive committee effectively.
+  - Responsible for managing the executive committee effectively. As a result achieved 50% growth rate in membership for the society.
   - Demonstrated strong leadership qualities.
 
 ##### VICE-CHAIR, IEEE PES SBC CEA
@@ -54,12 +54,14 @@
 ##### SECRETARY, IEEE PES SBC CEA
 - **Responsibilities:**
   - Ensured active participation of IEEE members in various IEEE events.
-  - Authored over 20 detailed reports on conducted events.
+  - Made over 20 detailed reports of events. Budget preparation, presentations and event hosting skills was also exhibited and developed.
 
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+In my pursuit to be an active participant in the Top 100 community, I plan to leverage my skills in coordination, teamwork, and excellent verbal communication to engage effectively with fellow members. My experiences in hosting and participating in over 40 technical and networking events during my undergraduate education have honed my ability to work with diverse teams and enhance group dynamics.
+
+I believe my role in this esteemed community would be twofold: to influence through active participation and to lead by example in initiatives that resonate with our collective goals. Here’s how I envision my contribution:
 
 #### Career Plan:
 
@@ -67,7 +69,7 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+I am deeply interested in the startup ecosystem of Kerala and believe in the motto that we should be makers of jobs rather than chasers of jobs. I am drawn to startups made by tech enthusiasts aiming to solve real life problems and help humanity move forward.  I am very inspired by Startups such as Gen Robotics, which was formed from the friendship of B.Tech Undergrads who solved a troubling real life humanitarian problem. I am elated to see that they are now worth over 75 Crore and won several accolades.
 
 
 > In your portfolio, include the following details:
