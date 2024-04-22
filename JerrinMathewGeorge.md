@@ -22,15 +22,6 @@
 
 - [AIRMED](https://github.com/Anantha9004/AIR-MED)
 
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
 #### Highly Used Software Tools:
 
 - Jupyter Notebook, Microsoft Visual Studio Code, PVsyst, EasyEDA, Arduino IDE, R Studio, Unity Editor
@@ -72,7 +63,7 @@ I believe my role in this esteemed community would be twofold: to influence thro
 I am deeply interested in the startup ecosystem of Kerala and believe in the motto that we should be makers of jobs rather than chasers of jobs. I am drawn to startups made by tech enthusiasts aiming to solve real life problems and help humanity move forward.  I am very inspired by Startups such as Gen Robotics, which was formed from the friendship of B.Tech Undergrads who solved a troubling real life humanitarian problem. I am elated to see that they are now worth over 75 Crore and won several accolades.
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+>  
+>> check out [JerrinMathewGeorge.md]([./profile/vishakhabhayan@mulearn.md](https://github.com/jerrinmg/IEEE-LAUNCHPAD/blob/main/JerrinMathewGeorge.md) 
 
 ---
