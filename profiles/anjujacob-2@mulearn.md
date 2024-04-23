@@ -11,8 +11,8 @@
 
 | Name                        | Description                                                                                                          | Repo Link                                                      |
 |---------------------        |---------------------------------------------------------------------------                                           |----------------------------------------------------------------|
-| **Job Portal Application**  | The Recruiter module is typically used to handle job posting,accept/reject applicant, manage job opening session.    | [Repo Link 1](https://github.com/anju1jacob/Job-Portal-Application-python-Django)             |
-                                 The Jobseeker module users can search for job based on job title,location and job type, and apply for desired jobs
+| **Job Portal Application**  | The Recruiter module is typically used to handle job posting,accept/reject applicant, manage job opening session. The Jobseeker module users can search for job based on job title,location and job type, and apply for desired jobs   | [Repo Link 1](https://github.com/anju1jacob/Job-Portal-Application-python-Django)             |
+                                 
 
 #### Leadership and Influence:
 
