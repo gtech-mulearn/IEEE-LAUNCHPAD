@@ -12,7 +12,7 @@
 
 | Name                | Description                                                               | Hosted Link                                                                                   |
 |---------------------|---------------------------------------------------------------------------|-----------------------
-|Mentur U          |It's an learning app and this platform is built to a strong teaching skill and make income 
+|Mentur U          |It's an learning app here the tutors are students who is studying in college and this platform is built to make a strong teaching skill and make income 
 
 #### Networking:
 
