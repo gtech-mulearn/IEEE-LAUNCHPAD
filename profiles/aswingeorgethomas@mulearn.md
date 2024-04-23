@@ -1,58 +1,64 @@
-# Full Name 
+# Aswin George Thomas
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+As a passionate student engineer, I specialize in web development and Python programming. With a focus on crafting dynamic and user-friendly websites, I leverage my Python expertise to build efficient and innovative solutions. My passion for web development drives me to continuously explore new technologies and refine my skills, ensuring that I deliver impactful and seamless digital experiences.
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|      Name     | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Collabrative Workflow System**  | Designed and fine-tuned systems for teams to work together seamlessly, improving how they communicate and getting projects done faster and more efficiently | [Hosted Link]()  | [Repo Link](https://github.com/aswingt65/Main_project) |
+| **Football Team Website**  | Responsive website for a football team | [Hosted Link](https://aswingt.me/responsive-football-team-website/index.html)   | [Repo Link](https://github.com/aswingt65/responsive-football-team-website) |
+| **Social Media Website**  | Responsive social media website | [Hosted Link]()   | [Repo Link](https://github.com/aswingt65/Corizo-Major-Project) |
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Design Lead for the College Tech Fest.
+- Demonstrated adaptability and problem-solving skills by successfully navigating and resolving challenges encountered during team projects.
+- Helped others learn Python and web development through mentoring and workshops.
+- Actively participated in professional networking events, establishing connections and staying updated on industry developments
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
+- Uses Linkedin for interacting with diverse people from all around the world.
+- I frequently attend hackathons and conferences, where I've had the opportunity to meet many incredible individuals.
+  
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Make high quality contributions to open source. 
+- Continue to enhance my knowledge while exploring new domains and technologies that align with my interests.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala can achieve success in the technology startup ecosystem by cultivating indigenous talent, encouraging innovation, and establishing a conducive environment for startups to thrive.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Contributed in Hacktoberfest 2022 & 2023.
+- I have contributed to college based projects.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+-  Active participant in the Gtech Mulearn `Current rank #10`.
+-  Active Member of IEDC and TinkerHub.
+-  Member of Hunt Town Web3 community.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Currently I dont have any Technical Content published.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Visual Studio Code, Figma
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aswingt)
+- [HackerRank](https://www.hackerrank.com/aswingt65)
+- [Linkedin](https://www.linkedin.com/in/aswingt65/)
+- [Mulearn](https://app.mulearn.org/profile/aswingeorgethomas@mulearn)
+- [Github](https://github.com/aswingt65)
