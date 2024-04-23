@@ -2,7 +2,7 @@
 
 ### Help or Support
 
-If you continue to face any challenges or have further questions, we're here to help! Additionally, you can join our Top 100 Support WhatsApp Group for real-time assistance. Just click on the link:
+If you continue to face any challenges or have further questions, we're here to help! Additionally, you can join our **IEEE LAUNCHPAD** Support WhatsApp Group for real-time assistance. Just click on the link:
 [join group]( https://chat.whatsapp.com/J8PvsGmFsjl2ykn5VckAVj)
 
 ### Profile Highlights
@@ -35,4 +35,4 @@ Before submitting this PR, please ensure that you have:
 - [ ] Followed the provided template for each section.
 - [ ] Make sure you joined the Whatsapp Group 
 
-Thank you for participating in Kerala Top 100 Coders - Huddle Global 2023!
+Thank you for participating in **IEEE LAUNCHPAD** 2024!
