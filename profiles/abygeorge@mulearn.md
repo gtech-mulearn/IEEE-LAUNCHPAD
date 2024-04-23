@@ -22,8 +22,8 @@ I'm a Btech graduate, and a tech enthusiast interested in web development. I hav
 
 #### Career Plan:
 
--In the immediate term, my primary focus is to secure a position as a junior developer in a reputable organization. By joining a dynamic team, I aim to gain hands-on experience and further develop my technical skills in web development and software engineering.
--My long-term goal is to evolve into a proficient full-stack developer with expertise in a wide range of technologies.
+- In the immediate term, my primary focus is to secure a position as a junior developer in a reputable organization. By joining a dynamic team, I aim to gain hands-on experience and further develop my technical skills in web development and software engineering.
+- My long-term goal is to evolve into a proficient full-stack developer with expertise in a wide range of technologies.
 
 
 #### Thoughts on Kerala's Tech Ecosystem:
