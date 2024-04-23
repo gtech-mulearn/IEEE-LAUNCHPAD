@@ -1,4 +1,4 @@
-# Full Name
+# Pavin Raj
 
 ### About Me
 
