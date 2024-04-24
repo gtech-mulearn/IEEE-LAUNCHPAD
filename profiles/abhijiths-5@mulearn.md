@@ -12,11 +12,13 @@
 | Name                | Description                                                               |
 |---------------------|---------------------------------------------------------------------------|
 | **WSL2 FORENSICS**  | Explored the detection, acquisition, and postmortem analysis of WSL2 instances, including identifying WSL2 guests and automating the investigation process, challenges and considerations in incident handling and computer forensics related to integrating the Windows Subsystem for Linux, version 2 (WSL2), into Microsoft’s operating systems.                                              | 
-| **MERN STACK WEB DEVELOPMENT**  | Developed a single‑page web application utilizing the MERN stack (MongoDB, Express.js, React, Node.js) and essential web technologies such as JavaScript, HTML, and CSS. The project encompasses the creation of a user‑friendly Sign‑up and Login Page, ensuring secure authentication processes. Additionally, implemented an Issue Tracker functionality within the application, enabling seamless CRUD (Create, Read, Update, Delete) operations for efficient issue management.                                             | 
+| **MERN STACK WEB DEVELOPMENT**  | Developed a single‑page web application utilizing the MERN stack (MongoDB, Express.js, React, Node.js) and essential web technologies such as JavaScript, HTML, and CSS. The project encompasses the creation of a user‑friendly Sign‑up and Login Page, ensuring secure authentication processes. Additionally, implemented an Issue Tracker functionality within the application, enabling seamless CRUD (Create, Read, Update, Delete) operations for efficient issue management.                                             |
+| **AI for Cybersecurity**  | Semantic Analysis and Classification of emails through informative selection of features and ensemble AI model.                          |
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- **Core Member, Social Engagement Centre** As a part of my active social volunteering, I have demonstrated leadership by organizing and executing diverse camps and events for societal
+betterment
 
 #### Networking:
 
