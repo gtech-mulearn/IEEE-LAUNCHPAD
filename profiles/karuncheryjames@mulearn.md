@@ -52,7 +52,7 @@ An active participant of the Mulearn discord server.
 
 #### Competitive Website Profiles:
 
--Member of [CodeChef](https://www.codechef.com/users/karun_cj), Hackerrank, and LeetCode.
+-Member of CodeChef, Hackerrank, and LeetCode.
 
 
 >> check out [karuncheryjames@mulearn.md](./profile/karuncheryjames@mulearn.md)
