@@ -1,1 +1,49 @@
+# JOHAN GEROGE
 
+### About Me
+
+> I'm Johan George, a 20-year-old with a double dose of passion: web development and music, especially the world of front-end development.  Code and creativity go hand-in-hand for me! Whether I'm building something new online or jamming on my [Instrument], I'm always pushing the boundaries and exploring what's possible.
+
+My ultimate goal is to delve deeper into the world of computer careers and find the perfect fit where I can combine my love for web development with other creative fields.  My curiosity is relentless, and I'm always on the lookout for new things to learn.
+
+One of my biggest strengths is my ability to push myself outside my comfort zone. I might not always get it right on the first try, but I'm never afraid to learn from my mistakes and keep growing.  
+
+
+## Portfolio Highlights
+
+### My Projects
+
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **PORTFOLIO**  | Description of the project 1                                              | [Hosted Link 1](https://jo-g-github-io.vercel.app/)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+
+#### Leadership and Influence:
+
+- I have been t=in the organizing comettee of FOSS FEST 2023 , conducted 2 hackathons Cto of iedc cek 
+
+#### Networking:
+
+- naturally i am extroverted so its been nice to network with people of same intrest
+
+
+#### Thoughts on Kerala's Tech Ecosystem:
+
+- Currently its in the budding stage , but thedevelopment is on track
+
+
+
+#### Highly Visible Technical Content:
+
+- Highlight any highly visible technical blog posts, articles, or video series you have created.
+
+#### Highly Used Software Tools:
+
+-VS Code currently i do my developement works on vs but soon i will be migrateing to vim
+
+
+
+> In your portfolio, include the following details:
+>> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+
+---
