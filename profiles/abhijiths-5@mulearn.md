@@ -12,7 +12,7 @@
 | Name                | Description                                                               |
 |---------------------|---------------------------------------------------------------------------|
 | **WSL2 FORENSICS**  | Explored the detection, acquisition, and postmortem analysis of WSL2 instances, including identifying WSL2 guests and automating the investigation process, challenges and considerations in incident handling and computer forensics related to integrating the Windows Subsystem for Linux, version 2 (WSL2), into Microsoft’s operating systems.                                              | 
-| **Project Name 2**  | Description of the project 2                                              | 
+| **MERN STACK WEB DEVELOPMENT**  | Developed a single‑page web application utilizing the MERN stack (MongoDB, Express.js, React, Node.js) and essential web technologies such as JavaScript, HTML, and CSS. The project encompasses the creation of a user‑friendly Sign‑up and Login Page, ensuring secure authentication processes. Additionally, implemented an Issue Tracker functionality within the application, enabling seamless CRUD (Create, Read, Update, Delete) operations for efficient issue management.                                             | 
 
 #### Leadership and Influence:
 
