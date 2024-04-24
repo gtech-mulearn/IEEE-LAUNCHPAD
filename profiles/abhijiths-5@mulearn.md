@@ -29,7 +29,7 @@ betterment
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My immediate career plan is to get into an entry-level position in an industrial setting where I can apply the theoretical knowledge that I have gained over my academics. Later, as the career progresses, after 2-3 years, I want to be at a mid-senior level, and later, I would like to see myself in a leadership position where I could mentor new graduates who follow a similar or a better path I have come over.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
