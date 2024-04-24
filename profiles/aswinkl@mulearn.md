@@ -8,7 +8,6 @@ Certainly! Here's an updated introduction:
 Hello, I'm Aswin, a self-taught Python developer with a passion for crafting innovative solutions and diving deep into the world of software development. Graduating from the College of Applied Science, Kuzhalmanam, provided me with a solid foundation in computer science principles and ignited my journey into the realm of programming. With expertise in Python, HTML, CSS, and Git, I thrive on transforming ideas into robust applications. My journey in programming began with a curious mind and a determination to learn, leading me to explore various technologies and refine my skills continuously.
 
 
-
 ## Portfolio Highlights
 
 ### My Projects
@@ -21,7 +20,6 @@ Hello, I'm Aswin, a self-taught Python developer with a passion for crafting inn
 #### Leadership and Influence:
 
 - i have led a team for my college project . it was a wonderful experience and was able to learn so many things.
-- 
 
 #### Networking:
 
@@ -41,11 +39,16 @@ Hello, I'm Aswin, a self-taught Python developer with a passion for crafting inn
   -  Build my own brand
   -  Build by own startup 
 
+#### Thoughts on Kerala's Tech Ecosystem:
+
+- i have noticed that everyone is very supporting comparing to other states
+ 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
+- [leetcode](https://leetcode.com/Aswinkl/)
+- [Hackerrank](https://www.hackerrank.com/profile/nuzhumaki9)
+- [Hackerearth](https://www.hackerearth.com/@nuzhumaki9) 
+  
 
 > In your portfolio, include the following details:
 >> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
