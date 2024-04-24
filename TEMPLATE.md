@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> A final year CS&E student with a robust foundation in C, C++, Python, JS, Flask & Django. I design efficient algorithms and build dynamic web apps, tackling complex problems and delivering impactful solutions. Outside of academics, I enjoy reading, games, and movies. Eager to contribute meaningfully to the tech industry and apply my skills!
 
 
 ## Portfolio Highlights
