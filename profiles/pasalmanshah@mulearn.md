@@ -5,14 +5,13 @@
 As a professional, i excel in my field with a combination of expertise, dedication, and innovation. With a proven track record of achieving goals and exceeding expectations, i consistently deliver high-quality results. My strong communication skills enable me to effectively collaborate with colleagues and stakeholders, fostering positive relationships and driving successful outcomes. My possess a keen eye for detail and a strategic mindset, allowing me to identify opportunities for improvement and implement solutions with precision and efficiency. My adaptability and resilience enable me to thrive in dynamic environments, navigating challenges with grace and determination. Committed to continuous learning and growth, i stay abreast of industry trends and advancements, positioning myself as a trusted expert in my field. My leadership abilities inspire others to perform at their best, fostering a culture of excellence and achievement. Overall, I am a valuable asset to any organization, bringing passion, expertise, and professionalism to everything i do.
 
 
-## Portfolio Highlights
-
 ### My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | Youtube Transcript Summarizer | A YouTube transcript summarizer condenses video content into a brief written summary for quick understanding.                          | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | Intrusion Detection System for Detecting Phishing Errors| A phishing detection system identifies and flags suspicious URLs to protect users from potential phishing attacks.
+
 #### Leadership and Influence:
 
 Leadership quality embodies my capacity to inspire and guide individuals towards common objectives, leveraging my positive influence to cultivate a culture of success and collaboration.
