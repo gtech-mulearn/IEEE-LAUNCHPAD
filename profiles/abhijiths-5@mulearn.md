@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Highly motivated and skilled cybersecurity student seeking an entry-level position to leverage my academic background in digital forensics, cryptography, and ethical hacking. I am eager to contribute to a team protecting sensitive data and infrastructure from cyber threats, with a strong desire to continuously learn and adapt in this dynamic field.
 
 
 ## Portfolio Highlights
