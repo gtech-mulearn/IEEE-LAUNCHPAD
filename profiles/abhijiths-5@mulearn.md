@@ -23,7 +23,9 @@ betterment
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- As a core member of the placement cell, I had enough opportunities to interact and connect with various industrialists.
+- I often participate in GDSC, Google Cloud and other common meet-ups.
+- Member of G-Tech Mulearn Discord Server from Early 2022. 
 
 #### Career Plan:
 
@@ -31,10 +33,4 @@ betterment
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-
-
----
-
-
+- Kerala has immense potential to excel in the technology startup ecosystem; it can be achieved by making the government policies lenient, Promoting STEM education, Industrial and Academic collaboration, Promoting sustainable and Impactful ventures, and Promoting diversity in terms of gender and ethnicity, and background fosters creativity and innovation.
