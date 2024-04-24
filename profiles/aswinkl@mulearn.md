@@ -50,7 +50,4 @@ Hello, I'm Aswin, a self-taught Python developer with a passion for crafting inn
 - [Hackerearth](https://www.hackerearth.com/@nuzhumaki9) 
   
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
----
