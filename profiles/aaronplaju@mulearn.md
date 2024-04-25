@@ -37,3 +37,27 @@
 ### History of Open Source Contributions:
 
 - I have always participated in hacktoberfest and still is a part of open source contributor.
+
+### History of Community Engagement:
+
+- I always engage in collaborative learning and knowledge-sharing within the FreeCodeCamp community, contributing to discussions, sharing insights, and assisting fellow learners in their coding journey.
+
+- I always actively involve in GDSC activities, including workshops, seminars, and hackathons, fostering a culture of innovation, collaboration, and skill development among peers.
+
+- I regularly participate in hackathons, leveraging problem-solving skills and creativity to develop innovative solutions, collaborate with diverse teams, and push the boundaries of technology.
+
+### Highly Used Software Tools:
+
+- CVAT
+  
+- Kaggle
+  
+- Visual Studio Code
+  
+- Google Colab
+
+### Competitive Website Profiles:
+
+- [FreeCodeCamp Forum](https://forum.freecodecamp.org/u/aaronvincent6411/summary)
+  
+- [Kaggle](https://www.kaggle.com/aaronvincent6411)
