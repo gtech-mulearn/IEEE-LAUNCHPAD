@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+I am currently pursuing B.Tech in Computer Science and Engineering at College of Engineering Vadakara. With a strong foundation in C programming, Java, SQL, and Flutter, complemented by hands-on experience from an internship in full-stack web development using MERN at ICT Academy, I am eager to showcase my skills and excel in my career. I am actively seeking opportunities where I can contribute meaningfully and continue to grow professionally.
 
 
 ## Portfolio Highlights
