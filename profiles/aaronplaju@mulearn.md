@@ -37,8 +37,3 @@
 ### History of Open Source Contributions:
 
 - I have always participated in hacktoberfest and still is a part of open source contributor.
-
-> In your portfolio, include the following details:
->> check out [aaronplaju@mulearn.md](./profile/aaronplaju@mulearn.md) for an exmaple
-
----
