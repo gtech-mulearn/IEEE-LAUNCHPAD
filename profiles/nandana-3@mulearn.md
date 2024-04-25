@@ -30,7 +30,9 @@ I am currently pursuing B.Tech in Computer Science and Engineering at College of
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My immediate goal is to get placement in a good company in a software developer role,web developer role.
+  
+- I am interested in cybersecurity area so I am planning to take masters in cybersecurity for that based jobs.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
