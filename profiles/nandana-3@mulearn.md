@@ -24,7 +24,9 @@ I am currently pursuing B.Tech in Computer Science and Engineering at College of
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Attending industry conferences, workshops, and seminars to meet professionals and expand your network.
+  
+- Collaborating on projects or initiatives with classmates, colleagues, or alumni networks to build connections and showcase your skills.
 
 #### Career Plan:
 
