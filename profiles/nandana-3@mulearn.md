@@ -26,7 +26,7 @@ I am currently pursuing B.Tech in Computer Science and Engineering at College of
 
 - Attending industry conferences, workshops, and seminars to meet professionals and expand your network.
   
-- Collaborating on projects or initiatives with classmates, colleagues, or alumni networks to build connections and showcase your skills.
+- Taking initiatives with classmates to build connections and project presentation.
 
 #### Career Plan:
 
