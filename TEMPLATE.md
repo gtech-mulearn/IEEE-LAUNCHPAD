@@ -23,7 +23,6 @@ I'll share insights and advice, and collaborate with others to make a positive i
 
 #### Career Plan:
 
-- 
 Presently, my goal is to advance my proficiency as a developer through involvement in a variety of projects and by staying informed about industry trends. I also intend to pursue continuous learning opportunities and collaborate with peers to broaden my skill set and knowledge base.
 
 #### Thoughts on Kerala's Tech Ecosystem:
