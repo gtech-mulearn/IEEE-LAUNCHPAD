@@ -25,16 +25,27 @@ One of my biggest strengths is my ability to push myself outside my comfort zone
 
 - naturally i am extroverted so its been nice to network with people of same intrest
 
+#### Career Plan:
+
+- i am exploreng different stack . if i need to say it would be front end development
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Currently its in the budding stage , but thedevelopment is on track
 
 
+#### History of Open Source Contributions:
+
+- contributed in front end of many open source projects .
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- till now theere is none
+
+#### History of Community Engagement:
+
+-contibuted as a volunteer and organizer for tink her hack and iedc talk sessions.
+        
 
 #### Highly Used Software Tools:
 
