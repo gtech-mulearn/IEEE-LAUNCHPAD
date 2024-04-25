@@ -34,13 +34,14 @@ I am currently pursuing B.Tech in Computer Science and Engineering at College of
   
 - I am interested in cybersecurity area so I am planning to take masters in cybersecurity for that based jobs.
 
-#### Thoughts on Kerala's
+#### Thoughts on Kerala's Tech Ecosystem:
 
 Enhance infrastructure and education for startups.Increase funding options and simplify regulations.Encourage collaboration and focus on emerging tech.Promote Kerala's startup ecosystem through events.
 
 #### Competitive Website Profiles:
 
 - Interviewbit-https://www.interviewbit.com/profile/41_nandana-suresh/
+  
 -LinkedIn-https://www.linkedin.com/in/nandana-suresh
 
 
