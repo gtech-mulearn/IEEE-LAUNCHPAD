@@ -41,7 +41,8 @@ Enhance infrastructure and education for startups.Increase funding options and s
 #### Competitive Website Profiles:
 
 - Interviewbit-https://www.interviewbit.com/profile/41_nandana-suresh/
-- LinkedIn-https://www.linkedin.com/in/nandana-suresh
+- LinkedIn-
+https://www.linkedin.com/in/nandana-suresh-390787205
 
 
 
