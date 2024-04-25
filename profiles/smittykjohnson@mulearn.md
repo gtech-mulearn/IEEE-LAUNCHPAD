@@ -1,4 +1,5 @@
-<div><br class="Apple-interchange-newline"># SMITTY K JOHNSON
+
+ # SMITTY K JOHNSON
 
 ### About Me
 
