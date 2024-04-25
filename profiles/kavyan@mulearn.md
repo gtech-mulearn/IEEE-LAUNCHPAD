@@ -18,9 +18,6 @@
 
 - During my academic journey, I had the privilege of serving as the Chair of IEEE Women in Engineering in my college. Through this, I honed my leadership skills, learned to navigate challenges, and inspired others to reach their full potential. 
 
-#### Networking:
-
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
 
 #### Career Plan:
 
