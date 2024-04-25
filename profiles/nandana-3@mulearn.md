@@ -44,7 +44,7 @@ Enhance infrastructure and education for startups.Increase funding options and s
 - LinkedIn-
 https://www.linkedin.com/in/nandana-suresh-390787205
 - Github-
-  https://github.com/Kolankara
+https://github.com/Kolankara
 
 In your portfolio, include the following details:
 
