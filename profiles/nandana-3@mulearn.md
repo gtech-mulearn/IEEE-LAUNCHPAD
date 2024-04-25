@@ -36,7 +36,10 @@ I am currently pursuing B.Tech in Computer Science and Engineering at College of
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+Enhance infrastructure and education for startups.Increase funding options and simplify regulations.Encourage collaboration and focus on emerging tech.Promote Kerala's startup ecosystem through events.
+
+
+
 
 #### History of Open Source Contributions:
 
