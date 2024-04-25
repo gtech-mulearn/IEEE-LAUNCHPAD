@@ -1,8 +1,8 @@
-# Full Name 
+Gouri Prasad
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+Hello! I'm currently in the final year of my Bachelor’s degree in Computer Science Engineering, with a strong interest in the IT field. Throughout my academic journey, I've been fascinated by Data Analytics and its applications. I'm dedicated to continuous learning and thrive on constructive feedback that helps me grow. In addition to my studies, I've gained practical experience with Python programming and the MySQL database, further enhancing my skills in data management and analysis. I'm deeply passionate about problem-solving and am driven by the opportunity to make meaningful contributions in the IT field.
 
 
 ## Portfolio Highlights
@@ -11,7 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Propertize  |  Developing a solution for individuals to assess property values, offer comprehensive financial insights, including loan repayment estimations, and providing cost-free tools                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
