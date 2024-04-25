@@ -1,8 +1,12 @@
-# Full Name 
+# Muhammed Anazil T A
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hey there! I'm Muhammed Anazil T A, a dedicated computer engineering student at Government Polytechnic College, Manathavady, with a burning passion for all things tech, especially web development.
+
+Ever since I dipped my toes into the vast ocean of technology, I've been captivated by the endless possibilities it offers. From crafting elegant code to designing seamless user experiences, I thrive on the creativity and problem-solving challenges that come with being a web developer.
+
+With each line of code I write, I strive for excellence, pushing boundaries and embracing innovation. Whether it's bringing a client's vision to life or exploring the latest trends in the tech world, I'm always eager to learn and grow.
 
 
 ## Portfolio Highlights
@@ -11,44 +15,43 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **AiA Hub Mens Store**  | Front-End of AiA Hub Online Shopping Website                                              | [Hosted Link 1](https://aiahub.github.io/aia/)    | [Repo Link 1](https://github.com/aiahub/aia)             |
+
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Projects Leadership: I've taken the lead in several group projects, guiding team members through the development process, delegating tasks based on strengths, and ensuring timely completion. For instance, in our recent web development project, I spearheaded the team, facilitating collaboration and maintaining momentum to meet project deadlines. Through effective communication and mentorship, I empowered team members to contribute their best.
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Active Participation: I actively engage with both online and offline communities related to web development and computer engineering.
+- Knowledge Sharing: I'm committed to sharing my knowledge and expertise with others in the community.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Engage with Local Startups: I plan to actively engage with local startups in Kerala by attending networking events, startup meetups, and conferences. By connecting with founders, sharing insights, and offering support and mentorship where needed, I aim to contribute to the growth and success of emerging startups in the region.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala has immense potential to excel in the technology startup ecosystem and become a leading hub for innovation and entrepreneurship
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
+- aia hub
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+-  Engaging with technical communities is a valuable way to share knowledge, learn from others, and contribute to the broader developer ecosystem.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Steps For Installing GCC On Windows [blog](https://medium.com/@anazilthottunghal/a-guide-to-installing-gcc-on-windows-5cc95c2f38c4)
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
+- Jewellery Price Calculator WebApp [webview](https://anazil.github.io/Jwelleryprizecalculator/)
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- Have 30 days Code Badge and 270+ Hackos In [HackerRank](https://www.hackerrank.com/profile/anazilthottungh1)
 
 
 
