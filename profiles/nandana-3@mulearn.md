@@ -16,7 +16,11 @@ I am currently pursuing B.Tech in Computer Science and Engineering at College of
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Led a successful mini-project as a team leader, demonstrating the ability to organize, motivate, and guide team members towards achieving project goals effectively.
+
+- Served as a group leader in IEEE Xtreme 2020, showcasing strong leadership skills in a competitive and challenging environment, contributing to the team's success and performance.
+
+
 
 #### Networking:
 
