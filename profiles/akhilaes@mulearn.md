@@ -23,10 +23,7 @@ Feel free to customize it further according to your preferences and experiences!
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-|_Identity Recognition Using Brain Waves _                                          |Person identification technology recognizes individuals by exploiting their unique, measurable physiological and behavioral
-characteristics. However, the state-of-the-art person identification systems have been shown to be vulnerable, e.g., antisurveillance prosthetic masks can thwart face recognition, contact lenses can trick iris recognition, vocoder can compromise
-voice identification and fingerprint films can deceive fingerprint sensors. EEG (Electroencephalography)-based identification,
-which utilizes the user’s brainwave signals for identification and offers a more resilient solution, draw a lot of attention
+|_Identity Recognition Using Brain Waves _                                          |Person identification technology recognizes individuals by exploiting their unique, measurable physiological and behavioralcharacteristics. However, the state-of-the-art person identification systems have been shown to be vulnerable, e.g., antisurveillance prosthetic masks can thwart face recognition, contact lenses can trick iris recognition, vocoder can compromisevoice identification and fingerprint films can deceive fingerprint sensors. EEG (Electroencephalography)-based identificationwhich utilizes the user’s brainwave signals for identification and offers a more resilient solution, draw a lot of attention
 recently. However, the accuracy still requires improvement and very little work is focusing on the robustness and adaptability
 of the identification system. We propose MindID, an EEG-based biometric identification approach, achieves higher accuracy
 and better characteristics. At first, the EEG data patterns are analyzed and the results show that the Delta pattern contains
