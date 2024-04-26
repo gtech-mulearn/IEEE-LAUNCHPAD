@@ -1,13 +1,13 @@
 # Johaan Paul Joe
 
-### Enthusiastic and dedicated Computer Science and Engineering student with an interest in the
+### About Me
+
+> Enthusiastic and dedicated Computer Science and Engineering student with an interest in the
  latest trends in technology and a passion for problem-solving and innovation, seeking an
  entry level position in an organization to enhance skills and knowledge and contribute to the
  growth of the organization. A collaborative team player with good communication skills,
  committed to contributing innovative solutions, developing and implementing business
- applications in a fast paced tech environment. 
-
-> write about your self .................. (minimum 200 Characters)
+ applications in a fast paced tech environment
 
 
 ## Portfolio Highlights
@@ -61,4 +61,5 @@
 >> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
+
 
