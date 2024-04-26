@@ -11,8 +11,9 @@ I am currently pursuing B.Tech in Computer Science and Engineering at College of
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Food Menu App**  | Description of the project 1                                              | [Hosted Link 1](https://github.com/)    | [Repo Link 1](https://github.com/Kolankara/food_app)             |
-| **Blood bank**  | Description of the project 2                                              | [Hosted Link 2](https://github.com/Kolankara)    | [Repo Link 2](https://github.com/Kolankara/blood_bank)             |
+| **Food Menu App**  | Developed a Flutter-based food menu app, replacing traditional paper menus for efficiency. Created intuitive interfaces for an enhanced user experience and implemented secure data storage with Firebase for robust database management. Contributed to environmental sustainability by transitioning to a digital menu showcase.                                             | [Hosted Link 1](https://github.com/)    | [Repo Link 1](https://github.com/Kolankara/food_app) 
+| **Organic veg e-commerce website**  | Built an organic vegetable e-commerce site with the MERN stack, demonstrating expertise in MongoDB, Express.js, React, and Node.js. Enabled seamless data management, crafted dynamic interfaces, and ensured efficient server-client communication. This project highlights strong full-stack development skills and a commitment to sustainable, organic practices in e-commerce.                                             | [Hosted Link 1](https://github.com/)    | [Repo Link 1](https://github.com/Kolankara/)  
+| **Blood bank**  | Built PHP/MySQL blood bank system with XAMPP.Designed efficient MySQL DB for donors.Implemented CRUD, secure authentication.Developed responsive frontend with dynamic PHP scripts.                                              | [Hosted Link 2](https://github.com/Kolankara)    | [Repo Link 2](https://github.com/Kolankara/blood_bank)             |
 
 #### Leadership and Influence:
 
