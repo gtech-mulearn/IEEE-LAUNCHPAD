@@ -17,18 +17,7 @@ I am excited about the endless possibilities that software development offers an
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Canteen Application**   |Developed a comprehensive Canteen Management System using React Native for the frontend, providing an 
-|                           |intuitive user interface for customers and staff.
-|                           |• Implemented secure Express.js and Node.js backend services to handle user authentication, order            |                           |processing, and payment transactions.
-|                           |• Integrated Razorpay as the primary payment gateway to facilitate secure and efficient online transactions |                           |for food orders.
-• Created a dedicated React web application for administrative
-purposes, empowering canteen staff to manage orders, add new food
-items, and monitor overall performance through an intuitive dashboard.
-• Implemented the backend infrastructure using Node.js, Express.js, and
-Mongoose, ensuring a scalable and secure architecture for user
-authentication, order processing, and database management.
-• Integrated user authentication and authorization features to enhance
-the overall security and privacy of the system                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
