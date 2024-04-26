@@ -17,12 +17,10 @@ I am excited about the endless possibilities that software development offers an
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Canteen Application**  |Developed a comprehensive Canteen Management System using React Native forthe frontend, providing an intuitive user interface for
-customers and staff.
-• Implemented secure Express.js and Node.js backend services to handle
-user authentication, order processing, and payment transactions.
-• Integrated Razorpay as the primary payment gateway to facilitate
-secure and efficient online transactions forfood orders.
+| **Canteen Application**   |Developed a comprehensive Canteen Management System using React Native for the frontend, providing an 
+|                           |intuitive user interface for customers and staff.
+|                           |• Implemented secure Express.js and Node.js backend services to handle user authentication, order            |                           |processing, and payment transactions.
+|                           |• Integrated Razorpay as the primary payment gateway to facilitate secure and efficient online transactions |                           |for food orders.
 • Created a dedicated React web application for administrative
 purposes, empowering canteen staff to manage orders, add new food
 items, and monitor overall performance through an intuitive dashboard.
