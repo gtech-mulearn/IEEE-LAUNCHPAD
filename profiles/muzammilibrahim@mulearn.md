@@ -1,8 +1,18 @@
 # Full Name 
+<h1>MUZAMMIL IBRAHIM</h1>
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+As a BCA graduate with a passion for technology and fitness, I thrive on the intersection of code and dumbbells. 🚀 Here’s a glimpse into my professional journey:
+
+🌟 Tech Enthusiast: I’m currently pursuing a Python Full Stack internship, where I’m diving deep into web development, databases, APIs and Machine Learning. From front-end design to back-end logic, I’m all about turning ideas into functional applications.
+
+🏢 Business Mindset: Beyond coding, I’m actively involved in my father’s business, where I’ve learned valuable lessons about strategy, customer relations, and problem-solving. Balancing tech innovation with real-world business challenges keeps me on my toes.
+
+💡 Problem Solver: Whether it’s debugging a tricky piece of code or optimizing a business process, I thrive on finding elegant solutions. My motto: “Every challenge is an opportunity to learn and grow.”
+
+🏋️‍♂️ Fitness Fanatic: When I’m not typing away at my keyboard, you’ll find me at the gym, lifting weights and chasing those endorphins. Fitness isn’t just a hobby; it’s a lifestyle that fuels my productivity and creativity.
+
 
 
 ## Portfolio Highlights
@@ -11,8 +21,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **To Do App**  | A Simple web application works as a To do list.  Skills: Git · Front-End Development · Django · Bootstrap · Python (Programming Language) · Web Applications · Cascading Style Sheets (CSS) · Programming · Problem Solving                                              | [Hosted Link 1]( http://muzammil13todoapp.pythonanywhere.com/)    | [Repo Link 1](https://github.com/muzammil-13/MidjangoRepo/tree/master/todoProject)             |
+| **E-commerce Webpage**  | An Ecommerce project for shopping.Functions like Browsing, Searching, Cart available.  Skills: HTML5 · Object-Relational Mapping (ORM) · Git · Front-End Development · Object-Oriented Programming (OOP) · Django · Bootstrap · Python (Programming Language) · Cascading Style Sheets (CSS) · Programming · Problem Solving                                              | [Hosted Link 2](https://muzammil13sfproj.pythonanywhere.com/shop/)    | [Repo Link 2](https://github.com/muzammil-13/MidjangoRepo/tree/master/storefront_project)             |
 
 
 
