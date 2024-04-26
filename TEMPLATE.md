@@ -1,58 +1,48 @@
-# Full Name 
+# Arya Nair 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hey there! I'm Arya Nair, a 3rd year Computer Science Engineering student at College of Engineering Kidangoor. With a passion for crafting digital experiences, I thrive at the intersection of development and design.  I have experience working with languages and tools like HTML,CSS,C,FIGMA,CANVA AND PYTHON. I'm constantly seeking opportunities for professional development, driven by my passion for growth in my field. I am also an active member of the Gtech Mulearn community. I am always on the lookout for opportunities to expand my skill set and gain new experiences.
 
 
 ## Portfolio Highlights
 
-### My Projects
-
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
-
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Was a NSS Volunteer
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- I've strong network in linked In
+- I'm an active member of Gtech Mulearn.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Short-term: Focus on mastering technical skills, actively participate in industry events, and collaborate on meaningful projects.
+
+- Long-term: Specialize in a specific domain, continuously innovate, and adapt to evolving industry trends for sustained career growth.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala's tech ecosystem holds immense potential for growth, marked by its vibrant startup culture, pool of skilled talent, and supportive infrastructure.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- Active participant in the Gtech Mulearn
+- Active user in LinkedIn where I post and share valuable content.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Currently I dont have any Technical Content published.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Visual Studio Code, Figma, Canva,SQL
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- <a href='https://github.com/Aryanair10'>Github</a>
+- <a href='https://www.linkedin.com/in/arya-nair-838731227/'>LinkedIn</a>
+- <a href='https://app.mulearn.org/profile/aryanair@mulearn'>GTech MuLearn</a>
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
