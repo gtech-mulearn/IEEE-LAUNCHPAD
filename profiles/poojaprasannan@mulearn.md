@@ -11,35 +11,36 @@
 
 ### My Projects
 
-| Name                | Description                                                               | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
-| **People's Ration** | This project implements an online ration item ordering system in React.js to prevent bootleg selling and hoarding, ensuring fair and efficient distribution of essential items.| [Repo Link 1](https://github.com/bibinbiju111/Mini_Project)             |
-| **AugmentSpace**    | An AR based Interior Design App                                              | [Repo Link 2](https://github.com/jimmyj13/Augment_Space)            |
-| **Library Management System**    | A Library Management System                                              | [Repo Link 3](https://github.com/cyberianzed/lms)            |
+| Name                | Description                                                                                                                  
+|---------------------|---------------------------------------------------------------------------|
+| **Motion Based Message Conveyor** | The Motion Based Message Conveyor project employs motion detection technology to convey messages or information in real-time.|
+| **Emoji-Gen : Create your own emoji with Deep learning**    | "Emoji-Gen, an inventive deep learning project, allows users to generate personalized emojis by analyzing individual facial expressions and emotions."| 
 
 #### Leadership and Influence:
 
-- Led project teams to successful outcomes by fostering active participation and facilitating a conducive learning environment.
-- Coordinated events such as Techfest Asthra, overseeing logistics, schedules, and team efforts to ensure smooth execution.
-- Provided support and coordination for various college events, demonstrating a commitment to enhancing campus experiences and community engagement.
+- In project endeavors, I demonstrate leadership by fostering collaboration, delegating tasks effectively, and ensuring cohesive teamwork towards achieving shared goals.
+
 
 
 #### Networking:
 
-- My networking process extends beyond the digital realm, where I've formed meaningful connections through platforms like MuLearn and LinkedIn, as well as through direct conversations. By engaging with peers and professionals, I've not only expanded my network but also stayed updated on industry insights and trends. Additionally, I actively follow the work of others in my field, showcasing my dedication to continuous learning and staying informed.
+- I extend my networking efforts beyond digital platforms, cultivating valuable connections via MuLearn, LinkedIn, and direct interactions. Through engaging with peers and professionals, I expand my network while remaining abreast of industry insights and trends. Furthermore, I demonstrate my commitment to ongoing learning by actively following the work of fellow professionals in my field.
 
 #### Career Plan:
 
-- Immediate goal is to graduate B.Tech with an excellent GPA and to be placed at an MNC where i could grow myself .
-- Gain experience in the firm i'm working , and experience how the world industries thrive and fumctions.
-- The long term goal is to be an entrepreneur, where i could povide and build up for smart and creative minds with my resources and knowledge for development.
+- My immediate goal is to excel in my B.Tech program, achieving an outstanding GPA, and secure a position at a MNC where I can further develop and advance my skills and career.
+- I aim to enhance my technical competencies and gain experience in my field of interest to facilitate professional growth and expertise.
+- I aspire to continuously acquire new skills and evolve into a highly skilled version of myself through ongoing learning and personal development efforts.
+
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala's tech scene is high in potential!With its innovative spirit and talented youth, the state is poised for greatness in technology startups. By providing mentorship, funding, and better infrastructure, Kerala can help startups flourish. Collaboration between schools, businesses, and the government will supercharge this growth, creating jobs and boosting the economy. With the right support, Kerala can become a tech powerhouse, driving progress and changing lives for the better.
+- Kerala's tech ecosystem is on the rise, with local companies gaining international recognition, driving innovation and growth. As people embrace new technologies, tech firms are strengthening, fueled by a culture of learning and adaptation. This momentum signifies Kerala's potential to emerge as a formidable player in the global tech arena.
 #### History of Community Engagement:
 
 -  An active participant of the mulearn discord server.
--  An IEEE member for the last 2 years.
+#### Competitive Website Profiles:
+
+-  Member of Hackerrank,Geeksforgeeks etc.
 
 ---
