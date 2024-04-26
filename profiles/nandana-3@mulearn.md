@@ -31,7 +31,7 @@ I am currently pursuing B.Tech in Computer Science and Engineering at College of
 
 #### Career Plan:
 
-- My immediate goal is to get placement in a good company in a software developer role,web developer role.
+- My immediate goal is to get placement in a good company as a software developer role,web developer role.
   
 - I am interested in cybersecurity area so I am planning to take masters in cybersecurity for that based jobs.
 
