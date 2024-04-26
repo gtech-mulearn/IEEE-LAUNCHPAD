@@ -49,7 +49,7 @@ https://github.com/Kolankara
 
 In your portfolio, include the following details:
 
-check out nandana-3@mulearn.md for an exmaple
+check out nandana-3@mulearn.md for an example
 
 
 
