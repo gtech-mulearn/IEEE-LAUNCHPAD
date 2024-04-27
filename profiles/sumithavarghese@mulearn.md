@@ -51,7 +51,6 @@ My carrer plan is to seek an entry level position in an dynamically working plan
 - Visual studio code
 - Jupyter Notebook
 - Java Eclipse IDE
-
 #### Competitive Website Profiles:
 
 - https://leetcode.com/u/SumithaVar932002/
