@@ -26,6 +26,9 @@ I am self-taught MERN stack developer with a strong background in web developmen
 -  An active participant of the Tinkerhub tech community
 -  I have worked as an intern in The intern Academy as a we developer to complete a web developwmt project.
 
+### Highly Used Software Tools:
+-  VS code, postman
+
 ### Profiles
 - [LinkedIn](https://www.linkedin.com/in/asna-majeed-28a5ba214/)
 
