@@ -1,4 +1,4 @@
- MANUAL George 
+ MANUAL GEORGE 
 
 ### About Me
 
@@ -12,7 +12,7 @@
 
 | Name                | Description                                                               | Hosted Link                                                                                   |
 |---------------------|---------------------------------------------------------------------------|-----------------------
-|Mentur U          |It's an learning app here the tutors are students who is studying in college and this platform is built to make a strong teaching skill and make income 
+|MENTORU|It's an learning app.It is desinged to empower talented students to share knowledge,skills,and expertise,ceating a unique platform that fosters collaborative learning 
 
 #### Networking:
 
