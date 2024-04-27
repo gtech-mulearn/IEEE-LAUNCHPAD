@@ -1,34 +1,31 @@
-# Full Name 
+ MANUAL GEORGE 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> A recent graduate in Bachelor of computer application from Calicut University .Passionated in gaining knowledge in tech
+> Have knowledge in html,css,php, javascript,java and also in generative Ai and Android.
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
-
-#### Leadership and Influence:
-
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+| Name                | Description                                                               | Hosted Link                                                                                   |
+|---------------------|---------------------------------------------------------------------------|-----------------------
+|MENTORU|It's an learning app.It is desinged to empower talented students to share knowledge,skills,and expertise,ceating a unique platform that fosters collaborative learning 
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- I can influence others by guiding them and motivating them and also giving helping them as much as i can also seeking help from them also
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+-I wanna be a developer in both web and application and i want to boost my knowledge in development field .
+- In aspect kerala can excel in technology startups by training candidates and guiding them in a structured way.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- kerala can grow by creating new opportunities for techies and give support for those who want to upgrade their skills 
 
 #### History of Open Source Contributions:
 
