@@ -32,12 +32,3 @@ I am self-taught MERN stack developer with a strong background in web developmen
 ### Profiles
 - [LinkedIn](https://www.linkedin.com/in/asna-majeed-28a5ba214/)
 
-
-
-
-
-
-
-
-
-
