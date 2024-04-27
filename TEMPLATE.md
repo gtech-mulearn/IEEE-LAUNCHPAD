@@ -1,9 +1,12 @@
-# Full Name 
+# Thomas James
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+Specialised in Machine learning, Data Analytics &
+Optimization Techniques.
+Hard-working, Ambitious, Creative & Proactive. Eager to
+Acquire new Knowledge in order to develop myself as a
+Strong & Kind Human Being
 
 ## Portfolio Highlights
 
@@ -11,44 +14,47 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Multi ObjectiveBayesian Optimization**  | Currently Trying to reduce the complexity of Multi objectivite Regionalized Bayesian Optimization over High Dimensional Search Spaces                                           |     | [Repo Link 1](https://github.com/7homasjames/Bayesian-Optimization.git)             |
+| **Hyperspectral Image classification**  | Classifies an image using its spectral and spatial features                                          |     | [Repo Link 2](https://www.kaggle.com/code/soumyacs/hsi-classification)             |
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
+- My leadership shines through discipline instilled as an NCC cadet. In challenging situations, I lead by example, guiding the team to success. In projects, I influence by sharing expertise, persuading colleagues to embrace innovative approaches. Together, we achieve outstanding results, driven by clear communication and mutual respect.
+- 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Actively participated in tech conferences in our university .
+- Utilized LinkedIn to establish connections with numerous optimization researchers
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Get an Entry level Job.
+- Secure the finances to conduct R&D for my own startup.
+- Revolutionize the World !
+  
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Given Kerala's high literacy rate, there's immense potential for growth in the tech ecosystem. It's crucial for the government to invest in and foster collaboration between students and employers to capitalize on this potential.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Currently trying to solve the anomalies while selecting a trusted region center in [MORBO](https://github.com/facebookresearch/morbo.git) .
 
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Published a Medium article about Spectral Clustering [Medium](https://medium.com/@thomasjames.cs22/the-idea-behind-spectral-clustering-f8b5effced4d).
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- VS code.
+- Cloud Console.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- [HackerRank](https://www.hackerrank.com/profile/thomasjames_cs22).
+- Active on KAggle
 
 
 
