@@ -44,7 +44,7 @@ Strong & Kind Human Being
 
 #### Highly Visible Technical Content:
 
-- Published a Medium article about Spectral Clustering [Medium](https://medium.com/@thomasjames.cs22/the-idea-behind-spectral-clustering-f8b5effced4d).
+- Published a Medium article about [Spectral Clustering ](https://medium.com/@thomasjames.cs22/the-idea-behind-spectral-clustering-f8b5effced4d).
 
 #### Highly Used Software Tools:
 
