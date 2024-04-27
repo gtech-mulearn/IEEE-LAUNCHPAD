@@ -54,7 +54,7 @@ Strong & Kind Human Being
 #### Competitive Website Profiles:
 
 - [HackerRank](https://www.hackerrank.com/profile/thomasjames_cs22).
-- Active on KAggle
+- Active on Kaggle
 
 
 
