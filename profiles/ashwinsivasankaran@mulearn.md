@@ -45,6 +45,10 @@ I have created technical blog posts and articles on topics relating to software 
 
 Checkout @[Medium](https://medium.com/@ashky)
 
+#### Highly Used Software Tools:
+
+- I haven't developed widely-used software tools yet, but I'm eager to contribute to projects that have a meaningful impact on users.
+
 
 #### Competitive Website Profiles:
 
