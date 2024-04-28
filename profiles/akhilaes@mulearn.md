@@ -12,9 +12,6 @@ Whether it's diving into complex algorithms or brainstorming innovative project 
 
 
 
----
-
-Feel free to customize it further according to your preferences and experiences!
 
 
 ## Portfolio Highlights
