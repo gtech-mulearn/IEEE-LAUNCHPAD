@@ -13,7 +13,7 @@ collaborate within a team to drive innovation and achieve collective success.
 |---------------------|----------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **NoCodeApp**       | A simple no code app for image recognition                                       | [Hosted Link 1](https://x.thunkable.com/copy/a5a73bfe3ca200ee7c7d6666706a0d93)    | [Repo Link 1](https://x.thunkable.com/copy/a5a73bfe3ca200ee7c7d6666706a0d93)             |
 |**Stella:The Healthcare Robot** | An advanced robot for healthcare | | |
-|**Personal Website**|My own website|[Hosted Link 1](https://abelmathew07.github.io/web/))|[Repo Link 1](https://github.com/abelmathew07/web)            |
+|**Personal Website**|My own website|[Hosted Link 1](https://abelmathew07.github.io/web/)|[Repo Link 1](https://github.com/abelmathew07/web)            |
 
 
 #### Competitive Website Profiles:
