@@ -24,7 +24,9 @@
 
 #### Career Plan:
 
-- no rigid plans as of now
+- No complete plans as of now.
+- Interested in Linux and command-line stuff
+- Prefers organisations using exclusively open source software
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -39,6 +41,7 @@
 
 #### History of Community Engagement:
 
+- lead of [FOSS Club STIST](https://forum.fossunited.org/t/foss-club-stist-updates/2463), documents regular updates on the FOSS United forum
 - 68 reputation on [StackOverflow](https://stackoverflow.com/users/15531899/pranav)
 - used to help people with Linux stuff on telegram groups and on a lemmy instance (and broke their PC ;)
 - used to be in the FSUG TVM Matrix group and mailing lists
