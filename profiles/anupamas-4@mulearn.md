@@ -35,9 +35,12 @@ Checkout my linkedln profile : https://www.linkedin.com/in/anupama-s-293914s/
 - I strongly believe Technology must be as user-friendly and sophisticated as possible. Hence whatever I do, I will make sure that it serves it's purpose
 - Career areas interested : ML, Data Science and Development
 
+#### Networking:
+- An active member of Linkedin which heps me to proactively engage with colleagues, industry peers, mentors, and potential collaborators.
+- An active Learner of G-Tech Mulearn Discord Server From April 2024
 
 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
--Kerala's tech ecosystem has seen significant growth, driven by a skilled workforce and government support for startups. Despite challenges like infrastructure limitations, the state's focus on education and innovation has positioned it as a promising hub for technology and entrepreneurship in India.
+Kerala has good potential when it comes to technology Good communication skills, networking skills and helping mentality exists among techies in Kerala Motivating students, giving them opportunities and making education skill based can be beneficial.
