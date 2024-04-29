@@ -53,8 +53,5 @@ Kerala has good potential when it comes to technology Good communication skills,
 - Visual Studio Code
 - Google Colab
 
-### Competitive Website Profiles:
-
-https://www.hackerrank.com/profile/anupamakudallur
 
 
