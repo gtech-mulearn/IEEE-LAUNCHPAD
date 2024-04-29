@@ -38,13 +38,23 @@ Checkout my linkedln profile : https://www.linkedin.com/in/anupama-s-293914s/
 |**Python Data Structures and Algorithms**| It offers a comprehensive understanding of fundamental data structures and algorithms using Python | https://verify.onwingspan.com  |
 
 
-
 ### Networking:
 - An active member of Linkedin which heps me to proactively engage with colleagues, industry peers, mentors, and potential collaborators.
 - An active Learner of G-Tech Mulearn Discord Server From April 2024
 
 
-
 ### Thoughts on Kerala's Tech Ecosystem:
 
 Kerala has good potential when it comes to technology Good communication skills, networking skills and helping mentality exists among techies in Kerala Motivating students, giving them opportunities and making education skill based can be beneficial.
+
+### Highly Used Software Tools:
+
+- Kaggle
+- Visual Studio Code
+- Google Colab
+
+### Competitive Website Profiles:
+
+https://www.hackerrank.com/profile/anupamakudallur
+
+
