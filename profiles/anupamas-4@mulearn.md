@@ -1,3 +1,4 @@
+
 # Anupama S
 
 ### About Me
@@ -39,9 +40,30 @@ Checkout my linkedln profile : https://www.linkedin.com/in/anupama-s-293914s/
 
 
 ### Networking:
+
 - An active member of Linkedin which heps me to proactively engage with colleagues, industry peers, mentors, and potential collaborators.
 - An active Learner of G-Tech Mulearn Discord Server From April 2024
 
+
+### Leadership and Influence:
+
+My leadership and influence shine through in projects like the Real Time Facemask Detection System and E-Ration , where I led the software development team, coordinating efforts and ensuring success. Additionally, Research paper like Utilizing Data Mining Techniques for Predicting Heart Diseases showcases my ability to develope Model Deployment and Data Science Skills.
+
+
+### History of Community Engagement:
+
+- I participate in Mulearn Discord server, where collaborate with others on technical topics.
+- I have been actively engaged in online technical sites like hackerrank, w3schools, kaggle, etc. I am in the mulearn community and doing the tasks assigned in each level.
+
+
+### History of Open Source Contributions:
+I am still learning various tools and technologies so I have not been very active in contributions and hadn't thought about open source contribution. I am interested in open source contribution after acquiring all the necessary skills.
+
+
+### Highly Visible Technical Content:
+
+- I have diverse skill set in programming languages such as C++, C, HTML, Python, Java, MySQL, JavaScript, MS Word, and MS Excel.
+- I actively participated in projects like real-time facemask detection systems and E-Ration and Research like Utilizing Data Mining Techniques For Predicting Heart Disease, demonstrating practical application of my technical skills.
 
 ### Thoughts on Kerala's Tech Ecosystem:
 
@@ -52,6 +74,9 @@ Kerala has good potential when it comes to technology Good communication skills,
 - Kaggle
 - Visual Studio Code
 - Google Colab
-
-
+- Microsoft Office Suite
+  
+### Competitive Website Profiles:
+ 
+HackerRank:https: https://www.hackerrank.com/profile/anupamakudallur
 
