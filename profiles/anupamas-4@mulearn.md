@@ -31,10 +31,12 @@ Checkout my linkedln profile : https://www.linkedin.com/in/anupama-s-293914s/
 
 #### Career Plan:
 
--Eager to be associated with a prominent organization in the technology industry and wish to explore challenging avenues in the field of Data Science and Analytics to achieve the organization's objectives. I also aim to attain career growth through a continuous learning process and skill enhancement.
--In the short term, I'm focused on securing a role as a Software Engineer in a reputable company, where I can contribute to impactful projects and continue developing my skills. Concurrently, I'll prioritize expanding my technical expertise and establishing a solid foundation in the field to excel in my role.
+- Eager to be associated with a prominent organization in the technology industry and wish to explore challenging avenues in the field of Data Science and Analytics to achieve the organization's objectives. I also aim to attain career growth through a continuous learning process and skill enhancement.
+- I strongly believe Technology must be as user-friendly and sophisticated as possible. Hence whatever I do, I will make sure that it serves it's purpose
+- Career areas interested : ML, Data Science and Development
 
-Looking ahead, my long-term aspiration is to ascend to leadership positions within the software engineering domain. By leveraging my experience and expertise, I aim to guide teams towards innovation and excellence. Through continuous learning, cultivating strong leadership qualities, and staying updated with industry trends, I'm committed to making a lasting impact on the technological landscape and driving positive change through technology.
+
+
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
