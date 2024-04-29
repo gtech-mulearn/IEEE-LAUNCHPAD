@@ -19,7 +19,7 @@ Checkout my linkedln profile : https://www.linkedin.com/in/anupama-s-293914s/
 - Career areas interested : ML, Data Science and Development
 
 
-### My Projects
+### My Projects:
 
 | Name                | Description                                                               |
 |---------------------|---------------------------------------------------------------------------|
@@ -27,10 +27,15 @@ Checkout my linkedln profile : https://www.linkedin.com/in/anupama-s-293914s/
 | **E-Ration**      |The primary objective of the project is to minimize the duration that customers spend waiting in extensive queues at the Public Distribution System (PDS) centers when making their purchases. This initiative focuses on enhancing customer experience by streamlining and expediting the transaction process through the implementation of innovative technologies. The utilization of front-end tools such as HTML, CSS, and JavaScript, alongside the integration of Python for back-end functionalities.|
      
 
-### Certificates
+### Certificates:
 
-
-
+| Name                | Description                                                               |Credential Link                   |
+|---------------------|---------------------------------------------------------------------------|----------------------------------------|
+|**Introduction to Articial Intelligence**| Offers a comprehensive overview of AI concepts, algorithms, and applications, providing learners with a foundational understanding of this rapidly evolving field. | https://verify.onwingspan.com |
+|**Introduction to Deep Learning**| It provides a foundational understanding of neural networks and their applications in various fields. |https://verify.onwingspan.com |
+|**Introduction to Articial Intelligence**| Offers a comprehensive overview of AI concepts, algorithms, and applications, providing learners with a foundational understanding of this rapidly evolving field. | https://verify.onwingspan.com |
+|**Basics of Python**| It provides  fundamental concepts of Python programming, covering syntax, data types, control structures, and basic algorithms. | https://verify.onwingspan.com  |
+|**Python Data Structures and Algorithms**| It offers a comprehensive understanding of fundamental data structures and algorithms using Python | https://verify.onwingspan.com  |
 
 
 
