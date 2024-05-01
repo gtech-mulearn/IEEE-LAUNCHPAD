@@ -46,6 +46,19 @@
 
 #### History of Community Engagement:
 > - I would say, I'm not such open source community engagements like Quora / StackOverflow / anything yet.
+>
+> But, I've engaged in various voluntary positions. Few are,
+> - Mentor, IEEE SB CEV (April 2023 - Onwards)
+> - Social Media Manager, LucidPixl Designs (June 2022 - Onwards)
+> - Event Management Lead, Pygrammers (March 2021 - Onwards)
+> - Chairperson, IEEE SB CEV (March 2022 - March 2023)
+> - MDC Malabar Hub, IEEE Education Society Kerala Chapter (February 2022 - Dec. 2022)
+> - Chief Operations Officer, IEDC CEV (October 2021 - December 2022)
+> - Student Coordinator, ASAP Cell CEV (March 2022 - December 2022)
+> - Volunteer, NSS CEV (June 2020 - June 2022)
+> - People Management Intern, GTech μLearn (January 2022 - April 2022)
+> - Chief Marketing Officer, IEDC CEV ( September 2020 - October 2021)
+> - Vice Chairperson, IEEE Computer Society SBC CEV (November 2020 - January 2022)
 
 #### Highly Visible Technical Content:
 
