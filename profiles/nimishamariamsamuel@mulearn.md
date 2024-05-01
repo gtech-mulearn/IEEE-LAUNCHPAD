@@ -40,7 +40,7 @@ Check out my LinkedIn profile : https://www.linkedin.com/in/nimishasam/
 - Also I aim to kickstart interactive workshops and knowledge-sharing sessions for tech entrepreneurs in Kerala, covering ideation, market validation, fundraising, and scaling. Collaborating with industry leaders and government bodies, I'll advocate for policies that incentivize startups and facilitate access to funding and incubation programs.
 - I envision Kerala as a global hub for tech innovation. Specialized tech parks and innovation hubs will offer infrastructure, mentorship, and networking, attracting talent, investors, and partnerships. Initiatives like coding boot camps and entrepreneurship education will nurture an entrepreneurial culture, creating a pipeline of innovators who will drive Kerala's Technology Startup Ecosystem to international prominence.
 - I want to create more job opportunities in India.
-- 
+  
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala has immense potential to excel in the Technology Startup Ecosystem, and my vision for its future success is rooted in innovation, collaboration, and a supportive ecosystem.
