@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Repo Link                                |
 |---------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------|
-| **VividVisions - AI for Interior Design**  | An AI-based interior design website that can design interiors based on user preference                                              | [Repo Link 1]([https://github.com/username/project1](https://github.com/nimishasam/AI-for-Interior-Design))             |
-| **AI for Medical Diagnosis**  | To diagnose 14 different types of diseases from chest X-rays                                              | [Repo Link 2]([https://github.com/username/project2](https://github.com/nimishasam/AI-for-Medical-Diagnosis-Week-1))             |
+| **VividVisions - AI for Interior Design**  | An AI-based interior design website that can design interiors based on user preference                                              | [Repo Link 1](https://github.com/nimishasam/AI-for-Interior-Design)             |
+| **AI for Medical Diagnosis**  | To diagnose 14 different types of diseases from chest X-rays                                              | [Repo Link 2](https://github.com/nimishasam/AI-for-Medical-Diagnosis-Week-1)             |
 | **Concrete Compressive Strength Analyzer** | A deep learning project to estimate the compressive strength of the concrete | [Repo Link 3](https://github.com/nimishasam/DL_Concrete-Compressive-Strength-Analyzer) |
 
 #### Leadership and Influence:
