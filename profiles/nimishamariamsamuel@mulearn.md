@@ -4,6 +4,7 @@
 
 > Myself Nimisha Mariam Samuel. I'm a graduate engineer in the field of Artificial Intelligence and Data Science. I am a dedicated professional with a proven track record of thriving in fast paced and challenging environments. My adaptability, passion for solving complex problems, and ability to grasp new concepts enable me to deliver innovative solutions. With a strong work ethic and commitment to continuous learning, I am ready to take on new challenges and make a positive impact.
 
+Check out my LinkedIn profile : https://www.linkedin.com/in/nimishasam/
 
 ## Portfolio Highlights
 
