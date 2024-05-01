@@ -22,7 +22,7 @@ Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
 
 Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
 
-> ### 🌟 Pro Tip: Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
+> ### 🌟 Pro Tip: Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
 
 Embark on this step with passion and precision.
 
