@@ -46,7 +46,6 @@
 
 #### History of Community Engagement:
 > - I would say, I'm not such open source community engagements like Quora / StackOverflow / anything yet.
-> 
 
 #### Highly Visible Technical Content:
 
