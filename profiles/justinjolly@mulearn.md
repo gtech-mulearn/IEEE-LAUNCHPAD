@@ -18,19 +18,19 @@ LinkedIn Profile: https://www.linkedin.com/in/justin-jolly-5a47a7200/
 | **Eco-Expense**                | An expense-splitting managing application that simplifies the concept of money splitting, simplifying both equal and unequal splittings, and also introducing the concept of simplification of debts among a group.                                  | [Repo Link 2](https://github.com/Justinjolly/eco)         |
 
 #### History of Community Engagement:
-An active participant of the Mulearn discord server.
-An IEEE member for the year 2022-2023.
+-An active participant of the Mulearn discord server.
+-An IEEE member for the year 2022-2023.
 
 #### Leadership and Influence:
-Led project teams to successful outcomes by fostering active participation and facilitating a conducive learning environment.
-Volunteer at IEDC Summit 2021.
-Volunteer at Astra 8.0 National Level Tech Fest 2024
-Provided support and coordination for various college events, demonstrating a commitment to enhancing campus experiences and community engagement.
+-Led project teams to successful outcomes by fostering active participation and facilitating a conducive learning environment.
+-Volunteer at IEDC Summit 2021.
+-Volunteer at Astra 8.0 National Level Tech Fest 2024
+-Provided support and coordination for various college events, demonstrating a commitment to enhancing campus experiences and community engagement.
 
 #### Career Plan:
-Immediate goal is to graduate B.Tech with an excellent GPA and to be placed at an MNC where i could grow myself .
-Gain experience from the firm i'm working , and know how the world industries thrive and fumctions.
-The long term goal is to begin a startup, where I could contribute my ideas and Knowledge for the development of society.
+-My immediate goal is to graduate B.Tech with an excellent GPA and to be placed at an MNC where I can grow myself.
+-Gain experience from the firm I'm working for, and know how the world industries thrive and function.
+-The long-term goal is to begin a startup, where I could contribute my ideas and Knowledge for the development of society.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 Kerala's technology ecosystem is undergoing rapid growth, driven by several key factors. These include a robust education system, an expanding talent pool in the tech industry, and government initiatives that encourage entrepreneurship and innovation. The state has a thriving startup culture, with emerging tech companies spanning diverse sectors such as healthcare, agriculture technology (agritech), and financial technology (fintech). Despite these positive developments, challenges persist, including limited access to funding, infrastructure gaps, and the necessity for a stronger support system to nurture startups.
@@ -38,7 +38,4 @@ Kerala's technology ecosystem is undergoing rapid growth, driven by several key 
 ### Highly Used Software Tools
 Github, VisualStudioCode, Figma
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
 
----

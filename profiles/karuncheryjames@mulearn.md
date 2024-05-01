@@ -8,7 +8,7 @@ Proficient in web development (HTML, CSS, PHP, MySQL), MERN stack, Python, and C
 
 In addition to my technical skills, I'm well-versed in tools such as Canva, Figma, and GitHub, leveraging them to enhance collaboration and streamline workflows. My knack for multitasking, problem-solving, and fostering collaboration ensures successful outcomes in every endeavor.
 
-Let's connect and explore how we can leverage technology to make an impact together!Github Profile: https://github.com/Karuncj LinkedIn Profile: https://www.linkedin.com/in/karun-chery-james-76b165206/
+Let's connect and explore how we can leverage technology to make an impact together! [Github Profile](https://github.com/Karuncj) [LinkedIn Profile](https://www.linkedin.com/in/karun-chery-james-76b165206/)
 
 
 ## Portfolio Highlights
@@ -52,7 +52,7 @@ An active participant of the Mulearn discord server.
 
 #### Competitive Website Profiles:
 
--Member of [CodeChef](https://www.codechef.com/users/karun_cj), Hackerrank, and LeetCode.
+-Member of CodeChef, Hackerrank, and LeetCode.
 
 
 >> check out [karuncheryjames@mulearn.md](./profile/karuncheryjames@mulearn.md)
