@@ -2,21 +2,24 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+As a recent graduate in Computer Science from Ahalia School of Engineering and Technology, Palakkad, I'm excited to dive into the world of Information Technology. I've got a good grip on programming languages like C, C++, Java, Python, and SQL, which fuels my drive to work on innovative projects.I'm passionate about technology and always eager to learn and grow in this ever-evolving field. My ability to adapt and take on challenges head-on helps me thrive in fast-paced environments, contributing effectively to team goals.Equipped with both technical skills and leadership experience, I'm ready to make my mark in IT. I'm keen on exploring new technologies to tackle complex problems and drive positive change.In a nutshell, I'm a motivated individual keen on seizing opportunities and making a meaningful impact in the IT world.
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+| Name                | Description                                                                | Hosted Link                              | Repo Link                   
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Heart Diesease Prediction using Machine Learning|  A python program to check whether a person is having heart disease or not.                                          | 
+| Carcinoma Detection using CNN| A model in which on giving the image of skin it will predict whether that part is having carcinoma or not.                                 
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+I Was the Students Union Chairman of the Institution.As the elected Students Union Chairman of, I had the privilege of leading and representing my peers. In this role, I actively engaged with students to understand their concerns and worked collaboratively to address them. Whether it was resolving academic grievances or organizing cultural and sports events, I ensured that student voices were heard and their needs were met.
+One clear example of my leadership was during the organization of college events such as sports days and arts days. As part of the union team, I played a pivotal role in coordinating these events, delegating tasks, and ensuring smooth execution. By fostering teamwork and effective communication, we successfully organized memorable events that brought the college community together.
+Additionally, my involvement as an NSS volunteer further exemplifies my leadership skills. As a coordinator of the camp and treasurer, I managed finances and logistics while overseeing the smooth functioning of the camp activities. Through effective planning and coordination, we were able to execute the camp activities efficiently, leaving a positive impact on the community.
+Overall, my experiences as a Students Union Chairman and NSS volunteer demonstrate my ability to lead, influence, and work effectively in a team to achieve common goals.
 
 #### Networking:
 
@@ -29,23 +32,3 @@
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
