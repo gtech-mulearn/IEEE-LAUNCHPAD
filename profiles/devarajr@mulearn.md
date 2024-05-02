@@ -27,8 +27,9 @@ Overall, my experiences as a Students Union Chairman and NSS volunteer demonstra
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+In the short term, I aim to secure a position in an IT firm to apply my skills and gain practical experience in software development and project management.
+In the long term, I aspire to advance my career into leadership roles, specialize in a specific domain, and contribute to industry innovation.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+Kerala has a great chance to shine in the tech world by nurturing startups and innovation. We can do this by encouraging partnerships between businesses and schools, making it easier for startups to get money and support, and promoting a spirit of trying new things and taking risks. It would also help to have more places where startups can get advice and support as they grow. With these steps, Kerala can become a top spot for tech startups in the future.
