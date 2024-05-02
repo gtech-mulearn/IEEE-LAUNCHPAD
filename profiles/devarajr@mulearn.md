@@ -23,7 +23,7 @@ Overall, my experiences as a Students Union Chairman and NSS volunteer demonstra
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- In my previous roles as Students Union Chairman and NSS Volunteer, I developed effective networking skills by connecting with students from various colleges. My approach involves engaging in professional forums and workshops to share insights and collaborate on projects. Through leading by example and initiating collaborative efforts, I aspire to inspire others and foster a culture of growth within the community.
 
 #### Career Plan:
 
