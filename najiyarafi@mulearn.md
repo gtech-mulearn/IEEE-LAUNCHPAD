@@ -4,7 +4,7 @@
 
 > I'm a passionate individual embarking on a journey to become a data professional fueled by a passion for uncovering the stories hidden within data. My analytical mind thrives on transforming raw information into meaningful insights. While I'm currently honing my skills in python,sql,tensorflow,opencv,tableau,powerbi..etc, I'm eager to learn and contribute to data-driven solutions in a collaborative environment.I am also equipped with basic skills in web development.
 
-Beyond technical skills, I possess strong communication, problem-solving ability, critical thinking. These qualities, combined with my enthusiasm for data, make me a valuable asset to any team. I enjoy learning and exploring new of technologies.
+>Beyond technical skills, I possess strong communication, problem-solving ability, critical thinking. These qualities, combined with my enthusiasm for data, make me a valuable asset to any team. I enjoy learning and exploring new of technologies.
 
 ## Portfolio Highlights
 
