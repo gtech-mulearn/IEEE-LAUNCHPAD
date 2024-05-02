@@ -1,59 +1,53 @@
-# Full Name 
+# Najiya Rafi
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm a passionate individual embarking on a journey to become a data professional fueled by a passion for uncovering the stories hidden within data. My analytical mind thrives on transforming raw information into meaningful insights. While I'm currently honing my skills in python,sql,tensorflow,opencv,tableau,powerbi..etc, I'm eager to learn and contribute to data-driven solutions in a collaborative environment.I am also equipped with basic skills in web development.
 
+Beyond technical skills, I possess strong communication, problem-solving ability, critical thinking. These qualities, combined with my enthusiasm for data, make me a valuable asset to any team. I enjoy learning and exploring new of technologies.
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                     | Description                                                        | Hosted Link                          | Repo Link                                                                                  |
+| ------------------------ | ------------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------------------------------------ |
+| **Cloning Cafe Website** | Cloned a template of a cafe website                                | [Hosted Link 1](https://example.com) | [Repo Link 1](https://github.com/Najiyarafi/Cafe-Website.git)                              |
+| **Wet Floor Detection**  | Detection the presence of water on the floor using computer vision | [Hosted Link 2](https://example.com) | [Repo Link 2](https://github.com/Najiyarafi/Wet-floor-detection-using-computer-vision.git) |
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I am a good listener and possess good communication skill which I beleive is a trait of a good leader.
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- I actively participate in industry events and online communities, seeking out opportunities to connect with others.This helps me build rapport and establish genuine connections.
+- I plan to be good listener and an approachable individual and build a good relationship with other fellow participants.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My immediate plan to secure a job in the area of my interest and be a highly skilled data professional
+- My long term plan is to do a startup on a unique idea in the area of my interest using all the knowledge and network that I have cultivated.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- In my opinion, most of the students in the colleges are not aware of the hackathons and other activities. I think that if these students are indulged in these events, they would have a hands on experience in several new technologies which are not covered in the college syllabus. It could spark their curiousity and will enable them to do more.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- I usually attend webinars and online meetups conducted by Women in Analytics , Meetup , Google etc
+- I am currently an active member in mulearn discord server
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- V S Code, jupitor notebook
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
+- HackerRank: https://www.hackerrank.com/profile/najirafi09
 
 > In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+>
+> > check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
-
