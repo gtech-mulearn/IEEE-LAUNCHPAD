@@ -10,9 +10,9 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Hangman Game**    | A clasic python Hangman Game                                                                                         |[github repo link](https://github.com/manukirans/Hangman-Game)  |
-| **Blood Donor Connect** | Flutter mobile app for urgent blood donation calls, centre searches, and donor eligibility checks   |         [github repo link](https://github.com/manukirans/BloodDonorConnect) |
-| **SecurePDFLib**    | Secure digital library system incorporating a machine learningbased malicious PDF detection feature.|   |            | [github repo link](https://github.com/manukirans/SecurePDFLib) |
+| **Hangman Game**    | A clasic python Hangman Game                                                                                     |    |[github repo link](https://github.com/manukirans/Hangman-Game)  |
+| **Blood Donor Connect** | Flutter mobile app for urgent blood donation calls, centre searches, and donor eligibility checks   |        | [github repo link](https://github.com/manukirans/BloodDonorConnect) |
+| **SecurePDFLib**    | Secure digital library system incorporating a machine learningbased malicious PDF detection feature.|          |  [github repo link](https://github.com/manukirans/SecurePDFLib) |
 | **Customer-segmentation-and-Recommendation-systems**| Developing a recommendation system to suggest top-selling products to customers within each segment || [github repo link](https://github.com/manukirans/Customer-segmentation-and-Recommendation-systems)|
 
 
