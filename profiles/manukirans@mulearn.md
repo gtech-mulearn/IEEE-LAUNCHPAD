@@ -17,7 +17,7 @@
 
 #### Leadership and Influence:
 
-- Collaborated with a team of 4 members to develop a Flutter mobile app (BloodDonorConnectBloodDonorConnect).
+- Collaborated with a team of 4 members to develop a Flutter mobile app (BloodDonorConnect).
 - Coordinated and executed activities as a key member of the One Creator from One Ward Scholarship Programme organized Talrop. 
 
 
