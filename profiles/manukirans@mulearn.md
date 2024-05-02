@@ -2,8 +2,7 @@
 
 ### About Me
 
-> I'm a recent BTech graduate (IT, 2023) exploring the world of data science. My internships gave me a taste for machine learning, and I'm working to develop my skills in Python, MySQL, NLP, DL and Data visualization.
-
+> Aspiring data scientist with a background in Information Technology (BTech, 2023). I'm building expertise in Machine Learning, AI and Data visualization tools. In addition to my data science interests, I've also explored web development, working with technologies such as HTML, CSS, JavaScript, Python, and Django to create responsive applications. 
 ---
 
 ## My Projects
@@ -13,7 +12,7 @@
 | **Hangman Game**    | A clasic python Hangman Game                                                                                     |    |[github repo link](https://github.com/manukirans/Hangman-Game)  |
 | **Blood Donor Connect** | Flutter mobile app for urgent blood donation calls, centre searches, and donor eligibility checks   |        | [github repo link](https://github.com/manukirans/BloodDonorConnect) |
 | **SecurePDFLib**    | Secure digital library system incorporating a machine learningbased malicious PDF detection feature.|          |  [github repo link](https://github.com/manukirans/SecurePDFLib) |
-| **Customer-segmentation-and-Recommendation-systems**| Developing a recommendation system to suggest top-selling products to customers within each segment || [github repo link](https://github.com/manukirans/Customer-segmentation-and-Recommendation-systems)|
+| **Customer-segmentation-and-Recommendation-systems**| A recommendation system to suggest top-selling products to customers within each segment || [github repo link](https://github.com/manukirans/Customer-segmentation-and-Recommendation-systems)|
 
 
 #### Leadership and Influence:
