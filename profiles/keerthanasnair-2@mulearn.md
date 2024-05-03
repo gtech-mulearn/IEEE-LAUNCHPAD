@@ -29,11 +29,13 @@
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My immediate plan is to pursue internships or entry-level positions in tech startups or related industries to gain practical experience and insights into the startup ecosystem.
+- My long-term plan is to launch a tech startup or join a founding team, leveraging acquired skills and experience to contribute to the growth and innovation of Kerala's startup ecosystem.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- 
+- Kerala can excel in the technology startup ecosystem by leveraging its strengths and addressing key areas of development.
+- Enhancing academia-industry collaboration fosters innovation crucial for tech startup success in Kerala.
 
 
 ---
