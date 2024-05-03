@@ -40,7 +40,7 @@
 - Kerala's tech ecosystem is on the rise, with local companies gaining international recognition, driving innovation and growth. As people embrace new technologies, tech firms are strengthening, fueled by a culture of learning and adaptation. This momentum signifies Kerala's potential to emerge as a formidable player in the global tech arena.
 #### History of Community Engagement:
 
--  An active participant of the mulearn discord server.
+-  I’ve been actively using Gtech mulearn’s discord platform to gain new skills.
 #### Competitive Website Profiles:
 
 -  Member of Hackerrank,Geeksforgeeks etc.
