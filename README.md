@@ -36,7 +36,7 @@
 
 #### Competitive Website Profiles:
 
-- HackerRank - https://www.hackerrank.com/profile/basimhilaloffic1
+- [HackerRank](https://www.hackerrank.com/profile/basimhilaloffic1)
 
 
 ---
