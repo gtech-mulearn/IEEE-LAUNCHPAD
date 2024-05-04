@@ -1,5 +1,5 @@
-![image](https://github.com/SHILJI-SHAIJU/IEEE-LAUNCHPAD/assets/168265059/c756dddf-ea7e-4adf-a9b3-5d075adc1bbe)
-Shilji Shaiju
+
+# Shilji Shaiju
 ### About Me
 I'm Shilji Shaiju, currently pursuing my Master's degree in Electronics with a keen interest in tech fields. Driven by a passion for innovation and a thirst for knowledge, I'm dedicated to advancing the frontiers of technology. Beyond my academic pursuits, I actively engage in exploring various tech domains and keeping abreast of the latest advancements. Let's connect and delve deeper into the fascinating world of technology together!
 
