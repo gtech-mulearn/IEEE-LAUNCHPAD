@@ -31,7 +31,7 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 # How to Participate
 
-## Step 1:
+
 
 
 
