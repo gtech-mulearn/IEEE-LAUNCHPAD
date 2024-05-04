@@ -15,7 +15,7 @@
 |---------------------|---------------------------------------------------------------------------|
 | **Motion Based Message Conveyor** | The Motion Based Message Conveyor project employs motion detection technology to convey messages or information in real-time.|
 |**Safety Device For Sewage Workers**|This project aims to enhance safety for sewage workers by implementing a system that alerts them to variations in gas levels within sewage, mitigating potential hazards.|
-| **Emoji-Gen : Create your own emoji with Deep learning**    | "Emoji-Gen, an inventive deep learning project, allows users to generate personalized emojis by analyzing individual facial expressions and emotions."| 
+| **Emoji-Gen : Create your own emoji with Deep learning**    | Emoji-Gen, an inventive deep learning project, allows users to generate personalized emojis by analyzing individual facial expressions and emotions.| 
 
 #### Leadership and Influence:
 
