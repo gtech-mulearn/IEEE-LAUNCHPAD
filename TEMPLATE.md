@@ -1,9 +1,8 @@
-# Full Name 
+# SUMITHRA k 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> Currently pursuing Bachelor of Technology degree in Information Technology at Government Engineering College Sreekrishnapuram .Software enthusiast with a strong academic record and a passion for developing innovative software solution.
 
 ## Portfolio Highlights
 
@@ -11,7 +10,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **SpotOnAlert**  |A combined software and hardware system which detect the road accident and immediately send an alert to the registered phone number .                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
