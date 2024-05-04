@@ -46,10 +46,10 @@
 - **Stronger Collaboration**: Foster closer connections between academia, research institutions, and startups, creating a collaborative ecosystem for technology development.
 - **Policy and Advocacy**: Engage with policymakers and industry leaders to advocate for policies that support the growth and sustainability of the Kerala startup ecosystem.
 
-> My Portfolio Website: [jithu-francis.github.io](https://jithu-francis.github.io/)
-> My LinkedIn Profile: [Jithu Francis](https://www.linkedin.com/in/jithu-francis-958aa81a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-> My Github Profile: [jithu-francis](https://github.com/jithu-francis)
->
->> check out [jithufrancis@mulearn.md](./profiles/jithufrancis@mulearn.md)
+ My Portfolio Website: [jithu-francis.github.io](https://jithu-francis.github.io/)
+ My LinkedIn Profile: [Jithu Francis](https://www.linkedin.com/in/jithu-francis-958aa81a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ My Github Profile: [jithu-francis](https://github.com/jithu-francis)
 
+> check out [jithufrancis@mulearn.md](./profiles/jithufrancis@mulearn.md)
+>
 ---
