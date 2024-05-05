@@ -12,13 +12,13 @@ development.Dedicated and enthusiastic learner currently mastering the PYTHON FU
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Medi-care** | This project connects users with virtual doctors through an AI chatbot, facilitating communication, schedule viewing, and appointment booking.           |                                             [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/adithya-krishna-p/Medi-care-mini-project-) |
-| **Portfolio Website** | This is my Portfolio Website Build with Html,Css,Bootstrap,js           |                                             -    | [Repo Link 1](https://adithya-krishna-p.github.io/mypersonalwebsite/) |
+| **Medi-care** | This project connects users with virtual doctors through an AI chatbot, facilitating communication, schedule viewing, and appointment booking.           |                                                | [Repo Link 1](https://github.com/adithya-krishna-p/Medi-care-mini-project-) |
+| **Portfolio Website** | This is my Portfolio Website Build with Html,Css,Bootstrap,js           |                                                | [Repo Link 1](https://adithya-krishna-p.github.io/mypersonalwebsite/) |
 
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Now as I am  studying python fullstack at bangalore i lead a team of four for to develop a project and we have completed this project within in a week.
 
 #### Networking:
 
@@ -27,6 +27,8 @@ development.Dedicated and enthusiastic learner currently mastering the PYTHON FU
 #### Career Plan:
 
 - Helps in growing the organisations I'm part of, there by letting more people to the eco system.
+- Finding out the true potential that I can achieve & acquire : within the next year
+- I wished to be a Software developer.
 
 
 #### Thoughts on Kerala's Tech Ecosystem:
