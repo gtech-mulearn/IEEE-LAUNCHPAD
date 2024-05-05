@@ -19,6 +19,10 @@
 | **Invento23**  | Backend for the Techfest in my college                | [Repo Link](https://github.com/cgaswin/invento23-backend)    | 
 
 
+#### Leadership and Influence:
+
+- I've actively exhibited leadership qualities by taking charge of project teams, ensuring smooth collaboration and timely delivery. Additionally, I've lent my expertise to friends, guiding them through various aspects of web development, showcasing my commitment to fostering growth and success within my network.
+
 #### Networking:
 - I'll attend industry events and conferences to connect with professionals and stay current on industry trends.
 - I plan to actively participate in relevant online communities whcih will help me expand my network and stay engaged with peers.
@@ -30,3 +34,19 @@
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala's tech ecosystem is gaining momentum, propelled by a dynamic blend of talent, government support, and a burgeoning startup culture. With top-tier educational institutions nurturing skilled professionals and initiatives like the Kerala Startup Mission (KSUM) fostering innovation, the state is attracting attention as a promising tech hub. Its natural allure and comparatively lower cost of living further enhance its appeal, positioning Kerala as a competitive player in the global technology landscape, despite facing challenges typical of emerging ecosystems such as access to capital and infrastructure development.
+
+#### Highly Used Technology Tools:
+- Javascript -> React , Next JS , Node JS ,Express JS, Nest JS
+- Databases -> Firebase , Mongo DB , mySQL , PostgreSQL 
+- Cloud - AWS
+- Git, Postman, Figma
+#### Highly Visible Technical Content:
+
+- My github[here](https://github.com/cgaswin) 
+
+
+
+#### Competitive Website Profiles:
+
+- [Leetcode](https://leetcode.com/u/cgaswin/)
+- [codeforces](https://codeforces.com/profile/cgaswin)
