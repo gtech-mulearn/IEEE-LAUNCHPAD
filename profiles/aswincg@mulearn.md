@@ -42,7 +42,7 @@
 - Git, Postman, Figma
 #### Highly Visible Technical Content:
 
-- My github[here](https://github.com/cgaswin) 
+- My github [here](https://github.com/cgaswin) 
 
 
 
