@@ -14,7 +14,7 @@ professionally where I can utilize my skills and knowledge appropriately.
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | Gas leakage arrestor and monitoring system  | We employ a gas sensor to keep a check on the concentration of LPG in the surrounding.The user is audibly notified about the leakage by buzzer and a warning
 message is sent to the user on Blink IOT mobile application.To reduce risk to human life, a servo motor is used to close the gas regulator
-automatically and the relay turns on the exhaust fan to reduce the concentration of gas inside the room.This project is implemented using the NodeMCU module and Arduino IDE.                                           | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+automatically and the relay turns on the exhaust fan to reduce the concentration of gas inside the room.This project is implemented using the NodeMCU module and Arduino IDE.                   |
 | Microwave Filters | Designed and simulated Microwave filters ( T Hetrz ranges ) in CST and HFSS simulation software.                                           |            |
 
 
