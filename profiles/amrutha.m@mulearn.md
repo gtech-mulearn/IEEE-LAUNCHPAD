@@ -4,6 +4,9 @@
 
 > Hey there! I'm Amrutha, an undergraduate student majoring in Artificial Intelligence and Machine Learning. As a tech enthusiast, I thrive on staying updated with the latest advancements in the field. 
 
+check out me on:
+[Github](https://github.com/Amrutha-M05)
+[Linkedin](https://www.linkedin.com/in/amrutha-aji/)
 
 ## Portfolio Highlights
 
