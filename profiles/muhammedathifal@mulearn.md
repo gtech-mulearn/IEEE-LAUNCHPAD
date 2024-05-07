@@ -3,6 +3,8 @@
 ### About Me
 
 >As a master's student pursuing computer science with a specialization in intelligent systems, I am deeply passionate about the fields of web development, IoT, network, and cyber security. Throughout my studies, I have developed a strong technical skillset in programming languages, software tools, and other relevant areas of expertise.In addition to my technical skills, I possess strong soft skills such as effective communication, teamwork, and problem-solving, which are essential in any technology-related field. Through various projects I have worked on, I have gained valuable experience and contributed to the development of various intelligent systems.I am always eager to learn and grow in my field and have completed relevant certifications and courses to enhance my skills. As I move forward in my career, I am excited to contribute my knowledge and expertise to the advancement of technology and to connect with like-minded professionals in the industry.
+<br><br>Checkout my github profile : https://github.com/athifal
+<br>Checkout my linkedln profile : www.linkedin.com/in/athifal
 ## Portfolio Highlights
 
 ### My Projects
