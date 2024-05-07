@@ -1,153 +1,41 @@
-# IEEE LAUNCHPAD Job Fair
+# MUHAMMED ATHIF A L
 
+### About Me
 
+>As a master's student pursuing computer science with a specialization in intelligent systems, I am deeply passionate about the fields of web development, IoT, network, and cyber security. Throughout my studies, I have developed a strong technical skillset in programming languages, software tools, and other relevant areas of expertise.In addition to my technical skills, I possess strong soft skills such as effective communication, teamwork, and problem-solving, which are essential in any technology-related field. Through various projects I have worked on, I have gained valuable experience and contributed to the development of various intelligent systems.I am always eager to learn and grow in my field and have completed relevant certifications and courses to enhance my skills. As I move forward in my career, I am excited to contribute my knowledge and expertise to the advancement of technology and to connect with like-minded professionals in the industry.
+<br><br>Checkout my github profile : https://github.com/athifal
+<br>Checkout my linkedln profile : www.linkedin.com/in/athifal
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                               |Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
+| **Drug Repurposing**  |  This project uses Python with NumPy, TensorFlow, Pandas, and Keras to develop a novel graph neural network for drug repositioning. The model optimizes drug–disease association modeling and validation, showcasing Python's power in advanced machine learning for biomedical applications.        |  [Drug Repurposing](https://github.com/athifal/Drug-repurposing-using-GNN)             |
+| **CircRNA-Disease association prediction based on Autoencoder And XGBoost Classifier**  |This project is a computer-based method that combines XGBoost and autoencoders to analyze the relationships between Circular RNAs (circRNA) and chronic human diseases. By leveraging circRNA sequences, disease semantics, and disease interactions, XGB-AE generates valuable features for classification. Our model achieved high performance                                          |  [Circ-RNA-Disease association](https://github.com/athifal/CirRNA-interaction-XGboost-autoencoder)  |
+| **React-PHP  Website**  | This is a professional company website built using React and PHP, focusing on providing comprehensive manpower solutions. The website serves as a central hub for the company's services, offerings, and information.       |  [React+PHP](https://github.com/athifal/React-Deeyeef)             |
 
 
+#### Networking:
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+- I maintain an active presence on LinkedIn, where I share industry insights, connect with professionals from various sectors, and foster collaborations to stay abreast of industry trends.
 
+- I participate proactively in tech festivals, competitions, and startup workshops, leveraging these platforms to showcase my skills, collaborate on projects, and network with students and industry experts for career growth and development..
 
+#### Career Plan:
 
 
+- My goal is to pursue a career as a Software Developer, with a strong emphasis on professional advancement and broadening my skill set. I believe in a continuous learning mindset and self-improvement as key drivers in shaping my career trajectory
+#### Thoughts on Kerala's Tech Ecosystem:
 
+- Reflecting on Kerala's burgeoning tech ecosystem, I see immense potential for growth and innovation. Through strategic investments in infrastructure, supportive policies, and educational initiatives, Kerala can pave the way for a thriving startup culture. By fostering collaboration between academia and industry, focusing on emerging technologies that align with our strengths, and ensuring access to funding and networking opportunities, we can create an environment where startups can flourish. This collaborative effort will not only drive economic growth but also contribute to societal advancement, positioning Kerala as a prominent player on the global tech stage.
 
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+#### Highly Used Software Tools:
 
-#
-
-
-
-
-<div align="center">
-
-
-
-
-# How to Participate
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
+- Microsoft Office
+- Github
+- Visual Studio Code
 
 
 ---
