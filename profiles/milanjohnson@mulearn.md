@@ -26,28 +26,28 @@ and personal growth and plays to my skills. I’m eager to learn about new techn
 
 #### Career Plan:
 
-- Immediate plans: To get a fresher job as DevOps Engineer.
-- Long-term plans : To gain knowledge in the DevOps field and evolve into a DevOps team lead or architect.
-
+- Immediate plans: Secure a fresher job as a DevOps Engineer.
+- Long-term plans: Acquire extensive knowledge in the DevOps field with the aim of progressing into a leadership role as a DevOps team lead or architect.
+  
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala has huge untapped startup potential. A strong collaboration with the government, students, along with public-private partnership models can exploit this potential..
+- Kerala possesses significant untapped potential in the startup sector. By fostering strong collaborations among the government, students, and leveraging public-private partnership models, we can effectively exploit this potential.
 
 #### History of Open Source Contributions:
 
-- I have't done any contributions, but all of my academic and induvidal projects are open source, and i have been a adovocate for opensource program in peer groups.
+- I haven't done any contributions, but all of my academic and induvidal projects are open source, and i have been a adovocate for opensource program in peer groups.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- I've consistently relied on communities like Stack Overflow to find solutions, though I haven't actively contributed by asking questions or providing answers.
 
 #### Highly Visible Technical Content:
 
-- 
+- I haven't created any highly visible technical content.
 
 #### Highly Used Software Tools:
 
-- 
+- I have not personally developed any widely-used software tools.
 
 #### Competitive Website Profiles:
 
