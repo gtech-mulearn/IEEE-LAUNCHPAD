@@ -61,9 +61,6 @@ My passion for technology extends beyond coding. I'm an active member of the fol
 #### Highly Used Software Tools:
 
 - I developed a To-Do app using Python Django with traditional front-end technologies, which functions as a CRUD model. This project helped my friends manage their schedules and showcases my understanding of web development principles.
-- In my development workflow, I rely on several valuable tools:
--- Code Editors: Visual Studio Code and PyCharm provide excellent features for writing, debugging, and managing code.
--- Task Management: Notion and Keep helps me stay organized by keeping track of tasks, ideas, and project roadmaps.
 
 #### Competitive Website Profiles:
 
