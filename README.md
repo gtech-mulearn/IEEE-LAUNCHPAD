@@ -1,42 +1,58 @@
-# Manu Kiran S
+# Full Name 
 
 ### About Me
 
-> Aspiring data scientist with a background in Information Technology (BTech, 2023). I'm building expertise in Machine Learning, AI and Data visualization tools. In addition to my data science interests, I've also explored web development, working with technologies such as HTML, CSS, JavaScript, Python, and Django to create responsive applications. 
----
+> write about your self .................. (minimum 200 Characters)
 
-## My Projects
+
+## Portfolio Highlights
+
+### My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Hangman Game**    | A clasic python Hangman Game                                                                                     |    |[github repo link](https://github.com/manukirans/Hangman-Game)  |
-| **Blood Donor Connect** | Flutter mobile app for urgent blood donation calls, centre searches, and donor eligibility checks   |        | [github repo link](https://github.com/manukirans/BloodDonorConnect) |
-| **SecurePDFLib**    | Secure digital library system incorporating a machine learningbased malicious PDF detection feature.|          |  [github repo link](https://github.com/manukirans/SecurePDFLib) |
-| **Customer-segmentation-and-Recommendation-systems**| A recommendation system to suggest top-selling products to customers within each segment || [github repo link](https://github.com/manukirans/Customer-segmentation-and-Recommendation-systems)|
-
+| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- Collaborated with a team of 4 members to develop a Flutter mobile app (BloodDonorConnect).
-- Coordinated and executed activities as a key member of the One Creator from One Ward Scholarship Programme organized Talrop. 
-
+- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
 #### Networking:
 
-- [LinkedIn Profile](https://www.linkedin.com/in/manukiran1327/)
+- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
 
 #### Career Plan:
 
-- I am currently honing my skills in Machine Learning, Deep Learning, and Data Science with the goal of securing a job in these fields this year. My aspiration is to become an expert in Data Science and AI, continually exploring new advancements in these areas. Alongside professional growth, I aim to generate income, enabling me to lead an enriching life and explore the world.
-
+- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
--  Kerala has the potential to thrive in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups. However, one significant challenge lies in the gap between students' skills and industry requirements during their college years. To address this gap, it's crucial for the education system to incorporate industry-level internships and entrepreneurship programs. By providing students with hands-on experience and exposure to real-world challenges, they can develop the domain knowledge and practical skills necessary to excel in the tech industry.
--  Collaboration between academia, government, and industry will remain essential in implementing these initiatives effectively and ensuring the growth of Kerala's tech ecosystem.
+- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
+#### History of Open Source Contributions:
+
+- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+
+#### History of Community Engagement:
+
+-  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+
+#### Highly Visible Technical Content:
+
+- Highlight any highly visible technical blog posts, articles, or video series you have created.
+
+#### Highly Used Software Tools:
+
+- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
 
-- Active member on HackerRank , leetcode
+- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+
+
+
+> In your portfolio, include the following details:
+>> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+
 ---
