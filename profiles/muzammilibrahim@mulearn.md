@@ -2,25 +2,25 @@
 <h1>MUZAMMIL IBRAHIM</h1>
 
 ### About Me
-I'm a Full Stack Developer with a passion for creating innovative web and mobile applications. Here's a glimpse into my background and skills:
+>I'm a Full Stack Developer with a passion for creating innovative web and mobile applications. Here's a glimpse into my background and skills:
 
-🌟 A Tech Enthusiast:
-- Recent BCA graduate with a passion for building innovative mobile and web applications.
-- Strong understanding of the full web development life cycle.
-- Proficient in Python and frameworks like Django and Bootstrap.
-- Actively expanding skillset to include:
+>🌟 A Tech Enthusiast:
+> - Recent BCA graduate with a passion for building innovative mobile and web applications.
+> - Strong understanding of the full web development life cycle.
+> - Proficient in Python and frameworks like Django and Bootstrap.
+>- Actively expanding skillset to include:
 -- Flutter for mobile development
 -- Java for mobile development
 -- JavaScript applications (React, Node.js)
 -- Python for data science
 -- Data structures using Python
-- Completed a Python Full Stack internship, deepening knowledge in web development, APIs, Machine Learning and Experience with databases like MySQL and PostgreSQL.
+> - Completed a Python Full Stack internship, deepening knowledge in web development, APIs, Machine Learning and Experience with databases like MySQL and PostgreSQL.
 
-🏢 With a Business Mindset: Beyond coding, I'm actively involved in our family business, gaining valuable lessons in strategy, customer relations, and problem-solving. Balancing tech innovation with real-world business challenges keeps me on my toes.
+>🏢 With a Business Mindset: Beyond coding, I'm actively involved in our family business, gaining valuable lessons in strategy, customer relations, and problem-solving. Balancing tech innovation with real-world business challenges keeps me on my toes.
 
-💡 Always a Problem Solver: Whether it's debugging a tricky piece of code or optimizing a business process, I thrive on finding elegant solutions. My motto: "Every challenge is an opportunity to learn and grow."
+>💡 Always a Problem Solver: Whether it's debugging a tricky piece of code or optimizing a business process, I thrive on finding elegant solutions. My motto: "Every challenge is an opportunity to learn and grow."
 
-🏋️‍♂️ Also a Fitness Fanatic: When I'm not typing away at my keyboard, you'll find me at the gym, lifting weights and chasing those endorphins. Fitness isn't just a hobby; it's a lifestyle that fuels my productivity and creativity.
+>🏋️‍♂️ Also a Fitness Fanatic: When I'm not typing away at my keyboard, you'll find me at the gym, lifting weights and chasing those endorphins. Fitness isn't just a hobby; it's a lifestyle that fuels my productivity and creativity.
 
 
 
@@ -51,6 +51,7 @@ I'm a Full Stack Developer with a passion for creating innovative web and mobile
 
 My passion for technology extends beyond coding. I'm an active member of the following communities:
 
+- I'm currently an active member in muLearn Discord server.
 - "Android Community Malayalam" (recognized as a top contributor for helping others troubleshoot issues with Android and desktop devices)
 - Novian Hub (tech entrepreneurship community at my college) - I encourage other students to participate in various tech workshops and meetings.
 
