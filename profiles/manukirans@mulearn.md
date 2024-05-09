@@ -20,7 +20,9 @@
 - Collaborated with a team of 4 members to develop a Flutter mobile app (BloodDonorConnect).
 - Coordinated and executed activities as a key member of the One Creator from One Ward Scholarship Programme organized Talrop. 
 
+#### Networking:
 
+- [LinkedIn Profile](https://www.linkedin.com/in/manukiran1327/)
 #### Career Plan:
 
 - I am currently honing my skills in Machine Learning, Deep Learning, and Data Science with the goal of securing a job in these fields this year. My aspiration is to become an expert in Data Science and AI, continually exploring new advancements in these areas. Alongside professional growth, I aim to generate income, enabling me to lead an enriching life and explore the world.
