@@ -23,7 +23,7 @@
 
 #### Networking:
 
--[LinkedIn Profile](https://www.linkedin.com/in/manukiran1327/)
+- [LinkedIn Profile](https://www.linkedin.com/in/manukiran1327/)
 
 #### Career Plan:
 
