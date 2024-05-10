@@ -64,7 +64,7 @@ My passion for technology extends beyond coding. I'm an active member of the fol
 - I developed a To-Do app using Python Django with traditional front-end technologies, which functions as a CRUD model. This project helped my friends manage their schedules and showcases my understanding of web development principles.
 
 #### Competitive Website Profiles:
-
+- [freeCodeCamp](https://www.freecodecamp.org/_mzml13)
 - [HackerRank](https://www.hackerrank.com/profile/muzammilibrahim3)
 - [Kaggle](https://www.kaggle.com/muzammilibrahimpm)
 
