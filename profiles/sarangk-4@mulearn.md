@@ -30,22 +30,8 @@ basics of networking,and Data Analytics. Have gained experience in Software Proj
 
 - Kerala is emerging vibrantly in the tech ecosystem, contributing to the development of the new age technologies. The resources available are much supportive for any tech enthusiast.
 
-#### History of Open Source Contributions:
-
-- Nothing much
-
-#### History of Community Engagement:
-
--  Haven't done such
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- HackerRank:https://www.hackerrank.com/profile/srgktl123
+Kaggle:https://www.kaggle.com/sarang532
