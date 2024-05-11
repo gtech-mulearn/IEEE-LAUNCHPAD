@@ -35,7 +35,7 @@ Checkout my linkedln profile : www.linkedin.com/in/amanma-link
 
 #### Career Plan:
 
-- I graduate BCA with an excellent GPA and to be placed at an MNC where i could grow myself.
+- I graduate BCA with an excellent CGPA and to be placed at an MNC where i could grow myself.
 - Gain experience in the firm i'm working , and experience how the world industries thrive and functions.
 - My ultimate aspiration is to become an entrepreneur, creating a platform where I can utilize my resources and expertise to nurture and empower innovative minds, fostering their growth and development.
 
