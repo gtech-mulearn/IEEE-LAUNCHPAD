@@ -25,7 +25,7 @@ CGPA - 7.46
 # Certificates
 - GOOGLE DATA ANALYTICS PROFESSIONAL CERTIFICATE BY GOOGLE ON COURSERA [verify](https://www.credly.com/badges/be1bb955-995c-4f8e-aa1a-cdadc8d55275/public_url)   
 - BUILDING DATABASE APPLICATIONS IN PHP BY UNIVERSITY OF MICHIGAN ON COURSERA [verify](https://www.coursera.org/account/accomplishments/certificate/QQ6RAF5Q8PWJ)
-- PROFESSIONAL DATA ANALYTICS TRAINEESHIP CERTIFICATE[verify](https://www.dropbox.com/scl/fi/fpyhh5uuti8va5e1683az/Traineeship-MTE-certificate.pdf?rlkey=g3zi65qq9rxa9hzbga36hjw5x&dl=0)
+- PROFESSIONAL DATA ANALYTICS TRAINEESHIP CERTIFICATE [verify](https://www.dropbox.com/scl/fi/fpyhh5uuti8va5e1683az/Traineeship-MTE-certificate.pdf?rlkey=g3zi65qq9rxa9hzbga36hjw5x&dl=0)
 
 
 ## PROJECTS
