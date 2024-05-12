@@ -69,7 +69,7 @@ Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHP
 
 #### 📄 Name Your File!
 
-Craft a new markdown file inside the `/profile` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
+Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
 
 #### ✍️ Fill It Out!
 
@@ -80,7 +80,7 @@ Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
 Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
 
 > [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
+> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
 
 
 

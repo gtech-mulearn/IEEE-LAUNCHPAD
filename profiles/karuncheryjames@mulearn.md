@@ -8,7 +8,7 @@ Proficient in web development (HTML, CSS, PHP, MySQL), MERN stack, Python, and C
 
 In addition to my technical skills, I'm well-versed in tools such as Canva, Figma, and GitHub, leveraging them to enhance collaboration and streamline workflows. My knack for multitasking, problem-solving, and fostering collaboration ensures successful outcomes in every endeavor.
 
-Let's connect and explore how we can leverage technology to make an impact together!
+Let's connect and explore how we can leverage technology to make an impact together! [Github Profile](https://github.com/Karuncj) [LinkedIn Profile](https://www.linkedin.com/in/karun-chery-james-76b165206/)
 
 
 ## Portfolio Highlights
@@ -21,37 +21,19 @@ Let's connect and explore how we can leverage technology to make an impact toget
 | GIVE APP  | Mobile app simplifying the donation of gently used items to charities.The user-friendly interface allows item listings, connections with recipients,and showcases charity needs.| [Github Repo Link 2](https://github.com/Karuncj/Mini-Project---Give-App1) |
 |EDUHUB  | Developed a student record management system (DBMS) to efficiently store, retrieve, and manage student information, including names, fees etc.Streamlined administrative tasks and improved data accessibility.| [Repo Link 3](https://github.com/Karuncj/DBMS_Project)             |
 
-#### Competitive Website Profiles:
+#### Leadership and Influence:
+I adeptly guided project teams towards successful outcomes by fostering engagement and cultivating a supportive learning atmosphere. Moreover, my involvement as a volunteer at the Astra 8.0 National Level Tech Fest in 2024 extended beyond coordination duties; I actively contributed to event planning and execution, demonstrating a passion for enriching campus experiences and fostering community connections.
 
-CodeChef:https://www.codechef.com/users/karun_cj
+#### Networking:
+My networking skills, cultivated through societies like Mulearn and CSI, are grounded in empathy. I engage proactively, leveraging these channels to stay informed and build meaningful relationships. I actively contribute to the community through volunteering and mentoring, emphasizing active listening and mutual respect in every interaction.
 
 #### Career Plan:
 
-Immediate Plans:
+- Immediate Plans:
+My immediate goal is to secure a job in the tech industry where I can gain valuable insights and understanding of how the industry operates. I aim to immerse myself in real-world scenarios, learn from experienced professionals, and develop practical skills that will set a strong foundation for my career.
 
-Engagement with Existing Startups:
-
-Collaborate with established startups to understand their challenges and offer support.
-Participate actively in startup events to build connections and share insights.
-Promotion of Entrepreneurship Culture:
-
-Organize workshops in educational institutions to inspire entrepreneurship.
-Establish partnerships for creating incubation centers and accelerators.
-Longer-Term Plans:
-
-Infrastructure Development:
-
-Advocate for startup-friendly infrastructure like coworking spaces and innovation hubs.
-Simplify regulatory processes to foster a conducive environment for startups.
-Access to Funding:
-
-Establish investor networks and funding initiatives for early-stage startups.
-Foster collaboration between startups, academia, and industry to attract investment.
-Thoughts on Kerala's Future:
-
-Leveraging Talent: Tap into Kerala's talent pool to emerge as a tech startup hub.
-Global Connectivity: Forge connections with global startup ecosystems to access markets and talent.
-Sustainability Focus: Champion sustainable startups to address societal and environmental challenges.
+- Longer-Term Plan:
+Looking ahead, my aspiration is to establish my own tech startup, where I can contribute to society through innovative solutions while continuously challenging and developing myself. By leveraging my skills and knowledge gained from my BTech in Computer Science and Engineering, I aim to create a company that not only succeeds commercially but also makes a positive impact on the world.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -64,6 +46,13 @@ Kerala provides the infrastructure and streamlined processes necessary for start
 Embracing Collaboration and Innovation:
 
 Kerala believes in the power of collaboration. By bringing academia, industry, and startups together, we create a supportive community where ideas can be shared and partnerships formed, propelling startups towards success.
+
+#### History of Community Engagement:
+An active participant of the Mulearn discord server.
+
+#### Competitive Website Profiles:
+
+-Member of CodeChef, Hackerrank, and LeetCode.
 
 
 >> check out [karuncheryjames@mulearn.md](./profile/karuncheryjames@mulearn.md)
