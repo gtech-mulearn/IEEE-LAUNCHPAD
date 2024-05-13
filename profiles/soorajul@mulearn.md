@@ -15,7 +15,7 @@
 
 ## Education
 **Bachelor Of Computer Applications (BCA) | AMRITA VISHWA VIDYAPEETHAM, KOLLAM, KERALA**  
-*2018 - 2021  *  
+*2018 - 2021*  
 CGPA - 8.0
 
 **Master Of Computer Applications (MCA) | AMRITA VISHWA VIDYAPEETHAM, KOLLAM, KERALA**  
