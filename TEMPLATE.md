@@ -1,9 +1,9 @@
-# Full Name 
+
+# Smithin Thankachan 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> As a software engineer, I bring a diverse skill set to the table, including expertise in web design and programming languages such as C, C++, Java, and Python. With a passion for innovation and problem-solving, I thrive on tackling complex challenges and delivering robust solutions. My experience spans from crafting elegant user interfaces to developing efficient backend systems. I am dedicated to continuous learning, staying updated on the latest technologies and methodologies in the ever-evolving landscape of software engineering. Committed to excellence and collaboration, I aim to contribute meaningfully to projects and teams, driving towards success in every endeavor
 
 ## Portfolio Highlights
 
@@ -11,48 +11,38 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Employee Leave Management System**  | Employee leave management system is an web application that collect employee details and leaves by date and time.                                      | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **CodeConvertor**  | CodeConvertor is an desktop application that convert python programs into C, C++,PHP programming languages.The user friendlyinterface helps users to intract with the application                                         | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Led a team of 4 members in the final year project .
 
-#### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+-  I am dedicated to continuous learning, staying updated on the latest technologies and methodologies in the ever-evolving landscape of software engineering. Committed to excellence and collaboration, I aim to contribute meaningfully to projects and teams, driving towards success in every endeavor.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- To Share my thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.• Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups to make there on Community.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
+-  Active participant in [Mulearn](smithinthankachan@mulearn)
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
+- post in [Linkedin](https://www.linkedin.com/in/smithin-thankachan-230168301)
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
+- Visual studio 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
+-[Linkedin](https://www.linkedin.com/in/smithin-thankachan-230168301)
 
 
 > In your portfolio, include the following details:
 >> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
 ---
