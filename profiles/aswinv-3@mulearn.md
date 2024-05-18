@@ -82,12 +82,9 @@ Increased Collaboration and Networking-
 
 #### Competitive Website Profiles:
 
-- http://in.linkedin.com/in/aswin-v-2b1366205
+ [Linkedin](https://www.linkedin.com/in/aswinvezhakkodan/) 
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
 
