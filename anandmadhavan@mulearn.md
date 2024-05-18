@@ -11,7 +11,7 @@
 
 | Name                | Description                                                                              | Repo Link                                                      |
 |---------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| **IoT:Sensor Data Monitoring System**  | Arduino water sensor monitoring                                                | [Repo Link ](https://github.com/Anand1020-pix/IOT)             |
+| **IoT:Sensor Data Monitoring System**  | Arduino-based water sensor monitoring system                                               | [Repo Link ](https://github.com/Anand1020-pix/IOT)             |
 | **CDAS**  | CDAS - Crime Detection and Surveillance System                                                | [Repo Link ](https://github.com/Anand1020-pix/CDAS)             |
 
 #### Leadership and Influence:
