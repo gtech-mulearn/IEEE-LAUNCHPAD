@@ -20,6 +20,7 @@ With each line of code I write, I strive for excellence, pushing boundaries and 
 
 #### Leadership and Influence:
 
+ main
 - Projects Leadership: I've taken the lead in several group projects, guiding team members through the development process, delegating tasks based on strengths, and ensuring timely completion. For instance, in our recent web development project, I spearheaded the team, facilitating collaboration and maintaining momentum to meet project deadlines. Through effective communication and mentorship, I empowered team members to contribute their best.
 
 #### Networking:
@@ -30,6 +31,17 @@ With each line of code I write, I strive for excellence, pushing boundaries and 
 #### Career Plan:
 
 - Engage with Local Startups: I plan to actively engage with local startups in Kerala by attending networking events, startup meetups, and conferences. By connecting with founders, sharing insights, and offering support and mentorship where needed, I aim to contribute to the growth and success of emerging startups in the region.
+=======
+- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+
+#### Networking:
+
+- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+
+#### Career Plan:
+
+- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+main
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -58,4 +70,3 @@ With each line of code I write, I strive for excellence, pushing boundaries and 
 
 
 ---
-
