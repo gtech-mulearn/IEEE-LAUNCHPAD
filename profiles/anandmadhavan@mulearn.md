@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm Anand Madhavan, a passionate freelance developer with expertise in crafting cutting-edge websites, web applications, and mobile apps. With a proven track record of leading teams to success and delivering top-notch results on time and within budget, I'm driven by the desire to make a lasting impact through innovative projects. Currently pursuing my final year of Computer Science and Engineering at Nehru College of Engineering & Research Centre, I'm deeply engaged in exploring the intricacies of cybersecurity as a dedicated security researcher. Let's innovate and make waves together!
+> I'm [Anand Madhavan](https://anandmadhavan.tech/), a passionate freelance developer with expertise in crafting cutting-edge websites, web applications, and mobile apps. With a proven track record of leading teams to success and delivering top-notch results on time and within budget, I'm driven by the desire to make a lasting impact through innovative projects. Currently pursuing my final year of Computer Science and Engineering at Nehru College of Engineering & Research Centre, I'm deeply engaged in exploring the intricacies of cybersecurity as a dedicated security researcher. Let's innovate and make waves together!
 
 
 ## Portfolio Highlights
