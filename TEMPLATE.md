@@ -1,8 +1,8 @@
-# Full Name 
+Muhammed Siyad
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+I'm an Aspiring Full Stack Developer with a passion for creating innovative web applications. I have a deep understanding of the full web tools like HTML,CSS and Learning JS and its Frameworks NodeJS and ReactJS.Im onto Database used MongoDB database.Im Inspired to learn AI and ML in the current scenario.There is a list behind to learn .Never Stops Learning.
 
 
 ## Portfolio Highlights
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| QR CODE Component  | Simple QR Code Component Using HTML and CSS                                              | [Hosted Link 1](https://siyad01.github.io/qr-component/)    | [Repo Link 1](https://github.com/siyad01/qr-component)             |
+| RECIPE Page  | Recipe Page design Using CSS                                              | [Hosted Link 2]( https://siyad01.github.io/recipe-page/)    | [Repo Link 2](https://github.com/siyad01/recipe-page)             |
 
 #### Leadership and Influence:
 
