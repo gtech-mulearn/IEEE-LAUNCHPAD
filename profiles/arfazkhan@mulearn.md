@@ -28,7 +28,7 @@
 
 #### Leadership and Influence:
 
-- Led stakeholder collaboration to ensure the IoT feedback system met user needs effectively.
+- Led stakeholder collaboration to ensure the Customer feedback system project met user needs effectively.
 - Successfully led a team of five volunteers at IEEE Malabar Hub, resulting in a 73% increase in website traffic.
 - Coordinated a 15-member team across 26 committees for Ponnonam'23 at the District Tourism Promotion Council, ensuring seamless event execution.
 - Spearheaded "Nammude Kozhikode" initiative, boosting citizen engagement by 57% and government service utilization by 33%.
@@ -42,13 +42,13 @@
 
 - Strong networking skills demonstrated through active participation in industry conferences such as Huddle Global, Google AI for Startups, Startup Idea Factory
 - Built strong networking skills through my active participation in Hackathons, TechFests, and attending different college events.
-- Active member of the IEEE,IEDC, Gtech MuLearn, Tinkerhub, Friends of Figma, BuildSpace and YesFam communities.
+- Active member of the IEEE, IEDC, Gtech MuLearn, Tinkerhub, Friends of Figma, BuildSpace and YesFam communities.
 - Orchestrated communication with high-profile celebrities and artists for Ponnonam'23, enhancing the event's appeal and success.
 
 #### Career Plan:
 
-- In the immediate term, Pursue roles focused on embedded systems development, leveraging expertise in platforms like embedded systems to create innovative solutions and Pursue opportunities in UX/UI design or front-end development, applying graphic and UI design skills to create visually appealing and intuitive user interfaces.
-- In the long term, I, aim for positions in data analysis or machine learning, utilizing skills in Python, data visualization, and machine learning algorithms to extract valuable insights from data and Consider starting a tech-related venture, leveraging diverse skills, leadership experience, and problem-solving abilities to address market needs effectively.
+- In the immediate term, I aim to pursue roles focused on embedded systems development, utilizing my expertise in platforms like embedded systems to craft innovative solutions. Additionally, I seek opportunities in UX/UI design or front-end development, where I can apply my graphic and UI design skills to create visually appealing and intuitive user interfaces.
+- Considering these short-term goals, in the long term, my focus shifts towards leadership positions such as Chief Technology Officer (CTO) or Chief Design Officer (CDO). In these roles, I aspire to mentor and lead junior engineers, guiding them towards success while overseeing the development of cutting-edge projects. One of my visions for the future is to establish D.U.N.E (Designing Unique NextGen Electronics), a venture dedicated to crafting custom hardware and software integrated solutions. Through D.U.N.E, I envision innovating and disrupting the industry, addressing evolving market needs with cutting-edge technology and creative solutions. This venture represents not only a business endeavor but also a commitment to driving positive change and fostering innovation within the tech landscape.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -61,7 +61,12 @@
 
 #### History of Community Engagement:
 
-- Active participant in the [Gtech Mulearn](https://discord.gg/tech-community).
+- Engaged as an active participant within the [Gtech Mulearn](https://discord.gg/tech-community) holding a distinguished overall rank of 15
+- Exercised duties as the secretary for the IEEE Student Branch at AWH Engineering College
+- Demonstrated commitment through volunteering for numerous IEEE events
+- Engaged as a dedicated volunteer within NSS Unit 241, assuming the role of lead designer
+- Acknowledged by the Kozhikode District Collector for significant contributions to community initiatives
+- Actively involved as a member of the Innovation and Entrepreneurship Development Cell (IEDC)
 
 ##### Highly Visible Technical Content:
 
@@ -71,6 +76,7 @@
 
 #### Competitive Website Profiles:
 
-- Published all solutions to the Exercism Flutter Track.
-- Active member on HackerRank with a 4.8k ranking in Problem Solving Track.
+- Actively contributed to and successfully solved 41 problems within the Dart track on [Exercism](https://exercism.org/profiles/arfazkhan).
+- Continuously contributing to and resolving challenges in the Python track on [Exercism](https://exercism.org/profiles/arfazkhan), having already tackled 20 problems with ongoing engagement.
+- Maintains an active presence on HackerRank, achieving a commendable ranking of 4.8k in the Problem Solving Track.
 ---
