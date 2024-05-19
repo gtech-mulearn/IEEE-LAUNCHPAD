@@ -59,11 +59,6 @@ In addition to my leadership role, I achieved second place in a national-level i
 
 
 
-#### Highly Visible Technical Content:
-
-**[AURA 2022 - IEEE SB CEV Magazine](https://online.fliphtml5.com/kxkcv/ljiu/)** |
-
-
 #### Social Handles
 
  **[GitHub](https://github.com/14archana)** | **[LinkedIn](https://www.linkedin.com/in/archana-p-v/)**
