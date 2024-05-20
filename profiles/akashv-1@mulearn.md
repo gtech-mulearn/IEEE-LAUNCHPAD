@@ -25,7 +25,7 @@ Get my Resume; [Akash's Resume ](https://drive.google.com/file/d/1lypIdXwYZCjoAp
 
 
 
-## $${\color{white}MY-PROJECTS:}$$
+## $${\color{white}PROJECTS:}$$
 
 
 | Name                | Description                                                               | Repo Link                                                      |
@@ -52,46 +52,42 @@ Get my Resume; [Akash's Resume ](https://drive.google.com/file/d/1lypIdXwYZCjoAp
 
 ➡️Embedded Systems Mentor - `Kerala Infrastructure and Technology for Education`  [📤 ](https://www.linkedin.com/posts/akashviswanath_arduino-embeddedsystems-kite-activity-7096028629356195840-uUCa?utm_source=share&utm_medium=member_desktop)
 
-
-<br />
+##
 
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-- <font color="green"> Some green text </font>
+- Attended 15+ events under IEEE all over Kerala
+- Participated in `All India Adventure Trek Camp` held at Assam under NCC [📤 ](https://www.linkedin.com/posts/akashviswanath_ncc-trek-activity-7119613223875579904-xJqW?utm_source=share&utm_medium=member_desktop)
+- Strong Network and Proven Volunteering experience in National Levels
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
-- <span style="color: green"> Some green text </span>
+- Seeking professional development in field of `Robotics`, `Renewable Energy`, `Embedded System`, and `EV`
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- On my experience with `Kerala Startup Mission` [📤 ](https://www.linkedin.com/posts/akashviswanath_ieee-enhance-activity-7099414002279030784-oXAz?utm_source=share&utm_medium=member_desktop) and other startups, i can surely says that Kerala will excel in Tech Ecosystem
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+-  Actively engaged in diffrent tech fest and other tech conclaves like AKPESSC [📤 ](https://www.linkedin.com/posts/akashviswanath_activity-7000846542454624256-4yup?utm_source=share&utm_medium=member_desktop), AKIASSC [📤 ](https://www.linkedin.com/posts/akashviswanath_ieee-industrialvisit-substation-activity-7050825308920315904-W-mt?utm_source=share&utm_medium=member_desktop), KTU TECH FEST[📤 ](https://www.linkedin.com/posts/akashviswanath_robotics-robotics-rov-activity-7164998360284815360-Fxow?utm_source=share&utm_medium=member_desktop), IEEE Xtreme[📤 ](https://www.linkedin.com/posts/akashviswanath_ieee-ieeextreme17-xtreme-activity-7141741006319669248-Mg2h?utm_source=share&utm_medium=member_desktop), EV Hack by BOSCH[📤 ](https://www.linkedin.com/posts/akashviswanath_electricvehicles-activity-7088894300352106496-FQIW?utm_source=share&utm_medium=member_desktop) etc..
 
-#### Highly Visible Technical Content:
+  
+-  Participated 25+ workshops of diffrent fields like Web Development[📤 ](https://www.linkedin.com/posts/akashviswanath_webdevelopment-activity-6837410583877361664-7KdW?utm_source=share&utm_medium=member_desktop), EV Designing[📤 ](https://www.linkedin.com/posts/akashviswanath_electricvehicles-activity-7091807382309113856-ezst?utm_source=share&utm_medium=member_desktop), 3D Modelling[📤 ](https://www.linkedin.com/posts/akashviswanath_3dprinting-openscad-somethingnew-activity-7188200105756241920-Byaw?utm_source=share&utm_medium=member_desktop), PCB Designing[📤 ](https://www.linkedin.com/posts/akashviswanath_pcbbbbbbbbbbb-activity-6888529525655912448-tHKn?utm_source=share&utm_medium=member_desktop), Battery Pack Modelling[📤 ](https://www.linkedin.com/posts/akashviswanath_lumen-ieee-activity-6954426991295037440-mg0g?utm_source=share&utm_medium=member_desktop), Robotics[📤 ](https://www.linkedin.com/posts/akashviswanath_robotics-activity-6888530739328098304-cLVw?utm_source=share&utm_medium=member_desktop), Ai[📤 ](https://www.linkedin.com/posts/akashviswanath_certificate-of-completion-activity-7086931768846553088-Z6fP?utm_source=share&utm_medium=member_desktop), IoT[📤 ](https://www.linkedin.com/posts/akashviswanath_iot-activity-6899352588886896640-Y3lC?utm_source=share&utm_medium=member_desktop), Embedded Systems[📤 ](https://www.linkedin.com/posts/akashviswanath_ieee-iot-embeddedsystems-activity-7145667219727790080-FEq4?utm_source=share&utm_medium=member_desktop), Prompt Engineering[📤 ](https://www.linkedin.com/posts/akashviswanath_promptengineering-chatgpt-coursera-activity-7097981844196884482-8SO-?utm_source=share&utm_medium=member_desktop) etc...
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- MatLab [📤 ](https://www.linkedin.com/posts/akashviswanath_electricvehicles-activity-7091807382309113856-ezst?utm_source=share&utm_medium=member_desktop)
+- PVSyst  [📤 ](https://www.linkedin.com/posts/akashviswanath_lumen-ieee-activity-6954426991295037440-mg0g?utm_source=share&utm_medium=member_desktop)
+- DiaLUX  [📤 ](https://www.linkedin.com/posts/akashviswanath_ieee-ieeekeralasection-ieeeepicsproject-activity-6954425471006646272-j0ha?utm_source=share&utm_medium=member_desktop)
+- Arduino IDE  [📤 ](https://www.linkedin.com/posts/akashviswanath_vega-a-portfolio-of-indigenous-processors-activity-7139131624511705088-R5nS?utm_source=share&utm_medium=member_desktop)
+- OpenSCAD ( 3D Printing )  [📤 ](https://www.linkedin.com/posts/akashviswanath_3dprinting-openscad-somethingnew-activity-7188200105756241920-Byaw?utm_source=share&utm_medium=member_desktop)
+- EasyEDA ( PCB Designing )  [📤 ](https://www.linkedin.com/posts/akashviswanath_pcbbbbbbbbbbb-activity-6888529525655912448-tHKn?utm_source=share&utm_medium=member_desktop)
+- AutoCAD Electrical [📤 ](https://www.linkedin.com/posts/akashviswanath_certificate-of-completion-activity-7088375993026949120-gUyv?utm_source=share&utm_medium=member_desktop)
 
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
 
