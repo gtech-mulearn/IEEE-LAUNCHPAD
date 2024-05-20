@@ -1,11 +1,5 @@
 # $${\color{white}PROFILE}$$ 
 
-<p align="left">
-  <img src="https://github.com/AkashV2002/IEEE-LAUNCHPAD/assets/86285974/285d4da2-f4b0-4b75-bf4c-3652e12329d9" width="150" title="hover text">
-</p>
-
-##### Akash V
-
 
 ## $${\color{white}ABOUT‎:}$$ 
 
@@ -15,6 +9,11 @@
 seeking an opportunity to contribute my skills and passion to an organization
  that values innovation and encourages professional development in field of `Robotics`, `Renewable Energy`, `Embedded System`, and `EV`
 
+<p align="left">
+  <img src="https://github.com/AkashV2002/IEEE-LAUNCHPAD/assets/86285974/285d4da2-f4b0-4b75-bf4c-3652e12329d9" width="150" title="hover text">
+</p>
+
+###### Akash V
 
 ## Connect Meee
 
@@ -31,16 +30,30 @@ Get my Resume; [Akash's Resume ](https://drive.google.com/file/d/1lypIdXwYZCjoAp
 
 | Name                | Description                                                               | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
-| **ROBOTICS**       | ➡️ Builds a `Gesture controlled Robot`. ➡️ Builds a gesture controlled robot  | [Click📤](https://github.com/Abhi30000/Green-sphere-)     |
+| **ROBOTICS**       | ➡️ Builds a `Gesture controlled Robot`. ➡️ Builds a `line following robot`  | [Click📤](https://github.com/Abhi30000/Green-sphere-)     |
 | **Ai Face & Gesture Recognizer**      | ➡️ A simple tool for recognizing pre saved Faces and Gestures using Artificial Intelligence .| [Click📤 ](https://bit.ly/Robotics-Workshop-Project)             |
-| **HOME AUTOMATION**     | ➡️ "Builds a Home Automation System which can be attached to any normal household electric network and control anymhome equipments remotely through mobile | [Click📤 ](https://bit.ly/Home-Automation-Project)
-| **AUTOMATION FOR MEDICALLY DISABLED PERSONS USING IoT**     | ➡️ "A Device for medically disabled persons* to control their surrounded electrical device ( Like Fan🪭 , Lights 💡 etc... ) using their Eye Blinks 👀 | [Click📤 ](https://www.linkedin.com/posts/akashviswanath_btechfinalyearproject-activity-7197988369270808576-tGQq?utm_source=share&utm_medium=member_desktop)
+| **HOME AUTOMATION**     | ➡️ "Builds a Home Automation System which can be attached to any normal household electric network and `control any home equipments ` remotely through mobile | [Click📤 ](https://bit.ly/Home-Automation-Project)
+| **AUTOMATION FOR MEDICALLY DISABLED PERSONS USING IoT**     | ➡️ "A Device `for medically disabled persons` to `control their surrounded electrical device` ( Like Fan🪭 , Lights 💡 etc... ) `using their Eye Blinks` 👀 | [Click📤 ](https://www.linkedin.com/posts/akashviswanath_btechfinalyearproject-activity-7197988369270808576-tGQq?utm_source=share&utm_medium=member_desktop)
 
 ##
  
 ## $${\color{white}LEADERSHIP:}$$
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+➡️Membership Development Coordinator - `IEEE Student Branch`  [📤 ](https://www.linkedin.com/posts/ieee-student-branch-ncerc-702a60202_coming-together-is-the-beginning-keeping-activity-6896067563516784640-y66x?utm_source=share&utm_medium=member_desktop)
+
+  
+➡️Technical Coordinator - `Bloom 2K23`  [📤 ](https://www.linkedin.com/posts/akashviswanath_joyofvolunteering-technicalteam-activity-7138127595853774848-ZpZ1?utm_source=share&utm_medium=member_desktop)
+
+
+➡️Secretary - `IEEE SB NCERC`  [📤 ](https://www.linkedin.com/posts/ieee-student-branch-ncerc-702a60202_the-strength-of-the-team-is-each-individual-activity-7045777771079356416-RgMR?utm_source=share&utm_medium=member_desktop)
+
+
+➡️Media Team Head - `NSS Unit 209 , NCERC`  [📤 ](https://www.linkedin.com/posts/akashviswanath_joyofvolunteering-ieee-nss-activity-7186379024812707841-M9-3?utm_source=share&utm_medium=member_desktop)
+
+➡️Embedded Systems Mentor - `Kerala Infrastructure and Technology for Education`  [📤 ](https://www.linkedin.com/posts/akashviswanath_arduino-embeddedsystems-kite-activity-7096028629356195840-uUCa?utm_source=share&utm_medium=member_desktop)
+
+
+<br />
 
 
 #### Networking:
@@ -77,9 +90,8 @@ Get my Resume; [Akash's Resume ](https://drive.google.com/file/d/1lypIdXwYZCjoAp
 
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
-
-
 > In your portfolio, include the following details:
 >> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
+
