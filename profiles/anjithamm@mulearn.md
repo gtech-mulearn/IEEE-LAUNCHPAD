@@ -36,8 +36,3 @@ Having completed my degree in computer science engineering, I have excellent org
 
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
