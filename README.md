@@ -29,6 +29,7 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 
 # How to Participate
+[![Watch the video](https://i.ytimg.com/an_webp/XBcJKtRCbu4/mqdefault_6s.webp?du=3000&sqp=CP6ntrIG&rs=AOn4CLAnys5xTUePGmtPjYfi_zZ-6YrDBA)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
 
 ## Step 1:
 
