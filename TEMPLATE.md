@@ -15,7 +15,7 @@ problem-solving and a dedication to achieving results.
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Project Name 1**  |    CodeMate, a dynamic live code editor that I developed using HTML, CSS, and JavaScript CodeMate is your go-to tool for HTML, CSS, and JavaScript coding, offering separate spaces for typing code and instantly previewing the output. 
                                            | [Hosted Link 1](https://github.com/Aryakp1/liveCodeMate)    | [Repo Link 1](https://github.com/Aryakp1/liveCodeMate)             |
-| **Project Name 2**  | Quiz App, a Quiz game application that I developed using HTML, CSS, and JavaScript. 🌟
+| **Project Name 2**  | Quiz App, a Quiz game application that I developed using HTML, CSS, and JavaScript.
                                             | [Hosted Link 2](https://github.com/Aryakp1/QuizApp)    | [Repo Link 2](https://github.com/Aryakp1/QuizApp)                   |
 
 
