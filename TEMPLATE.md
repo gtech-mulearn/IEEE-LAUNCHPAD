@@ -16,7 +16,7 @@ problem-solving and a dedication to achieving results.
 | **Project Name 1**  | 
                                 | [Hosted Link 1](https://github.com/Aryakp1/liveCodeMate)    | [Repo Link 1](https://github.com/Aryakp1/liveCodeMate)             |
 | **Project Name 2**  |
-                                  | [Hosted Link 2](https://github.com/Aryakp1/QuizApp)    | [Repo Link 2](https://github.com/Aryakp1/QuizApp)                   |
+                                 | [Hosted Link 2](https://github.com/Aryakp1/QuizApp)    | [Repo Link 2](https://github.com/Aryakp1/QuizApp)                   |
 
 
 
