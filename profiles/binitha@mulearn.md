@@ -11,8 +11,8 @@
 
 | Name                                                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |-----------------------------------------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Brain tumor classification using deep learning**  | Utilized two deep learning models to classify brain tumor MRI images, comparing results to identify the most effective approach for enhanced  diagnosis accuracy. |[Hosted Link 1](https://example.com)      | [Repo Link 1](https://github.com/username/project1)            |                                                    |
-| **LiFi Data transfer system**                       | Developed a high-speed LiFi data transfer system using visible light communication technology, incorporating Arduino for hardware control. Explored diverse applications for efficient data transmission using visible light.    | [Hosted Link 2](https://example.com)     | [Repo Link 2](https://github.com/username/project2)    |
+| **Brain tumor classification using deep learning**  | Utilized two deep learning models to classify brain tumor MRI images, comparing results to identify the most effective approach for enhanced  diagnosis accuracy. |     |            |                                                    |
+| **LiFi Data transfer system**                       | Developed a high-speed LiFi data transfer system using visible light communication technology, incorporating Arduino for hardware control. Explored diverse applications for efficient data transmission using visible light.    | |  |
 
 
 #### Leadership and Influence:
