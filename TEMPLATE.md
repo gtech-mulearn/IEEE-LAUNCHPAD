@@ -1,8 +1,10 @@
-# Full Name 
+# ARYA K P
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Aspiring IT professional pursuing a B.Tech in Computer Science, with a strong foundation in
+programming, eager to contribute to innovative projects. Quick learner with a passion for
+problem-solving and a dedication to achieving results.
 
 
 ## Portfolio Highlights
@@ -11,50 +13,43 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://github.com/Aryakp1/liveCodeMate)    | [Repo Link 1](https://github.com/Aryakp1/liveCodeMate)             |
+| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://github.com/Aryakp1/QuizApp)    | [Repo Link 2](https://github.com/Aryakp1/QuizApp)             |
 
 
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Collected datas to create my own project and got practical knowledge.
 
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- I usually prefer vscode for developement.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- Got Access in chegg as an expert tutor.
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I am an enthusiastic and dedicated NCC cadet actively engaged in fulfilling my duties and responsibilities. With a deep sense of commitment, I consistently strive to exemplify the core values of discipline, teamwork, and leadership that the NCC instills. I actively participate in training sessions, drills, and community service activities, honing my skills and knowledge to become a well-rounded individual.
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- As an engineering student and NCC cadet, I've honed my networking skills through various experiences in public speaking and leadership. My journey in NCC has instilled self-confidence and discipline, enabling me to effectively connect with peers and professionals. These skills, combined with my technical background, empower me to build meaningful relationships and collaborate successfully in diverse environments.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- I am highly enthusiastic about creating innovative projects and continuously developing my skills in emerging technologies. Throughout my journey, I have actively participated in various boot camps under GTech µLearn and the Kerala Knowledge Economy Mission (KKEM). Additionally, I successfully completed a research internship with KKEM, which further solidified my interest in technology and research. My experiences as an engineering student, combined with my passion for public speaking and self-confidence, equip me to tackle new challenges and contribute to cutting-edge advancements in my field. My career plan is to leverage these experiences and skills to become a leading innovator and technologist, dedicated to pushing the boundaries of what is possible. 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala can excel in the technology startup ecosystem by fostering innovation through supportive policies, investing in quality education and skill development, and promoting collaborations between academia, industry, and government. Enhancing infrastructure, providing access to funding, and nurturing a culture of entrepreneurship will further empower startups. By leveraging its strong talent pool and unique resources, Kerala can become a thriving hub for technological advancements and startups.
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
+>
+>> 
 
 ---
 
