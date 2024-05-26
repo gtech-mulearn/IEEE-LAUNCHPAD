@@ -16,20 +16,17 @@
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
+- I worked as an NSS volunteer on college,also i like time management, discipline,problem solving..
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- By effective communication between them  can solve issues also listening skill can help.itbleads to effective networking
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
-
+- I am looking for an an nice nice job that gives me peace and satisfaction from work it .also want to learn some skills for my future like coding programming etc..
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
+- this platform is good also these types of innovative can leads the kerala number 1 and building an professional career 
 #### History of Open Source Contributions:
 
 - Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
@@ -48,7 +45,8 @@
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- https://www.linkedin.com/in/niyaskhan-s-
+b74279201
 
 
 
