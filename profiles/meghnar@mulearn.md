@@ -2,7 +2,7 @@
 
 ### Software Engineer Student
 
-> I am a passionate and dedicated  with a strong background in Computer Science and Engineering with a keen interest in frontend development.I would like to expand my skill-set and to explore and innovate within the field. 
+> I am a passionate and dedicated  with a strong background in Computer Science and Engineering with a keen interest in frontend development. I would like to expand my skill-set and to explore and innovate within the field. 
 
 
 ## Portfolio Highlight.
@@ -34,8 +34,8 @@
 #### Highly Used Software Tools:
 
 - Visual Studio Code
-- pyCharm
-- Andriod Studio
+- PyCharm
+- Android Studio
   
 #### Competitive Website Profiles:
 
