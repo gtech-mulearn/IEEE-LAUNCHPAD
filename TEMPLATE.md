@@ -1,11 +1,13 @@
-# Full Name 
+# ARJUN V
+
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am Arjun V, currently in my final year pursuing a Bachelor's degree in Electrical and Electronics Engineering (EEE) at Nehru College of Engineering and Research Centre, having completed my Diploma in EEE at Government Polytechnic College, Palakkad. My journey in engineering has been enriched with diverse experiences, including specialized training in S7 1200 PLC at Siemens India Pvt Ltd and internships at Motherson Automotive Technology and Engineering, Chennai. I showcased my expertise through projects like Advanced Pump Automation during my diploma and a Universal Fast DC Charger for Two-Wheeler EVs in my B.Tech. I am an active member of IEEE and have furthered my skills in VLSI and Embedded Systems through training at NIELIT Calicut. Dedicated to innovation and professional growth, I am committed to contributing meaningfully to the engineering industry.
 
 
 ## Portfolio Highlights
+
 
 ### My Projects
 
@@ -16,7 +18,8 @@
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+-Chief creating officer-IEDC at Nehru college of engineering and research centre
+-
 
 #### Networking:
 
