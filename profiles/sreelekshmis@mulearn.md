@@ -62,7 +62,4 @@ Methods to foster a fresh breed of highly skilled young people empowered with te
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
----
