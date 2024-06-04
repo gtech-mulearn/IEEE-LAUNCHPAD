@@ -23,7 +23,9 @@ My networking skills are evidenced by my active presence on platforms like Linke
 
 #### Career Plan:
 
-In the immediate term, I aim to join a tech startup in Kerala, where I can apply my skills in machine learning, blockchain, and app development to drive innovation. Long-term, I plan to contribute by mentoring budding developers, organizing tech meetups, and advocating for policy changes that support the startup ecosystem in Kerala.
+In the immediate term, I aim to join a tech startup in Kerala, where I can apply my skills in machine learning, blockchain, and app development to drive innovation.In the long term, I aspire to start my own tech venture, focusing on creating impactful solutions for local and global challenges. I also aim to support Kerala's tech community by providing mentorship and creating platforms for collaboration and knowledge sharing.
+
+
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
