@@ -1,8 +1,20 @@
-# Full Name 
+# Anandhu p
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> A As an electronics and communicational engineering graduate
+ with a solid foundation in electronics and a successful track
+ record of completing IoT projects, I am enthusiastic about taking
+ on new challenges and opportunities. Alongside my engineering
+ skills, I bring expertise in web development, including HTML, CSS,
+ Java, and Bootstrap 5. I have successfully delivered two web
+ development projects, showcasing my proficiency in front-end
+ web development. My diverse skill set, spanning electronics,
+ software development, and problem-solving, reflects my
+ commitment to continuous learning and adaptability. I am eager
+ to apply my technical abilities and creative thinking to contribute
+ to your company's digital initiatives, such as web application
+ development, and further my career in this dynamic field
 
 
 ## Portfolio Highlights
@@ -11,20 +23,26 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Currency-convertor**  | flutter simple code for currency convertor                                              | [Hosted Link 1](https://anandhup123.github.io/Currency-value-Convertor/)    | [Repo Link 1](https://github.com/Anandhup123/Currency-value-Convertor)          |
+| **Mini quiz app**  | Android mini quiz application                                              | [Hosted Link 2]()    | [Repo Link 2](https://github.com/Anandhup123/Android-Quiz-Application)             |
 
-#### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- 
+
+Create template.md
 
 #### Career Plan:
 
+2 weeks ago
+
+feat(template): Minor English things
 - Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+last month
+
+Create template.md
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
