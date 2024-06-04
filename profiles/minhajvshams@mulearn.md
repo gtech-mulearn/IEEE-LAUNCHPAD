@@ -2,57 +2,33 @@
 
 ### About Me
 
-> I am a B Tech Computer Science and Engineering 2024 passout batch student at Ilahia College of Engineering and Technology. I am looking forward to make use of the opportunity provided by gtech mulearn and launchpad kerala for attaining better career. I have interest in web development and also is keen to find which of the computer science domain suits me the most.
+> I am a B Tech Computer Science and Engineering 2024 passout batch student at Ilahia College of Engineering and Technology. I am looking forward to make use of the opportunity provided by gtech mulearn and launchpad kerala for attaining better career. I have interest in web development and also is keen to find which of the computer science domain suits me the most. 
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
+| **Safelink - Novel IoT based smart car safety system with airbag trigger**  | Developed a smart car safety system through the integration of Node MCU microcontroller with GPS module which sends alerts to emergency medical services when users meets with a car accident. The system also included a mobile app which would notify users when they are passing through accident prone regions. A website to be deployed at the hospital side was developed using HTML and CSS in the frontend and Python Django in the backend. App through which the user would recieve alerts were developed using MIT app inventor platform which uses code blocks for development.                                            | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/minhaj-v-s/Safelink)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I could succesfully lead two teams for the completion of the Mini project and Main project as part of our B Tech Curriculum.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- I have been keen to join tech communities and collaborate with like minded people. I see launchpad 2024 as a wonderful opportunity for the same. 
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- I am interested in pursuing a career in the software industry in a suitable domain. I hope to be a valuable employee for the company for which I work providing better services for the clients.
+- My goal is to get into a software development firm where I could contribute to projects and improve my skills.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala has one of the best startup ecosystem in our country. We have I T parks which are becoming the hub for technological advancement. Also better support for pitching ideas are provided by the government from the colleges itself. Platforms like IEDC functioning at colleges are really helpful in bringing up novel ideas. Tech communities also plays an important role in the betterment of the startup ecosystem in kerala.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
