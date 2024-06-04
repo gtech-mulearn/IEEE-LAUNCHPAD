@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I completed my Computer Science Engineering from Albertian Institute of Science and Technology. I have been an avid learner and a person who works really hard. I have been consistent in my studies, with a CGPA of 9.1.
+> I completed my Computer Science Engineering from Albertian Institute of Science and Technology. I have been an avid learner and a person who works really hard. I have been consistent in my studies, with a CGPA of 9.1. I am intrested in software developement
 
 
 ## Portfolio Highlights
@@ -11,48 +11,42 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Student Result DBMS**  | Designed & implemented a Student Result Database Management
+System using Python (Flask) & SQLAlchemy. Streamlined academic
+record-keeping, user-friendly data entry, secure login, and result calculation. Enhanced data accuracy and reporting, showcasing my skills in database design and backend development.                                           |https://github.com/khraina/Student-result-db    | https://github.com/khraina/Student-result-db            |
+| **Deepfake Detection Using Resnext and Lstm**  |Led the development of a cutting-edge deepfake detection system
+utilizing ResNext and LSTM models, achieving state-of-the-art accuracy in identifying manipulated videos.
+Implemented rigorous model training, evaluation, and integration processes to deliver a robust solution for combating the proliferation of misinformation in digital media.                                             |     | 
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
+I have spreadheaded my team in tackling through problems and misalignments.With my strong communication skills and ability to understand the requirements, I'll be able to provide and lead people through it.
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+I am an extrovert with a helping mind. I want to be enganged in communities, especially for students where they need thr right kind of mentorship and advice that they can get. I am good at teaching as well, I have hosted study groups during exams
 
 #### Career Plan:
-
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+.
+-My immediate plan is to get into a software developer role and get into a good company. This would enable me into getting the right kind of guidance and exposure that I am looking for.
+-My future plan include creating a startup and create an impact in the economy
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
+Upgrading industry-academia collaboration will guarantee graduates have the aptitudes and information craved by new companies.
+Workshops and mentorship openings can rouse understudies to seek after startup wanders.
+Kerala features a head begin in equipment new companies. There are lots of entreprenurs who are in Kerala leading multi billion segments as well.
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- I have tried my hand at https://github.com/khraina/CP-Codes-HackOctober-Fest-2022 
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- I have been an active member of a mulearn community. I was the brand ambassador of aisat for mulearn. I am also part of Lens studio community which creates snapchat lenses
 
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- https://leetcode.com/u/khraina/
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
+--
