@@ -19,7 +19,7 @@ Throughout my academic and professional journey, I have demonstrated leadership 
 
 #### Networking:
 
-My networking skills are evidenced by my active presence on platforms like LinkedIn and GitHub, where I engage with the tech community. I plan to leverage these connections to foster collaborations and share knowledge, thus influencing and leading within my field. Additionally, I am involved in various developer communities, continually expanding my network and staying updated with industry trends.
+My networking skills are evidenced by my active presence on platforms like LinkedIn and GitHub, where I engage with the tech community. I plan to leverage these connections to foster collaborations and share knowledge, thus influencing and leading within my field.
 
 #### Career Plan:
 
