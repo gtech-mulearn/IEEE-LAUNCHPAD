@@ -17,7 +17,7 @@ Let's connect and explore the possibilities! 🚀
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Portifolio  | It Showcase my skills and Qualification,projects                                           | [Hosted Link 1](https://rahul707.pythonanywhere.com/)    | [Repo Link 1](https://github.com/username/project1)             |
+| Portifolio  | It Showcase my skills and Qualification,projects                                           | [Hosted Link 1](https://rahul707.pythonanywhere.com/)    | [Repo Link 1](https://github.com/rahulxzoro/Portifolio.git)             |
 | **E-Commerce**  | Furniture Shop                                             | [Hosted Link 2](Not hosted)    | [Repo Link 2](https://github.com/rahulxzoro/E-commerce-Furniture-shop-.git)             |
 
 #### Leadership and Influence:
@@ -30,7 +30,7 @@ Let's connect and explore the possibilities! 🚀
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- Becoming a Software Developer and Also Have a plan to Start a Startup Company 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -58,7 +58,6 @@ Let's connect and explore the possibilities! 🚀
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+>> check out [rahulpr-1@mulearn.md](./profiles/rahulpr-1@mulearn.md) for an exmaple
 
 ---
