@@ -2,10 +2,7 @@
 
 ### About Me
 
-> As a recent Master in Computer Applications graduate, I offer a strong
-academic background and practical skills in software development. Proficient
-in diverse programming languages and technologies, I am poised to contribute
-effectively to dynamic projects
+> As a recent Master in Computer Applications graduate, I offer a strong academic background and practical skills in software development. Proficient in diverse programming languages and technologies, I am poised to contribute effectively to dynamic projects.
 
 ## Portfolio Highlights
 
@@ -24,7 +21,7 @@ effectively to dynamic projects
 
 #### Networking:
 
-- I always open to connect with people having same passion of mine. You can find me here; http://linkedin.com/in/nadha-najeeb-030902298/
+- I always open to connect with people having same passion of mine. You can find me here; http://linkedin.com/in/nadhanajeeb/
 
 #### Career Plan:
 
