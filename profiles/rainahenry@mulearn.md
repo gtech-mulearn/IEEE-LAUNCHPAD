@@ -1,4 +1,4 @@
-# Full Name RAINA HENRY
+# RAINA HENRY
 
 ### About Me
 
