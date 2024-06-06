@@ -10,6 +10,7 @@ Aspiring Software Engineer with a Master's degree in Computer Applications and h
 Skilled in various programming languages, frameworks, and databases, with a strong foundation in computer science principles. Seeking to contribute
 my technical expertise, problem-solving abilities, and enthusiasm for continuous learning to a dynamic development team. Eager to support and enhance
 backend systems, ensuring efficient and scalable solutions.
+
 Skills
 ________________________________________
 •	Programming Languages: Python, SQL, HTML, CSS 
@@ -19,6 +20,7 @@ ________________________________________
 •	Statistics and Mathematics 
 •	Version Control: GitHub 
 •	IDEs: Jupyter Notebook, Visual Studio Code, PyCharm 
+
 Projects
 ________________________________________
 Real-time Drowsiness Detection in Drivers (CNN): 
@@ -27,6 +29,7 @@ I am not fake - Deepfake detection (Python, Flask):
 Created a deepfake image detection system utilizing Machine Learning techniques and Flask-based web application for real-time analysis.
 Emotion Detection in Real-Time Using CNN:
  Developed an emotion detection system leveraging Convolutional Neural Networks to identify human emotions in real-time.
+
 
 Education
 ________________________________________
