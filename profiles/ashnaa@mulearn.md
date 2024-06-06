@@ -4,25 +4,19 @@
 
 > I'm a Computer Science and Engineering graduate proficient in Python, with a strong interest in backend development using Django. My skills  spans full-stack development, including HTML, CSS, and MySQL. I have a solid foundation in python and have honed my skills through internships and personal projects.I am also knowledgeable in programming languages like Java and C. I am committed to leveraging my technical abilities to develop robust and efficient web applications.
 ---
-### Portfolio Highlights
+
 ## My Projects
+              
+| Name                                                          | Description                                                                                                                                                                                                        | Repo Link                                                                                                       |
+|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+|**Malayalam Sign Language Recognition and Translation System** | A signlanguage recognition system that translates malayalam sign gestures into letters                                                                                                                              |[github repo link](***)                                                                                         |
+| **ALAD Organ Donor And Recipient Network Website**            | Developed the backend of a website aimed to address the critical issue of organ shortages by providing a user-friendly platform that connects potential donors with those in need of life-saving organ transplants  | [github repo link](https://github.com/Ashnaa22/ALAD_Organ_Donor_Receiver_network)
+| **DocBot**                                                    | developed a simple chatbot that gives home remedies for some basic health issues using python                                                                                                                       |[github repo link](https://github.com/Ashnaa22/SYNC_INTERN-S_PROJECTS/tree/main/chatbot_using_python)           |
+| **URL_Shortener**                                             | built a custom URL shortener using Python                                                                                                                                                                           | |[github repo link](https://github.com/Ashnaa22/SYNC_INTERN-S_PROJECTS/tree/main/url_shortener_using_python)   |
+| **OTP_Verification**                                          | built an OTP Verification using Python                                                                                                                                                                              | |[github repo link](https://github.com/Ashnaa22/SYNC_INTERN-S_PROJECTS/tree/main/otp_verification_using_python)|
+| **Alarm_Clock**                                               | built an alarm clock using Python                                                                                                                                                                                   |[github repo link](https://github.com/Ashnaa22/SYNC_INTERN-S_PROJECTS/tree/main/alarm_clock_using_python)       |
 
-| Name                | Description            | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Malayalam Sign Language Recognition and Translation System**        |  Developed a Malayalam Sign Language recognition system, a project involving the implementation of deep learning and computer
-vision techniques. |[github repo link](***)   |
-| **ALAD Organ Donor And Recipient Network Website**  |Developed the backend of a website aimed to address the critical issue of organ shortages by providing a user-friendly platform that connects potential
-donors with those in need of life-saving organ transplants  | [github repo link](https://github.com/Ashnaa22/)ALAD_Organ_Donor_Receiver_network
-| **DocBot**  | developed a simple chatbot that gives home remedies for some basic health issues using python |[github repo link](https://github.com/Ashnaa22/SYNC_INTERN-S_PROJECTS/tree/main/chatbot_using_python)   |
-| **URL_Shortener**  | built a custom URL shortener using Python | |[github repo link](https://github.com/Ashnaa22/SYNC_INTERN-S_PROJECTS/tree/main/url_shortener_using_python)   |
-| **OTP_Verification**  | built an OTP Verification using Python | |[github repo link](https://github.com/Ashnaa22/SYNC_INTERN-S_PROJECTS/tree/main/otp_verification_using_python)   |
-| **Alarm_Clock**  | built an alarm clock using Python| |[github repo link](https://github.com/Ashnaa22/SYNC_INTERN-S_PROJECTS/tree/main/alarm_clock_using_python)   |
-
-
-
-
-
-
+### Portfolio Highlights
 #### Leadership and Influence:
 
 - National Service Scheme Volunteer Secretary - Spearheaded and guided a high-performing team of 20+ NSS volunteers.
