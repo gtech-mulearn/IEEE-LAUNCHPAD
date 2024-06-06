@@ -4,7 +4,7 @@ ARYAMOL VH
 aryamolvh@gmail.com
 Thrissur, Kerala
 
-Profile Summary
+About Me
 ________________________________________
 Aspiring Software Engineer with a Master's degree in Computer Applications and hands-on experience in backend development using Python and Django.
 Skilled in various programming languages, frameworks, and databases, with a strong foundation in computer science principles. Seeking to contribute
@@ -25,8 +25,10 @@ Projects
 ________________________________________
 Real-time Drowsiness Detection in Drivers (CNN): 
 Developed a CNN-based model to detect drowsiness in drivers using Python and OpenCV.
+
 I am not fake - Deepfake detection (Python, Flask): 
 Created a deepfake image detection system utilizing Machine Learning techniques and Flask-based web application for real-time analysis.
+
 Emotion Detection in Real-Time Using CNN:
  Developed an emotion detection system leveraging Convolutional Neural Networks to identify human emotions in real-time.
 
@@ -34,19 +36,30 @@ Emotion Detection in Real-Time Using CNN:
 Education
 ________________________________________
 Master of Computer Applications | ICET | Muvattupuzha |2022 - 2024 
+
 Bsc. Mathematics | St. Mary’ s College| Thrissur| 2019-2022
+
 Higher Secondary | St. Rapheal’s C G H S S| Ollur | 2017-2019 
+
 SSLC| G V H S S | Puthur | 2016 - MM 
 
 Achievements________________________________________
 •	Certified course in Python Certified by G-TECH Computer Education. 
+
 •	Cloud computing Certified by NPTEL 
+
 •	Database management system Certified by NPTEL 
+
 •	Completed Work Readiness Program of 15 hours conducted by ASAP Kerala in association with KKEM 
+
 •	Certified course in Overleaf Certified by St. Mary's College, Thrissur
 
 Languages   ________________________________________
 Malayalam   English
+
+Highly Used Software Tools  ________________________________________
+visual studio,Jupyter Notebook,Google Colab, pycharm
+
 
 Leadership and Influence:
 ________________________________________
