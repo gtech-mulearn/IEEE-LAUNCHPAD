@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I am Software Engineer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept of design to coding, testing, and deployment. I'm proficient in javascript, python, Php and i have knowldge in working with react and Larvel .I have experience working with databases such as MySQL, MongoDB
+> I am Software Engineer with a passion for creating innovative web applications. I have a deep understanding of the full web development life cycle, from concept of design to coding, testing, and deployment. I'm proficient in javascript, python, Php and i have knowldge in working with react flask and django  .I have experience working with databases such as MySQL, MongoDB
 
 
 ## Portfolio Highlights
