@@ -26,14 +26,14 @@ to provide guidance, advice, and professional development opportunities
 
 #### Networking:
 
--Chief Technical Officer (IEDC) at College of Engineering Kottarakkara, fostering a collaborative environment and connecting with industry experts.
--Volunteer Secretary for the National Service Scheme, coordinating events and engaging with community members.
--Student Representative for the Alumni Association, building relationships between current students and alumni.
+- Chief Technical Officer (IEDC) at College of Engineering Kottarakkara, fostering a collaborative environment and connecting with industry experts.
+- Volunteer Secretary for the National Service Scheme, coordinating events and engaging with community members.
+- Student Representative for the Alumni Association, building relationships between current students and alumni.
 
 #### Career Plan:
 
--In the immediate term, I plan to enhance my backend development skills in Python and Django while gaining practical experience through internships and real-world projects.
--In the long-term, I aim to take on a senior developer role, lead projects, and mentor junior developers.
+- In the immediate term, I plan to enhance my backend development skills in Python and Django while gaining practical experience through internships and real-world projects.
+- In the long-term, I aim to take on a senior developer role, lead projects, and mentor junior developers.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -46,7 +46,7 @@ to provide guidance, advice, and professional development opportunities
 
 #### History of Community Engagement:
 
--answering Python-related competitive programming questions on platforms like HackerRank.
+- answering Python-related competitive programming questions on platforms like HackerRank.
 
 #### Highly Visible Technical Content:
 
@@ -54,11 +54,11 @@ to provide guidance, advice, and professional development opportunities
 
 #### Highly Used Software Tools:
 
--While I haven't personally developed widely-used software tools yet, I'm enthusiastic about contributing to projects that have a significant impact on users. I'm committed to learning and honing my skills to create software solutions that address real-world problems and serve the needs of diverse user communities
+- While I haven't personally developed widely-used software tools yet, I'm enthusiastic about contributing to projects that have a significant impact on users. I'm committed to learning and honing my skills to create software solutions that address real-world problems and serve the needs of diverse user communities
 
 #### Competitive Website Profiles:
 
--https://www.hackerrank.com/profile/a2hnaak
+- https://www.hackerrank.com/profile/a2hnaak
 
 
 
