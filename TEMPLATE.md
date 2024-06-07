@@ -12,9 +12,8 @@ development.
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Alert-cog**  | A Website for fake news| [Hosted Link 1](https://github.com/swetz-nair/alertcog)| [https://github.com/swetz-nair/alertcog](https://github.com/swetz-nair/alertcog) 
-|
-| **ATM- Master**  | ATM fingerprint authentication| (https://github.com/swetz-nair/ATM-Master ) | [Hosted Link 2](https://github.com/swetz-nair/ATM-Master)    | https://github.com/swetz-nair/ATM-Master[]           |
+| **Alert-cog**  | A Website for fake news|(https://github.com/swetz-nair/alertcog)| [https://github.com/swetz-nair/alertcog](https://github.com/swetz-nair/alertcog) 
+| **ATM- Master**  | ATM fingerprint authentication| (https://github.com/swetz-nair/ATM-Master ) |(https://github.com/swetz-nair/ATM-Master)    | https://github.com/swetz-nair/ATM-Master[] |
 
 #### Leadership and Influence:- 
 I was vice chair of IEEE SB NCERC 2022 and i was also served in Execome 2023 and partcipated and volenteered in my SB activities. I organised various events in pur SB and i also was a IEEE PES Day ambassidor in 2022. I volenteered in my college techinical events and was an active member
