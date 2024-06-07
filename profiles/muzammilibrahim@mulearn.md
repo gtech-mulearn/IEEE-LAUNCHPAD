@@ -7,12 +7,12 @@ I'm a Full Stack Developer with a passion for creating innovative web and mobile
 - Recent BCA graduate with a passion for building innovative mobile and web applications.
 - Strong understanding of the full web development life cycle.
 - Proficient in Python and frameworks like Django, Flask and Bootstrap, Streamlit.
-> Actively expanding skillset to include:
+>Actively expanding skillset to include:
 ```
-* Python for Data science 📊
-* Data structures using Python 🗄️
-* Java, Flutter for mobile development 📲
-* JavaScript applications (React, Node.js) 🌐
+  * Python for Data science 📊
+  * Data structures using Python 🗄️
+  * Java, Flutter for mobile development 📲
+  * JavaScript applications (React, Node.js) 🌐
 ```
 - Completed a Python Full Stack internship, deepening knowledge in web development, APIs, Machine Learning and Experience with databases like MySQL and PostgreSQL.
   > Done 4-6 Projects on Python full stack expertise (Travels webpage, Movie web app, To do web app, Web Scrapper tool, Ecommerce website, ChatApp using Tkinter, Bitcoin price prediction model, School Store)
