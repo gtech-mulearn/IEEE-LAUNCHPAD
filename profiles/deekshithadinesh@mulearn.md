@@ -17,19 +17,19 @@
 
 #### Leadership and Influence:
 
-- Volunteer Secretary.
+- Volunteeres as Volunteer Secretary of NSS.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- ..........................
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- Enniku ashnada plan thane with phd :) .
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- .
+- I don't think that much.
 
 #### History of Open Source Contributions:
 
