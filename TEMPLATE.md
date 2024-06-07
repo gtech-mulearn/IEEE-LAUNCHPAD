@@ -38,21 +38,8 @@ I was vice chair of IEEE SB NCERC 2022 and i was also served in Execome 2023 and
 
 -  I was vice chair of IEEE SB NCERC for one year and also served as an execom member for another year, i was selected as an ambassodor for IEEE PES Day 2022 and i volenteered for college technical team. I am active in Linkdin and Github.
 
-#### Highly Visible Technical Content:
-
-- 
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
