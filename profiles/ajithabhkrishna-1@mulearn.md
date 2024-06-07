@@ -1,4 +1,4 @@
-# Full Name 
+# Ajithabh Krishna
 
 ### About Me
 
@@ -11,7 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Multiple Unusual Human Activity Detection and Alert system**  | Detects violence activities and handgun in real-time and send screen alerts as well as telegram alert with timestmp, location and frame                                              | NIL   | [Repo Link 1](https://github.com/ajithabhk/finalproject)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
