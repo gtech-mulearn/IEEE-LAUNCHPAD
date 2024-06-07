@@ -12,11 +12,27 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Multiple Unusual Human Activity Detection and Alert system**  | Detects violence activities and handgun in real-time and send screen alerts as well as telegram alert with timestmp, location and frame                                              | NIL   | [Repo Link 1](https://github.com/ajithabhk/finalproject)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **ZeroAid, Offline Medical Assistant**  | Provides services like home-remedies, medicine dosages, emergency care in offline mode and Doctor appointments in online mode                                             | NIL    | [Repo Link 2](https://github.com/ajithabhk/ZeroAid)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+IEEE LINK - Malabar Hub
+Electronic Communication Coordinator (01/2022 – 01/2023)
+
+Coordinated various events under IEEE LINK 2022-23 (Kerala Section) including AKSC, Techsortium, Malabar Hub Meet, and Renaissance.
+Led the Design Team, conceptualizing and creating impactful posters, newsletters, and brochures for diverse initiatives.
+IEEE MEA Student Branch
+Technical Coordinator (03/2021 – Present)
+
+Provided technical leadership and coordination for all events under the MEA IEEE Student Branch.
+Design Lead (2022 – 2023)
+
+Led the design team for social media posters, newsletters, and other design works.
+Mentored and trained a new design team consisting of 15+ members.
+Electronic Communication Coordinator (2021 – 2022)
+
+Successfully coordinated event communication, sending invitations to delegates and guests for seamless event experiences.
+Managed Student Branch social media handles, creating engaging content and fostering an active online community.
 
 #### Networking:
 
