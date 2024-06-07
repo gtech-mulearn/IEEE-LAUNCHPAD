@@ -2,7 +2,8 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> An enthusiastic person with highly motivated and leadership skills pursuing Bachelors of Technology degree in Information Technology from MEA Engineering College (2020-24) with a CGPA of 8.79. Eager to learn new technologies and methodologies.  Skilled in C, Python and Java programming languages. Intermediate experience in SQL and Web Designing. Beginner in Microsoft Power BI, Cloud Computing, and AI & ML. Volunteered in IEEE from SB level to Section level in various positions like Design lead, Electronic communication coordintaor, and Tech. Coordinator. I have completed 2 Projects in college, based on AI&ML and Java respectively.
+Have 3 year experience in Graphic Designing which includes Social Media Posters, Logos, Newsletters, Magazines, Flyers, Advertisements, and Flex with more than 10 clients including professional organizations.
 
 
 ## Portfolio Highlights
@@ -39,15 +40,15 @@ Managed Student Branch social media handles, creating engaging content and foste
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Actively networked through IEEE at both national and global levels, leveraging connections to enhance professional growth. As an active user of LinkedIn, built a robust network by engaging with and learning from eminent professionals across various industries. This networking facilitated opportunities for collaboration, mentorship, and knowledge exchange, significantly contributing to personal and professional development.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- Start the career as a developer in one of the companies with a good package and get trained on a particular domain.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- As many companies are being started by various entrepreuners in Kerala a while, it gives a boom to the employement market and recruitment for large community of upcoming enginneeers. Also it promotes the entreprueners and their unique ideas.
 
 #### History of Open Source Contributions:
 
@@ -55,24 +56,11 @@ Managed Student Branch social media handles, creating engaging content and foste
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+-  Presenece in Leetcode (beginner) with almost 20 problems solved. 
 
-#### Highly Visible Technical Content:
+### Checkout my design portfolio:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+- [Port Link 1](https://github.com/ajithabhk/ZeroAid))
 
 ---
 
