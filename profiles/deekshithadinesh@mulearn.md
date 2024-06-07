@@ -9,11 +9,11 @@
 ## Portfolio Highlights
  
 ### My Projects
+| Name                 | Description                            | Repo Link                     |
+|---------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+|**Malayalam Sign Language Recognition and Translation System** | A signlanguage recognition system that translates malayalam sign gestures into letters                                                                                                                              |[github repo link](***)                                                                                         |
+| **ALAD Organ Donor And Recipient Network Website**            | Developed the backend of a website aimed to address the critical issue of organ shortages by providing a user-friendly platform that connects potential donors with those in need of life-saving organ transplants  | [github repo link](https://github.com/Ashnaa22/ALAD_Organ_Donor_Receiver_network)
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
