@@ -1,5 +1,4 @@
-# Full Name 
-<h1>MUZAMMIL IBRAHIM</h1>
+# MUZAMMIL IBRAHIM
 
 ### About Me
 I'm a Full Stack Developer with a passion for creating innovative web and mobile applications. Here's a glimpse into my background and skills:
