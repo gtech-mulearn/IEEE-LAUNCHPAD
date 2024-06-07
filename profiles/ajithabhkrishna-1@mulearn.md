@@ -17,10 +17,11 @@
 #### Leadership and Influence:
 
 IEEE LINK - Malabar Hub
-Electronic Communication Coordinator (01/2022 – 01/2023)
+-- Electronic Communication Coordinator (01/2022 – 01/2023)
 
 Coordinated various events under IEEE LINK 2022-23 (Kerala Section) including AKSC, Techsortium, Malabar Hub Meet, and Renaissance.
 Led the Design Team, conceptualizing and creating impactful posters, newsletters, and brochures for diverse initiatives.
+
 IEEE MEA Student Branch
 Technical Coordinator (03/2021 – Present)
 
