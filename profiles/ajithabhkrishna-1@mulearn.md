@@ -23,14 +23,16 @@ Coordinated various events under IEEE LINK 2022-23 (Kerala Section) including AK
 Led the Design Team, conceptualizing and creating impactful posters, newsletters, and brochures for diverse initiatives.
 
 IEEE MEA Student Branch
-Technical Coordinator (03/2021 – Present)
+--Technical Coordinator (03/2021 – Present)
 
 Provided technical leadership and coordination for all events under the MEA IEEE Student Branch.
-Design Lead (2022 – 2023)
+
+--Design Lead (2022 – 2023)
 
 Led the design team for social media posters, newsletters, and other design works.
 Mentored and trained a new design team consisting of 15+ members.
-Electronic Communication Coordinator (2021 – 2022)
+
+--Electronic Communication Coordinator (2021 – 2022)
 
 Successfully coordinated event communication, sending invitations to delegates and guests for seamless event experiences.
 Managed Student Branch social media handles, creating engaging content and fostering an active online community.
