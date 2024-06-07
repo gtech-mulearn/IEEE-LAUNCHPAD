@@ -7,7 +7,7 @@ I'm a Full Stack Developer with a passion for creating innovative web and mobile
 - Recent BCA graduate with a passion for building innovative mobile and web applications.
 - Strong understanding of the full web development life cycle.
 - Proficient in Python and frameworks like Django, Flask and Bootstrap, Streamlit.
->Actively expanding skillset to include:
+> Actively expanding skillset to include:
 ```
   * Python for Data science 📊
   * Data structures using Python 🗄️
