@@ -3,7 +3,7 @@
 **Location:** Ernakulam, Kerala  
 **Phone:** +91 9072190162  
 **Email:** r4rakesh000@gmail.com  
-**LinkedIn:** [Link](www.linkedin.com/in/abin-t-sunil)
+**LinkedIn:** [Link](www.linkedin.com/in/rakeshcn)
 
 ## About Me
  I'm an aspiring programmer who's bound to learn, relearn and shape my skills everyday. Committed Job seeker
@@ -57,7 +57,7 @@ percentage - 90.2
 ## HOBBIES
 - Travelling
 - Enjoys watching movies, listening to music.
-- Outdoor activities such as cycling.
+- Drawing and Painting
 
 ## SKILLS
 - Programming Languages: Python, JavaScript
