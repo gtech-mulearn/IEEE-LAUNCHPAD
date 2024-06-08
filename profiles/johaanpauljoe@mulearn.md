@@ -30,7 +30,7 @@
 
 #### Networking:
 
-I am an active listener who believes in fostering meaningful relationship with others. I have strong communication and networking skills which has helped me immensely in building connections. I have actively involved and participated in various activities of orgaizations like IEDC and ISTE. Ilove to share my knowledge, mentor and empower others. I strongly believe in collaboration and team work.
+I am an active listener who believes in fostering meaningful relationship with others. I have strong communication and networking skills which has helped me immensely in building connections. I have actively involved and participated in various activities of orgaizations like IEDC and ISTE. I love to share my knowledge, mentor and empower others. I strongly believe in collaboration and team work.
 
 #### Career Plan:
 
