@@ -21,7 +21,12 @@
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I am a person who has strong leadership and interpersonal skills.
+- I have acted as a mediator of our project team in times of dispute.
+- I have shown my leadership and organizational skills throughout my college life through various societies and organizations.
+- I have mentored my juniors whenever they needed help.
+- I was able to show my leadership skills by volunteering in some of the recruitment drives conducted at my college.
+- I have always tried to empower and inspire others through my words and actions.
 
 #### Networking:
 
