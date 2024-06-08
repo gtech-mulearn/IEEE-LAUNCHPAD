@@ -57,8 +57,4 @@ I love participating in hackathons and have an active participation in college,s
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
 ---
