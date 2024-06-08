@@ -34,7 +34,11 @@ I am an active listener who believes in fostering meaningful relationship with o
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Short-term Goals:
+  I am looking forward to work in an organization where I can leverage my skills, grow personally and professionally and contribute to the growth of the organization and the society, at large. I want to upskill myself on the latest technologies and network with like-minded people.
+
+- Long-term Goals:
+  I have plans to start my own startup which would be a boost to the Kerala's startup ecosystem. The experience and the network which I would gain working in the industry will definitely help me in this initiative. I have plans to do an Executive MBA, which would help me achieve business knowledge and entrepreneurial skills.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -42,7 +46,7 @@ I am an active listener who believes in fostering meaningful relationship with o
 
 #### History of Open Source Contributions:
 
-- I have participated in the Hacktober Fest 2022
+- I have participated in the Hacktober Fest, 2022
 
 #### History of Community Engagement:
 
