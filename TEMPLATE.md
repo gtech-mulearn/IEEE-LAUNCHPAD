@@ -1,9 +1,8 @@
-C Swetha
+# Full Name 
 
 ### About Me
 
-> An enthusiastic, punctual & career minded individual with excellent communication and interpersonal skills. I am now seeking an opportunity to contribute my skills and passion to a dynamic organization that values innovation and encourages professional
-development.
+> write about your self .................. (minimum 200 Characters)
 
 
 ## Portfolio Highlights
@@ -12,33 +11,48 @@ development.
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Alert-cog**  | A Website for fake news|(https://github.com/swetz-nair/alertcog)| [https://github.com/swetz-nair/alertcog](https://github.com/swetz-nair/alertcog) 
-| **ATM- Master**  | ATM fingerprint authentication| (https://github.com/swetz-nair/ATM-Master ) |(https://github.com/swetz-nair/ATM-Master)    | https://github.com/swetz-nair/ATM-Master[] |
+| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
-#### Leadership and Influence:- 
-I was vice chair of IEEE SB NCERC 2022 and i was also served in Execome 2023 and partcipated and volenteered in my SB activities. I organised various events in pur SB and i also was a IEEE PES Day ambassidor in 2022. I volenteered in my college techinical events and was an active member
+#### Leadership and Influence:
+
+- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
 #### Networking:
 
-- i am comfortable working with different kinds of people and language was not at all an issue for me. I was an active member in my SB and i networked with different students from different colleges through various events and meetings. I was a core member in my college technical committie and i anchored different events including BLOOM 20023(south india's 2nd largest extravagenza)
+- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+
 #### Career Plan:
 
--  I am now seeking an opportunity to contribute my skills and passion to a dynamic organization that values innovation and encourages professional development. i want to become a network engineer or a software related fields
+- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala, with its educated populace and strong work ethics, is poised to become a leader in India's tech startup ecosystem. To unlock its full potential, the state can focus on several key areas includes nurturing a talent pool versed in digital technologies, collaboration between academia and industry. 
+- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 #### History of Open Source Contributions:
 
-- I have done two college projects, one is alert system for fall detection and other is scene image to text recognition in malayalam. I served as an intern in UST Global and developed a smart home automation system.
+- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
--  I was vice chair of IEEE SB NCERC for one year and also served as an execom member for another year, i was selected as an ambassodor for IEEE PES Day 2022 and i volenteered for college technical team. I am active in Linkdin and Github.
+-  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+
+#### Highly Visible Technical Content:
+
+- Highlight any highly visible technical blog posts, articles, or video series you have created.
+
+#### Highly Used Software Tools:
+
+- If you've developed software tools that are widely used by users (not just contributors), mention them.
+
+#### Competitive Website Profiles:
+
+- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
 
-
+> In your portfolio, include the following details:
+>> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
