@@ -13,9 +13,7 @@
 |---------------------|---------------------------------------------------------------------------|
 | **Pallivasal Project** |Online Platform Connecting Tourists, Businesses, and Skilled Workers in Pallivasal Grama Panchayat, Driving Economic Growth and Community Engagement.|
 | **Image Manipulation Detector**  | The TensorFlow-based image manipulation detector uses CNNs to spot alterations in images, ensuring their authenticity.|
-| **Quiz Master**  | Developed an interactive quiz website with user authentication,
-database management, and engaging interfaces for quiz creation and
-participation.|
+| **Quiz Master**  | Developed an interactive quiz website with user authentication,database management, and engaging interfaces for quiz creation and participation.|
 
 #### Leadership and Influence:
 
