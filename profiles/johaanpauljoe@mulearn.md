@@ -30,7 +30,7 @@
 
 #### Networking:
 
-I am an active listener who believes in fostering meaningful relationship with others. I have strong communication and networking skills which has helped me immensely in building connections. I have actively involved and participated in various activities of orgaizations like IEDC and ISTE. I love to share my knowledge, mentor and empower others. I strongly believe in collaboration and team work.
+  I am an active listener who believes in fostering meaningful relationship with others. I have strong communication and networking skills which has helped me immensely in building connections. I have actively involved and participated in various activities of orgaizations like IEDC and ISTE. I love to share my knowledge, mentor and empower others. I strongly believe in collaboration and team work.
 
 #### Career Plan:
 
@@ -42,7 +42,7 @@ I am an active listener who believes in fostering meaningful relationship with o
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+  Kerala must focus on building tech startups and attracting the best talent from around the world. The policies of the government must be more startup friendly. Global collaboration is the key to excel in the technology space.
 
 #### History of Open Source Contributions:
 
