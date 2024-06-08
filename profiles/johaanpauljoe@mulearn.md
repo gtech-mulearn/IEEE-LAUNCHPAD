@@ -50,7 +50,8 @@
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+-  Actively coordinated and participated in the activities of ISTE.
+-  Coordinated and actively involved in various activities of IEDC.
 
 
 
