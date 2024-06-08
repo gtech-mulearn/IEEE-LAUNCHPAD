@@ -1,9 +1,8 @@
-# Full Name 
+# Smriti Srinivas
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> I am a 2024 passout from Government Model Engineering College, Thrikkakara. I have experience working with ReactJS and am keen to explore more on Front end development. I have also dwelt into multiple domains like Automation, Web Scraping, DevOps, ANN along with Front end development. I also have strong fundamentals in DSA and Object-Oriented Programming. Looking forward to opportunities where I can improve my skills and contribute to the success of the firm 
 
 ## Portfolio Highlights
 
@@ -11,48 +10,41 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **ANN based fault diagnosis of 3 phase induction motors**  | Developed an ANN model to detect multiple electrical and mechanical faults in a 3 phase induction motor using MATLAB/Simulink                                             | [Not hosted](https://example.com)    | [Repo Link ](https://github.com/sidharthvmd/Application-of-ANN-in-fault-diagnosis-of-3-phase-induction-motors)             |
+| **Fit flex**  | A website built using ReactJS and MaterialUI which suggests workouts                                             | [Not hosted](https://example.com)    | [Repo Link ](https://github.com/SmritiSrinivas3/FitFlex)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Been the Co-lead of Hack Club MEC. Organised multiple events and workshops .
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Been an active member of Developer Students Club MEC, TinkerHub MEC.
+- Met and got to exchange ideas with like minded students
+- Participated in events like Tink-Her-Hack 2022, Technopreneus 2023 where I got to meet a few industrial leaders and multiple students across Kerala
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- I have the short term goal of improving my skills and contributing to whichever opportunities I am provided with in the best way possible
+
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala's tech ecosystem is in the right direction, I believe. With a great environment, skilled people and incentives for startups, Kerala promises a lot for industries
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Hactoberfest 2022 contributer
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+-  I usually post my solutions on leetcode: [Leetcode profile](https://leetcode.com/u/SmritiSrinivas3/)
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- [Leetcode profile](https://leetcode.com/u/SmritiSrinivas3/)
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
