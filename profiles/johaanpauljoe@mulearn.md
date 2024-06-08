@@ -42,7 +42,7 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-  Kerala must focus on building tech startups and attracting the best talent from around the world. The policies of the government must be more startup friendly. Global collaboration is the key to excel in the technology space.
+  Kerala has the potential to excel in the technology startup ecosystem by leveraging its strengths and strategically addressing key areas for growth. Focus must be on building sustainable tech startups and attracting the best talent from around the world. Infrastructural development will also play an important role in developing Kerala's tech ecosystem. The policies of the government must be more startup friendly. Talent development and retention must always be prioritized. Global collaboration is the key to excel in the technology space.
 
 #### History of Open Source Contributions:
 
