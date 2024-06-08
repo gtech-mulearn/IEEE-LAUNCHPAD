@@ -11,12 +11,7 @@
 
 | Name                | Description                                                               |
 |---------------------|---------------------------------------------------------------------------|
-| **Pallivasal Project - Website and UI**  | Developed the frontend of a website aimed at connecting local
-                                             workforce people and tourists.
-                                             Designed the user interface (UI) of the website using Figma,
-                                             ensuring a user-friendly and visually appealing experience.
-                                             Utilized HTML, CSS, and JavaScript to implement the frontend
-                                             features and functionalities.                                              | 
+| **Pallivasal Project - Website and UI**  | Developed the frontend of a website aimed at connecting localworkforce people and tourists.Designed the user interface (UI) of the website using Figma, ensuring a user-friendly and visually appealing experience.Utilized HTML, CSS, and JavaScript to implement the frontend features and functionalities.                                              | 
 | **Iliad’24 - Website**  |  Designed and developed a website for the Arts Fest event at
  College of Engineering Munnar.
  Utilized React.js to create interactive and dynamic user
