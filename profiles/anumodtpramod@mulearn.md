@@ -1,5 +1,4 @@
-# Full Name 
-**Anumod T Pramod**
+# Anumod T Pramod
 
 ### About Me
 
@@ -14,6 +13,9 @@
 |---------------------|---------------------------------------------------------------------------|
 | **Pallivasal Project** |Online Platform Connecting Tourists, Businesses, and Skilled Workers in Pallivasal Grama Panchayat, Driving Economic Growth and Community Engagement.|
 | **Image Manipulation Detector**  | The TensorFlow-based image manipulation detector uses CNNs to spot alterations in images, ensuring their authenticity.|
+| **Quiz Master**  | Developed an interactive quiz website with user authentication,
+database management, and engaging interfaces for quiz creation and
+participation.|
 
 #### Leadership and Influence:
 
@@ -33,5 +35,3 @@
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala has the potential to become a leader in the technology startup ecosystem through strategic measures. By implementing more flexible government policies, nurturing STEM education from an early stage, fostering strong collaboration between industries and academia, encouraging sustainable and impactful ventures, and embracing diversity across gender, ethnicity, and backgrounds, we can catalyze creativity and innovation for exponential growth.
-
----
