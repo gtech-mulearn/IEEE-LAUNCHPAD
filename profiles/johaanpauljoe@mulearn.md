@@ -17,7 +17,7 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Student Attendance System using Face Recognition Technology**  | Records the attendance of students in real time, which can fasten the manual attendance taking process in educational institutions.                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Detection of Real-Time Deep-Fake Videos**  | Deep learning based project that uses CNN model for identifying deep-fake videos in real time.                                               | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
