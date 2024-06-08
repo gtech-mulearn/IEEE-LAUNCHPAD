@@ -1,5 +1,5 @@
 # Full Name 
-Anumod T Pramod
+**Anumod T Pramod**
 
 ### About Me
 
@@ -20,14 +20,14 @@ spot alterations in images, ensuring their authenticity.                        
 
 #### Leadership and Influence:
 
--As an IEEE Student Member from 2020 to 2022, I developed my leadership abilities and promoted teamwork among members.
--As a Mentor in the ACSES club at CEM, I gained confidence and knowledge by guiding peers.
--Volunteering with the Placement Cell from 2020 to 2022 improved my interpersonal skills.
--Member of G-Tech Mulearn Discord Server from Early 2023.
+- As an IEEE Student Member from 2020 to 2022, I developed my leadership abilities and promoted teamwork among members.
+- As a Mentor in the ACSES club at CEM, I gained confidence and knowledge by guiding peers.
+- Volunteering with the Placement Cell from 2020 to 2022 improved my interpersonal skills.
+- Member of G-Tech Mulearn Discord Server from Early 2023.
 
 #### Networking:
 
--I like to share what I know with my friends, and I'm always excited to learn new technologies from others and explore different ideas.
+- I like to share what I know with my friends, and I'm always excited to learn new technologies from others and explore different ideas.
 
 #### Career Plan:
 
