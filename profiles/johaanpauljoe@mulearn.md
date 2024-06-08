@@ -30,7 +30,7 @@
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+I am an active listener who believes in fostering meaningful relationship with others. I have strong communication and networking skills which has helped me immensely in building connections. I have actively involved and participated in various activities of orgaizations like IEDC and ISTE. Ilove to share my knowledge, mentor and empower others. I strongly believe in collaboration and team work.
 
 #### Career Plan:
 
@@ -42,7 +42,7 @@
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- I have participated in the Hacktober Fest 2022
 
 #### History of Community Engagement:
 
