@@ -10,12 +10,12 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **KTUGPT**  | Website that is designed for answering questions based on the context from the textbook PDFs- Next.js, Python, LLM and Embedding models |     | [Backend](https://github.com/sameemul-haque/ktugpt-python), [Frontend](https://github.com/sameemul-haque/ktugpt)             |
-| **GitArt**  | (Ongoing) GitArt is a website that allows users to customize their GitHub contribution graph to display their name, messages, symbols, logos, or any other desired patterns by generating Git commit commands. | [Website](https://sameemul-haque.github.io/GitArt/) | [GitHub](https://github.com/sameemul-haque/gitart) (The repo is private for now) |
+| **KTUGPT**  | Website that is designed for answering questions based on the context from the textbook PDFs- Next.js, Python, LLM and Embedding models |   [Website](https://ktu-gpt.vercel.app/)   | [Backend](https://github.com/sameemul-haque/ktugpt-python), [Frontend](https://github.com/sameemul-haque/ktugpt)             |
+| **GitArt**  | GitArt is a website that allows users to customize their GitHub contribution graph to display their name, messages, symbols, logos, or any other desired patterns by generating Git commit commands. | [Website](https://gitart.pages.dev/) | [Frontend](https://github.com/sameemul-haque/gitart), [Backtend](https://github.com/sameemul-haque/gitart-api) |
 | **TranscribeTool**  | Simple web interface designed to extract words from video or audio files into text built using Python, Streamlit, FFmpeg | [Website](https://transcribetool.streamlit.app/)    | [GitHub](https://github.com/sameemul-haque/TranscribeTool)             |
 | **StudyMate**  | Web based Study Material Retrieval System created using React and Firebase | [Website](https://ministudymate.web.app/)    | [GitHub](https://github.com/sameemul-haque/ministudymate)             |
 | **ChatForAll**  | Realtime chat application without authentication - Next.js, Tailwind CSS, Firebase  | [Website](https://chatforall.web.app)    | [GitHub](https://github.com/sameemul-haque/chatforall)             |
-| **PCRMS**  | Police Crime Record Management System - PHP, MySQL, PhpMyAdimin  |   | [GitHub](https://github.com/sameemul-haque/pcrms) |
+| **PCRMS**  | Police Crime Record Management System - PHP, MySQL, PhpMyAdimin  | not hosted | [GitHub](https://github.com/sameemul-haque/pcrms) |
 
 #### Leadership and Influence:
 
@@ -37,21 +37,21 @@
 #### History of Open Source Contributions:
 
 - Completed Hacktoberfest 2023 - [Blog](https://sameemul-haque.vercel.app/blog/hacktoberfest_2023)
-- Enhanced messaging experience for laptop users in [OpenTalk](https://github.com/ShijazKS/OpenTalk/issues?q=+author%3Asameemul-haque).
+- Enhanced messaging experience in [OpenTalk](https://github.com/ShijazKS/OpenTalk/issues?q=+author%3Asameemul-haque).
 - Added Jetpack Compose icon in [Devicons](https://github.com/devicons/devicon/pulls?q=is%3Apr+is%3Amerged+author%3Asameemul-haque).
 - Update documentation: [OpenTalk](https://github.com/ShijazKS/OpenTalk/issues?q=+author%3Asameemul-haque), [DialogMusicPlayer](https://github.com/VishnuSanal/DialogMusicPlayer/issues?q=+author%3Asameemul-haque).
 
 #### Familiar Technology Tools:
 
-- Python - Flask, Streamlit 
-- JavaScript - React , Next.js, Node.js, Vue.js
-- Databases - Firebase , Mongo DB , MySql , Postgres , Sqlite
-- Other Tools - Git, Markdown, Latex, Bash, Vim, Linux, Vercel
+- Python - `Flask`, `Streamlit` 
+- JavaScript - `React`, `Next.js`, `Express.js`, `Node.js`, `Vue.js`
+- Databases - `Firebase`, `Mongo DB`, `MySql`, `Postgres`, `Sqlite`
+- Other Tools - `Git`, `Markdown`, `Latex`, `Bash`, `Vim`, `Linux`, `Vercel`
 
 #### Highly Visible Technical Content:
 
-- Portfolio website: https://sameemul-haque.vercel.app/
 - Dotfiles: https://github.com/sameemul-haque/dotfiles/
+- Portfolio website: https://sameemul-haque.vercel.app/
 
 
 ---
