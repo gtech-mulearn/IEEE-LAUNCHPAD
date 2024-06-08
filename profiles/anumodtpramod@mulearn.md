@@ -3,7 +3,7 @@
 
 ### About Me
 
-My name is Anumod T Pramod, and I aspire to be a software developer. I have experience in Python, JavaScript, Java, HTML, CSS, Git, Docker, ReactJS, NextJS, and machine learning. I am passionate about creating innovative solutions and am eager to tackle new challenges in the field of software development.
+> My name is Anumod T Pramod, and I aspire to be a software developer. I have experience in Python, JavaScript, Java, HTML, CSS, Git, Docker, ReactJS, NextJS, and machine learning. I am passionate about creating innovative solutions and am eager to tackle new challenges in the field of software development.
 
 
 ## Portfolio Highlights
@@ -12,11 +12,8 @@ My name is Anumod T Pramod, and I aspire to be a software developer. I have expe
 
 | Name                | Description                                                               |
 |---------------------|---------------------------------------------------------------------------|
-| **Pallivasal Project**  |Online Platform Connecting Tourists, Businesses, and Skilled Workers
-in Pallivasal Grama Panchayat, Driving Economic Growth and
-Community Engagement.                                              |
-| **Image Manipulation Detector**  | The TensorFlow-based image manipulation detector uses CNNs to
-spot alterations in images, ensuring their authenticity.                                              |
+| **Pallivasal Project** |Online Platform Connecting Tourists, Businesses, and Skilled Workers in Pallivasal Grama Panchayat, Driving Economic Growth and Community Engagement.|
+| **Image Manipulation Detector**  | The TensorFlow-based image manipulation detector uses CNNs to spot alterations in images, ensuring their authenticity.|
 
 #### Leadership and Influence:
 
