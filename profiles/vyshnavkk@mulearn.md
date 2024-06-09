@@ -12,8 +12,8 @@ I enjoy the creative process of developing user-friendly interfaces.
 
 | Name                          | Description                                                                                                                                                                      | Hosted Link                                                      | Repo Link                                                       |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|
-| **Weather forecast web app**  | By defualt it shows the weather data at the user's current location. User can input the city name to know the weather data of that city. Developed in ReactJS.                   | [Hosted Link 1](https://yshnav29.github.io/weather_forecast/)    | [Repo Link 1](https://github.com/Yshnav29/weather_forecast)     |
-| **TicTacToe Game**            | Two players game. Each player has unique symbol. When a player's symbol match with predefined pattern that player will be the winner.                                            | [Hosted Link 2](https://yshnav29.github.io/Tictactoe/)           | [Repo Link 2](https://github.com/Yshnav29/Tictactoe)            |
+| **Weather forecast web app**  | By defualt it shows the weather data at the user's current location. User can input the city name to know the weather data of that city. Developed in ReactJS.                   | [WeatherApp](https://yshnav29.github.io/weather_forecast/)    | [Repo Link 1](https://github.com/Yshnav29/weather_forecast)     |
+| **TicTacToe Game**            | Two players game. Each player has unique symbol. When a player's symbol match with predefined pattern that player will be the winner.                                            | [TicTacToe](https://yshnav29.github.io/Tictactoe/)           | [Repo Link 2](https://github.com/Yshnav29/Tictactoe)            |
 
 #### Leadership and Influence:
 
