@@ -3,7 +3,7 @@
 
 ### About Me
 
-> I'm an enthusiastic fresher pursuing B.Tech graduaation in Computer Science and apassion for software development. Proficient in Java and C, with a strong foundationin data base and SQL. Eager to contribute to a dynamic team and apply problem-solving skills in a collaborative environment.
+> I'm an enthusiastic B.Tech graduate in Computer Science and a passion for software development. Proficient in Java and C, with a strong foundationin data base and SQL. Eager to contribute to a dynamic team and apply problem-solving skills in a collaborative environment.
 
 
 ## Portfolio Highlights
