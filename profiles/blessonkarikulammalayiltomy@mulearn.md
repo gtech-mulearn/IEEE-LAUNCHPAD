@@ -12,8 +12,9 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **AI Facial Recognition System**  | A python program that enables users to identify individuals based on previously trained images. 1                                              | 
-[Repo Link 1](https://github.com/Blesson-Tomy/AI_Face_Recognition)             |
+| **AI Facial Recognition System**  | A python program that enables users to identify individuals based on previously trained images.                                              |  | [Repo Link 1](https://github.com/Blesson-Tomy/AI_Face_Recognition)
+| **Personal Portfolio Website**  | Built using HTML, CSS and Javascript, the website allows people to learn more about me and connect with me.| [Hosted Link 2](blesson-portfolio.vercel.app) | [Repo Link 2](https://github.com/Blesson-Tomy/Blesson)
+| **Personal Profiles Site**  | Built using HTML and CSS, the website allows people to connect with me easily.| [Hosted Link 3](https://blesson-tomy.github.io/Profile_Page/) | [Repo Link 3](https://github.com/Blesson-Tomy/Profile_Page)
 
 
 #### Leadership and Influence:
