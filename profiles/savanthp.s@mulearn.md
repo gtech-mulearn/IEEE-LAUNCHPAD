@@ -2,57 +2,55 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm an ECE graduate of 2023 pass out, currently working as an Embedded Engineer at Kochi. I'm keen to utilize my skills, dedication to learning, and adaptability to contribute to technological innovation in a professional setting. 
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                                                                                                                                           |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Aqua Monitoring     | Designed and deployment of an innovative automated monitoring system on a robotic boat, spearheading the integration of sensors and data transmission to the cloud via an ESP32       |
+| Robo Boat           | microprocessor.   This initiative enabled real-time tracking of pH, temperature, TDS, and turbidity levels during waterway navigation, facilitating informed environmental            |
+|                     | decision-making.                                                                                                                                                                      |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Smart Agro          | Created a home agriculture solution inspired by Google's concept, integrating advanced sensors to monitor vital factors like temperature, pressure, pH, moisture, and UV light.       |
+| Monitoring Unit     | Utilized an ESP32 microprocessor to centralize sensor control and data transmission to the cloud. This streamlined system enables tailored plant nourishment for optimal growth.      |
+| (SAM-U )            |                                                                                                                                                                                       |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Custom RISC         | The project is a development of a 32 bit ALU which is capable of producing a custom made DAMS Algorithm to perform encryption and decryption of a 32 bit plain text with two          |
+| Softcore with       | different keys for the two rounds of cipher text creation.                                                                                                                            |
+| Cryptographic ALU   |                                                                                                                                                                                       |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 #### Leadership and Influence:
 
 - Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I leverage my technical expertise in embedded systems to lead projects and solve complex problems, while also influencing peers through directing them to open-source supports and platforms. 
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
+- I have always held a good networking even its for the project, or conducting events , i have take up many roles to lead peers and co team members toward the success of project or event. I have been an chairperson of IEEE SB of my college which proved my networking skills for me.
+  
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- My immediate goal will be to focus on the field of embedded systems and related, develop my skill and in a long term goal in way future, i really wish to start my own startup up company which will me to develop a lot students to get opportunities and skill. 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- My thoughts are based on what i have experienced, Kerala's tech eco system has a lot of room for further expansion, when considering other big tech leads like Bangalore, Kerala is still at the bottom of stair.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Most of my contribution are for my own projects and job related
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+-  I have helped to keep a good tech community in my college through technically sessions and events, though never able to help through online platforms.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+- HackerRank : https://www.hackerrank.com/profile/witchhunter008
 
 ---
