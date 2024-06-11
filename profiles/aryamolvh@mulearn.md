@@ -10,14 +10,8 @@
 ### My Projects
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **DEEP FAKE Detection 
-using machine learning**  |  Developed a deep fake image detection system utilizing Machine Learning techniques.
-                           Trained a model using VGG-16 on a dataset of authentic and manipulated images.
-                           Implemented a Flask-based web application for user interaction and real-time image analysis
-                           Integrated the ML model to classify images and identify potential deep fake content.                                            | [Host   |              |
-| **Real-time Drowsiness Detection in Drivers (CNN)**  | Utilized computer vision techniques to analyze facial features and eye movements for signs of drowsiness.
-                                                        Trained the model on a dataset containing images of alert and drowsy drivers, achieving.
-                                                        Implemented the model using Python and OpenCV for video stream processing                                              |   |             |
+| **DEEP FAKE Detection using machine learning**  |  Developed a deep fake image detection system utilizing Machine Learning techniques.Trained a model using VGG-16 on a dataset of authentic and manipulated images.Implemented a Flask-based web application for user interaction and real-time image analysisIntegrated the ML model to classify images and identify potential deep fake content.                                            |   |              |
+| **Real-time Drowsiness Detection in Drivers (CNN)**  | Utilized computer vision techniques to analyze facial features and eye movements for signs of drowsiness.Trained the model on a dataset containing images of alert and drowsy drivers, achieving.Implemented the model using Python and OpenCV for video stream processing                                              |   |             |
 
 #### Leadership and Influence:
 
