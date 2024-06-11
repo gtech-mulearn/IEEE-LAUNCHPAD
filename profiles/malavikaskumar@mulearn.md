@@ -4,8 +4,8 @@
 
 
 
-I am Malavika S Kumar, currently pursuing my Bacgelor's in Technology from NSS College of Engineering, Palakkad. With a fervent interest in technology, I am always eager to explore and innovate within the field.
-I'm a process-oriented student, which helps me keep up my spirit, even though the reslts are not satisfying.
+I am Malavika S Kumar, currently pursuing my Bachelor's in Technology from NSS College of Engineering, Palakkad. With a fervent interest in technology, I am always eager to explore and innovate within the field.
+I'm a process-oriented student, which helps me keep up my spirit, even though the results are not satisfying.
 
 
 
@@ -18,7 +18,7 @@ I'm a process-oriented student, which helps me keep up my spirit, even though th
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| *Accident Prevebtion System*  | A system that involves drowsiness and health condition monitoring 1                                              | -    | [Repo Link 1](https://github.com/Malvika2001/Accident-prevention-system)             |
+| *Accident Prevention System*  | A system that involves drowsiness and health condition monitoring 1                                              | -    | [Repo Link 1](https://github.com/Malvika2001/Accident-prevention-system)             |
 | *Blood Group Detection*  | A system to check blood group using fingerprint 2                                              | -    | [Repo Link 2](https://github.com/Malvika2001/Blood-Group-Detection)             |
 
 
