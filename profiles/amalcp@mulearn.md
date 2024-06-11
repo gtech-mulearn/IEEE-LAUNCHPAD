@@ -7,11 +7,26 @@
 ---
 
 ### Portfolio Highlights
+### My Projects
+
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Agreya**  | Dynamic React Supabase website for Techfest at SNGIST group of institutions | [agreya.live](https://agreya.live/) | [GitHub](https://github.com/Jenin82/tech-fest-sngist-2024) |
+| **Opengrad**  | Dynamic React Supabase website for NGO | [opengrad.in/](https://opengrad.in/) | [GitHub](https://github.com/amalcpaulson/opengrad-frontend) |
+| **ResumeWiz**  | An Open-source AI resume builder with ATS checker, using Next, TypeScript and Supabase | [resumewiz.vercel.app](https://resumewiz.vercel.app/) | [GitHub](https://github.com/SynthCod3/ResumeWiz) |
+| **Portfolio Website**  | A portfolio website build using React, ThreeJs and Framer motion | [amalcp.fundesign.in/](https://amalcp.fundesign.in/) | [GitHub](https://github.com/amalcpaulson/Portfolio) |
+| **In50Hours**  | A React Supabase PWA app build for the In50Hous competition event organized by MuLearn | [in50hours.vercel.app](https://in50hours.vercel.app/) | [GitHub](https://github.com/Jenin82/Maze) |
+| **Campus Chapter**  | Website to be used for MuLearn Community's Campus Chapters. | [mulearn-cce.vercel.app/](https://mulearn-cce.vercel.app/) | [GitHub](https://github.com/amalcpaulson/mulearn_cce) |
+| **SNGIST Website**  | A college website with grievance system and user management build using Django. | [sngist.up.railway.app](https://sngist.up.railway.app/) | [GitHub](https://github.com/Jenin82/django-web) |
+| **Cupid's Chase**  | A React Supabase PWA app build for tresure hunt competition at Christ College of Engineering | [cupidschase.vercel.app](https://cupidschase.vercel.app/) | [GitHub](https://github.com/fundesigns/TreasureHunt) |
+| **Maze App**  | A React PWA game app build for IEDC Summit 2023 | [iedc-summit-app.vercel.app](https://iedc-summit-app.vercel.app/) | [GitHub](https://github.com/Jenin82/iedc-summit-app) |
+| **Skill Spectrum**  | A React website build as part of Top100Coders Challege for job identification with Beckn | [careerio-dev.vercel.app](https://careerio-dev.vercel.app/) | [GitHub](https://github.com/Jenin82/SkillSpectrum) |
+| **Park Plus**  | A React web app build for parking management | [park-plus-weld.vercel.app](https://park-plus-weld.vercel.app/) | [GitHub](https://github.com/Jenin82/ParkPlus) |
 
 #### Leadership and Influence:
 
 - Organizer of Beach Hack 5
-- Organizer of CODe Designathon
+- Organizer of CODe Designathon(2023 and 2024)
 - Organizing GTA Sandshores Hackathon for Muleaarn
 - Lead of Game Development Club
 - Secretary of CSI Chapter CCE
