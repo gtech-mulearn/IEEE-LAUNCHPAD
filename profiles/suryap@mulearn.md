@@ -4,7 +4,7 @@
 
 Motivated and diligent B.Tech graduate in Computer Science and Engineering with strongfoundational skills in Python, C, and Java. Experienced in developing software solutions using Python and Dart through hands-on final year projects. Seeking a challenging softwaredevelopment role to leverage my programming skills, problem-solving abilities, and enthusiasm for continuous learning in a dynamic and innovative environment.
 
-
+## Portfolio Highlights
 ### My Projects
 
 | Name                                                             | Description                                                                                          | Hosted Link                              | Repo Link                                                      |
