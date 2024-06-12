@@ -17,6 +17,7 @@
 | Web Development Internship | Business Web Solutions | 2022         |           | Developed responsive web applications using HTML, CSS, JavaScript, Python, and Django, enhancing user experience. |
 
 
+
 ## Skills
 - Machine Learning
 - Deep Learning
@@ -40,6 +41,8 @@
 | **Blood Donor Connect** | Flutter mobile app for urgent blood donation calls, centre searches, and donor eligibility checks   |        | [github repo link](https://github.com/manukirans/BloodDonorConnect) |
 | **SecurePDFLib**    | Secure digital library system incorporating a machine learningbased malicious PDF detection feature.|          |  [github repo link](https://github.com/manukirans/SecurePDFLib) |
 | **Customer-segmentation-and-Recommendation-systems**| A recommendation system to suggest top-selling products to customers within each segment || [github repo link](https://github.com/manukirans/Customer-segmentation-and-Recommendation-systems)|
+| **Restaurant Data Analysis**| This project aims to analyze restaurant data using MySQL Workbench, exploring various aspects such as ratings, prices, popular food types, delivery times, and more. The dataset used for analysis contains information about restaurants including their names, locations, ratings, prices, food types, delivery times, and total ratings. | |  [github repo link](https://github.com/manukirans/restaurant-data-analysis.) |
+| **Virtualpainting-OpenCV-Mediapipe** | The Virtual Painting Application is an interactive program that allows users to draw and paint in real-time using hand gestures captured through a webcam | | [github repo link](https://github.com/manukirans/virtualpainting-opencv-mediapipe) |
 
 #### Leadership and Influence
 
