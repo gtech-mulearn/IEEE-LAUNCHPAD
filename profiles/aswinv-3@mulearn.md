@@ -20,7 +20,7 @@ Volunteering and leading teams, as well as conducting programs, are activities I
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Skin Enchant**  |  eCommerce store for skin care products 1                                              | -    | [Repo Link 1](https://github.com/ITSASWINV/skin_enchant )             |
 | **Blog App**  | A blogging website 2                                              | -    | [Repo Link 2](https://github.com/ITSASWINV/BLOG_APP)             |
-
+| **Placement Cell App**  |  Web application for college placement assistance                                              | -    | [Repo Link 3](https://github.com/ITSASWINV/group_05_main_project)            |
 
 
 **Leadership and Influence:**
