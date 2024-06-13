@@ -5,6 +5,33 @@
 > Aspiring data scientist with a background in Information Technology (BTech, 2023). I'm building expertise in Machine Learning, AI and Data visualization tools. In addition to my data science interests, I've also explored web development, working with technologies such as HTML, CSS, JavaScript, Python, and Django to create responsive applications. 
 ---
 
+## Experience
+
+| **Experience**             | **Organization**        | **Duration** | | **Description**                                                                                                   |
+|----------------------------|-------------------------|--------------|--------------|-------------------------------------------------------------------------------------------------------------------|
+| Data Science Intern        | Luminar Technolab       | 2023 – present|         | Work as a Data Science Intern at Luminar Technolab since 2023.                                                   |
+| Machine Learning Internship| Techmaghi               | 2022         |           | Leveraged the Boston house price dataset to construct and fine-tune predictive models. Achieved 93% accuracy with the Polynomial Regression model. |
+| Web Development Internship | Business Web Solutions | 2022         |           | Developed responsive web applications using HTML, CSS, JavaScript, Python, and Django, enhancing user experience. |
+
+
+
+## Skills
+- Machine Learning
+- OpenCV
+- AWS
+- Deep Learning
+- NLP
+- Python
+- Power BI
+- MySQL
+- HTML/CSS
+- JavaScript
+
+## Education
+**BTech - Information Technology**  
+**Government Engineering College Idukki** 
+
+
 ## My Projects
 
 
@@ -40,5 +67,6 @@
 #### Competitive Website Profiles:
 
 - Active member on HackerRank , leetcode
+- [HackerRank](https://www.hackerrank.com/profile/manu_skiran)
 ---
 
