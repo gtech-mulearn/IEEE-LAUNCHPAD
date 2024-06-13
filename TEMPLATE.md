@@ -1,11 +1,8 @@
-# Full Name 
+# Govind K
 
-### About Me
+### Consistant 
 
-> write about your self .................. (minimum 200 Characters)
-
-
-## Portfolio Highlights
+> As someone who was confused in life it took me a while to figureout how life works so now i am on a path pursuing mty goal in the management field and i am really good at communicating and documentation 
 
 ### My Projects
 
@@ -16,11 +13,12 @@
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- working as the programme manager for mulearn 
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- communicating with all the people on events and engaging with other companies
+  
 
 #### Career Plan:
 
