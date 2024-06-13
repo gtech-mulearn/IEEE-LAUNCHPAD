@@ -1,152 +1,88 @@
-# IEEE LAUNCHPAD Job Fair
+# Aswin V 
 
+### About Me
 
 
 
+I am Aswin V, a 4th-year Computer Science student at the College of Engineering Vadakara. With a fervent interest in technology, I am always eager to explore and innovate within the field. Embracing challenges, coding, and staying updated on tech trends are my passions, and I aspire to contribute to the dynamic world of technology with my knowledge and skills.
 
+Since my first year, I have been an active member of IEEE, where I have continuously volunteered and taken on various leadership roles. I have served as a Link Representative and Joint Secretary in our Student Branch, and I contributed as a Design Team member in the IEEE RAS Kerala Chapter during 2020-2021. 
 
+Volunteering and leading teams, as well as conducting programs, are activities I find particularly rewarding. These experiences with IEEE have honed my leadership skills and deepened my interest in making a meaningful impact through technology.
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+---
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Skin Enchant**  |  eCommerce store for skin care products 1                                              | -    | [Repo Link 1](https://github.com/ITSASWINV/skin_enchant )             |
+| **Blog App**  | A blogging website 2                                              | -    | [Repo Link 2](https://github.com/ITSASWINV/BLOG_APP)             |
+| **Placement Cell App**  |  Web application for college placement assistance                                              | -    | [Repo Link 3](https://github.com/ITSASWINV/group_05_main_project)            |
 
 
+**Leadership and Influence:**
 
+I have demonstrated leadership and influence through my active involvement with IEEE since my first year of college. Serving as a Link Representative and Joint Secretary in our Student Branch, I have successfully organized and led various programs and initiatives. Additionally, as a Design Team member for the IEEE RAS Kerala Chapter (2020-2021), I contributed to important projects. My roles required effective communication, teamwork, and decision-making skills, which I developed and refined through these experiences. By leading teams, volunteering, and conducting events, I have proven my capability to inspire and guide others in the field of technology.
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+---
 
-#
+#### Networking:
 
 
 
 
-<div align="center">
+My networking skills have been honed through active participation in various IEEE events conducted by IEEE Kerala Section and other Student Branches, where I have made numerous friends and connections with peers. Additionally, as a member of TinkerHub and IEDC, I have broadened my network and gained exposure to diverse perspectives and innovative ideas.
 
+To engage with the community, I plan to continue participating in and organizing events, workshops, and collaborative projects. By leveraging my connections and sharing knowledge, I aim to influence and lead others in the field of technology. My goal is to inspire peers through mentorship, fostering a supportive environment for innovation and growth.
 
+---
 
+#### Career Plan:
 
-# How to Participate
 
-## Step 1:
 
+I aspire to become a software developer, focusing on creating innovative and efficient solutions. My plan includes gaining hands-on experience through internships, continuously improving my coding skills, and staying updated with the latest technologies. Ultimately, I aim to contribute to impactful projects and drive technological advancements in the industry.
 
+---
 
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
+#### Thoughts on Kerala's Tech Ecosystem:
 
 
 
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
+Supportive Environment for Entrepreneurs-
+   The Kerala Startup Ecosystem provides a supportive environment for entrepreneurs, making it easier to access mentorship, funding, and resources. This encouragement helps individuals to start their own ventures confidently, fostering innovation and self-reliance.
 
-#
+Increased Collaboration and Networking-
+   With numerous events, workshops, and meetups, the ecosystem enhances collaboration and networking opportunities. Aspiring entrepreneurs can connect with like-minded individuals, share ideas, and find potential partners, further driving the growth and success of startups in Kerala.
 
-## Step 2:
+---
 
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
+#### History of Open Source Contributions:
 
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
+- Participated in hactoberfest 2021,2022,2023
 
-</div>
+#### History of Community Engagement:
 
-<div align="center">
+-  Joint secratary at IEEE SB CEV (2023-2024)
+- Link Represantative at IEEE SB CEV (2022-2023)
+- Nss program coordination team member (2021-2022)
+- IEEE RAS Kerala section Design team member (2020-2021)
+- Active IEEE member (2020-cntd.. )
+- Active IEDC member since 2020-cntd..)
+#### Highly Visible Technical Content:
 
-## Step 3:
+- 
 
-</div>
+#### Highly Used Software Tools:
 
 
-#### 🛠️ Craft Your Digital Identity!
 
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
+#### Competitive Website Profiles:
 
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
+ [Linkedin](https://www.linkedin.com/in/aswinvezhakkodan/) 
 
 
 
