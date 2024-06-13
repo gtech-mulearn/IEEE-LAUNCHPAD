@@ -1,4 +1,4 @@
-AKHILA BABU 
+AKHILA BABU
 
 ### About Me
 I'm an Engineering graduate with a strong passion for coding and development. Recently, I completed a full stack Java internship at Kodnest Technologies, where I acquired practical skills in Java, MySQL, frontend technologies, and manual testing. During my internship, I contributed to real-world projects and learned directly from industry professionals, enhancing my hands-on experience.
