@@ -39,8 +39,5 @@ Electronics and Communication Engineering graduate with knowledge of firmware de
 - Kerala has the potential to become a major hub for software firms because of its reputation for creativity, competence, and a supportive environment. We can foster an atmosphere that encourages entrepreneurship and advances the state's economic development by concentrating on infrastructure, community development, and education.
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profile/vishakhabhayan@mulearn.md) for an exmaple
-
 ---
 
