@@ -39,16 +39,17 @@ Electronics and Communication Engineering graduate with knowledge of firmware de
 
 #### Leadership and Influence:
 
-**IEEE Student Branch**: Served as a member of the IEEE Student Branch at Vimal Jyothi Engineering College, contributing to organizing events and leading technical workshops.
+- **IEEE Student Branch**: Served as a member of the IEEE Student Branch at Vimal Jyothi Engineering College, contributing to organizing events and leading technical workshops.
 - **Campus Ambassador**: Acted as a Campus Ambassador for IEEEXtreme 16.0, promoting the event and encouraging participation among students.
 - **Techfest Coordinator**: Co-ordinated the Inter-College TECHFEST technical event, overseeing planning, execution, and participant engagement.
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- I plan to actively engage with the Top 100 community by participating in discussions, sharing insights, and collaborating on projects. I will leverage my technical expertise to contribute to the community and learn from other leaders.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- As immediate plan secure a position in embedded systems or technology, enhance technical skills through courses and certifications, and prepare thoroughly for interviews.
+- A long-term plan advance to senior roles with leadership responsibilities and build a strong professional network,
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
