@@ -40,8 +40,8 @@ Electronics and Communication Engineering graduate with knowledge of firmware de
 #### Leadership and Influence:
 
 **IEEE Student Branch**: Served as a member of the IEEE Student Branch at Vimal Jyothi Engineering College, contributing to organizing events and leading technical workshops.
-**Campus Ambassador**: Acted as a Campus Ambassador for IEEEXtreme 16.0, promoting the event and encouraging participation among students.
-**Techfest Coordinator**: Co-ordinated the Inter-College TECHFEST technical event, overseeing planning, execution, and participant engagement.
+- **Campus Ambassador**: Acted as a Campus Ambassador for IEEEXtreme 16.0, promoting the event and encouraging participation among students.
+- **Techfest Coordinator**: Co-ordinated the Inter-College TECHFEST technical event, overseeing planning, execution, and participant engagement.
 #### Networking:
 
 - explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
