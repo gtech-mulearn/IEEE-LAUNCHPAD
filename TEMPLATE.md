@@ -12,7 +12,7 @@ Electronics and Communication Engineering graduate with knowledge of firmware de
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | Robot for Borewell Rescue Operations  | Led the development of a Borewell Rescue Robot integrating microcontroller sensors, motors, and Bluetooth for seamless real-time communication. Achieved precision in movements and an efficient gripping mechanism ensuring optimal rescue efficiency.
-                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+                                             
 
 
 
