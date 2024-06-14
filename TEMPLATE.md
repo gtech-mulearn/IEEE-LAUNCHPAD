@@ -35,12 +35,13 @@ Electronics and Communication Engineering graduate with knowledge of firmware de
 
 #### Competitive Website Profiles:
 
-- HackerRank:(https://www.hackerrank.com/profile/Anusree_KV)
+- **HackerRank**:(https://www.hackerrank.com/profile/Anusree_KV)
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
+**IEEE Student Branch**: Served as a member of the IEEE Student Branch at Vimal Jyothi Engineering College, contributing to organizing events and leading technical workshops.
+**Campus Ambassador**: Acted as a Campus Ambassador for IEEEXtreme 16.0, promoting the event and encouraging participation among students.
+**Techfest Coordinator**: Co-ordinated the Inter-College TECHFEST technical event, overseeing planning, execution, and participant engagement.
 #### Networking:
 
 - explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
