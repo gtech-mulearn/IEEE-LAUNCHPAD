@@ -13,7 +13,7 @@ Electronics and Communication Engineering graduate with knowledge of firmware de
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | Robot for Borewell Rescue Operations  | Led the development of a Borewell Rescue Robot integrating microcontroller sensors, motors, and Bluetooth for seamless real-time communication. Achieved precision in movements and an efficient gripping mechanism ensuring optimal rescue efficiency.
                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-|Implementation Of Microcontroller Based Digital Logic Gate IC Tester | Designed an Intelligent IC Tester for normal logic gates with 14 pins featuring an Android app for IC selection and result display. Integrated a pin damage detection system with LEDs indicating proper functioning.                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+
 
 
 
