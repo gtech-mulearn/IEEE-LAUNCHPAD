@@ -16,23 +16,6 @@ Electronics and Communication Engineering graduate with knowledge of firmware de
 
 
 
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
 #### Competitive Website Profiles:
 
 - **HackerRank**:(https://www.hackerrank.com/profile/Anusree_KV)
@@ -53,7 +36,7 @@ Electronics and Communication Engineering graduate with knowledge of firmware de
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala has the potential to become a major hub for software firms because of its reputation for creativity, competence, and a supportive environment. We can foster an atmosphere that encourages entrepreneurship and advances the state's economic development by concentrating on infrastructure, community development, and education.
 
 
 > In your portfolio, include the following details:
