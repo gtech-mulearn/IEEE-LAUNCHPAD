@@ -35,7 +35,7 @@ Electronics and Communication Engineering graduate with knowledge of firmware de
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- HackerRank:(https://www.hackerrank.com/profile/Anusree_KV)
 
 #### Leadership and Influence:
 
