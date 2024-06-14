@@ -49,7 +49,7 @@ interest in the field
  
 #### Highly used Software Tools:
 
-- Highly used software tools are OpenCV , .Net , Scratch , Pycharam.
+- Highly used software tools are OpenCV , .Net  , Pycharam.
   
 #### Competitive Website Profiles:
 
