@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I am a recent BCA graduate passionate about software development and web technologies. With a solid foundation in Java, JavaScript, and Python, I have completed an internship in Java full stack development where I honed my skills in both front-end and back-end technologies. I have experience working with frameworks such as Django, Express, and React, and databases like MySQL, PostgreSQL, and MongoDB. I am currently seeking a full-time position to apply my skills in a dynamic and innovative environment. My goal is to contribute to impactful projects while continuously learning and growing in the tech industry.
+> I am a recent BCA graduate passionate about software development and web technologies. With a solid foundation in Java, I have completed an internship in Java full stack development where I honed my skills in both front-end and back-end technologies. I have experience working with frameworks such as spring boot, spring, Bootstrap, and databases like MySQL. I am currently seeking a full-time position to apply my skills in a dynamic and innovative environment. My goal is to contribute to impactful projects while continuously learning and growing in the tech industry.
 
 
 ## Portfolio Highlights
