@@ -56,6 +56,9 @@
 
 
 - Active participant in the [Gtech Mulearn](https://discord.gg/tech-community)
+- Participated in Project building session SheHacks, TinkerHub
 - Member of IEEE, IEDC and TinkerHub
+
+
 
 ---
