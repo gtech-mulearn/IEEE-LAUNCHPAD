@@ -11,6 +11,7 @@ and applying machine learning algorithms with scikit-learn.
 Platform.
 •Possesses strong problem-solving abilities, exceptional attention to detail, and a passion for continuous learning
 
+[Linkedin](https://www.linkedin.com/in/anugrahprathap/)
 
 ## Portfolio Highlights
 
@@ -21,7 +22,7 @@ Platform.
 | **Audio Surveillance System** | Audio surveillance system that combines the Convolutional Recurrent Neural Network (CRNN) algorithm with the Intensity Vector method for real-time audio data analysis. The CRNN algorithm is used for audio signal classification, while the Intensity Vector method aids in sound event localization during feature extraction.                                           | NA    | [Repo Link 1](https://github.com/anugrahprathap/Audio-Survilance)             |
 | **Campus Recruitment System**  | The Campus Recruitment System is a web application built using Python, Django, HTML, MySQL, JavaScript, and Bootstrap. It provides a platform for managing and handling campus recruitments at an educational institution. The system includes a Placement Officer who is responsible for organizing placement events and facilitating communication between companies and students. Companies can view student details and submit the details of selected students to the Placement Officer for further processing.                                            | NA    | [Repo Link 2](https://github.com/anugrahprathap/campus-recruitment-app)             |
 | **Eduspace** | •Created a robust and user-friendly online job portal exclusively for recent college graduates using Python Flask,MySQL, JavaScript, Html, and CSS, enabling efficient job searching, application submission, and employer management. | NA | [Repo Link 1]() |
-| **E-Commerce Web Application** | E-commerce web application built using Python Django and React.js. The application provides a platform for online shopping with features for browsing products, adding items to the cart, managing user profiles, and processing orders. It utilizes Material-UI for a sleek and responsive user interface | [Hosted Link 1]() | [Repo Link 3](https://github.com/anugrahprathap/DjangoReactEcomerce) |
+| **E-Commerce Web Application** | E-commerce web application built using Python Django and React.js. The application provides a platform for online shopping with features for browsing products, adding items to the cart, managing user profiles, and processing orders. It utilizes Material-UI for a sleek and responsive user interface | [Hosted Link 1](https://django-react-ecomerce.vercel.app/) | [Repo Link 3](https://github.com/anugrahprathap/DjangoReactEcomerce) |
 
 
 
@@ -38,10 +39,8 @@ Platform.
 #### Competitive Website Profiles:
 
 - Leetcode : [anugrahprathap](https://leetcode.com/u/anugrahprathap/).
+- Github : [anugrahprathap](https://github.com/anugrahprathap/)
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
