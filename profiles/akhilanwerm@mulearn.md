@@ -2,7 +2,7 @@
 
 ### About Me
 
-> Completed BCA from University of Calicut 2024, 
+> I am BCA graduate from University of Calicut. I have done undergone a 6 month intership as Web application Developer as PHP developer, I have worked on Diet Recommendation Application based on Health Condition as my college project, which is based on , HTML,CSS,JavaScript as Front End, PHP as Back End, MySql has database. I am currently undergoing a professional trainining as MERN Stack Developer from BROTOTYPE. 
 
 
 ## Portfolio Highlights
@@ -11,48 +11,33 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **HealthFare**  | Diet Recommendation Application based on Health Condition      |                                        | [Hosted Link 1]([https://example.com](https://sparktm.in/healthfare/#))    | [Repo Link 1]([https://github.com/username/project1](https://github.com/akhil1234A/healthfare))             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **HealthFare**  | Diet Recommendation Application based on Health Condition | [Hosted Link 1](https://sparktm.in/healthfare)    | [Repo Link 1](https://github.com/akhil1234A/healthfare)             |
 
-#### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking:
-
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+#### Leadership and Influence::
+- Organized severals events during college
+  - Organized a streaming event on Chandrayan's Rocket Launch Mission.
+  - Organized a Exhibition of Evolution of Websites on World Wide Web Day
+- Give a talk on Project Reminiscence, sharing our experiences, mistakes we done during our project time to our juniors. 
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- My immediate Career to plan to land a job as MERN Stack developer
+- My long term vision is to build my own start up in tech landscape. 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala have the potentional to become a huge tech hub in future. It will achieved through promoting tech in schools, promoting a coding culture in colleges, school actively engage students participate in hackathanons and other challenges. also colloboration of Government and Industry Leaders, investing in better infastructure and providing better environment where can foster future talents.
 
-#### History of Open Source Contributions:
+#### History of Community Engagement::
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- I am very active particpant in telegram channels like BROCAMP CODERS, helping beginnners to solve their doubts, issues encounter while learning to code for the first time. 
 
 #### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
+1. [LeetCode](https://leetcode.com/u/akhilanwarm/)
 
 
 > In your portfolio, include the following details:
->> check out [akhilanwerm@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+>> check out [akhilanwerm@mulearn.md](./profiles/akhilanwerm@mulearn.md) for an exmaple
 
 ---
