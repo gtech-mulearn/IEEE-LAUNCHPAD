@@ -40,12 +40,15 @@
 
 #### History of Open Source Contributions:
 
--  Maintain a open-source git contributions 
+-  Maintain open-source git contributions 
 
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- Participated in peer learning activities within GTech Mulearn community.
+- Collaborated on various projects and resolved issues through GitHub.
+- Actively involved within the Linkedin community.
+- 
 
 #### Highly Visible Technical Content:
 
