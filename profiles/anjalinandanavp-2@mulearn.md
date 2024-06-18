@@ -46,19 +46,19 @@
 #### History of Community Engagement:
 
 - Participated in peer learning activities within GTech Mulearn community.
-- Collaborated on various projects and resolved issues through GitHub.
+- Collaborated on various projects and resolved issues .
 - Actively involved within the Linkedin community.
 - Volunteered various IEEE activities and was part of different communities and socities
 
 #### Highly Visible Technical Content:
 
-- Published the research paper on College Enquiry chatbot-Collegiate Chatter on **IJCRT**
+- Our team have developed a significant initiative named "Collegiate Chatter" which has been documented and published as a paper on **IJCRT**.
 - Created some study session videos for school students on youtube.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
+- V S Code
+  
 #### Competitive Website Profiles:
 
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
