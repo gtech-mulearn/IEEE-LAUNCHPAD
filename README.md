@@ -29,6 +29,9 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 
 # How to Participate
+[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
+
+> **Watch the onboarding video-👆**
 
 ## Step 1:
 
@@ -80,7 +83,7 @@ Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
 Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
 
 > [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profile/vishakhabhayan@mulearn.md) for the perfect template to light your way.
+> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
 
 
 

@@ -1,0 +1,44 @@
+name: Label Pull Request
+
+on:
+  pull_request:
+    paths:
+      - 'profiles/**'
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Label Pull Request
+      env:
+        TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+      run: |
+        INVALID=false
+        
+        # Check if changes are made outside 'profiles' folder
+        if [[ $(git diff --name-only HEAD^ -- | grep -v '^profiles/') ]]; then
+          INVALID=true
+        fi
+        
+        # Check if files inside 'profiles' folder don't have '.md' extension
+        if [[ $(git diff --name-only HEAD^ -- profiles | grep -v '\.md$') ]]; then
+          INVALID=true
+        fi
+        
+        if $INVALID; then
+          LABEL="invalid"
+        else
+          LABEL="valid"
+        fi
+        
+        echo "Labeling pull request as $LABEL"
+        
+        # Use GitHub API to add label
+        curl -X POST \
+          -H "Accept: application/vnd.github+json" \
+          -H "Authorization: Bearer $TOKEN" \
+          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/labels \
+          -d "{\"labels\":[\"$LABEL\"]}"
