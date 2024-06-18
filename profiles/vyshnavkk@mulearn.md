@@ -1,4 +1,4 @@
-### Vyshnav K K
+# Vyshnav K K
 
 ### About Me
 
@@ -17,20 +17,26 @@ I enjoy the creative process of developing user-friendly interfaces.
 
 #### Leadership and Influence:
 
-During my third year of B.Tech I got an opportunity to work in a team to build an innovative hands-on project under LEAP(Learn Engineering through Activity Programs) program. We developed a robotic arm food feeder that feeds those people who can't eat by using thier own hands. As a teammate I could able to code the arduino programming to control the servo motor rotation and sensors.
+- During my third year of B.Tech I got an opportunity to work in a team to build an innovative hands-on project under LEAP(Learn Engineering through Activity Programs) program. We developed a robotic arm food feeder that feeds those people who can't eat by using thier own hands. As a teammate I could able to code the arduino programming to control the servo motor rotation and sensors.
 
 #### Networking:
 
-During LEAP inter college competition hosted at IIT Madras Research Park, could able to communicate with other competing groups and shared project ideas each other.
+- During LEAP inter college competition hosted at IIT Madras Research Park, could able to communicate with other competing groups and shared project ideas each other.
 
 #### Career Plan:
 
-In the immediate term I plan to work as a full stack developer and want to apply my skills on the development of web applications.
+- In the immediate term I plan to work as a full stack developer and want to apply my skills on the development of web applications.
 
 #### History of Community Engagement:
 
-Active member of the Gtech Mulearn community in discord where I completed many tasks.
+- Active member of the Gtech Mulearn community in discord where I completed many tasks.
+
+#### Highly Used Software Tools
+
+- VS Code
+- Jupyter Notebook
+- GitHub
 
 #### Competitive Website Profiles:
 
-My Leetcode profile: https://leetcode.com/u/vyshnav_k_k/
+- My Leetcode profile: https://leetcode.com/u/vyshnav_k_k/
