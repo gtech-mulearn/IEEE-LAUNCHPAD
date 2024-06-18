@@ -22,9 +22,9 @@
 
 #### Networking:
 
--Through active engagement in professional organizations such as IEEE, I've built a strong network of peers, mentors, and industry experts, enhancing my communication skills and knowledge sharing. Regularly participating in events and conferences enables me to contribute insights, connect with like-minded professionals, and stay abreast of cutting-edge developments in technology.
+- Through active engagement in professional organizations such as IEEE, I've built a strong network of peers, mentors, and industry experts, enhancing my communication skills and knowledge sharing. Regularly participating in events and conferences enables me to contribute insights, connect with like-minded professionals, and stay abreast of cutting-edge developments in technology.
 
--I aim to extend my impact by fostering online discussions across forums and social media platforms, leveraging these channels to connect with diverse communities and share valuable expertise. Additionally, I will organize and lead workshops and presentations to mentor others, promote collaborative learning, and drive awareness of emerging trends in technology.
+- I aim to extend my impact by fostering online discussions across forums and social media platforms, leveraging these channels to connect with diverse communities and share valuable expertise. Additionally, I will organize and lead workshops and presentations to mentor others, promote collaborative learning, and drive awareness of emerging trends in technology.
 
 
 #### Career Plan:
@@ -33,9 +33,9 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
--I believe Kerala has a set of most talented young minds and if nutured well we will truely be the top in tech.I greatly admire initiatives like **KSUM,KKEM** which extends great support in bringing up innovative minds.
+- I believe Kerala has a set of most talented young minds and if nutured well we will truely be the top in tech.I greatly admire initiatives like **KSUM,KKEM** which extends great support in bringing up innovative minds.
 
--As far as I have understood there is a huge gap between students and academic system.Most of them are not getting proper practical and technical training be it in schools or colleges.If this issue is given due consideration I believe Kerala's Startup Ecosystems will be flourished with talented people.
+- As far as I have understood there is a huge gap between students and academic system.Most of them are not getting proper practical and technical training be it in schools or colleges.If this issue is given due consideration I believe Kerala's Startup Ecosystems will be flourished with talented people.
 
 
 #### History of Open Source Contributions:
@@ -48,7 +48,7 @@
 - Participated in peer learning activities within GTech Mulearn community.
 - Collaborated on various projects and resolved issues through GitHub.
 - Actively involved within the Linkedin community.
-- 
+- Volunteered various IEEE activities and was part of different communities and socities
 
 #### Highly Visible Technical Content:
 
