@@ -40,7 +40,8 @@
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+-  Maintain a open-source git contributions 
+
 
 #### History of Community Engagement:
 
