@@ -13,10 +13,10 @@ I am excited to explore opportunities that will allow me to grow and make a mean
 
 ### My Projects
 
-| Name                    | Description                                                               | Hosted Link                              | Repo Link                                                      |
+| Name                    | Description                                                               | Hosted Link                                  | Repo Link                                                  |
 |-------------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **E-commerce website**  | A full-stack e-commerce platform built with the MERN stack.               | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**      | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Hire Mate               | A software developed to streamline recruitment process                    | AWS hosting ....                             | https://github.com/AbijithJackson/HireMate                 |
+| Tasky App               | A webapp created to make checklists                                       | https://abijithjackson.github.io/Tasky_App/  | https://github.com/AbijithJackson/Tasky_App                |
 
 #### Leadership and Influence:
 
