@@ -29,11 +29,14 @@
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- I am currently trying to learn more about the vast fields of cybersecurity and its trends focusing on the possibilities of ethical hacking, my aim is to create a more better cyberspace and to utilise my skills and passion for a desirable startup ecosystem.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+-I believe Kerala has a set of most talented young minds and if nutured well we will truely be the top in tech.I greatly admire initiatives like **KSUM,KKEM** which extends great support in bringing up innovative minds.
+
+-As far as I have understood there is a huge gap between students and academic system.Most of them are not getting proper practical and technical training be it in schools or colleges.If this issue is given due consideration I believe Kerala's Startup Ecosystems will be flourished with talented people.
+
 
 #### History of Open Source Contributions:
 
