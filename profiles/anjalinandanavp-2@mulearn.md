@@ -2,11 +2,7 @@
 
 ### About Me
 
->My name is Anjali Nandana V P, I am a BTech CSE graduate.Throughout my academic journey, I have developed a strong analytical mindset and problem-solving skills, which are essential in the field of engineering.
-
-One of my key strengths is leadership. During my time in college, I actively participated in various events and took on leadership roles, organizing and coordinating various activities. These experiences have honed my abilities in teamwork, event planning, and effective communication. I take pride in my capability to lead teams, ensuring that projects are completed successfully and on time.
-
-In addition to my technical skills and leadership abilities, I am highly motivated and eager to continuously learn and grow in my field. I believe in staying updated with the latest technological advancements and am committed to applying my knowledge and skills to real-world challenges. My goal is to contribute effectively to any team I am part of, leveraging my strengths and enthusiasm for engineering to achieve remarkable results.I am currently exploring the world of cybersecurity and is ethical hacking. 
+>My name is Anjali Nandana V P, I am a BTech CSE graduate. During my time in college, I actively participated in various events and took on leadership roles, organizing and coordinating various activities. These experiences have honed my abilities in teamwork, event planning, and effective communication. I take pride in my capability to lead teams, ensuring that projects are completed successfully and on time.In addition to my technical skills and leadership abilities, I am highly motivated and eager to continuously learn and grow in my field. I believe in staying updated with the latest technological advancements and am committed to applying my knowledge and skills to real-world challenges. My goal is to contribute effectively to any team I am part of, leveraging my strengths and enthusiasm for engineering to achieve remarkable results.I am currently exploring the world of cybersecurity and is ethical hacking. 
 
 
 ## Portfolio Highlights
@@ -20,7 +16,9 @@ In addition to my technical skills and leadership abilities, I am highly motivat
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- As former **Content writer and Vice Chairperson for IEEE SB NCERC**, I have led multiple initiatives, coordinated events, and showcased exceptional communication, teamwork, and leadership skills, consistently inspiring and guiding teams to success.
+- My active participation in organizing activities, event management, and crisis handling has honed my problem-solving abilities and time management skills, enabling me to balance volunteer work, studies, while delivering high-quality results.
+
 
 #### Networking:
 
