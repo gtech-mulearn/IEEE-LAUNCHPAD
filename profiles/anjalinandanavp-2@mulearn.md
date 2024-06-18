@@ -23,6 +23,7 @@
 #### Networking:
 
 -Through active engagement in professional organizations such as IEEE, I've built a strong network of peers, mentors, and industry experts, enhancing my communication skills and knowledge sharing. Regularly participating in events and conferences enables me to contribute insights, connect with like-minded professionals, and stay abreast of cutting-edge developments in technology.
+
 -I aim to extend my impact by fostering online discussions across forums and social media platforms, leveraging these channels to connect with diverse communities and share valuable expertise. Additionally, I will organize and lead workshops and presentations to mentor others, promote collaborative learning, and drive awareness of emerging trends in technology.
 
 
