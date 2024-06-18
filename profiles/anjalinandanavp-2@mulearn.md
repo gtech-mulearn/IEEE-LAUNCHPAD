@@ -52,7 +52,8 @@
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Published the research paper on College Enquiry chatbot-Collegiate Chatter on **IJCRT**
+- Created some study session videos for school students on youtube.
 
 #### Highly Used Software Tools:
 
