@@ -2,7 +2,11 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>My name is Anjali Nandana V P, I am a BTech CSE graduate.Throughout my academic journey, I have developed a strong analytical mindset and problem-solving skills, which are essential in the field of engineering.
+
+One of my key strengths is leadership. During my time in college, I actively participated in various events and took on leadership roles, organizing and coordinating various activities. These experiences have honed my abilities in teamwork, event planning, and effective communication. I take pride in my capability to lead teams, ensuring that projects are completed successfully and on time.
+
+In addition to my technical skills and leadership abilities, I am highly motivated and eager to continuously learn and grow in my field. I believe in staying updated with the latest technological advancements and am committed to applying my knowledge and skills to real-world challenges. My goal is to contribute effectively to any team I am part of, leveraging my strengths and enthusiasm for engineering to achieve remarkable results.I am currently exploring the world of cybersecurity and is ethical hacking. 
 
 
 ## Portfolio Highlights
@@ -11,8 +15,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **MENTAL HEALTH TRACKER**  | A Python based AI-ML project                                               | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **COLLEGEIATE CHATTER**  | An innovative chatbot project used to assist college enquires                                             | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
@@ -50,9 +54,5 @@
 
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
