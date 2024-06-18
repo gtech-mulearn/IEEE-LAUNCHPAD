@@ -39,4 +39,4 @@ I enjoy the creative process of developing attractive and user-friendly interfac
 
 #### Competitive Website Profiles:
 
-- My Leetcode profile: https://leetcode.com/u/vyshnav_k_k/
+- My Leetcode profile: [Profile](https://leetcode.com/u/vyshnav_k_k/)
