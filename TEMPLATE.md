@@ -1,18 +1,16 @@
-# Full Name 
+## FEBY PHILIP
 
-### About Me
+A diligent, focused, and organized individual seeking job opportunities as a Computer Science Engineer in a successful and dynamic company that offers room for progression. I possess exceptional leadership and communication skills, aiming to thrive in a growth-oriented environment while achieving personal and organizational goals. I have understanding in C programming, MySQL, Networking.
 
-> write about your self .................. (minimum 200 Characters)
-
-
-## Portfolio Highlights
-
-### My Projects
+## My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+|**Soil Category
+Classification using 
+Machine Vision and
+Automated NPK Content
+Estimation**|Through the classified soil and nutrients from NPK sensor for appropriate crop prediction---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Automated Timetable Generator**  | Giving subjects, faculties and timetable can be generated             |
 
 #### Leadership and Influence:
 
@@ -44,7 +42,7 @@
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- VScode, Firebase
 
 #### Competitive Website Profiles:
 
