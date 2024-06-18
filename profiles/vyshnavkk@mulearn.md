@@ -3,7 +3,7 @@
 ### About Me
 
 Hi, I am Vyshnav K K from Malappuram. I am a tech enthusiast. I am passionate about fullstack development. Have project experience in both frontend and backend development. 
-I enjoy the creative process of developing user-friendly interfaces.
+I enjoy the creative process of developing attractive and user-friendly interfaces.
 
 
 ## Portfolio Highlights
@@ -21,7 +21,7 @@ I enjoy the creative process of developing user-friendly interfaces.
 
 #### Networking:
 
-- During LEAP inter college competition hosted at IIT Madras Research Park, could able to communicate with other competing groups and shared project ideas each other.
+- During LEAP inter college competition hosted at IIT Madras Research Park, could able to communicate with other competing groups and shared project ideas.
 
 #### Career Plan:
 
