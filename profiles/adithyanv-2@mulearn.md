@@ -11,7 +11,7 @@
 
 | Name                | Description                                                            
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Youtube Transcript summarizer  | It is a web application which accepts URL of videos, extracts its transcript and summarises its content.                                           |
+| Youtube Transcript summariser  | It is a web application which accepts URL of videos, extracts its transcript and summarises its content.                                           |
 | Hire Mate  | it is a web application which provides a platform for screening and selecting candidate by processing their resumes, conducting aptitude test under proctoring and finaly evaluation of the result for ranking of candidates      |
 
 #### Leadership and Influence:
