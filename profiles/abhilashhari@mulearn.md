@@ -43,11 +43,11 @@
 
 #### Highly Visible Technical Content:
 
-- Hashnode Articles. You can find it on : [HASHNODE](https://abhilashhari.hashnode.dev/))
+- Hashnode Articles. You can find it on : [HASHNODE](https://abhilashhari.hashnode.dev/)
 
 #### Highly Used Software Tools:
 
-- Code Editors : Sublime,Visual Studio Code,Pycharm
+- Code Editors : Sublime,Visual Studio Code
 - Version Control : Github
 - OS : Linux
 - Editing ,Logo creation,Resume creation : Canva, Overleaf
@@ -58,11 +58,9 @@
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- Codechef : https://www.codechef.com/users/abhilashhari13/
+- Leetcode : https://leetcode.com/u/abhilashhari1313/
+- GeeksforGeeks : https://www.geeksforgeeks.org/user/abhilashhi134/
+- Hackerrank : https://www.hackerrank.com/profile/abhilashhari1313/
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
