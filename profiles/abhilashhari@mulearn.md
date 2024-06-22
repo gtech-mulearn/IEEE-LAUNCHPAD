@@ -9,10 +9,12 @@
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                               |
+|---------------------|---------------------------------------------------------------------------|
+| **Lung Cancer Detection using Deep Learning** | I have created and trained a model that could predict and classify Lung Cancer using CNN with 95 percentage accuracy. |
+| **CRM App**  | Developed a robust CRM application utilizing Django framework to streamline customer relationship management processes.|   
+| **ToDoApp**  | A user‑friendly task management solution built to streamline daily activities using Django and SQLite.                                              |  
+| **Umbrella Reminder**  | If the weather condition is rainy or cloudy this program will send you an “umbrella reminder” to your email reminding you to pack an umbrella before leaving the house.|  
 
 #### Leadership and Influence:
 
