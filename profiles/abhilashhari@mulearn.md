@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am a passionate and driven individual on a journey of self-discovery and growth. As a fourth-year B.Tech student at the College of Engineering and Management, Punnapra, I have harnessed my academic pursuits to cultivate a deep love for coding and problem-solving. With a burning curiosity and an insatiable appetite for knowledge, I have embarked on a mission to leverage the power of technology to simplify complex tasks and enhance efficiency.I am committed to honing my Django skills and using this powerful tool to craft innovative web applications that serve practical purposes. With each project, I am fueled by the belief that coding can make a meaningful difference in people's lives.
 
 
 ## Portfolio Highlights
@@ -16,35 +16,45 @@
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking:
-
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Mentored a team of 10 members for the Gtech Mulearn Cohort 3 Level 1 Web Development.
+- Hosted a several talk sessions on web3 for the Web3 Kerala Community CEMP.
+- Part of Cup2Pond CEMP, a initiative to teach and learn by forming peer to peer groups.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- I would like to be part of the modern technologies and solutions that would ease the life of common people.
+- In the long term I would like to build something great.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- The Kerala government has actively supported the tech ecosystem through programs like the Kerala Startup Mission (KSUM). These initiatives provide funding, mentorship, and infrastructure to startups, making it easier for entrepreneurs to launch their ventures.
+- Kerala has seen a surge in the number of startups in recent years, particularly in cities like Kochi and Thiruvananthapuram. The state government's initiatives and the presence of incubators and accelerators have contributed to this growth.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- I have been part of Github since 2020, but I started using it really during the middle of 2021 and gave contributions to several open source projects.
+- Also I participated in the 2021 Hactoberfest,2022 Hactoberfest and 2023 Hactoberfest.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+-  Part of the Gtech Mulearn Web Development as a student and mentor.
+-  Also i have been writing hashnode articles on tech contents.
+-  Part of Cup2Pond, a peer to peer learning intiative.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Hashnode Articles. You can find it on : [HASHNODE](https://abhilashhari.hashnode.dev/))
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Code Editors : Sublime,Visual Studio Code,Pycharm
+- Version Control : Github
+- OS : Linux
+- Editing ,Logo creation,Resume creation : Canva, Overleaf
+- Programming Lanuages : Python,Javascript,HTML,CSS
+- Frameworks : Django, Beautiful Soup, Bootstrap
+- Databases : SQL,Postgresql.
+
 
 #### Competitive Website Profiles:
 
