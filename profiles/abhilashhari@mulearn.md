@@ -19,7 +19,7 @@
 #### Leadership and Influence:
 
 - Mentored a team of 10 members for the Gtech Mulearn Cohort 3 Level 1 Web Development.
-- Hosted a several talk sessions on web3 for the Web3 Kerala Community CEMP.
+- Hosted  several talk sessions on web3 for the Web3 Kerala Community CEMP.
 - Part of Cup2Pond CEMP, a initiative to teach and learn by forming peer to peer groups.
 
 #### Career Plan:
@@ -42,6 +42,7 @@
 -  Part of the Gtech Mulearn Web Development as a student and mentor.
 -  Also i have been writing hashnode articles on tech contents.
 -  Part of Cup2Pond, a peer to peer learning intiative.
+-  You can connect me on  Linkedln : www.linkedin.com/in/abhilash-hari-203aa4210
 
 #### Highly Visible Technical Content:
 
