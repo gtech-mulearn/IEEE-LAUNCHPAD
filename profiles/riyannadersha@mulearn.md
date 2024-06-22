@@ -16,7 +16,7 @@
 
 #### Networking:
 
-- I was an active member in IEEE, which has helped me in connecting with a lot of people.
+- I was an active member in IEEE, which has helped me in connecting with a lot of people
 #### Career Plan:
 
 - My short term plan is to secure a job in the tech industry with which I can gain the necessary knowledge and exposure to the industry.
