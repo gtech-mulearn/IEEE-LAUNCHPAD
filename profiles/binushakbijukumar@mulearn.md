@@ -1,4 +1,4 @@
-# Full Name 
+# Binusha K Bijukumar 
 
 ### About Me
 
@@ -42,7 +42,3 @@ I possess strong networking skills, including effective communication, active li
 #### History of Community Engagement:
 
 -  Throughout my journey, I've engaged deeply in technical communities, contributing expertise on platforms like Stack Overflow where I've addressed queries spanning AI, programming languages, and software development methodologies. Active participation in specialized forums and Discord servers has allowed me to share insights, troubleshoot issues, and foster knowledge exchange. By actively participating in these communities, I've not only honed my technical skills but also cultivated a passion for collaborative problem-solving and mentoring aspiring developers.
-
-
-
-
