@@ -44,6 +44,12 @@ Hello! I'm Angel Rose, a recent BTech Information Technology graduate from Gover
 
 -  I played a significant role in building a lively and supportive community within µLearn, starting as a member and advancing to become a fellow. This journey allowed me to learn a lot and meet many new people. I was also actively involved in various college communities, such as GDSC where I was a content writer, and Tinkerhub where I was an active member. These experiences have had a profound impact on my personal and professional growth, shaping who I am today. I am forever grateful to communities!
 
+#### Highly Visible Technical Content:
 
+- Authored a technical blog on [Thunkable](https://medium.com/@angelrosejoy19/unleash-your-app-building-potential-thunkable-and-the-no-code-revolution-ba9ec8906a5d)
 
+### Competitive Website Profiles:
+- [FreeCodeCamp](https://www.freecodecamp.org/fccf7560df4-0e1a-4d83-b820-e55c2e47a19d)
+- [Hackerrank](https://www.hackerrank.com/profile/angelroseinchod1)
+  
 
