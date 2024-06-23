@@ -3,7 +3,8 @@
 ### About Me
 > I am Megha Anil, a dedicated Computer Science student currently pursuing my Bachelor of Technology in Computer Science and Engineering at College of Engineering Aranmula. Proficient in languages like JavaScript, Python, and C.
 
-## My Projects
+## Portfolio Highlights
+### My Projects
 
 
 | Name                | Description                                                               | Repo Link                                                                            
@@ -12,7 +13,18 @@
 | **GetWheels**       | A web application for renting Cars                                        |                     
 
 
-### Portfolio Highlights
+#### Leadership and Influence:
+
+- I have demonstrated strong leadership and influencing skills through various experiences:
+Mentoring Junior Students: Organized study groups, provided resources, and offered career advice to help junior students succeed in the Computer Application program.
+These experiences have equipped me with the skills to lead, inspire, and make a positive impact in the technology domain.
+
+#### Networking:
+
+
+- Networking Skills
+I possess strong networking skills, including effective communication, active listening, and the ability to build meaningful professional relationships. By leveraging these skills and activities, I aim to foster a collaborative and supportive environment where knowledge is shared, and everyone is encouraged to grow and succeed.
+
 
 #### Career Plan:
 
@@ -32,8 +44,4 @@
 
 #### History of Community Engagement:
 
-- Active participant in Gtech-Mulearn
-
-
-
----
+-  Throughout my journey, I've engaged deeply in technical communities, contributing expertise on platforms like Stack Overflow where I've addressed queries spanning AI, programming languages, and software development methodologies. Active participation in specialized forums and Discord servers has allowed me to share insights, troubleshoot issues, and foster knowledge exchange. By actively participating in these communities, I've not only honed my technical skills but also cultivated a passion for collaborative problem-solving and mentoring aspiring developers.
