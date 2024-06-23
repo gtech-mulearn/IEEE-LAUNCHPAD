@@ -1,4 +1,4 @@
-# Angel Rosd 
+# Angel Rose
 
 ### About Me
 
