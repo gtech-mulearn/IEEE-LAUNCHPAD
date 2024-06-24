@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I'm pursuing Bachelor of Computer Applications , Ramapuram. I am a self-motivated and independent student with a passion to learn and grow. I believe in the concept of life-long learning and the need to upskill ourselves as we grow. I have a beginner level understanding about front-end and back-end. I am an aspiring software developer and am currently learning web development in detail. I have experience interacting with databases such as MySQL and MongoDB. I have a good knowledge of Python and C. I welcome opportunities to grow and learn.
+> I've completedBachelor of Computer Applications from Mar Augusthinose College, Ramapuram. I am a self-motivated and independent student with a passion to learn and grow. I believe in the concept of life-long learning and the need to upskill ourselves as we grow. I have a beginner level understanding about front-end and back-end. I am an aspiring software developer and am currently learning web development in detail. I have experience interacting with databases such as MySQL and MongoDB. I have a good knowledge of Python and C. I welcome opportunities to grow and learn.
 
 
 ## Portfolio Highlights
