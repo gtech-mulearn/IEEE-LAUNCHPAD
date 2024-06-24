@@ -8,12 +8,10 @@ Hi, I am vishnu. I am a .Possesses foundational skills in HTML,CSS, and Bootstra
 ## Portfolio Highlights
 
 ### My Projects
-
-| Name                            
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Simple Single Web Page Using Bootstrap       
-| News App using Flutter         
-
+| Name                         | Description                                                                                                                    
+|---------------------|---------------------------------------------------------------------------|
+| PicBlockchain               |Social media application in which videos,images and files are stored in pinata and QR code generated and                                    share with  others.             |
+| Simple Singe page Web app   | Using Html and Css a single web app |            
 
 Checkout my github profile : https://github.com/creator-10
 
