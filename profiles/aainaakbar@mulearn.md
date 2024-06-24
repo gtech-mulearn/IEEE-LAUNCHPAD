@@ -13,32 +13,29 @@
 >Driven by relentless curiosity, I am excited about the possibilities ahead and look forward to leveraging my skills and passions to drive innovation and create positive change in the tech industry.
 
 ---
+## Portfolio Highlights
 
-## My Projects
+### My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Pesonal Dermatologist**        |The personal dermatologist aimed to classify 10 classes of diseases using a machine learning model trained with three distinct networks: ResNet50, DenseNet, and VGG16 .The training, conducted in Google Colab, utilized a dataset sourced from Kaggle. Post-training, the model was integrated into a full-stack application. The frontend, built with HTML, Bootstrap, and CSS, was complemented by a Flask-based backend. Additionally, the Gemini API was integrated to provide users with detailed information on symptoms, cures, and prevention measures once a disease was detected. The development was carried out in Visual Studio Code (VS Code), ensuring a robust and user-friendly application.     | [Personal Dermatologist(Not hosted)](https://github.com/aaina942/skindieseasedetection.git) |[github repo link]([Personal Dermatologist](https://github.com/aaina942/skindieseasedetection.git)  |
 | **Skin disease detection using mobileNet V2**        | The project leverages MobileNetV2 neural networks to develop a model for identifying and assessing three  specific skin disorders: Eczema, Acne Pustular and Melasma. Achieving an impressive testing accuracy of 95% and a validation accuracy of 74.02%.Training was conducted in Google Colab, providing a robust environment for iterative development. The system not only identifies skin disorders but also assesses the progression or improvement of the affected areas by quantifying grayscale values in uploaded images. This real-time assessment helps users and medical professionals monitor treatment effectiveness, acknowledging improvements or noting the absence .   | [SkinDiseaseDetection](https://github.com/aaina942/personaldermatologist))     | [github repo link](SkinDiseaseDetection](https://github.com/aaina942/personaldermatologist) |
-| **Drowsiness Detection**        |In this project, I use OpenCV to capture images from a webcam and feed them into a deep learning model to classify whether a person’s eyes are ‘Open’ or ‘Closed’. The process involves capturing an image, detecting the face to create a Region of Interest (ROI), and then detecting the eyes from the ROI. These eye images are fed into a classifier that categorizes them as open or closed. I built the model with Keras using Convolutional Neural Networks (CNN), which excels in image classification. It includes an input layer, an output layer, and multiple hidden layers where convolution operations with filters are performed. The system also calculates a score to determine drowsiness.| [Drowsiness Detection(Not hosted)](https://github.com/aaina942/drowsinessdetection) |[github repo link]([Drowsiness Detection]((https://github.com/aaina942/drowsinessdetection))  |
+| **Drowsiness Detection**        |In this project, I use OpenCV to capture images from a webcam and feed them into a deep learning model to classify whether a person’s eyes are ‘Open’ or ‘Closed’. The process involves capturing an image, detecting the face to create a Region of Interest (ROI), and then detecting the eyes from the ROI. These eye images are fed into a classifier that categorizes them as open or closed. I built the model with Keras using Convolutional Neural Networks (CNN), which excels in image classification. It includes an input layer, an output layer, and multiple hidden layers where convolution operations with filters are performed. The system also calculates a score to determine drowsiness.| [Drowsiness Detection(Not hosted)](https://github.com/aaina942/drowsinessdetection) |[github repo link]([Drowsiness Detection](https://github.com/aaina942/drowsinessdetection)  |
 
-### Portfolio Highlights
+
 
 #### Leadership and Influence:
 
-- Led a team of 5 developers in delivering a complex drop-shiping platform ahead of schedule.
-- Organized and hosted 2 tech meetups in the local developer community.
+One notable leadership experience was CFO of IEDC KMEA for over 2 years, I led diverse planning and executing community growth programs, collaborating closely with various teams and communities. Notably, I spearheaded a national-level STPI funding project, guiding the team through complexities and ensuring compliance, achieving milestones on time. Motivated teammates through clear communication and mentorship, fostering creativity and a strong team spirit. My leadership emphasized proactive strategy and empowerment, driving success in community development initiatives.
 
 #### Networking:
 
-- Strong networking skills demonstrated through active participation in industry conferences such as Huddle Globa.
-- Co-founder of [Petagon](https://www.pentagon.com/group) a community of hackers, which has grown to 10 members.
-
+During my tenure as CFO at IEDC KMEA for over 2 years, I actively networked and collaborated with diverse teams and communities to plan and execute community growth programs. I employed proactive networking strategies, leveraging social media platforms and participating in meetups, to engage stakeholders effectively. My approach emphasized empowerment and strategic networking, contributing to successful community development initiatives.
 
 #### Career Plan:
 
-- In the immediate term, I plan to mentor junior developers and organize workshops to foster tech talent in Kerala.
-- In the long term, I aim to launch a tech startup focused on sustainable solutions in Kerala.
+I'm focused on advancing Kerala's startup ecosystem through roles in data science, data analysis, or machine learning engineering. Mastering Python, R, Pandas, and NumPy provides a strong technical foundation, complemented by hands-on experience. In the medium term, I aim to specialize in finance, healthcare and wellbeing, technology or agriculture, aligning my skills with local entrepreneurial needs. Advanced education in data science or business analytics will deepen my expertise, collaborating closely with startups to apply data-driven insights for their growth. Looking ahead, I aspire to roles like project manager, product engineer, or entrepreneur, contributing directly to Kerala's startup landscape. This involves gaining leadership experience, and eventually launching a startup focused on solving local challenges with advanced data science solutions. Continuous professional growth through networking, local meetups, and mentorship is crucial. By following this plan, I aim to drive innovation, foster entrepreneurship, and make a significant impact on Kerala's dynamic startup community.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
