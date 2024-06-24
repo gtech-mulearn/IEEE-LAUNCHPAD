@@ -4,13 +4,13 @@
 
 > I am Aaina Akbar, a 22-year-old engineer with a  passion for innovation and development. As a tech enthusiast, I strive to stay at the forefront of emerging technologies such as machine learning, data science, Internet of things , artificial intelligence etc and leverage them to create impactful solutions. My belief in technology's power to transform lives and industries drives my engineering journey.
 
-Leadership is one of my core strengths, honed through team projects and competitions. I excel in articulating complex ideas and ensuring team alignment and motivation. Critical thinking and ideation are integral to my problem-solving approach, enabling creative and precise navigation of challenges. As an adaptable team player, I thrive in collaborative environments, eager to learn and contribute.
+>Leadership is one of my core strengths, honed through team projects and competitions. I excel in articulating complex ideas and ensuring team alignment and motivation. Critical thinking and ideation are integral to my problem-solving approach, enabling creative and precise navigation of challenges. As an adaptable team player, I thrive in collaborative environments, eager to learn and contribute.
 
-Outside technology, I find solace in nature and value the books I read, such as "The Alchemist" and "The Power of the Subconscious Mind," which have profoundly influenced my perspective on life and success.
+>Outside technology, I find solace in nature and value the books I read, such as "The Alchemist" and "The Power of the Subconscious Mind," which have profoundly influenced my perspective on life and success.
 
-My dedication to innovation and new technologies is evidenced by my participation in national-level idea pitching competitions by STPI. A highlight of my academic journey was leading a team that received a stipend of 90,000 INR to build a proof of concept (POC), providing invaluable insights into project development and management.
+>My dedication to innovation and new technologies is evidenced by my participation in national-level idea pitching competitions by STPI. A highlight of my academic journey was leading a team that received a stipend of 90,000 INR to build a proof of concept (POC), providing invaluable insights into project development and management.
 
-Driven by relentless curiosity, I am excited about the possibilities ahead and look forward to leveraging my skills and passions to drive innovation and create positive change in the tech industry.
+>Driven by relentless curiosity, I am excited about the possibilities ahead and look forward to leveraging my skills and passions to drive innovation and create positive change in the tech industry.
 
 ---
 
@@ -18,8 +18,8 @@ Driven by relentless curiosity, I am excited about the possibilities ahead and l
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Pesonal Dermatologist**        |The personal dermatologist aimed to classify 10 classes of diseases using a machine learning model trained with three distinct networks: ResNet50, DenseNet, and VGG16 .The training, conducted in Google Colab, utilized a dataset sourced from Kaggle. Post-training, the model was integrated into a full-stack application. The frontend, built with HTML, Bootstrap, and CSS, was complemented by a Flask-based backend. Additionally, the Gemini API was integrated to provide users with detailed information on symptoms, cures, and prevention measures once a disease was detected. The development was carried out in Visual Studio Code (VS Code), ensuring a robust and user-friendly application.                                                 | [toetally](https://toetally.vishakh.fun) |[github repo link](https://github.com/gtech-mulearn/LAUNCHPAD)   |
-| **BirthYay**        | Create personalized birthday cards and share them with your loved ones    | [birthyay](https://wish.vishakh.fun)     | [github repo link](https://github.com/gtech-mulearn/LAUNCHPAD) |
+| **Pesonal Dermatologist**        |The personal dermatologist aimed to classify 10 classes of diseases using a machine learning model trained with three distinct networks: ResNet50, DenseNet, and VGG16 .The training, conducted in Google Colab, utilized a dataset sourced from Kaggle. Post-training, the model was integrated into a full-stack application. The frontend, built with HTML, Bootstrap, and CSS, was complemented by a Flask-based backend. Additionally, the Gemini API was integrated to provide users with detailed information on symptoms, cures, and prevention measures once a disease was detected. The development was carried out in Visual Studio Code (VS Code), ensuring a robust and user-friendly application.                                                 | [Personal Dermatologist(Not hosted)](https://github.com/aaina942/skindieseasedetection.git) |[github repo link]([Personal Dermatologist(Not hosted)](https://github.com/aaina942/skindieseasedetection.git)  |
+| **Skin disease detection using mobileNet V2**        | Create personalized birthday cards and share them with your loved ones    | [birthyay](https://wish.vishakh.fun)     | [github repo link](https://github.com/gtech-mulearn/LAUNCHPAD) |
 
 ### Portfolio Highlights
 
