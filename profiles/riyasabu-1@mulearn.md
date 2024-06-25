@@ -22,7 +22,7 @@
 
 #### History of Community Engagement:
 
-- Was a coding committe head during last year at Saintgits Techfest.
+- Was a coding committe head.
 -  I help my friends to clear doubts regarding mulearn discord tasks and share my knowledge regarding it.
 - Was a Mulearn State Web IG lead and Campus Lead 
 
