@@ -1,8 +1,8 @@
-# Full Name 
+# REVATHY JAYAKUMAR
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+Passionate about software architecture and design, with strong proficiency in C++, Java, Python, JavaScript, and SQL, backed by a Master's in Computer Applications. Adept at developing innovative, scalable, and reliable solutions adhering to best practices, clean code principles, and agile methodologies. Proven ability to manage complex projects, maintain high standards, and continuously upskill in cutting-edge technologies. Eager to leverage technical expertise, tackle big industry challenges, and contribute to a winning team with a commitment to innovation and impact.
 
 
 ## Portfolio Highlights
@@ -11,8 +11,10 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **•	VoxBuddy.ai**  | Personal Voice Assistant done at Vidya Academy of Science & Technology, Thrissur.                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **•	Student Management System**  | Done in ASP.NET at LBS Centre for Science and Technology,
+Thiruvananthapuram.
+                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
@@ -52,7 +54,5 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
