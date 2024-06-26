@@ -12,8 +12,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Django Job Portal**  |  This project is a job portal application built using Django, designed to streamline the process of job management and application for both recruiters and applicants.                                             | https://jobportdjango.pythonanywhere.com/    | https://github.com/jenish-ml/django-job-portal.git             |
+| **Ticket Management System**  | Built an advanced Django-based Ticket Management System enabling efficient customer support and issue tracking.                                              | https://dtms.pythonanywhere.com/    | https://github.com/jenish-ml/django-ticket-management-system.git             |
 
 #### Leadership and Influence:
 
