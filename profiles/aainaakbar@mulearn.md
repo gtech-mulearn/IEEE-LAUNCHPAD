@@ -8,7 +8,7 @@
 
 >Outside technology, I find solace in nature and value the books I read, such as "The Alchemist" and "The Power of the Subconscious Mind," which have profoundly influenced my perspective on life and success.
 
->My dedication to innovation and new technologies is evidenced by my participation in national-level idea pitching competitions by STPI. A highlight of my academic journey was leading a team that received a stipend of 90,000 INR to build a proof of concept (POC), providing invaluable insights into project development and management.
+>My dedication to innovation and new technologies is evidenced by my participation in national-level idea pitching program by STPI. A highlight of my academic journey was leading a team that received a stipend of 90,000 INR to build a proof of concept (POC), providing invaluable insights into project development and management.
 
 >Driven by relentless curiosity, I am excited about the possibilities ahead and look forward to leveraging my skills and passions to drive innovation and create positive change in the tech industry.
 
