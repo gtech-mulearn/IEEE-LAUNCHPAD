@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am AKSHAY KRISHNA A, pursuing B.Tech in Computer Science and Engineering at Lourdes matha college of science and technology Trivandrum,Under APJ Abdul Kalam Technological University. Currently serving As Chair IEEE SB LMC, Mulearn Campus lead, IEDC finace lead LMC, IEEE EXTREME 18.0 Kerala Section Co Lead.
 
 
 ## Portfolio Highlights
@@ -11,7 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Dorsal Hand Vein Authentication**  | A Secure Bio-metric identification System            
+                                  | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
@@ -52,7 +53,3 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
