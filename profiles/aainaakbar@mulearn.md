@@ -48,22 +48,20 @@ Access to funding from angel investors, venture capitalists, and government gran
 
 #### History of Community Engagement:
 
-- Regularly answer technical questions on Stack Overflow, with a reputation score of 2k.
-- Active participant in the [Gtech Mulearn](https://discord.gg/tech-community) where I help newcomers and share my knowledge.
+As the CFO at IEDC KMEA, I managed financial operations, utilizing Spreadsheets for budgeting, financial tracking, and reporting. This role required strong analytical skills and attention to detail.
+I also engaged with the community using Discord servers, facilitating discussions, coordinating events, and managing member interactions. This involved setting up channels, moderating conversations, and using bots for automation.
+
+At Tinkerhub, I worked extensively with Discord for community engagement, leveraging its features to foster collaboration and knowledge sharing among members.Documentation tools were crucial in this role, ensuring that resources, guides, and event details were well-organized and accessible. This likely involved using tools like Google Docs and notion to create and maintain documentation.
+My experience highlights a blend of financial management, technical proficiency, and community engagement, showcasing my ability to utilize various tools to support and grow technical communities.
 
 #### Highly Visible Technical Content:
 
-- Authored a technical blog post on [Linkedin](https://linkedin.com/vishakh-abhayan) that received 126k views and 3000+ Reactions.
-- Created a video on YouTube explaining advanced software architecture, with a total of 13 views.
+As a Technical Content Writer at Protoheim, my role involved creating user manuals,social media content and technical blog posts that explained complex concepts in an accessible manner. I collaborated closely with the development team to ensure the clarity of the documentation, which helped in effectively communicating the features and benefits to both technical and non-technical audiences.
 
-#### Highly Used Software Tools:
+My tenure as CFO at IEDC KMEA provided me with valuable experience in managing financial documentation and technical writing. I was responsible for documenting financial transactions, preparing budget reports, and creating proposals for funding and partnerships. My ability to produce precise and concise technical documentation contributed to the effective communication and operational success of the organization.
 
-- Developed a web-based Task management tool called [TodoNow](https://github.com/vishakh-abhayan/TodoNow) used by 2000+ users.
+At Tinkerhub, I enhanced my skills by documenting community events and projects, preparing detailed reports, creating instructional guides, and maintaining organized records of technical activities. This work supported Tinkerhub's mission to foster a collaborative tech community.
 
-#### Competitive Website Profiles:
-
-- Active member on HackerRank with a 145k ranking in Data Structures.
-- Kaggle profile showcasing 3 completed data science projects.
 
 
 ---
