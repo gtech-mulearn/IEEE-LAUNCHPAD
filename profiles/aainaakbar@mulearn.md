@@ -44,8 +44,7 @@ Access to funding from angel investors, venture capitalists, and government gran
 
 #### History of Open Source Contributions:
 
-- Contributed to the open-source project [first-contributions]([https://github.com/gtech-mulearn/mulearn](https://github.com/firstcontributions/first-contributions)) by implementing feature Push Notification.
-- Actively maintain a popular open-source library for Begineers .
+- Contributed to the open-source project [first-contributions](https://github.com/firstcontributions/first-contributions). A popular open-source library for Begineers .
 
 #### History of Community Engagement:
 
