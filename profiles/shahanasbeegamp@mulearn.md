@@ -11,8 +11,8 @@ Shahanas Beegam P
 
 | Name                      | Description                                                  | Hosted Link                             | Repo Link                                                                 |
 |---------------------------|--------------------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------------|
-| **Corona Virus Analysis** | Analyzed COVID-19 data using SQL for data extraction, trend analysis, and visualization of key findings. | [Hosted Link](#)                         | [Repo Link](https://github.com/shahanasbeegam/Corona-Virus-Analysis)     |
-| **IMDB Movie Analysis**   | Analyzed IMDB movie data using advanced Excel formulas and pivot tables; visualized data to identify factors affecting movie success. | [Hosted Link](#)                         | [Repo Link](https://github.com/shahanasbeegam/IMDB-Analysis-using-Excel)  |
+| **Corona Virus Analysis** | Analyzed COVID-19 data using SQL for data extraction, trend analysis, and visualization of key findings. |                        | [Repo Link](https://github.com/shahanasbeegam/Corona-Virus-Analysis)     |
+| **IMDB Movie Analysis**   | Analyzed IMDB movie data using advanced Excel formulas and pivot tables; visualized data to identify factors affecting movie success. |                        | [Repo Link](https://github.com/shahanasbeegam/IMDB-Analysis-using-Excel)  |
 
 #### Leadership and Influence:
 
