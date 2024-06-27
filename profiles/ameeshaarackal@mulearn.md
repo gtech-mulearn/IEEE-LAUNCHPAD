@@ -12,7 +12,7 @@ I am Ameesha Arackal, a passionate advocate for technology and entrepreneurship,
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **VegTrack**  | Vegetable Classification  and Freshness Prediction using Transfer Learning                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](Vegetable Classification  and Freshness Prediction using Transfer Learning)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **SmartFruir**  | An Intelligent System for Freshness Detection and Shelf Life Prediction of Fruits Using Deep Learning| [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/AMEESHAARACKAL/SmartFruit-An-Intelligent-System-for-Freshness-Detection-)             |
 
 #### Leadership and Influence:
 
