@@ -41,9 +41,9 @@ Shahanas Beegam P
 #### Highly Visible Technical Content:
 
 - I have created a few highly visible technical video series:
-  1.[Hotel Reservation Analysis using SQL](https://youtu.be/e1NbWlkBPNs)
-  2.[IMDB Movie Analysis using Excel](https://youtu.be/Fc8Iro6YnWw)
-  3.[Corona Virus Analysis using SQL](https://youtu.be/7AyCBPcWhN0)
+  1. [Hotel Reservation Analysis using SQL](https://youtu.be/e1NbWlkBPNs)
+  2. [IMDB Movie Analysis using Excel](https://youtu.be/Fc8Iro6YnWw)
+  3. [Corona Virus Analysis using SQL](https://youtu.be/7AyCBPcWhN0)
   
 
 #### Highly Used Software Tools:
