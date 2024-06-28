@@ -12,7 +12,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | ShopLane Website                                              | [Hosted Link 1](https://codepen.io/Varsha-Bc/full/poqqGxo)    | [Repo Link 1](https://github.com/Var-sha-16/ShopLaneWebsite.git)             |
+| **Shoplane Website**  | Ecommerce website using HTML, CSS, Javascript and jQuery                                              | [Hosted Link 1](https://codepen.io/Varsha-Bc/full/poqqGxo)    | [Repo Link 1](https://github.com/Var-sha-16/ShopLaneWebsite.git)             |
 
 
 #### Leadership and Influence:
