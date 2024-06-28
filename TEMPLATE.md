@@ -11,7 +11,7 @@ Hi, I'm a passionate Full stack developer with a focus on the MERN stack. I hold
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
-| **Indian sign language detection using images**  | The project focused on live Indian Sign Language detection and comparing CNN models (ConvNeXtSmall and DenseNet121) in this context.The main challenge was the lack of standard datasets for Indian Sign Language. To address this, I manually constructed a dataset for training the models.  |   | https://github.com/iknoul/Indian-sign-language-detection-using-images-           |
+| **Indian sign language detection using images**  | The project focused on live Indian Sign Language detection and comparing CNN models (ConvNeXtSmall and DenseNet121) in this context, Using Python, OpenCV, TensorFlow, Pandas, data visualization libraries and etc. The main challenge was the lack of standard datasets for Indian Sign Language. To address this, I manually constructed a dataset for training the models. |   | https://github.com/iknoul/Indian-sign-language-detection-using-images-           |
 
 #### Leadership and Influence:
 
