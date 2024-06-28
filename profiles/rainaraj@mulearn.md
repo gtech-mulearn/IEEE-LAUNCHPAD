@@ -44,7 +44,5 @@ Would you like to include any specific details or adjustments to this plan?
 - I have authored a journal article detailing our FarmSage project, focusing on its innovative use of AI and IoT in agriculture. This work was recognized with the Best Paper Presentation Award at the SPICE International Conference held by MBITS, Kothamangalam. The paper highlights our research findings and contributions to advancing agricultural technology through data-driven solutions.
 
 
-> In your portfolio, include the following details:
->> check out [rainaraj@mulearn.md] (./profiles/rainaraj@mulearn.md) 
 
 ---
