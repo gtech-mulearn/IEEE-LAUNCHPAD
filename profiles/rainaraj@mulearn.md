@@ -45,6 +45,6 @@ Would you like to include any specific details or adjustments to this plan?
 
 
 > In your portfolio, include the following details:
->> check out [rainaraj@mulearn.md](./profiles/rainaraj@mulearn.md) 
+>> check out [rainaraj@mulearn.md] (./profiles/rainaraj@mulearn.md) 
 
 ---
