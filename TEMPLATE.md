@@ -1,9 +1,7 @@
-# Full Name 
+###SHAMIL RAHMAN
 
 ### About Me
-
-> write about your self .................. (minimum 200 Characters)
-
+Hi, I'm a passionate Full stack developer with a focus on the MERN stack. I hold a Master's in Computer Applications. My journey has also led me to explore Python, machine learning, and deep learning through various academic projects. Currently, I'm honing my skills on a live MERN stack project at TechMindz Carnival-InfoPark, Kochi. I thrive on tackling complex challenges and continuously learning new technologies.
 
 ## Portfolio Highlights
 
