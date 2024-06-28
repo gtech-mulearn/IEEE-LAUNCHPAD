@@ -11,8 +11,6 @@ Github:https://github.com/saviooo02
 
 ### My Projects
 
-| Name                | Description                                                                                             | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Daksha Foundation**  | A non profit volunteer based organisation that imparts education on the less fortunate. Makes use of a registration system for volunteers which is reviewed by the admin and then accepted or rejected.Once part of the organisation, the volunteer receives instructions via the volunteer dashboard.                                                | [Repo Link 1]https://github.com/saviooo02/Daksha-Foundation            |
 
 #### Leadership and Influence:
@@ -35,9 +33,5 @@ Github:https://github.com/saviooo02
 
 
 
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
