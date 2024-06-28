@@ -16,7 +16,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **CRIMINAL DETECTION SYSTEM USING PYTHON AND OPENCV**  | A real-time criminal detection system that analyse video fotage and detects possible offenders using computer vision techniques. | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/MrJsJ/BCA/tree/main/CRIMINAL%20DETECTION%20SYSTEM%20PYTHON%20PROJECT%20USING%20OPENCV)             |
+| **CRIMINAL DETECTION SYSTEM USING PYTHON AND OPENCV**  | A real-time criminal detection system that analyse video fotage and detects possible offenders using computer vision techniques. | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/Mr-JsJ/BCA/tree/main/CRIMINAL%20DETECTION%20SYSTEM%20PYTHON%20PROJECT%20USING%20OPENCV)             |
 | **WEBCA**  | Educational website  | [Hosted Link 2](https://example.com)   | [Repo Link 2](https://github.com/Mr-JsJ/webca.github.io)     |
 
 #### Leadership and Influence:
