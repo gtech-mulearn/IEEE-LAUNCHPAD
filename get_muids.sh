@@ -4,10 +4,10 @@
 profile_folder="profiles"
 
 # Define the CSV file name
-csv_file="cleaned_emails.csv"
+csv_file="muids.csv"
 
 # Create the CSV file and write the header
-echo "Email" > "$csv_file"
+echo "MuId" > "$csv_file"
 
 # Iterate through each file in the profile folder
 for filename in "$profile_folder"/*.md; do
@@ -19,4 +19,4 @@ for filename in "$profile_folder"/*.md; do
   fi
 done
 
-echo "Cleaned email addresses have been written to $csv_file"
+echo "Cleaned muid have been written to $csv_file"
