@@ -1,8 +1,8 @@
-# K WILBUR DONOVAN 
+# Full Name 
 
 ### About Me
 
-> Hi I am Wilbur. I am an avid learner. I like to design and I am proficient in various programming languages such as python, java and C. I am familiar with MySQL and basics of front end developement.
+> write about your self .................. (minimum 200 Characters)
 
 
 ## Portfolio Highlights
