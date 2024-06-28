@@ -1,58 +1,58 @@
-# Full Name 
+# Nasif Swalah N
 
-### About Me
+### Hello, I'm a passionate MERN stack web developer eager to contribute to a dynamic team. I am skilled in both front-end and back-end development and am always looking for opportunities to expand my expertise. I am excited about the chance to grow alongside seasoned professionals, tackle challenging projects, and deliver impactful solutions. I'm ready to bring my enthusiasm and skills to help achieve our goals together.
 
-> write about your self .................. (minimum 200 Characters)
-
-
-## Portfolio Highlights
 
 ### My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Cleat Connect**  | Full Stack Web Application for Booking Turfs using MERN Stack                                              |Development progress   | Backend - https://github.com/nasifswalah/CleatConnect-turfBooking.git     Frontend - https://github.com/nasifswalah/CleatConnect-turfBooking-fe.git        |
+| **To-Do Manager**  | Developed a full stack To-Do management web application using MERN stack                                              | https://unique-medovik-273392.netlify.app/    | Frontend - https://github.com/nasifswalah/MERN-Todo-Manager-FE.git Backend - https://github.com/nasifswalah/Todo-Manager-BE-MERN.git            |
+| **Country Flag Viewer**  | Created website for displaying flags of different countries using ReactJs                                              |https://nasifswalah.github.io/react-countries-and-flags/   | https://github.com/nasifswalah/react-countries-and-flags.git             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+
+- led my final year project team to integrate a new feature into an existing application, coordinating between front-end and back-end developers to ensure seamless implementation.
+- My experience working on the 'Cleat Connect' project, where I handled user authentication, authorization, and state management, showcases my ability to manage complex projects and deliver results.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Engage in tech forums, online communities, and social media groups related to MERN stack development to stay current and share knowledge.
+- Stay updated with the latest technologies and share my learning journey to inspire others.
+- Actively explore tech-related updates on LinkedIn to stay informed about industry trends and advancements.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- Write and publish articles and tutorials on platforms like LinkedIn to share knowledge and experiences.
+- Increase knowledge in web development and related areas
+-  Work collaboratively with highly skilled teams to contribute effectively and learn from experienced developers.
+-  Build connections with experienced developers to create opportunities for mentorship and support for fresher learners entering the field.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Enhance infrastructure for technology development, including high-speed internet, co-working spaces, and incubation centers.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- Successfully completed a booking platform project with a team, which included implementing robust user authentication functionalities.
+- Led the implementation of user authentication, JWT-based authorization, and Redux Toolkit for state management in developing a turf booking website using the MERN stack with Vite, significantly enhancing user experience.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- Update LinkedIn with newly learned skills and achievements to showcase ongoing professional growth and development.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Recently posted my learned skills in Reactjs and regularly updating updates of my projects
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- I am not developed any software tools like that
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+- https://www.linkedin.com/in/nasif-swalah-n-683800274/
 
 ---
