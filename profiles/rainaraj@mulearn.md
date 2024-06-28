@@ -20,9 +20,9 @@ Checkout my linkedln profile : https://www.linkedin.com/in/raina-raj-198761211/
 
 - I meet the requirements for being a leader or influencer in my domain through my proactive involvement in various tech communities and leading several projects. One clear example of my leadership skills is my role as the Vice Chair of IEEE SB SJCET, where I focused on maintaining a balanced  workload within our team, which not only prevented burnout but also encouraged teamwork and collaboration. I also emphasized the importance of technical development and knowledge-sharing, balancing academic and non-academic activities.
 
-As the Link PIE representative of IEEE Kerala Section and Vice-Chair of IEEE SB SJCET, I coordinated and facilitated effective communication and collaboration between IEEE Kerala Section and SJCET. I represented the interests and concerns of IEEE SB SJCET at the sectional level and actively engaged with IEEE Kerala Section activities, contributing to the overall development and success of the section.
+- As the Link PIE representative of IEEE Kerala Section and Vice-Chair of IEEE SB SJCET, I coordinated and facilitated effective communication and collaboration between IEEE Kerala Section and SJCET. I represented the interests and concerns of IEEE SB SJCET at the sectional level and actively engaged with IEEE Kerala Section activities, contributing to the overall development and success of the section.
 
-As the Talks Manager of PIE, I spearheaded the creation of PIEPODS, a talk series available on Spotify, which allowed us to reach a wider audience and provide valuable insights through engaging discussions. Additionally, I curated VOICE-IT content on YouTube, further expanding our reach and enabling visual engagement.
+- As the Talks Manager of PIE, I spearheaded the creation of PIEPODS, a talk series available on Spotify, which allowed us to reach a wider audience and provide valuable insights through engaging discussions. Additionally, I curated VOICE-IT content on YouTube, further expanding our reach and enabling visual engagement.
 
 #### Networking:
 
