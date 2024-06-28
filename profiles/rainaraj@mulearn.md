@@ -4,7 +4,6 @@
 
 > I'm Raina Raj, a Bachelor of Technology graduate in Computer Science and Engineering from St. Joseph's College of Engineering and Technology, Palai. My journey in the tech world has been an exciting one, with a particular passion for Full-Stack web development.
 Checkout my github profile : https://github.com/Ryana265
-
 Checkout my linkedln profile : https://www.linkedin.com/in/raina-raj-198761211/
 
 ## Portfolio Highlights
@@ -14,7 +13,8 @@ Checkout my linkedln profile : https://www.linkedin.com/in/raina-raj-198761211/
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Tripwiser**       |Flutter app promoting local tourism. Locals add verified rooms/services, users explore and book with discounts based on income/asset value. Image processing verifies ration card. Seamless search, booking, secure payments, and ratings. Empowering locals, boosting Kerala tourism.                                          | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/Ryana265/Tripwiser-Miniproject)             |
-| **Farmsage**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Farmsage**  |  One of the notable projects I've worked on is FarmSage, an innovative platform designed to assist farmers in optimizing their agricultural practices using advanced technology.
+FarmSage integrates AI and IoT solutions to provide real-time data and insights on soil health, weather conditions, and crop management. This project not only aims to improve productivity but also to promote sustainable farming practices.                                           | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
