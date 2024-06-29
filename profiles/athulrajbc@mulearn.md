@@ -21,8 +21,7 @@ I am also ready to participate to tackle the Social-relevant problem that was ex
 I always actively involve in GDSC activities, including workshops, seminars, and hackathons, fostering a culture of innovation, collaboration, and skill development among peersHighly Visible Technical Content:
 I always actively participate the different hackathons, leveraging problem-solving skills and creativity to develop innovative solutions, collaborate with diverse teams, and push the boundaries of technology. 
 
-##Highly Used Software Tools:
-Highly Used Software Tools:
+##Highly Used Software tools:
 
 Visual Studio Code
 
