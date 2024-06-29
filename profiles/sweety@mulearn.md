@@ -6,9 +6,9 @@
 
 Throughout my academic journey, I have delved into various aspects of computer science, from programming languages to algorithms and data structures. I thrive on challenges and enjoy tackling complex problems, constantly seeking innovative solutions.
 > 
-Checkout my github profile : https://github.com/MeghaRajesh
+Checkout my github profile : https://github.com/Sweety0503
 
-Checkout my linkedln profile : https://www.linkedin.com/in/megha-rajesh-436808201/
+Checkout my linkedln profile : https://www.linkedin.com/in/sweety-sonny-b69146214/
 
 ## Portfolio Highlights
 
