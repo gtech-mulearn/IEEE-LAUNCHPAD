@@ -1,8 +1,9 @@
 # Nasif Swalah N
 
-### Hello, I'm a passionate MERN stack web developer eager to contribute to a dynamic team. I am skilled in both front-end and back-end development and am always looking for opportunities to expand my expertise. I am excited about the chance to grow alongside seasoned professionals, tackle challenging projects, and deliver impactful solutions. I'm ready to bring my enthusiasm and skills to help achieve our goals together.
+### About me 
+> Hello, I'm a passionate MERN stack web developer eager to contribute to a dynamic team. I am skilled in both front-end and back-end development and am always looking for opportunities to expand my expertise. I am excited about the chance to grow alongside seasoned professionals, tackle challenging projects, and deliver impactful solutions. I'm ready to bring my enthusiasm and skills to help achieve our goals together.
 
-
+## Portfolio Highlights
 ### My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
