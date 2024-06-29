@@ -1,0 +1,3 @@
+git rm binushakbijukumar@mulearn.txt
+git commit -m "Delete binushakbijukumar@mulearn.txt"
+git push origin main
