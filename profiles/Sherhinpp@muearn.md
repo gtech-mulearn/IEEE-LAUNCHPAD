@@ -1,5 +1,5 @@
-# Full Name 
-Sherhin pp
+# Sherhin pp
+
 ### About Me
 
 > I'm Sherhin, a fresher majored B.Tech in Information Technology at GEC Palakkad. Passionate about hackathons and ideathons, I explore various domains to find my true interest. I’ve built projects from UI designs to a Web3 whistleblower system, winning multiple competitions. Despite not excelling in coding, I continuously participate and learn from every opportunity.
