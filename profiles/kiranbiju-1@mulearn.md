@@ -2,10 +2,10 @@
  
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+Organized and dependable candidate successful at managing multiple priorities with a positve attitude. Willingness to take on added responsiblities to meet team goals. Demonstrates a strong enthusiasm for continuous learning and professional development in various fields of study.
 
 
-#### Leadership and Influence:
+#### I am good in leadership and team organizing works. Currently I'm the vice chair of ISTE and BLOCKHUB communities of college. I was able to conduct several events as part
 
 - Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
