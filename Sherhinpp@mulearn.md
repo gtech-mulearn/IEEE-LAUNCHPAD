@@ -16,7 +16,7 @@ Sherhin pp
 
 #### Leadership and Influence:
 
-- I have a track record of leadership and influencing skills in various capacities, as evidenced by my roles and accomplishments.
+I have a track record of leadership and influencing skills in various capacities, as evidenced by my roles and accomplishments.
 
 As **Community Lead at IEDC GEC Palakkad** (2023-24), I spearheaded numerous initiatives, coordinated events, and fostered a collaborative environment for innovation and entrepreneurship. My role involved organizing workshops, mentoring students, and facilitating industry connections.
 
