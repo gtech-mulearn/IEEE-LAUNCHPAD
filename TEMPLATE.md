@@ -19,7 +19,7 @@ Hi, I'm a passionate Full stack developer with a focus on the MERN stack. I hold
 - I have had some recent opportunities to demonstrate my leadership skills. I was the team lead for a three-member team on a live project using the MERN stack. This experience allowed me to understand each team member's weaknesses and strengths, motivate them effectively, and solve complex problems together as a team. I believe every person has different abilities and perspectives, and using this diversity effectively will lead the firm to higher levels.
 #### Networking:
 
--I love being among people who share similar passions and have different ideas. It not only helps to grow our professional skills and techniques but also reduces stress levels, making my career more enjoyable and fulfilling.  
+- I love being among people who share similar passions and have different ideas. It not only helps to grow our professional skills and techniques but also reduces stress levels, making my career more enjoyable and fulfilling.  
 
 #### Career Plan:
 
