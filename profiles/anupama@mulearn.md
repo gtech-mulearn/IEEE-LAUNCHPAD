@@ -1,9 +1,9 @@
-# Full Name 
+# Anupama PT
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+> 
+I'm Anupama, a fresher who completed B.Tech from KMEA Engineering College. I'm interested in machine learning and AI, and I have done classification and segmentation projects. I’ve built projects using boards like Raspberry Pi, Arduino, and Jetson Nano, and I'm also interested in embedded systems. My goals are to deepen my expertise in machine learning and AI, and to work on innovative embedded systems projects. I continuously participate and learn from every opportunity to achieve these goals.
 
 ## Portfolio Highlights
 
@@ -11,48 +11,46 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Focal Cortical Dysplasia Detection**  | This condition of FCD is mainly find in epileptic chilren and they are meant to have small lesions on their brain may cause seizure at time. Thses lesions are so difficult to be detected. So this projects comes up with the idea of segmenting the lesion area if the abnormal cortical thickness is detected. The segmentation is performed using a Unet architecture and the classification is done using 3D CNN architecture.                                           | https://github.com/anugrt/FCD_segmentation_Classification          |
+| **Attendance Monitoring**  | This project utilizes Local Binary Patterns (LBP) and Haar Cascades for attendance monitoring. It employs computer vision techniques to detect faces, recognize them using LBP, and track attendance.                                           |  https://github.com/anugrt/Attendance_monitoring_using_LBPHandHAAR            |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+1.Led my team to he complete the academic projects successfully, managed and assigned the task of each teammate possibly.
+2.Organised events in IPR cell to let students understand the emerging opportunities thay have.
+3.Actively volunteered in various IETE activities 
+4.Coordinated in planning Techfest related activities.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+My networking skills are rooted in active participation in various events and workshops. I make it a point to connect with peers, mentors, and industry professionals to exchange knowledge and insights. I plan to engage with the community by organizing and participating in tech meetups, contributing to open-source projects, and leveraging social media platforms to share my learnings and projects.
+
+
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+Attend local startup events and join online communities to build connections.
+Enhance skills in entrepreneurship and business development through courses and hands-on projects.
+Volunteer for startup initiatives like hackathons and mentorship programs.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+Investment in Education and Skills
+Establishing incubators, accelerators, and co-working spaces equipped with modern facilities and mentorship programs will nurture startups from ideation to scaling phases
+Introducing policies that simplify regulatory processes, provide tax incentives, and offer grants for R&D will attract investments and foster a conducive business environment.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+https://github.com/anugrt/FCD_segmentation_Classification 
+https://github.com/anugrt/Attendance_monitoring_using_LBPHandHAAR 
 
-#### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
+JupyterNotebook
+Python
+C
+VS code
+Matlab
+Kaggle
