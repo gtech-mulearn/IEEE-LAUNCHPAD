@@ -1,51 +1,24 @@
-# Full Name 
+# Kokadan Saad
 
 ### About Me
-
-> write about your self .................. (minimum 200 Characters)
-
+> I am a passionate software developer with a strong background in full-stack development and a keen interest in emerging technologies like Web3 and fintech. Currently pursuing my Bachelor's in Computer Science and Engineering at SRM Institute of Science and Technology, I have honed my skills through various projects and internships. My expertise spans across multiple programming languages and frameworks, with a particular focus on JavaScript, React, and Node.js. I thrive in fast-paced environments and am always eager to take on new challenges that push the boundaries of technology. My entrepreneurial spirit drives me to not just code, but to innovate and create solutions that make a real impact.
 
 ## Portfolio Highlights
-
 ### My Projects
-
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **rmtDev**          | A web application for searching remote developer job listings              | [rmtDev](https://rmt-d.vercel.app)    | [rmtDev Repo](https://github.com/saadbasheer/rmtdev)            |
+| **CorpComment**     | A platform for publicly sharing feedback about corporations                | [CorpComment](https://corpcommentfeed.vercel.app/) | [CorpComment Repo](https://github.com/saadbasheer/corpcomment)  |
 
 #### Leadership and Influence:
-
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- As the entrepreneurial founder of NetworkZero, I led a team in developing a platform for authors to publish content. I mentored team members, imparting domain knowledge and demonstrating leadership in guiding the project from concept to execution.
 
 #### Networking:
-
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- I actively participate in tech meetups and conferences, both online and offline. I plan to engage with the community by organizing workshops on Web3 and fintech technologies, sharing my knowledge and experiences to inspire and guide aspiring developers.
 
 #### Career Plan:
-
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- In the immediate future, I aim to contribute to Kerala's startup ecosystem by collaborating with local tech startups, particularly in the fintech sector. Long-term, I plan to launch my own startup focused on innovative financial solutions, creating job opportunities and fostering tech talent in Kerala.
 
 #### Thoughts on Kerala's Tech Ecosystem:
+- Kerala has immense potential to become a hub for fintech and Web3 startups. By focusing on quality tech education, promoting collaboration between academia and industry, and creating incubation centers, Kerala can attract more investors and cultivate a thriving startup ecosystem.
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
