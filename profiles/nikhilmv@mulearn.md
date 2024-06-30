@@ -56,7 +56,4 @@
 
 
 
-> In your portfolio, include the following details:
->>  for an exmaple
-
 
