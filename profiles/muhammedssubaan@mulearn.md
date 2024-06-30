@@ -1,17 +1,21 @@
-# A J Devika 
+# Muhammed S Subaan 
 
-### About Me
+### I am a passionate BTech Computer Science and Engineering graduate seeking fruitful opportunities.
 
-> I am A J Devika and I'm pursuing the Post Graduation in Computer Application (MCA) from Rajiv Gandhi Institute of Technology, Kottayam. Throughout my academic journey, I have developed my skills in various programming languages such as C, C++, HTML, Python, and Java. These languages have equipped me to tackle a wide range of software development challenges. I am passionate about leveraging these skills to contribute effectively to the software development field. 
+> Muhammed S Subaan
+ BTech CSE Graduate
+
+As a recent graduate with a Bachelor of Technology in Computer Science and Engineering, I am eager to bring my skills and enthusiasm for technology to a dynamic and innovative team. My academic background has equipped me with a strong foundation in computer science principles, programming languages, and software development methodologies.
+
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | 
-|---------------------|---------------------------------------------------------------------------|
-| Crowd funding  | This project enables the users to donate funds for the patients in different hospitals and it is developed using Python. It provides a simple and easy manner to donate fund and distribute those collected amount to the needy.                                             | 
-                
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Flood prediction using Machine Learning**  |                                          | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **E-Pass system in hospitals**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

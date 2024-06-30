@@ -1,17 +1,18 @@
-# A J Devika 
+# ALAN JOHNS MATHEW 
 
 ### About Me
 
-> I am A J Devika and I'm pursuing the Post Graduation in Computer Application (MCA) from Rajiv Gandhi Institute of Technology, Kottayam. Throughout my academic journey, I have developed my skills in various programming languages such as C, C++, HTML, Python, and Java. These languages have equipped me to tackle a wide range of software development challenges. I am passionate about leveraging these skills to contribute effectively to the software development field. 
+> Engineer Trainee at Tosil Systems, Technopark, Thiruvananthapuram
+> Completed B.Tech in Computer Science and Engineering at College of Engineering Kallooppara
+
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | 
-|---------------------|---------------------------------------------------------------------------|
-| Crowd funding  | This project enables the users to donate funds for the patients in different hospitals and it is developed using Python. It provides a simple and easy manner to donate fund and distribute those collected amount to the needy.                                             | 
-                
+| Name                                          | Description                                                                                        | Repo Link                                                                        |
+|-----------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **Emotional and Sentimental Analysis(EASY)**  | Our project aims to detect realtime emotions of a person and a personality test based on MBTI model| [Repo Link 1](https://github.com/alanjohns735/EMOTIONAL-AND-SENTIMENTAL-ANALYSIS)             |
 
 #### Leadership and Influence:
 

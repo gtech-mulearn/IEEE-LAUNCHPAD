@@ -1,17 +1,20 @@
-# A J Devika 
+# Abhirami KP
 
 ### About Me
 
-> I am A J Devika and I'm pursuing the Post Graduation in Computer Application (MCA) from Rajiv Gandhi Institute of Technology, Kottayam. Throughout my academic journey, I have developed my skills in various programming languages such as C, C++, HTML, Python, and Java. These languages have equipped me to tackle a wide range of software development challenges. I am passionate about leveraging these skills to contribute effectively to the software development field. 
+> Iam Abhirami kp , I recently graduated with btech in Electronics And Communication from Govt engineering college Idukki. I am very passionate about creating intutive and engaging user interfaces.
+during my studies, I have hands on experiences with diffrent projects which allow me to apply my designing skills. I am particularly passionate on web design, app design. i have good knowledge with designing tools 
+like figma, illustrator,photoshop,
+
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | 
-|---------------------|---------------------------------------------------------------------------|
-| Crowd funding  | This project enables the users to donate funds for the patients in different hospitals and it is developed using Python. It provides a simple and easy manner to donate fund and distribute those collected amount to the needy.                                             | 
-                
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| Plantae  | Plantae is a plant care app , its goal is to nourishes the plants ensuring the best possible growth.                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Resboard  | Resboard is an accademic social network which provides its users a tick-tok experience of researching.                                           | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

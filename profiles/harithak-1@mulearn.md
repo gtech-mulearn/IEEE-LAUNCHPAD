@@ -1,17 +1,20 @@
-# A J Devika 
+# Haritha K 
 
 ### About Me
 
-> I am A J Devika and I'm pursuing the Post Graduation in Computer Application (MCA) from Rajiv Gandhi Institute of Technology, Kottayam. Throughout my academic journey, I have developed my skills in various programming languages such as C, C++, HTML, Python, and Java. These languages have equipped me to tackle a wide range of software development challenges. I am passionate about leveraging these skills to contribute effectively to the software development field. 
+> My name is Haritha K , and I come from Kasaragod district in Kerala. I graduated in Electronics and Communication Engineering from the College
+ of Engineering Trikariur,Kerala.I my hobbies are listening in music and cycling. Listening in music relaxes the mind and cycling helps me to stay
+ fit but allows me to gain physical fitness.I developed strong foundation in my field. 
+
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | 
-|---------------------|---------------------------------------------------------------------------|
-| Crowd funding  | This project enables the users to donate funds for the patients in different hospitals and it is developed using Python. It provides a simple and easy manner to donate fund and distribute those collected amount to the needy.                                             | 
-                
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| Third eye for blind using ultrasonic sensor| This project helps blind people understand wheather there is a object infront of them. If the object is close it make vibration and if not near sound will be less. | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| Non invasive blood group detection from fingerprint  |It delays with finding blood group using rigid structure of fingerprint. Taking some properties from fingerprint                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

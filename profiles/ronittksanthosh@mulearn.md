@@ -1,17 +1,18 @@
-# A J Devika 
+# Ronitt K Santhosh
 
 ### About Me
 
-> I am A J Devika and I'm pursuing the Post Graduation in Computer Application (MCA) from Rajiv Gandhi Institute of Technology, Kottayam. Throughout my academic journey, I have developed my skills in various programming languages such as C, C++, HTML, Python, and Java. These languages have equipped me to tackle a wide range of software development challenges. I am passionate about leveraging these skills to contribute effectively to the software development field. 
+> I graduated from Amal Jyothi College of Engineering with a BTech degree in Information Technology in 2024. I have also done an internship in PHP.
+
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | 
-|---------------------|---------------------------------------------------------------------------|
-| Crowd funding  | This project enables the users to donate funds for the patients in different hospitals and it is developed using Python. It provides a simple and easy manner to donate fund and distribute those collected amount to the needy.                                             | 
-                
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| DermoScan           | A website for Skin cancer detection using image processing.               | [Hosted Link 1](https://example.com)     | [Repo Link 1]([https://github.com/ronitt007/efficientnet.git]) |
+| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)     | [Repo Link 2](https://github.com/username/project2)            |
 
 #### Leadership and Influence:
 
@@ -50,8 +51,5 @@
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

@@ -1,18 +1,26 @@
-# A J Devika 
+# S Nithin
 
 ### About Me
 
-> I am A J Devika and I'm pursuing the Post Graduation in Computer Application (MCA) from Rajiv Gandhi Institute of Technology, Kottayam. Throughout my academic journey, I have developed my skills in various programming languages such as C, C++, HTML, Python, and Java. These languages have equipped me to tackle a wide range of software development challenges. I am passionate about leveraging these skills to contribute effectively to the software development field. 
+> Highly motivated Final year student currently pursuing a Bachelor's
+degree in Computer Science under APJ Abdul Kalam Technological
+university.With a passion for staying at the forefront of technology,
+possesses a robust skill set in creating innovative and user-friendly
+web solutions. A quick learner, enabling swift adaptation to new
+challenges and technologies. Possesses skills in website
+development and team coordination. Strong work ethics and
+collaboration ability makes well-suited for working with a team.
+
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | 
-|---------------------|---------------------------------------------------------------------------|
-| Crowd funding  | This project enables the users to donate funds for the patients in different hospitals and it is developed using Python. It provides a simple and easy manner to donate fund and distribute those collected amount to the needy.                                             | 
-                
-
+| Name                              | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|-----------------------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Library Management System**     | Library management system automates book borrowing, returns, cataloging, and user management for libraries efficiently.                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Partial Spoof Voice Detector**  | Partial spoof voice detector identifies and filters fake or altered segments in audio recordings.                                       | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Bring Every Business**          | 
 #### Leadership and Influence:
 
 - Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
