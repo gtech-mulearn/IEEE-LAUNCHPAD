@@ -1,8 +1,8 @@
-# Full Name 
+# Althaf Mohammad Babu
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm a computer science engineer with internship experience in Java Full Stack Development and also Front End Web Development. I am proficient in Java and also have coding experience in Python, C, C++, HTML, CSS, Javascript. I have experience with MySQL database.
 
 
 ## Portfolio Highlights
@@ -11,48 +11,33 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **My Portfolio**  | A reactive webpage designed to showcase my profile 1                                              | [https://github.com/altfmohd/portfolio](https://github.com/altfmohd/portfolio)    | [Repo Link 1](https://github.com/altfmohd/portfolio)             |
+| **CommunityCare**  | A residential utility service platform designed using Java and Front End Languages to provide essential utilities to gated communities.                                             | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I have participated in various IEEE events. I have also been a member of department students committee in my college.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- I believe that I am a team player who can adjust to the requirements of the team and I find solace in helping others as well through my journey.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- I want to start working in a good firm to gain good experiences in various fields and take in valuable lessons and keep updating myself throughout my career.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Emphasis on providing more opportunities for startup growths as well as providing more security for job and implementing measures to ensure the work life balance is met in IT sector jobs throughout this state can be really good for the Tech Ecosystem in Kerala.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+- I have uploaded some works that I did in my first years of college in GitHub. Also I was a part of a live project for a firm called Archon Solutions which will also be implemented by them.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+-  I've been a Dicord server member of HackClub. Also I have attended various workshops organized by IEEE.
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
