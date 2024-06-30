@@ -1,11 +1,8 @@
-# Nakhate Harika
+# Jayakrishnan A S
 
 ### About Me
-
-> - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
-> - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
-> - Fun fact about me: I can speak six languages!🌍🗣️
+Hi, Jayakrishnan A S, I am a dedicated and passionate B.Tech student majoring in Computer Science and Engineering at [Your University].I am a dedicated and passionate B.Tech student majoring in Computer Science and Engineering at APJ Abdul Kalam Technological University.
+I have honed my skills in Software development, problem solving and innovative thinking.
 
 
 
@@ -15,8 +12,10 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **MindfulMe**  | MindfulMe is a mental health awareness website designed to help users explore various aspects of mental health and well-being.                                          | [Hosted Link 1](https://mindfulmee.netlify.app/)    | [Repo Link 1](https://github.com/harika-haru/MindfulMe)             |
-| **Dot ECO**  |  .ECO is an eco-friendly e-commerce platform, where sustainability meets style!                                             | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
+| **Intrusion Detection System** | Developed a federated deep learning-based Intrusion Detection System (IDS) to train intrusion detection models
+                                   collaboratively without sharing sensitive data.                                          | [Hosted Link 1](https://mindfulmee.netlify.app/)    | [Repo Link 1](https://github.com/harika-haru/MindfulMe)             |
+| **AskAround loaction based app**  |  Built a web application that enables users to engage with their local community by posting and answering location-specific
+                                        questions, seeking recommendations, and sharing insights.                                           | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
 
 #### Leadership and Influence:
 
@@ -39,7 +38,7 @@
 
 - Html
 - Css
-- Js
+- MySQL
 - Python
 - 
 #### Highly Visible Technical Content:
@@ -48,7 +47,9 @@
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Visual Studio Code: Lightweight and powerful code editor with extensive plug-in support
+- Pycharm: Specilized IDE for Python development
+- Google Colab: Specilized for Python development 
 
 #### Competitive Website Profiles:
 - https://www.hackerrank.com/profile/nharika203
