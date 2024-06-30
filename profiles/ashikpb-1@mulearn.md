@@ -1,11 +1,8 @@
-# Abhishek A
+# Ashik P B
 
 ### About Me
 
-> Hi there! My name is Abhishek A. I recently graduated with a btech in computer science and engineering from Mar Baselios college
- of engineering and technology. My passion lies in software developement, particularly in creating innovative solutions that
- enhance user experience. I'm eager to apply my skills in real-world projects. I enjoy exploring new technologies and contributing
- to open source communities.
+> My name is Ashik PB. I'm from Ernakulam. I'm 25 years old. I completed my Graduation in Bachelor's in Computer Application from Siena college, Edakochi. I completed my post graduation in master's in computer application from KMM college, Thrikkakara. I'm a self motivated and a hard working person. My ambition is to become a Software developer at a reputed MNC where i can improve my skills and learn new things. I'm a football enthusiast and my role model is cristiano ronaldo.
 
 
 ## Portfolio Highlights
@@ -14,9 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Library management system**  | Implemented using HTML, CSS, javascript for better management and easy accessibility of data                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/aabhi04/library)             |
-| **Customer segmentation**  | Customer segmentation in data analysis is the process of dividing customers into groups based on shared characteristics to better target marketing and sales                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/aabhi04/custseg)             |
-| **Healthy juice recommender**  | A healthy juice recommendation app helps users create personalized juice blends based on desired health benefits and dietary preferences.                                             | [Hosted Link 3](https://example.com)    | [Repo Link 3](https://github.com/Navneeth7/Healthy-Juice-Recommendation-System-using-Real-Time-Fruit-Detection-using-YOLOv8-and-Python-Flask?tab=readme-ov-file#healthy-juice-recommendation-system-using-real-time-fruit-detection-using-yolov8-and-python-flask)             |
+| **Beat Box**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
