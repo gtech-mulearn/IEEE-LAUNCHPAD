@@ -15,8 +15,6 @@ And the second one named "A Review on Effectiveness of Computer Assisted Learnin
 > I'm a hodophile who loves to know more about other cultures, traditions, food and interact with people from different parts of the world and making connections. I'm a mountain lover and a nemophilist. I find happiness in doing trekking and spending time on top of the mountains or hills.
 
 
-
-
 ## Portfolio Highlights
 
 ### My Projects
@@ -27,44 +25,36 @@ And the second one named "A Review on Effectiveness of Computer Assisted Learnin
 | **Airline Ticket Reservation System using PHP**  | DreamFly is an online Flight ticket reservation system build using PHP and MySQL                                 |   |              |
 
 #### Leadership and Influence:
-
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+##### Here are some areas I showed my leadership skills
+- Joint Secretary of KTU MCA Community, 2024-25
+- Secretary of Association of Students of Computer Application-CET, 2024-25
+- CEO of Inovus Labs IEDC of KJCMT - 2022-23
+- Campus Ambassador and Zonal Head of GTech MuLearn, 2021-22
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+I excel in networking by actively listening, building genuine relationships, and connecting with diverse individuals. I plan to engage with communities by sharing valuable insights, participating in discussions, and fostering collaboration. My approach focuses on inclusivity and mutual growth, which inspires others to contribute their best.
+
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- As a final-year MCA student, my immediate plan is to enter the IT job market and gain practical experience, contributing my skills to innovative projects.
+- I aim to engage with local tech communities, attending meetups and hackathons to network and share knowledge.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala's tech ecosystem is vibrant, characterized by a strong focus on innovation, education, and sustainable development.
+-  This ecosystem is well-positioned to drive technological advancements and entrepreneurship.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
+- Contributed in Hacktoberfest 2021
+  
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- Campus Ambassador and Zonal Head of GTech MuLearn, 2021-22
 
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
+https://leetcode.com/u/Sreelakshmi_Anilkumar/
