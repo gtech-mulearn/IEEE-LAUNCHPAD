@@ -1,8 +1,8 @@
-# Ashik P B
+# Nehamol Sunny 
 
 ### About Me
 
-> My name is Ashik PB. I'm from Ernakulam. I'm 25 years old. I completed my Graduation in Bachelor's in Computer Application from Siena college, Edakochi. I completed my post graduation in master's in computer application from KMM college, Thrikkakara. I'm a self motivated and a hard working person. My ambition is to become a Software developer at a reputed MNC where i can improve my skills and learn new things. I'm a football enthusiast and my role model is cristiano ronaldo.
+> write about your self .................. (minimum 200 Characters)
 
 
 ## Portfolio Highlights
@@ -11,7 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Beat Box**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
