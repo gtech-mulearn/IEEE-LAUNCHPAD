@@ -1,12 +1,8 @@
-# Nakhate Harika
+# Devi Krishna R
 
 ### About Me
 
-> - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
-> - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
-> - Fun fact about me: I can speak six languages!🌍🗣️
-
+>Hi, I'm Devi Krishna R, a passionate web developer and a dedicated student. With a keen interest in creating innovative web solutions, I constantly strive to enhance my skills and stay updated with the latest technologies. My journey in web development is driven by curiosity and a desire to build user-friendly and impactful digital experiences.
 
 
 ## Portfolio Highlights
@@ -15,20 +11,19 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **MindfulMe**  | MindfulMe is a mental health awareness website designed to help users explore various aspects of mental health and well-being.                                          | [Hosted Link 1](https://mindfulmee.netlify.app/)    | [Repo Link 1](https://github.com/harika-haru/MindfulMe)             |
-| **Dot ECO**  |  .ECO is an eco-friendly e-commerce platform, where sustainability meets style!                                             | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
+| **Cinematic Repository Digital Platform**  | Cinematic Repository Digital Platform is a movie website that provide details about various movies and recommends movie based on the preference of the user              |  [Repo Link 1](https://github.com/CRDP-Miniproject/CRDP)             |
 
 #### Leadership and Influence:
 
-- I have taken part in a variety of volunteer activities. One recent example is being a mentor for a Google Cloud event called "Study Jam," where I demonstrated my abilities by coaching and guiding fellow students in completing Google Cloud labs.
+- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
 #### Networking:
 
-- Even though I am cautious about approaching new people, I enjoy connecting with people of diverse perspectives, and it is always a delight and somewhat encouraging to meet new people who have their own opinions ideas, passions, and interest groups.
+- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
 
 #### Career Plan:
 
-- Launchpad with GTech Mulearn, in my opinion, is a fantastic spot for me to sharpen my abilities and increase my self-assurance. Despite my lack of experience with computers, I'm committed to helping her become more proficient.
+- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -37,11 +32,8 @@
 
 #### Highly Used Software Tools:
 
-- Html
-- Css
-- Js
-- Python
-- 
+-If you've developed software tools that are widely used by users (not just contributors), mention them.
+
 #### Highly Visible Technical Content:
 
 - Highlight any highly visible technical blog posts, articles, or video series you have created.
@@ -51,7 +43,7 @@
 - If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
-- https://www.hackerrank.com/profile/nharika203
+- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
 
