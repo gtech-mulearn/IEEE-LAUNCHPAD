@@ -45,8 +45,7 @@
 
 - If you've developed software tools that are widely used by users (not just contributors), mention them.
 
-#### Competitive Website Profiles:
-
+#### Competitive Website Profiles
 
 
 
