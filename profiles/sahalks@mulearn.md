@@ -28,7 +28,7 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala has one of the best startup ecosystem in our country. We have I T parks which are becoming the hub for technological advancement. Also better support for pitching ideas are provided by the government from the colleges itself. Platforms like IEDC functioning at colleges are really helpful in bringing up novel ideas. Tech communities also plays an important role in the betterment of the startup ecosystem in kerala.
+- Kerala's tech ecosystem is growing rapidly, supported by the Kerala Startup Mission and various innovation centers. The state boasts a highly educated workforce and significant infrastructure like Technopark and Infopark. The government actively supports tech initiatives, and there's a focus on emerging technologies and social impact. Overall, Kerala provides a conducive environment for innovation and startup growth.
 
 
 ---
