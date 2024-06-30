@@ -9,7 +9,7 @@
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+| Name                | Description                                            | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Cinematic Repository Digital Platform**  | Cinematic Repository Digital Platform is a movie website that provide details about various movies and recommends movie based on the preference of the user              |  [Repo Link 1](https://github.com/CRDP-Miniproject/CRDP)             |
 
