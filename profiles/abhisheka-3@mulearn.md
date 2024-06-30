@@ -14,8 +14,9 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Library management system**  | Implemented using HTML, CSS, javascript for better management and easy accessibility of data                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/aabhi04/library)             |
+| **Customer segmentation**  | Customer segmentation in data analysis is the process of dividing customers into groups based on shared characteristics to better target marketing and sales                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/aabhi04/custseg)             |
+| **Healthy juice recommender**  | A healthy juice recommendation app helps users create personalized juice blends based on desired health benefits and dietary preferences.                                             | [Hosted Link 3](https://example.com)    | [Repo Link 3](https://github.com/Navneeth7/Healthy-Juice-Recommendation-System-using-Real-Time-Fruit-Detection-using-YOLOv8-and-Python-Flask?tab=readme-ov-file#healthy-juice-recommendation-system-using-real-time-fruit-detection-using-yolov8-and-python-flask)             |
 
 #### Leadership and Influence:
 
