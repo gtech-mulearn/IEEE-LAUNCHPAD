@@ -37,23 +37,12 @@
 
 #### Highly Used Software Tools:
 
-- Html
-- Css
-- Js
-- Python
-- 
-#### Highly Visible Technical Content:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harika-haru&layout=compact)
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
-- https://www.hackerrank.com/profile/nharika203
 
-
+- (https://www.hackerrank.com/profile/nharika203)
 
 
 
