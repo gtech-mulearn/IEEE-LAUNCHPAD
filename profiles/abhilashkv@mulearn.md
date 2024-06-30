@@ -7,7 +7,7 @@
 - 📧 Email: abhilashkv521@gmail.com
 - 📱 Phone: 8281508821
 - 🌍 LinkedIn: [Abhilash KV](https://www.linkedin.com/in/abhilashkv521/)
-- 🔗 GitHub: [reviverkid](https://github.com/reviverkid)
+- 🔗 GitHub: [Abhilash KV](https://github.com/reviverkid)
 
 ## Portfolio Highlights
 
@@ -21,6 +21,7 @@
 | **Contact Tracer Android Application** | Developed an Android app for tracking and managing patient interactions, facilitating efficient healthcare management and communication.       | N/A                                        | N/A                                                           |
 | **WhatsApp Status Saver** | Developed an Android application to save WhatsApp statuses.                                             | N/A                                        | N/A                                                           |
 | **Personal Website**      | Created a personal website to showcase projects and skills.                                             | [Website](https://abhilashkv.web.app/)     | N/A                                                           |
+| **Plant Disease Detection App** | Developed an Android app for detecting plant diseases using machine learning models. The app allows users to take or upload photos of plants and receive diagnoses and treatment suggestions. | N/A                                        | N/A                                                           |
 
 ### Education
 
@@ -60,8 +61,4 @@
 
 - Reading, Cycling, Sports, Photography, Traveling, Learning New Languages
 
-### Competitive Website Profiles
 
-- [HackerRank Profile](https://www.hackerrank.com/profile/nharika203)
-
----
