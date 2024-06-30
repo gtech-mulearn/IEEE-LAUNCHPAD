@@ -2,9 +2,10 @@
 
 ### About Me
 
- Motivated and detail-oriented software engineer with a solid foundation in programming languages and a commitment
+ >Motivated and detail-oriented software engineer with a solid foundation in programming languages and a commitment
  to continuous learning. Seeking an opportunity to apply theoretical knowledge and contribute to innovative software
- solutions
+ solutions.
+ check out [nikhilmv@mulearn.md](./profiles/nikhilmv@mulearn.md)
 
 
 ## Portfolio Highlights
@@ -55,6 +56,6 @@
 
 
 > In your portfolio, include the following details:
->> check out [nikhilmv@mulearn.md](./profiles/nikhilmv@mulearn.md) for an exmaple
+>>  for an exmaple
 
----
+
