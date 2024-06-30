@@ -33,7 +33,12 @@
 - Css
 - Js
 - Python
-- 
+- Java
+- DBMS
+- Networking
+- Machine Learning
+- AI
+  
 #### Highly Visible Technical Content:
 
 - Highlight any highly visible technical blog posts, articles, or video series you have created.
