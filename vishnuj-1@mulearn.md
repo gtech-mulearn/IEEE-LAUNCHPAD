@@ -25,18 +25,7 @@
 - Cultivated a robust network through effective communication and active participation in professional organizations like IEEE and NSS.
 - Regularly attend and speak at events to share knowledge, foster connections, and engage with industry professionals. Planning to expand engagement through online forums, social media, LinkedIn, and offline conferences/meetups.
 
-#### Career Plan
 
-- **Immediate Plans**: [Please provide your immediate plans]
-- **Longer-term Plans**: [Please provide your longer-term plans to contribute to the Kerala Startup Ecosystem]
-
-#### Thoughts on Kerala's Tech Ecosystem
-
-- [Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future]
-
-#### History of Open Source Contributions
-
-- [Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community]
 
 #### History of Community Engagement
 
