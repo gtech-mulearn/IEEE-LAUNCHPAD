@@ -47,4 +47,7 @@ I have actively participated in technical forums, such as Stack Overflow and var
 I have written technical blog posts and articles on topics like Python programming, web development, and data analysis.
 
 #### Highly Used Software Tools:
-I have used several software toollls for my projects, like Node.js, Express.js, React, Python
+
+I have used several software toollls for my projects, like Node.js, Express.js, React, Python etc.
+
+
