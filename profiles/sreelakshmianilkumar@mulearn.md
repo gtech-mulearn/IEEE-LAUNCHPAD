@@ -21,7 +21,7 @@ And the second one named "A Review on Effectiveness of Computer Assisted Learnin
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Personality Prediction System via CV Analysis using Machine Learning**  | This a Machine Learning project which can be integrated with HR management tools to analyse CV and make predcitions on the candidates personality based on the psychological test called Big Five Tets                                          |     |              |
+| **Personality Prediction System via CV Analysis using Machine Learning**  | This a Machine Learning project which can be integrated with HR management tools to analyse CV and make predcitions on the candidates personality based on the psychological test called Big Five Test.                                          |     |              |
 | **Airline Ticket Reservation System using PHP**  | DreamFly is an online Flight ticket reservation system build using PHP and MySQL                                 |   |              |
 
 #### Leadership and Influence: ✌️
