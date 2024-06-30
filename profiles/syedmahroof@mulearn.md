@@ -11,8 +11,7 @@
 
 | Name                | Description                                                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
-| **Post Gram(Cyberbullying detection and prevention Model)**  |
-Developed a comprehensive web application for detecting and preventing cyberbullying, leveraging Django for both front-end and back-end development.Implemented machine learning algorithms to analyze text data and accurately identify instances of cyberbullying with high precision and recall.Designed and integrated a user-friendly interface that enables real-time monitoring and reporting ofcyberbullying incidents.| [Repo Link 1] |
+| **Post Gram(Cyberbullying detection and prevention Model)**  |Developed a comprehensive web application for detecting and preventing cyberbullying, leveraging Django for both front-end and back-end development.Implemented machine learning algorithms to analyze text data and accurately identify instances of cyberbullying with high precision and recall.Designed and integrated a user-friendly interface that enables real-time monitoring and reporting ofcyberbullying incidents.| [Repo Link 1] |
 
 #### Leadership and Influence:
 
