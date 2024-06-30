@@ -1,13 +1,10 @@
-# Nakhate Harika
+#Malavika M
 
 ### About Me
 
-> - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
-> - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
-> - Fun fact about me: I can speak six languages!🌍🗣️
-
-
+🔭 I’m a passionate and dedicated computer engineering graduate with a strong interest in technology and problem-solving. I pursued my Bachelor's degree in Computer Engineering from the College of Engineering Kallooppara.
+🌱 I graduated with a Diploma in Computer Engineering from Govt Polytechnic College, Cherthala. I am constantly seeking opportunities to apply my skills and knowledge to contribute to the growth of a dynamic organization.
+📧 Email: malavikamadhups@gmail.com
 
 ## Portfolio Highlights
 
@@ -15,12 +12,16 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **MindfulMe**  | MindfulMe is a mental health awareness website designed to help users explore various aspects of mental health and well-being.                                          | [Hosted Link 1](https://mindfulmee.netlify.app/)    | [Repo Link 1](https://github.com/harika-haru/MindfulMe)             |
-| **Dot ECO**  |  .ECO is an eco-friendly e-commerce platform, where sustainability meets style!                                             | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
+| KTU Question paper management system  | KTU Question paper management system  a website that manages question papers and notes of Kerala
+Technological University in which notes and question papers and notes can be
+uploaded and downloaded by users                                          | [Hosted Link 1](not available)    | [Repo Link 1](not available)             |
+| PHISHDETECTOR-A phishing Detection Plugin based on ML  |  PHISHDETECTOR is a Phishing detection plugin for chrome which is implemented as a
+chrome extension which identifies phishing and legitimate URLs and popups a
+dialog box indicating whether the site is phishing or legitimate                                             | [Hosted Link 2]  | [Repo Link 2]           |
 
 #### Leadership and Influence:
 
-- I have taken part in a variety of volunteer activities. One recent example is being a mentor for a Google Cloud event called "Study Jam," where I demonstrated my abilities by coaching and guiding fellow students in completing Google Cloud labs.
+- I have taken part in a variety of volunteer activities.participated in a state camp as KTU care NSS camp state coordinator.And headed art club in school level
 
 #### Networking:
 
@@ -40,7 +41,7 @@
 - Html
 - Css
 - Js
-- Python
+- C 
 - 
 #### Highly Visible Technical Content:
 
@@ -50,8 +51,8 @@
 
 - If you've developed software tools that are widely used by users (not just contributors), mention them.
 
-#### Competitive Website Profiles:
-- https://www.hackerrank.com/profile/nharika203
+
+
 
 
 
