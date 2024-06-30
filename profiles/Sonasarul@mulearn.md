@@ -10,7 +10,4 @@ During my four years at the Academy, I had a significant leadership career, serv
 
 
 
-- The digital ecosystem in Kerala is a commendable endeavor that seeks to foster and enhance the startup culture. Young people with an entrepreneurial mindset are becoming more prevalent as a result. For young aspirants interested in startup missions, it will be helpful.
-
-
 
