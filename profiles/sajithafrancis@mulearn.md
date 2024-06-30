@@ -15,10 +15,10 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Intelligent Traffuc Control System**  | An intelligent traffic signal control system that dynamically adjusts signal timings.  | [Hosted Link 1](https://mindfulmee.netlify.app/)    | [Repo Link 1](https://github.com/harika-haru/MindfulMe)             |
-| **Depression Detection on Social Media**  |  A social media feature that performs depression detection based on the social media activity of people.    | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
-| **Online Shopping Application**  | An Android e-commerce application that offers a seamless shopping experience, allowing users to browse, search, and purchase products.     | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
-| **Quiz Application**  | An Android application for MCQ type of quiz developed on Android Studio using java. It helps in practicing and conducting quiz competitions.     | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
+| **Intelligent Traffuc Control System**  | An intelligent traffic signal control system that dynamically adjusts signal timings.  | [Hosted Link 1](https://drive.google.com/drive/folders/1vsoNqL31C5NfG9VWTMiEOmKnnmTpQSvH?usp=drive_link)    | [Repo Link 1](https://drive.google.com/drive/folders/1vsoNqL31C5NfG9VWTMiEOmKnnmTpQSvH?usp=drive_link)            |
+| **Depression Detection on Social Media**  |  A social media feature that performs depression detection based on the social media activity of people.    | [Hosted Link 2]  | [Repo Link 2](           |
+| **Online Shopping Application**  | An Android e-commerce application that offers a seamless shopping experience, allowing users to browse, search, and purchase products.     | [Hosted Link 2](https://drive.google.com/drive/folders/1kWrbXQQM_HM8RG3_-9kVTg2AC4LwM0jF?usp=drive_link) | [Repo Link 2](https://drive.google.com/drive/folders/1kWrbXQQM_HM8RG3_-9kVTg2AC4LwM0jF?usp=drive_link)    |
+| **Quiz Application**  | An Android application for MCQ type of quiz developed on Android Studio using java. It helps in practicing and conducting quiz competitions.     | [Hosted Link 2](https://drive.google.com/drive/folders/1JhWeGRDS6g8lW8a6dVRAbBFs9JfmQ8WL?usp=drive_link) | [Repo Link 2](https://drive.google.com/drive/folders/1JhWeGRDS6g8lW8a6dVRAbBFs9JfmQ8WL?usp=drive_link)           |
 
 #### Leadership and Influence:
 
@@ -46,16 +46,6 @@
 - C
 - SQL
 
-#### Highly Visible Technical Content:
-
-###- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-###- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-###- https://www.hackerrank.com/profile/nharika203
 
 
 
