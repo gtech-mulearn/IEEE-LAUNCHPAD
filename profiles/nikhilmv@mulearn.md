@@ -5,7 +5,8 @@
  >Motivated and detail-oriented software engineer with a solid foundation in programming languages and a commitment
  to continuous learning. Seeking an opportunity to apply theoretical knowledge and contribute to innovative software
  solutions.
- check out [nikhilmv@mulearn.md](./profiles/nikhilmv@mulearn.md)
+ 
+ >Check out [nikhilmv@mulearn.md](./profiles/nikhilmv@mulearn.md)
 
 
 ## Portfolio Highlights
