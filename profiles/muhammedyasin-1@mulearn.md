@@ -1,10 +1,10 @@
-# Nakhate Harika
+# Muhammed Yasin M S
 
 ### About Me
 
 > - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
 > - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
+> - 🎓 Graduated Btech EEE @ College og engineering trivandrum Trivandrum.
 > - Fun fact about me: I can speak six languages!🌍🗣️
 
 

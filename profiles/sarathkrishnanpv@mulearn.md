@@ -1,18 +1,16 @@
-# Fidha Elaveettil
+# Sarath Krishnan P V
 
 ### About Me
 
-> MY name is Fidha Elaveettil,Recently graduated from College of Engineering Thalassery in B.Tech Information Technology.I am  currently seeking an Entry-level position as a software developer where I can apply my knowledge and skills to real-world projects.
-> I have basic foundation skills in several programming languages and technologies, including HTML, JavaScript, Python, Java, CSS and C programming.My coursework and projects during my studies have equipped me with the ability to develop dynamic and responsive web applications, as well as problem-solving skills necessary for software development.I am passionate about coding and enjoy learning new technologies .
-> In addition to my technical skills, I am a dedicated worker. I am eager to bring my dedication to a dynamic team, where I can contribute to the success of the company while honing my skills and gaining valuable experience.
-
+> Iam Sarath Krishnan P V, Iam From Palakkad. I Completed B-Tech in Computer Science Engeneering from Nehru college of Engineering and Research Centre, Pampady. I Completed my 10th and 12 th From Bemhss Palakkad.My Techical skills are in C programming and Python.
+my hobbies are watching Movies and Listening Music.My short term goal is to get placed in a reputed Company and Long term goal is to achieve a good position in a company. My Strengths are Easy to learn and a hardworking person and flexible. That's all about me. Thank you
 ## Portfolio Highlights
 
 ### My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Data Engineering Pipeline**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:

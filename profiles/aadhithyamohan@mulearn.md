@@ -1,10 +1,9 @@
-# Fidha Elaveettil
+# Aadhithya Mohan 
 
 ### About Me
 
-> MY name is Fidha Elaveettil,Recently graduated from College of Engineering Thalassery in B.Tech Information Technology.I am  currently seeking an Entry-level position as a software developer where I can apply my knowledge and skills to real-world projects.
-> I have basic foundation skills in several programming languages and technologies, including HTML, JavaScript, Python, Java, CSS and C programming.My coursework and projects during my studies have equipped me with the ability to develop dynamic and responsive web applications, as well as problem-solving skills necessary for software development.I am passionate about coding and enjoy learning new technologies .
-> In addition to my technical skills, I am a dedicated worker. I am eager to bring my dedication to a dynamic team, where I can contribute to the success of the company while honing my skills and gaining valuable experience.
+> Skilled electronics and communication engineer who is enthusiastic to learn and improve technical knowledge. Acknowledged for tenacity and effective team work. 
+
 
 ## Portfolio Highlights
 
@@ -12,12 +11,9 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+|Smart Bin| The Smart Bin offers a novel approach to the urgent problems associated with the urban garbage management with the help of image processing and robotics    | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| IoT based pick and place robotic arm  | The robotic arm is used for palletizer work done mostly in manufacturing industries to segregate objects according to it's properties                                             | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
-#### Leadership and Influence:
-
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
 #### Networking:
 
@@ -53,7 +49,3 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
