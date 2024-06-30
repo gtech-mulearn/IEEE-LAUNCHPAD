@@ -1,5 +1,6 @@
 # Harinand S
 
+
 ### About Me
 
 I'm Harinand S, a recent graduate in Computer Science Engineering with a strong passion for technology. Programming and data analysis are my main interests. I enjoy solving complex problems using languages like Python and Java, and web development using HTML, CSS and JavaScript.
@@ -48,6 +49,8 @@ I have written technical blog posts and articles on topics like Python programmi
 
 #### Highly Used Software Tools:
 
+
 I have used several software toollls for my projects, like Node.js, Express.js, React, Python etc.
+
 
 
