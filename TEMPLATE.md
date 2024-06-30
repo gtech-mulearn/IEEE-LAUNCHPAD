@@ -16,39 +16,18 @@ Hi, I'm a passionate Full stack developer with a focus on the MERN stack. I hold
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
+- I have had some recent opportunities to demonstrate my leadership skills. I was the team lead for a three-member team on a live project using the MERN stack. This experience allowed me to understand each team member's weaknesses and strengths, motivate them effectively, and solve complex problems together as a team. I believe every person has different abilities and perspectives, and using this diversity effectively will lead the firm to higher levels.
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+-I love being among people who share similar passions and have different ideas. It not only helps to grow our professional skills and techniques but also reduces stress levels, making my career more enjoyable and fulfilling.  
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- start a startup after gaining sufficient experience and financial strength.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- It's rapidly growing with expanding infrastructure and opportunities, but there are far more people than the industry can accommodate. It seems like it will neutralize the proportion.
 
 
 
