@@ -3,7 +3,7 @@
 
 ### About Me
 
-Enthusiastic and dedicated Python Developer with proven ability to lead and collaborate with teams, utilizing excellent interpersonal skills to drive projects to successful completion. Proficient in web development technologies, including Next.js, React Native, React.js, Node.js, MongoDB, Express.js, and Tailwind CSS with a keen eye for detail and a passion for creating engaging and user-friendly websites.
+Enthusiastic and dedicated Python Developer with proven ability to lead and collaborate with teams, utilizing excellent interpersonal skills to drive projects to successful completion. Proficient in web development technologies, including html,CSS,javascript,php,sql with a keen eye for detail and a passion for creating engaging and user-friendly websites.
 
 **Key skills:** python, JavaScript, CSS,Git,mysql,php
 
@@ -11,7 +11,7 @@ Enthusiastic and dedicated Python Developer with proven ability to lead and coll
 
 ### My Projects
 
-| Name                            | Description                                                                             | Hosted Link                                    | Repo Link                                                                              |
+| Name                            | Description                                                                             |                                     |                                                                               |
 |---------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------|----------------------------------------------------------------------------------------|
 | **MEDICAL REP PROBLEM SOLUTION** | The web app for the medical rep to solve their problems                                         |           |                      |
 | **plant disease identification using Leaf Images**   | Used to find the disease of leaf images               |  |               |
