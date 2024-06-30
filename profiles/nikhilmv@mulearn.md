@@ -13,10 +13,10 @@
 
 ### My Projects
 
-| Name                   | Description                                                               | Hosted Link                              | Repo Link                                                                                                    |
-|------------------------|---------------------------------------------------------------------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| **Resume-Analyzer**    | Software to check and give score to resume                                | [Hosted Link 1]                          | [Repo Link 1](https://github.com/nikhil-m-v/Resume-Analyzer)                                                 |
-| **NBA SAR Generator**  | Software to create SAR for NBA                                            | [Hosted Link 2]                          | [Repo Link 2](https://github.com/nikhil-m-v/Self-Assessment-Report-Generator-for-NBA-Accreditation)          |
+| Name                   | Description                                                                                             | Repo Link                                                                                                    |
+|------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **Resume-Analyzer**    | Software to check and give score to resume                                                           | [Repo Link 1](https://github.com/nikhil-m-v/Resume-Analyzer)                                                 |
+| **NBA SAR Generator**  | Software to create SAR for NBA                                                                      | [Repo Link 2](https://github.com/nikhil-m-v/Self-Assessment-Report-Generator-for-NBA-Accreditation)          |
 
 #### Leadership and Influence:
 
