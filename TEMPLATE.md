@@ -4,23 +4,15 @@
 
 > - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
 > - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
-> - Fun fact about me: I can speak six languages!🌍🗣️
+> - 🎓 Graduated Btech CSE from VKCET under A.P.J Abdul Kalam Technological University 
 
 
 
-## Portfolio Highlights
-
-### My Projects
-
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **MindfulMe**  | MindfulMe is a mental health awareness website designed to help users explore various aspects of mental health and well-being.                                          | [Hosted Link 1](https://mindfulmee.netlify.app/)    | [Repo Link 1](https://github.com/harika-haru/MindfulMe)             |
-| **Dot ECO**  |  .ECO is an eco-friendly e-commerce platform, where sustainability meets style!                                             | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
+          |
 
 #### Leadership and Influence:
 
-- I have taken part in a variety of volunteer activities. One recent example is being a mentor for a Google Cloud event called "Study Jam," where I demonstrated my abilities by coaching and guiding fellow students in completing Google Cloud labs.
+- I have taken part in a variety of volunteer activities. One recent example Volunteered for Technical Fest at College
 
 #### Networking:
 
