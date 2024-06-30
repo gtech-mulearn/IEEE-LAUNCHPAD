@@ -9,8 +9,8 @@ Hi, I'm a passionate Full stack developer with a focus on the MERN stack. I hold
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Injury-Guard**  | Predict the chances of injury of football player, using React and Flask                                |    | https://github.com/iknoul/Injury-Guard             |
+| **Money-Manager**  | Money manger app using REACT with analysis and managing features.                                              |   | https://github.com/iknoul/Money-Manager            |
+| **Injury-Guard**  | Predict the chances of injury of a football player, using React and Flask.                                |    | https://github.com/iknoul/Injury-Guard             |
 | **Indian sign language detection using images**  | The project focused on live Indian Sign Language detection and comparing CNN models (ConvNeXtSmall and DenseNet121) in this context, Using Python, OpenCV, TensorFlow, Pandas, data visualization libraries and etc. The main challenge was the lack of standard datasets for Indian Sign Language. To address this, I manually constructed a dataset for training the models. |   | https://github.com/iknoul/Indian-sign-language-detection-using-images-           |
 
 #### Leadership and Influence:
