@@ -2,8 +2,7 @@
 
 ### PYTHON DJANGO WEB DEVELOPER
 
-> I COMPLETED MY GRADUATION IN 2023 FROM KANNUR UNIVERSITY.MY AREA OF STUDY IS BCA.
-
+> With a solid foundation in BCA and enriched by an intensive internship focused on Python, Django, Flask, and data analysis, I aim to transition into an entry-level role where I can leverage my acquired skills. My objective is to contribute effectively to innovative projects within a dynamic IT environment, while continuing to expand my knowledge and proficiency in the field.
 
 ## Portfolio Highlights
 
@@ -11,24 +10,25 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **SHOP MANAGEMENT SYSTEM**  | Front-End: HTML, CSS, JS Back-End: Python, Django Database: SQLite                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1]([https://github.com/username/project1](https://github.com/RiyaDominic/shopmanagementsystem.git))             |
+| **MOVIE REVIEW**  | Front-End: HTML, CSS, JS Back-End: Python, Django Database: MySQL                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2]([https://github.com/username/project2](https://github.com/RiyaDominic/moviereview.git))             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- As a team lead in my final year project, I coordinated a group of five to develop a complex web application using Django, ensuring all deadlines were met and the project exceeded expectations.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
+- Studied the basics of networking as part of education topic in degree.
+  
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
-
+- Immediate Plans: Secure a role as a Python Django developer in a reputable tech company in Kerala.
+- Long-term Plans: Contribute to Kerala’s startup ecosystem by launching a tech startup focused on innovative web solutions and mentoring upcoming developers.
+  
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala has a burgeoning tech ecosystem with great potential. By focusing on enhancing tech education and fostering a collaborative community, Kerala can become a leading tech hub in India.
 
 #### History of Open Source Contributions:
 
@@ -51,8 +51,3 @@
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
