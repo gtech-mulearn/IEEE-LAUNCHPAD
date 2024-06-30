@@ -1,18 +1,18 @@
 # Full Name 
-
+Devi Krishna R
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hi, I'm Devi Krishna R, a passionate web developer and a dedicated student. With a keen interest in creating innovative web solutions, I constantly strive to enhance my skills and stay updated with the latest technologies. My journey in web development is driven by curiosity and a desire to build user-friendly and impactful digital experiences.
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                               | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
+| CRDP                | Movie Recommendation Website                                              |[Repo Link 1](https://github.com/CRDP-Miniproject/CRDP)          |
+          
 
 #### Leadership and Influence:
 
