@@ -1,8 +1,12 @@
-# Full Name 
+# Nakhate Harika
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
+> - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
+> - 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
+> - Fun fact about me: I can speak six languages!🌍🗣️
+
 
 
 ## Portfolio Highlights
@@ -11,33 +15,33 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **MindfulMe**  | MindfulMe is a mental health awareness website designed to help users explore various aspects of mental health and well-being.                                          | [Hosted Link 1](https://mindfulmee.netlify.app/)    | [Repo Link 1](https://github.com/harika-haru/MindfulMe)             |
+| **Dot ECO**  |  .ECO is an eco-friendly e-commerce platform, where sustainability meets style!                                             | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- I have taken part in a variety of volunteer activities. One recent example is being a mentor for a Google Cloud event called "Study Jam," where I demonstrated my abilities by coaching and guiding fellow students in completing Google Cloud labs.
 
 #### Networking:
 
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Even though I am cautious about approaching new people, I enjoy connecting with people of diverse perspectives, and it is always a delight and somewhat encouraging to meet new people who have their own opinions ideas, passions, and interest groups.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Launchpad with GTech Mulearn, in my opinion, is a fantastic spot for me to sharpen my abilities and increase my self-assurance. Despite my lack of experience with computers, I'm committed to helping her become more proficient.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- The digital ecosystem in Kerala is a commendable endeavor that seeks to foster and enhance the startup culture. Young people with an entrepreneurial mindset are becoming more prevalent as a result. For young aspirants interested in startup missions, it will be helpful.
 
-#### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+#### Highly Used Software Tools:
 
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
+- Html
+- Css
+- Js
+- Python
+- 
 #### Highly Visible Technical Content:
 
 - Highlight any highly visible technical blog posts, articles, or video series you have created.
@@ -47,12 +51,10 @@
 - If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
+- https://www.hackerrank.com/profile/nharika203
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+
+
 
 ---
