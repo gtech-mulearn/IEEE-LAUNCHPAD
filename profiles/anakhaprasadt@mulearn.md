@@ -4,7 +4,7 @@
 
 > - 🔭 I’m currently training on Java full stack development at Qspiders,kochi
 > - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech CSE @College Of ENgineering kallooppara
+> - 🎓 Graduated Btech CSE @College Of Engineering kallooppara
 
 
 
