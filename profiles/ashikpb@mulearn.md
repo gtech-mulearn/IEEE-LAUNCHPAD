@@ -34,23 +34,39 @@ freshness of fruits, reducing manual detection time by 60% .                    
  
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- 
+Kerala, with its unique socio-economic landscape and rich cultural heritage, has significant potential to excel in the technology startup ecosystem.
+ Expanding existing tech parks like Technopark in Trivandrum and Infopark in Kochi, along with establishing new ones across the state, can provide startups with the necessary infrastructure.
+Ensuring high-speed internet access across urban and rural areas will facilitate better communication and online operations for tech startups.
+
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+-Personal Open-Source Projects
+Project Name: Beat Box
+
+Description: Developed a web application using Django where users can listen to their favorite music, create playlists, and share songs with friends.
+Key Features:
+User authentication and profile management
+Music streaming and playlist creation
+Social sharing and interaction features
+Repository Link: GitHub Link
+Technologies Used: Django, Python, JavaScript, HTML/CSS, SQLite
+Contribution Highlights:
+Designed the entire backend architecture
+Implemented RESTful APIs for seamless integration
+Collaborated with UI/UX designers to enhance user experience
+
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- I actively participate in online tech communities such as Stack Overflow and GitHub, where I collaborate with other developers and contribute to discussions. I plan to attend local tech meetups and hackathons to build my network and engage with professionals in the industry..
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- https://medium.com/@ashikpb1998..
 
-#### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 .
 
