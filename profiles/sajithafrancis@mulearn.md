@@ -15,10 +15,10 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Intelligent Traffuc Control System**  | An intelligent traffic signal control system that dynamically adjusts signal timings.  | [Hosted Link 1](https://drive.google.com/drive/folders/1vsoNqL31C5NfG9VWTMiEOmKnnmTpQSvH?usp=drive_link)    | [Repo Link 1] (https://drive.google.com/drive/folders/1vsoNqL31C5NfG9VWTMiEOmKnnmTpQSvH?usp=drive_link)            |
+| **Intelligent Traffuc Control System**  | An intelligent traffic signal control system that dynamically adjusts signal timings.  | [Hosted Link 1](https://drive.google.com/drive/folders/1vsoNqL31C5NfG9VWTMiEOmKnnmTpQSvH?usp=drive_link)    | [Repo Link 1](https://drive.google.com/drive/folders/1vsoNqL31C5NfG9VWTMiEOmKnnmTpQSvH?usp=drive_link)            |
 | **Depression Detection on Social Media**  |  A social media feature that performs depression detection based on the social media activity of people.    | [Hosted Link 2]  | [Repo Link 2](           |
 | **Online Shopping Application**  | An Android e-commerce application that offers a seamless shopping experience, allowing users to browse, search, and purchase products.     | [Hosted Link 2](https://drive.google.com/drive/folders/1kWrbXQQM_HM8RG3_-9kVTg2AC4LwM0jF?usp=drive_link) | [Repo Link 2](https://drive.google.com/drive/folders/1kWrbXQQM_HM8RG3_-9kVTg2AC4LwM0jF?usp=drive_link)    |
-| **Quiz Application**  | An Android application for MCQ type of quiz developed on Android Studio using java. It helps in practicing and conducting quiz competitions.     | [Hosted Link 2] (https://drive.google.com/drive/folders/1JhWeGRDS6g8lW8a6dVRAbBFs9JfmQ8WL?usp=drive_link) | [Repo Link 2] (https://drive.google.com/drive/folders/1JhWeGRDS6g8lW8a6dVRAbBFs9JfmQ8WL?usp=drive_link)           |
+| **Quiz Application**  | An Android application for MCQ type of quiz developed on Android Studio using java. It helps in practicing and conducting quiz competitions.     | [Hosted Link 2](https://drive.google.com/drive/folders/1JhWeGRDS6g8lW8a6dVRAbBFs9JfmQ8WL?usp=drive_link) | [Repo Link 2](https://drive.google.com/drive/folders/1JhWeGRDS6g8lW8a6dVRAbBFs9JfmQ8WL?usp=drive_link)           |
 
 #### Leadership and Influence:
 
