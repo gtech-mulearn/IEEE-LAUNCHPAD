@@ -10,7 +10,7 @@ A recent BTech CSE graduate with a robust foundation in C, Python, JS. I design 
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **[FOSSFOLIO](https://github.com/MUHAMMEDSAJAL/fossfolio)**  | FossFolio is an open source web application for people to Find, Host and Manage Hackathons. 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/MUHAMMEDSAJAL/fossfolio)                   |
+| **[FOSSFOLIO](https://github.com/MUHAMMEDSAJAL/fossfolio)**  | FossFolio is an open source web application for people to Find, Host and Manage Hackathons.                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/MUHAMMEDSAJAL/fossfolio)                   |
 
 #### Leadership and Influence:
 
