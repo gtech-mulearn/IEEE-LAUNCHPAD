@@ -2,10 +2,7 @@
 
 ### About Me
 
-> - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
-> - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech CSE @ Viswajyothi College of Science and Technology, Vazhakulam.
-> - Fun fact about me: I can speak two languages!🌍🗣️
+I am a passionate software developer, continually honing my programming skills and exploring the latest technologies. With a BTech in Computer Science and Engineering from Viswajyothi College of Science and Technology, Vazhakulam, I am dedicated to expanding my knowledge in the ever-evolving field of software development. My curiosity drives me to constantly learn and stay updated with industry trends. 
 
 
 
