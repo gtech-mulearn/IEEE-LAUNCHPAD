@@ -23,6 +23,6 @@ I'm Drisya G A, a recent MCA graduate and a passionate developer. With strong sk
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala can excel in the Technology Startup Ecosystem by enhancing education and skill development programs to nurture a talented pool proficient in emerging technologies.
-check out [drisyaga@mulearn.md](./profiles/drisyaga@mulearn.md)
+>> check out [drisyaga@mulearn.md](./profiles/drisyaga@mulearn.md)
 
 ---
