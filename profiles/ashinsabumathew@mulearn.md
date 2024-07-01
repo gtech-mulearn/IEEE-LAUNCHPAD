@@ -6,6 +6,11 @@
 
 
 ## Portfolio Highlights
+### My Projects
+
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Image Quality Assessment**  | Image Quality Assessment(IQA) in OpenAI uses algorithms to measure sharpness, noise, and color fidelity, enhancing model training, outputs, and user experience with both subjective and objective methods.                                              | [Hosted Link](https://image-quality-assessment1.onrender.com/)    | [Repo Link](https://github.com/Top-100-Coders/Image-Quality-Assessment)             |
 
 #### Career Plan:
 
