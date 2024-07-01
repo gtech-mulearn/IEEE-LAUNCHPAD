@@ -2,13 +2,7 @@
 
 ### About Me
 
-> I'm Midhun C Raj, a dedicated Java developer proficient in web development. With a strong passion for problem-solving and continuous learning, I strive to deliver innovative solutions. Experienced in frameworks like Spring and Hibernate, I am eager to contribute my skills to create impactful and efficient applications.
-
-
-
-
-
-
+> I'm MIdhun C Raj, currently completed my B.Tech Enginnering in Computer Science and Engineering, in College of Engineering Kottarakkara, Kollam. Thinking forward to get a job in AI field and work as a Data Science Engineer.
 
 
 ## Portfolio Highlights
@@ -17,45 +11,44 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **AudioVideoSummarizer**  | An academic project aims to address the need for efficient video summarization techniques of online video content. This summarization framework integrates feature extraction to identify unique frames along with NLP models to produce audio-video summaries.                                              |    | [AudioVideoSummarizer](https://github.com/midhun-craj/AudioVideoSummarizer.git)             |
-| **CollegeInformationSystem**  | This academic project endeavors to tackle the challenge of accessing information about our college scattered across the internet. It involves the development of a chatbot leveraging technologies like vector databases and NLP to provide to user queries.                                         |     | [CollegeInformationSystem](https://github.com/midhun-craj/C-I-S.git)             |
+| **AudioVideoSummarizer**  | It is a audio and video summarizer to summarize the video as a input that i have done as a team in college as a part of our college final year project.                                          |    | [AudioVideoSummarizer](https://github.com/midhun-craj/AudioVideoSummarizer.git)             |           |
 
 #### Leadership and Influence:
 
-- I've consistently motivated individuals to reach their full potential, providing unwavering support along the way.
-- My leadership qualities were put to the test numerous times during my tenure as the IEEE chair at my student branch, where I encountered various situations demanding decisive action and guidance.
+- As i was a part of college cricket team and ieee, i have helped my colleague's as a team member.
+- Also I have taken firm decisions on stressed situations as i was a part of cricket team, so i can put that into any field i join.
 
 
 #### Networking:
 
-- My networking skills primarily revolve around active participation in various WhatsApp communities and offline events.
+- My networking skills are to engane in meetings online and also in whatsapp and linkedin chats.
 
 #### Career Plan:
 
-- Immediate plans: Secure a fresher job as a Java Developer.
-- Long-term plans: Acquire extensive knowledge in the Java field with the aim of progressing into a leadership role as a java engineer.
+- To secure a job as a fresher either as a java or a python developer.
+- Also i have plans to do data science later through my career.
 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala possesses significant untapped potential in the startup sector. By fostering strong collaborations among the government, students, and leveraging public-private partnership models, we can effectively exploit this potential.
+- Kerala is now building up to their place in tech eco system aand also has a lot of potential to reach up to the top. 
 
 #### History of Open Source Contributions:
 
-- I haven't done any contributions, but all of my academic and induvidal projects are open source, and i have been a adovocate for opensource program in peer groups.
+- I have done my college projects which are all open source.
 
 #### History of Community Engagement:
 
--  I've consistently relied on communities like Stack Overflow to find solutions, though I haven't actively contributed by asking questions or providing answers.
+-  I have consistently engaged in communities to check program related doubts and clear them.
 
 #### Highly Visible Technical Content:
 
-- I haven't created any highly visible technical content.
+- I haven't created any of them.
 
 #### Highly Used Software Tools:
 
-- I have not personally developed any widely-used software tools.
+- Mostlty Github, Git and Visual Studio Code.
 
 #### Competitive Website Profiles:
 
-- HackerRank profile in Python and Data Structures.
+- I have done Python 30 day programming on Hacker Rank.
