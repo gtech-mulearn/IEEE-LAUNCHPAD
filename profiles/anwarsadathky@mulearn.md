@@ -2,12 +2,13 @@
 
 ### About Me
 
-> Dedicated and detail-oriented engineering student with a
+> Dedicated and detail-oriented engineering graduate with a
 passion for computer engineering, seeking a software
 engineer position to apply technical skills,
 problem-solving abilities, and innovative mindset to
 develop cutting-edge software
 solutions
+> Completed B.Tech in Computer Science & Engineering from Thejus Engineering College Thrissur on June 2024 (7.5 CGPA)
 
 
 ## Portfolio Highlights
@@ -32,9 +33,6 @@ solutions
 - Long Term Plan:Aspiring to become a successfull AI engineer
 #### Thoughts on Kerala's Tech Ecosystem:
 - To excel in the technology startup ecosystem, Kerala must foster an environment conducive to innovation, collaboration, and investment. This can be achieved by bolstering infrastructure, such as expanding IT parks and ensuring high-speed internet connectivity, to provide startups with the resources they need to thrive. Additionally, initiatives like the Kerala Startup Mission should be strengthened to offer comprehensive support, including mentorship, incubation facilities, and access to funding networks. Collaborating with academic institutions to promote research and development in emerging technologies will further fuel innovation and talent development. By focusing on these key areas and fostering a culture of entrepreneurship, Kerala can position itself as a leading hub for technology startups, driving economic growth and innovation in the region and beyond.
-#### History of Open Source Contributions:
-
-- None
 
 #### History of Community Engagement:
 
@@ -43,9 +41,6 @@ solutions
 -  Tree Planting
 -  Surveying
 
-#### Highly Visible Technical Content:
-
-- None
 
 #### Highly Used Software Tools:
 
@@ -53,6 +48,8 @@ solutions
 - Google Gemini
 - CludeAI
 - VS Code
+- Python
+- JavaScript
 
 #### Competitive Website Profiles:
 
