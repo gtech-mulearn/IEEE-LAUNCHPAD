@@ -18,14 +18,8 @@ consider me for the same.
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Dynamic Time-Table Generation Using Genetic Algorithm**  | The Dynamic Timetable Generator surpasses traditional
-methods with its web-based platform and personalized logins for campus incharge, teachers, and class representatives.
-Key features include data collection, algorithm-driven timetables, ensuring efficiency. By employing genetic algorithms
-and constraints, it delivers a feasible solution to timetabling challenges.
-                                        | [Hosted Link](https://github.com/parvathy-shani/Dynamic-Timetable-Generator-Algorithm-Implementation)    | [Repo Link](https://github.com/Norah-Martin/finalproject)             |
-| **Drowsiness Detection System**  | Developed a drowsiness detection system using python, computer vision and machine
-learning techniques to identify signs of driver fatigue in real-time. Implemented eye tracking algorithms to analyze
-eye closure duration, blink frequency, and gaze direction.                                              | [Hosted Link](https://github.com/Norah-Martin/miniproject)    | [Repo Link](https://github.com/Norah-Martin/miniproject)             |
+| **Dynamic Time-Table Generation Using Genetic Algorithm**  | The Dynamic Timetable Generator surpasses traditional methods with its web-based platform and personalized logins for campus incharge, teachers, and class representatives. Key features include data collection, algorithm-driven timetables, ensuring efficiency. By employing genetic algorithms and constraints, it delivers a feasible solution to timetabling challenges.| [Hosted Link](https://github.com/parvathy-shani/Dynamic-Timetable-Generator-Algorithm-Implementation)| [Repo Link](https://github.com/Norah-Martin/finalproject)|
+| **Drowsiness Detection System**  | Developed a drowsiness detection system using python, computer vision and machinelearning techniques to identify signs of driver fatigue in real-time. Implemented eye tracking algorithms to analyze eye closure duration, blink frequency, and gaze direction.| [Hosted Link](https://github.com/Norah-Martin/miniproject)| [Repo Link](https://github.com/Norah-Martin/miniproject)|
 
 #### Leadership and Influence:
 
@@ -80,7 +74,7 @@ contributing to public health and safety initiatives.
 
 - I hosted a seminar on Generative AI, exploring its evolution, impact, different models, workings, and the opportunities and challenges it presents. Generative AI has revolutionized technology and creativity, enabling machines to create content indistinguishable from human work in fields like art, music, and language generation. The seminar highlighted its transformative potential and emphasized the need for careful consideration and collaboration to maximize benefits while mitigating risks. The active participation and enthusiasm of attendees underscored the growing interest in AI's applications across diverse fields, making the seminar a resounding success in knowledge sharing and community engagement.
 
-[Link to content](https://www.linkedin.com/feed/update/urn:li:activity:7109939990649851904/)
+ [Link to content](https://www.linkedin.com/feed/update/urn:li:activity:7109939990649851904/)
 
 #### Highly Used Software Tools:
 
@@ -88,7 +82,7 @@ contributing to public health and safety initiatives.
 
 #### Competitive Website Profiles:
 
-- [Hackerrank](hhttps://www.hackerrank.com/profile/norahmartin15)
+- [Hackerrank](https://www.hackerrank.com/profile/norahmartin15)
 
 
 
