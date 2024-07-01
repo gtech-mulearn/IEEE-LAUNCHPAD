@@ -1,11 +1,11 @@
-# Nakhate Harika
+# Anugrah T Thomas
 
 ### About Me
 
-> - 🔭 I’m currently working on honing my programming skills and exploring new technologies.
+> - 🔭 I’m currently working on my programming skills and exploring new technologies.
 > - 🌱 I’m constantly learning and expanding my knowledge in the field of software development.
-> - 🎓 Graduated Btech ECE @ LBS Institute Of Technology for Women's Trivandrum.
-> - Fun fact about me: I can speak six languages!🌍🗣️
+> - 🎓 Graduated Btech ECE @ College Of Engineering, Kallooppara.
+> - Languages known - English, Malayalam, Hindi
 
 
 
@@ -15,12 +15,12 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **MindfulMe**  | MindfulMe is a mental health awareness website designed to help users explore various aspects of mental health and well-being.                                          | [Hosted Link 1](https://mindfulmee.netlify.app/)    | [Repo Link 1](https://github.com/harika-haru/MindfulMe)             |
-| **Dot ECO**  |  .ECO is an eco-friendly e-commerce platform, where sustainability meets style!                                             | [Hosted Link 2](https://harika-haru.github.io/stackup/docs/index.html)   | [Repo Link 2](https://github.com/harika-haru/stackup)             |
+| **Malware Detection using ML**  | Developed a website utilizing machine learning algorithms to detect malware in files and URLs                                 |     |             |
+| **Online Admission system**  |  Implementation of a website for managing every students Admission Process.                                            |    |             |
 
 #### Leadership and Influence:
 
-- I have taken part in a variety of volunteer activities. One recent example is being a mentor for a Google Cloud event called "Study Jam," where I demonstrated my abilities by coaching and guiding fellow students in completing Google Cloud labs.
+- I worked as Team Lead in College Music Band And secured first position for 90% Of my competition
 
 #### Networking:
 
@@ -35,11 +35,14 @@
 - The digital ecosystem in Kerala is a commendable endeavor that seeks to foster and enhance the startup culture. Young people with an entrepreneurial mindset are becoming more prevalent as a result. For young aspirants interested in startup missions, it will be helpful.
 
 
-- Html
-- Css
-- Js
-- Python
-- 
+#### Highly Used Software Tools:
+
+- Java Script
+- C 
+- HTML
+- CSS
+- JAVA
+- REACT
 #### Highly Visible Technical Content:
 
 - Highlight any highly visible technical blog posts, articles, or video series you have created.
@@ -49,7 +52,9 @@
 - If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
-- https://www.hackerrank.com/profile/nharika203
+- 
+
+
 
 
 

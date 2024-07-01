@@ -4,7 +4,6 @@
 
 > I'm a computer science engineer with internship experience in Java Full Stack Development and also Front End Web Development. I am proficient in Java and also have coding experience in Python, C, C++, HTML, CSS, Javascript. I have experience with MySQL database.
 
-
 ## Portfolio Highlights
 
 ### My Projects
