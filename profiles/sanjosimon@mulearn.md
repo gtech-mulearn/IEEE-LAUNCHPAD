@@ -17,19 +17,19 @@ I have done my project called Grade Ease: Automatic Answer Evalution.My hobbies 
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Meeting the requirement for being a leader or influencer in my domain involves demonstrating expertise, effective communication, mentoring others, and making significant contributions to projects and teams. I have served as a vice-captain, where I led my team with dedication and strategic thinking, ensuring effective collaboration and achieving our goals. Additionally, I led my final year project, guiding my team through complex problem-solving processes and ensuring the successful completion of the project. These experiences have honed my leadership and influencing skills, showcasing my ability to lead teams, manage projects, and mentor others to achieve excellence.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- My networking skills involve building meaningful connections, engaging with peers and experts, and contributing to communities.. By regularly contributing to discussions, answering questions, and sharing valuable resources, I establish myself as a knowledgeable and helpful member. My approach to influencing and leading others involves mentoring, providing guidance, and fostering a collaborative environment, helping peers grow and achieve their goals.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- I would like to be a software developer which can be web or app. I would like to contribute the start ups by helping in developing the ideas and solving problems.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- The Kerala's Tech ecosysytem can be increase by providing the needed training for the skill development and teaching the pepople about the need for new startups and ideas.Also by providing various help and support.
 
 #### History of Open Source Contributions:
 
@@ -49,7 +49,7 @@ I have done my project called Grade Ease: Automatic Answer Evalution.My hobbies 
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- leetcode : sanjo17
 
 
 
