@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Amazon website clone**  | Front-end clone using HTML and CSS                                             | [Amazon website clone]([https://example.com](https://srishanth57.github.io/AMAZON-CLONE-PROJECT/))    | [Repo Link 1]([https://github.com/username/project1](https://github.com/Srishanth57/AMAZON-CLONE-PROJECT))             |
-| **Netflix website clone**  | Front-end clone using HTML and CSS                                             | [Netflix website clone]([https://example.com](https://srishanth57.github.io/Netflix-clone-page/))    | [Repo Link 2]([https://github.com/username/project2](https://github.com/Srishanth57/Netflix-clone-page))             |
+| **Amazon website clone**  | Front-end clone using HTML and CSS                                             | [Amazon website clone](https://srishanth57.github.io/AMAZON-CLONE-PROJECT/)    | [Repo Link 1](https://github.com/Srishanth57/AMAZON-CLONE-PROJECT)             |
+| **Netflix website clone**  | Front-end clone using HTML and CSS                                             | [Netflix website clone](https://srishanth57.github.io/Netflix-clone-page/)    | [Repo Link 2](https://github.com/Srishanth57/Netflix-clone-page)             |
 
 #### Leadership and Influence:
 
