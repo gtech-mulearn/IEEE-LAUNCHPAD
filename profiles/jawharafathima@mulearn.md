@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I am Jawhara Fathima BTechgraduate from Mar Athanasius College of Engineering
+> I am Jawhara Fathima BTech graduate from Mar Athanasius College of Engineering
 
 
 ## Portfolio Highlights
