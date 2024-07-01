@@ -10,9 +10,7 @@ Neeraja Biju
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | AI CODE CONVERTER  |a tool for converting code snippets between languages and generating code from natural language                                                | https://github.com/neerrajja/Code-Converter          |
-| BOOK MY BARBER |Book My Barber is a web application I designed and developed for scheduling and managing barber appointments. It features real-time updates and uses technologies such as React, Express.js, Node.js, and MongoDB. This project enhances user convenience by streamlining the booking process and ensuring efficient appointment management.
-
-| [Repo Link 2]https://github.com/neerrajja/mini-project            |
+| BOOK MY BARBER |Book My Barber is a web application I designed and developed for scheduling and managing barber appointments. It features real-time updates and uses technologies such as React, Express.js, Node.js, and MongoDB. This project enhances user convenience by streamlining the booking process and ensuring efficient appointment management.| [Repo Link 2]https://github.com/neerrajja/mini-project            |
 
 #### Leadership and Influence:
 
