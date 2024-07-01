@@ -2,7 +2,7 @@
 
 ### About Me
 
-> My name is Gokul chand , currently living in Attingal Thiruvananthapuram . i have completed my engineering in computer science and completed a course on software testing , manual testing and automation testing. im a positive person and my strengths are im a quicklearner and hardworking person. my short term goal is to get a job in reputed company 
+> My name is Gokul chand , i have completed my engineering in computer science and completed a course on software testing , manual testing and automation testing. im a positive person and my strengths are im a quicklearner and hardworking person. my short term goal is to get a job in reputed company.
 
 
 ## Portfolio Highlights
@@ -16,8 +16,9 @@
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
+- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your 
+  leadership and influencing skills.
+- I analyze data to help evaluate different options, predict outcomes, and encourage innovation by suggesting creative solutions. My capabilities ensure leaders can make informed, ethical decisions, fostering a culture of continuous improvement and strategic planning.
 #### Networking:
 
 - Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
