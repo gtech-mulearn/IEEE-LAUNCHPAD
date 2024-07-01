@@ -11,11 +11,9 @@ I'm Drisya G A, a recent MCA graduate and a passionate developer. With strong sk
 | Name                | Description                                                               | Repo Link                                                             |
 |---------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------|
 |Artistry-Main project| An art e-commerce site, demonstrating my expertise in web development using .net                                                                   | [RepoLink1](https://github.com/drisyaga123/Artistry_web_Application)|  | 
-|                     |                      |                                                                       |
 |Artistry-Mini project| An art e-commerce site, demonstrating my expertise in web development using MERN      |[Repo Link 2](https://github.com/drisyaga123/Web_app)                   |
-|                     |        |                                                                       |
-|                     |                                                    |                                                                       |
 
+                                          
 
 #### Career Plan:
 
