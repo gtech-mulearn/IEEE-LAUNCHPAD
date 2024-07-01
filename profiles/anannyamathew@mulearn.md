@@ -1,8 +1,4 @@
-# Jawhara Fathima
-
-### About Me
-
-> I am Jawhara Fathima BTech graduate from Mar Athanasius College of Engineering
+# Anannya Mathew 
 
 
 ## Portfolio Highlights
@@ -11,8 +7,11 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **** Tailoring Management System | The web application for the tailoring shop is designed to offer a comprehensive platform for both vendors
+and customers, enabling them to interact and conduct transactions online without the need for physical
+visits to the shop. utilizing MySQL and PHP for database management and backend functionality                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **• Scratch Detection on Vechicles**  | The web application designed with an aim to assist vehicle owners in identifying and assessing scratches
+accurately.This project demonstrates proficiency in Django, MySQL, Python, and YOLOv5 algorithm                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
@@ -55,4 +54,3 @@
 > In your portfolio, include the following details:
 >> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
----

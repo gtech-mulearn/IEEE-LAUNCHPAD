@@ -1,18 +1,11 @@
-# Jawhara Fathima
+# Shyama Prasad M S
 
 ### About Me
 
-> I am Jawhara Fathima BTech graduate from Mar Athanasius College of Engineering
+Hi I am Shyama Prasad M S, a MCA graduate from Lourdes Matha College of arts & Science, Trivandrum.  
 
 
 ## Portfolio Highlights
-
-### My Projects
-
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
@@ -49,10 +42,5 @@
 #### Competitive Website Profiles:
 
 - Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---

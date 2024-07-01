@@ -1,8 +1,11 @@
-# Jawhara Fathima
+# Afthab Hussain 
 
 ### About Me
 
-> I am Jawhara Fathima BTech graduate from Mar Athanasius College of Engineering
+> My name is Afthab Hussain.I'm from kochi , kerala.I have completed  Bachelor of Technology in Computer Science and Engineering from KMEA Engineering College , Aluva.I have done an internship on Machine Learning in Python
+> from NextGen Pro PVT LTD. I am currently a JAVA Full Stack Development intern at Archon Solutions PVT LTD Ernakulam. As my main project , I have done a live project of the company Archon Solutions itself called Community Care,
+> it is a Residential Service Utility Platform and the Minor Project was purely Iot based , It was an Obstacle Detection Vest with Heart Rate Monitoring System.
+> Apart from all the academics and work,I enjoy playing and watching sports,especially football.
 
 
 ## Portfolio Highlights
@@ -11,8 +14,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Community Care      |Residential Utility Service Platform connecting residents of any gated communities with wide network of professional service providers                                                                         | [Hosted Link 1](https://example.com)     | [Repo Link 1](https://github.com/username/project1)             |
+| Obstacle Detection Vest With Heart Rate Monitor  |Iot based obstacle detection vest with heart rate monitoring system for the visually impaired               | [Hosted Link 2](https://example.com)     | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 

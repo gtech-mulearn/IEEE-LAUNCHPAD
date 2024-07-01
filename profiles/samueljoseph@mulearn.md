@@ -1,8 +1,8 @@
-# Jawhara Fathima
+# SAMUEL JOSEPH
 
 ### About Me
 
-> I am Jawhara Fathima BTech graduate from Mar Athanasius College of Engineering
+> I AM SAMUEL JOSEPH. I RECENTLY COMPLETED MY BTECH IN COMPUTER SCIENCE AND ENGINEERING FROM VISWAJYOTHI COLLEGE OF ENGINEERING AND TECHNOLOGY.I AM TECHNICALLY SKILLED AT C,HTML,CSS,JAVA.
 
 
 ## Portfolio Highlights
@@ -55,4 +55,4 @@
 > In your portfolio, include the following details:
 >> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
----
+---samueljoseph@mulearn

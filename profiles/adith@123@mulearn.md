@@ -1,8 +1,14 @@
-# Jawhara Fathima
+# Adith Arun
 
 ### About Me
 
-> I am Jawhara Fathima BTech graduate from Mar Athanasius College of Engineering
+> I am Adith Arun, a passionate Computer Science Engineering student with a meticulous and dynamic approach towards problem-solving. Throughout my academic journey, I have honed my skills in various programming languages including C/C++, Python, Java, and SQL, along with proficiency in Linux and WordPress development.
+
+During my tenure at college, I emerged victorious in a coding challenge, showcasing my dedication and perseverance in mastering technical concepts. Additionally, I had the opportunity to delve into research, resulting in the publication of a paper titled "Medsync," reflecting my keen interest in exploring innovative solutions within the field.
+
+My internship experience at MindEmpowered, focusing on GitHub and web development, provided me with practical insights and enriched my understanding of industry practices. Furthermore, I successfully completed an NPTEL certification course, "Joy of Computing using Python," securing an impressive 79% marks, underscoring my commitment to continuous learning and self-improvement.
+
+As a team player, I thrive in collaborative environments, leveraging my strengths to contribute effectively towards shared goals. With a passion for innovation and a drive for excellence, I am poised to make meaningful contributions in the ever-evolving landscape of technology.
 
 
 ## Portfolio Highlights
