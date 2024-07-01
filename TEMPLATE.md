@@ -37,10 +37,3 @@ Secure a job in a software company.
 #### History of Community Engagement:
 
 -  An active participant of the MuLearn Discord Server.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
