@@ -12,8 +12,8 @@ LinkedIn profile(LinkedIn.com/in/vishnu-v-r-505a8720a |)
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Assisant App for Elderly People  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/Vishnu-VR21/Assisant-App-for-Elderly-people)             |
-| ML based LR-DDoS detection in SDN network  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2]((https://github.com/Vishnu-VR21/ML-based-LR-DDoS-detection-in-SDN-network)             |
+| Assisant App for Elderly People  | Assistant app with news summarization                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/Vishnu-VR21/Assisant-App-for-Elderly-people)             |
+| ML based LR-DDoS detection in SDN network  | ML project for detecting LR-DDoS attack in SDN enabled networks                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/Vishnu-VR21/ML-based-LR-DDoS-detection-in-SDN-network)             |
 
 #### Leadership and Influence:
 
