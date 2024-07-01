@@ -11,7 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Mentur U**  | An learning App for students.In this project the mentur are the students who are pursuing Graduation.The initiative of the project is to make an income and improve the skills of the students                                               | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Mentur U**  | An learning App for students.In this project the mentur are the students who are pursuing Graduation.The initiative of the project is to make an income and improve the presentation skills of the students                                               | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
