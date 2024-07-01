@@ -11,7 +11,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **AudioVideoSummarizer**  | It is a audio and video summarizer to summarize the video as a input that i have done as a team in college as a part of our college final year project.                                          |    | [AudioVideoSummarizer](https://github.com/midhun-craj/AudioVideoSummarizer.git)             |           |
+| **AudioVideoSummarizer**  | It is an audio and video summarizer to summarize the video as a input that i have done as a team in college as a part of our college final year project.                                          |    | [AudioVideoSummarizer](https://github.com/midhun-craj/AudioVideoSummarizer.git)             |           |
 
 #### Leadership and Influence:
 
