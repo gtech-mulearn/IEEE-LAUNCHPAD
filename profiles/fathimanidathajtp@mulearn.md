@@ -11,19 +11,19 @@ I aim to work on projects that positively impact people's lives. I am eager to a
 As I start my career, I look forward to new opportunities and contributing to the tech industry.
 
 
+
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                              | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|-----------------------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Lexico - A Dyslexic Learning Hub  | Lexico is a supportive learning hub designed specifically to help dyslexic|                                          |
-                                      individuals improve their reading and writing skills through tailored     |                                          |
-                                      resources and techniques.                                                 | [Hosted Link 1](https://example.com)     | https://github.com/NidaThaj/Lexico.git                         |
-| InfoGenie - A web based bot       | InfoGenie is a web-based bot designed to streamline the college admission |                                          |
-                                      process by providing information, answering queries, and guiding          |                                          |
-                                      applicants through each step.                                             | [Hosted Link 2](https://example.com)     | https://github.com/NidaThaj/InfoGenie.git                      |
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| Lexico - A Dyslexic Learning Hub  | Lexico is a supportive learning hub designed specifically to help dyslexic individuals improve their reading and writing skills through tailored resources and techniques.                                              | [Hosted Link 1](https://example.com)    | https://github.com/NidaThaj/Lexico.git             |
+| InfoGenie - A Web Based Bot  | InfoGenie is a web-based bot designed to streamline the college admission process by providing information, answering queries, and guiding applicants through each step.                                              | [Hosted Link 2](https://example.com)    | https://github.com/NidaThaj/InfoGenie.git             |
 
+
+
+---
 #### Leadership and Influence:
 
 - Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
