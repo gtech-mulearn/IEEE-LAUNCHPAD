@@ -31,21 +31,13 @@ I have done my project called Grade Ease: Automatic Answer Evalution.My hobbies 
 
 - The Kerala's Tech ecosysytem can be increase by providing the needed training for the skill development and teaching the pepople about the need for new startups and ideas.Also by providing various help and support.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Github
+- VS Code
+- Google Collab
+- Android Studio
 
 #### Competitive Website Profiles:
 
