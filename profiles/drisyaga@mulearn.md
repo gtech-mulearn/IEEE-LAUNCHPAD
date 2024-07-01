@@ -1,4 +1,4 @@
-DRISYA G A
+###DRISYA G A
 
 About Me
 
@@ -10,11 +10,11 @@ I'm Drisya G A, a recent MCA graduate and a passionate developer. With strong sk
 
 | Name                | Description                                                               | Repo Link                                                             |
 |---------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------|
-|Artistry-Main project|  An e-commerce website for shopping art products, demonstrating my        | [RepoLink1](https://github.com/drisyaga123/Artistry_web_Application)|          |
-|                     | expertise in developing comprehensive web solutions.                      |                                                                       |
-|Artistry-Mini project| An e-commerce website for shopping art products, demonstrating my         |[Repo Link 2](https://github.com/drisyaga123/Web_app)                   |
-|                     |expertise in developing comprehensive web solutions through this           |                                                                       |
-|                     |  focused initiative                                                       |                                                                       |
+|Artistry-Main project| An art e-commerce site, demonstrating my expertise in web development using .net                                                                   | [RepoLink1](https://github.com/drisyaga123/Artistry_web_Application)|  | 
+|                     |                      |                                                                       |
+|Artistry-Mini project| An art e-commerce site, demonstrating my expertise in web development using MERN      |[Repo Link 2](https://github.com/drisyaga123/Web_app)                   |
+|                     |        |                                                                       |
+|                     |                                                    |                                                                       |
 
 
 #### Career Plan:
@@ -25,6 +25,6 @@ I'm Drisya G A, a recent MCA graduate and a passionate developer. With strong sk
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala can excel in the Technology Startup Ecosystem by enhancing education and skill development programs to nurture a talented pool proficient in emerging technologies.
->> check out [drisyaga@mulearn.md](./profiles/drisyaga@mulearn.md)
+check out [drisyaga@mulearn.md](./profiles/drisyaga@mulearn.md)
 
 ---
