@@ -16,22 +16,21 @@ Hi, I'm a passionate Full stack developer with a focus on the MERN stack. I hold
 
 #### Leadership and Influence:
 
-- I have had some recent opportunities to demonstrate my leadership skills. I was the team lead for a three-member team on a live project using the MERN stack. This experience allowed me to understand each team member's weaknesses and strengths, motivate them effectively, and solve complex problems together as a team. I believe every person has different abilities and perspectives, and using this diversity effectively will lead the firm to higher levels.
+- leading a Four-member team on a MERN live project.
+- I was the student coordinator for several tech events during my master's. 
+
 #### Networking:
 
-- I love being among people who share similar passions and have different ideas. It not only helps to grow our professional skills and techniques but also reduces stress levels, making my career more enjoyable and fulfilling.  
-
+- Active participations in tech events like Google IO.
+- During my internship got chance to meet diverse group of professionals and participating in various tech events.
+  
 #### Career Plan:
 
-- start a startup after gaining sufficient experience and financial strength.
+- In the immediate priority, I need to kickstart my career with a growing firm where I can contribute my full potential and grow.
+- Start a startup with sufficient experience and financial strength..
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - It's rapidly growing with expanding infrastructure and opportunities, but there are far more people than the industry can accommodate. It seems like it will neutralize the proportion.
+- Kerala is a nurturing environment for IT.
 
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
