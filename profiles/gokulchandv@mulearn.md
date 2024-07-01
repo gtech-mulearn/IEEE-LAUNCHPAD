@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> My name is Gokul chand , currently living in Attingal Thiruvananthapuram . i have completed my engineering in computer science and completed a course on software testing , manual testing and automation testing. im a positive person and my strengths are im a quicklearner and hardworking person. my short term goal is to get a job in reputed company 
 
 
 ## Portfolio Highlights
