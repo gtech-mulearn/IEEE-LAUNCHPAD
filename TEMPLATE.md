@@ -2,8 +2,6 @@
 ### About Me
 Recent B.Tech graduate in Computer Science with a strong academic background and hands-on experience in programming languages. Eager to apply knowledge of algorithms and data structures in an entry-level role. Proven ability to quickly learn new technologies and contribute effectively to team projects. Passionate about using technology to address real-world challenges.
 
-
-
 ## Portfolio Highlights
 
 ### My Projects
