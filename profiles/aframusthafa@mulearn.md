@@ -2,7 +2,12 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+A strong advocate of continuous learning and improvement. Proven
+ability to achieve targets through effective leadership, team
+development, and strategic planning. I am eager to bring my passion for
+leadership, my proven management skills, and my commitment to
+excellence to a dynamic organization that values growth, teamwork, and
+results
 
 
 ## Portfolio Highlights
@@ -52,7 +57,7 @@
 
 
 
-> In your portfolio, include the following details:
+
 >> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
