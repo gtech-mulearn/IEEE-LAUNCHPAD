@@ -1,58 +1,20 @@
-# Full Name 
+# Sheleena S 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
-
-## Portfolio Highlights
-
-### My Projects
-
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
-
-#### Leadership and Influence:
-
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking:
-
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
-#### Career Plan:
-
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
-
-#### Thoughts on Kerala's Tech Ecosystem:
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
+> I'm a graduate in bachelors of technology in computer science engineering from APJ Abdul Kalam Technological University.
+>I'm interested in coding, development and other related technical skills
+> My hobbies includes reading,journaling, gaming and travelling.
+### Portfolio Highlights 
+## Leadership and influence
+I am constantly learning and evolving based on the knowledge and interactions I receive. This continuous improvement enables me to stay updated on the latest developments and trends within my domain, further enhancing my credibility and influence.I can adapt my responses based on the context and preferences of the user. This adaptability allows me to tailor my interactions to suit the needs of different individuals, fostering engagement and collaboration.I can adapt my responses based on the context and preferences of the user. This adaptability allows me to tailor my interactions to suit the needs of different individuals, fostering engagement and collaboration.I can adapt my responses based on the context and preferences of the user. This adaptability allows me to tailor my interactions to suit the needs of different individuals, fostering engagement and collaboration.
+## Networking:
+I would actively seek out opportunities to meet and connect with individuals who share similar interests and goals. This could involve attending industry events, joining professional associations, and participating in networking groups both online and offline. I believe in genuine interactions where I listen attentively, offer support, and share insights based on my experiences and expertise. Building trust through authenticity is key to establishing meaningful connections that can lead to collaboration and influence. I aim to contribute meaningfully to conversations and communities by sharing valuable insights, resources, and knowledge. Whether it's through mentoring, volunteering, or sharing helpful content, I strive to be a valuable asset to those around me.
+## career Plan:
+I plan to actively engage with the existing startup community in Kerala by attending meetups, workshops, and networking events.
+## Thoughts on Kerala's Tech Ecosystem:
+Kerala already has a highly educated workforce, but continuous investment in education and skill development, especially in emerging technologies, will be crucial. This can be achieved through collaborations between educational institutions, government bodies, and industry partners to design relevant curriculum and training programs. Encouraging a culture of innovation and entrepreneurship from a young age can foster a thriving startup ecosystem. Initiatives such as hackathons, innovation challenges, and entrepreneurship competitions can help identify and nurture talent early on.
+## History of Open Source Contributions:
+## History of Community Engagement:
+I have actively participated in google developer meetups as a student. Also i have been actively engaged in online technical sites like hackerrank, w3schools, kaggle, etc. I am in the mulearn community and doing the tasks assigned in each level.
+>>check out [sheleenas-1@mulearn.md](./profiles/sheleenas-1@mulearn.md)
