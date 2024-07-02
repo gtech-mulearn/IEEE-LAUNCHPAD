@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I’m a B.Tech student (2020-2024) passionate about learning technical skills, skilled in UI/UX designing, and currently studying web development.
+> I’m a B.Tech student (2020-2024) passionate in learning technical skills, skilled in UI/UX designing, and currently studying web development.
 
 
 ## Portfolio Highlights
