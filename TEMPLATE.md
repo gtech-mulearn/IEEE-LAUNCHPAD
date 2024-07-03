@@ -1,9 +1,8 @@
-# Full Name 
+# Helna Maria Melton 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+>  I'm Helna Maria Melton. I completed my bachelor's degree in computer science.
 
 ## Portfolio Highlights
 
