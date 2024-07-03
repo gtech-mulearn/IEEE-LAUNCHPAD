@@ -3,7 +3,7 @@ Don p d
 
 ### About Me
 
-> A bca and mca graduate
+> A bca and mca graduate passionate in java programming , enjoy solving complex problems. 
 > 
 
 ## Portfolio Highlights
