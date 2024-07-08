@@ -15,8 +15,7 @@
 | **AI Facial Recognition System**  | A python program that enables users to identify individuals based on previously trained images.                                              |  | [Repo Link 1](https://github.com/Blesson-Tomy/AI_Face_Recognition)
 | **Personal Portfolio Website**  | Built using HTML, CSS and Javascript, the website allows people to learn more about me and connect with me.| [Hosted Link 2](blesson-portfolio.vercel.app) | [Repo Link 2](https://github.com/Blesson-Tomy/Blesson)
 | **Personal Profiles Site**  | Built using HTML and CSS, the website allows people to connect with me easily.| [Hosted Link 3](https://blesson-tomy.github.io/Profile_Page/) | [Repo Link 3](https://github.com/Blesson-Tomy/Profile_Page)
-
-
+| **EzPrintZ**  | Built using HTML, CSS , Google Analytics and Google Sheets API, the website allows students in my college to easily avail the college's printing facilty from the comfort of their phones. .| 
 #### Leadership and Influence:
 
 Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
