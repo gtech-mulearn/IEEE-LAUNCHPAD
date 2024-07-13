@@ -28,7 +28,7 @@
 
 
 #### History of Open Source Contributions:
-- Currently, I am in the early stages of my academic journey and haven't had the opportunity to make open-source contributions. However, I am eager to explore this avenue as I progress in my studies
+- Currently, I am in the early stages of my career journey and haven't had the opportunity to make open-source contributions. 
 
   
 #### History of Community Engagement:
