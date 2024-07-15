@@ -14,6 +14,15 @@
 | Personal website    | My personal wesite which gives a glimpse of myself                        | [Hosted Link ](gauthamkrishna.netlify.app/)| [Repo Link 1](https://github.com/username/project1)                |
 | CLI tool            | CLI tool for image processing using python                                |                                            | [Repo Link 2](https://github.com/gauthamkrishna1312/img_processor) |
 
+| Text to voice           | GUI tool for convert text to voice                                |                                            | [Repo Link 2](https://github.com/gauthamkrishna1312/tex_to_voice) |
+
+| Ticketing app           | Django web app for ticket management for events                               |                                            | [Repo Link 2](https://github.com/gauthamkrishna1312/invento) |
+
+| Todo           | Django web app for maiking todos with online account                               |                                            | [Repo Link 2](https://github.com/gauthamkrishna1312/todo_app_django/) |
+
+| Event Portal           | A portal where you can manage events like college festivals built using Django and HTML CSS                              |                                            | [Repo Link 2](https://github.com/gauthamkrishna1312/eventportel_bfh) |
+
+
 #### Leadership and Influence:
 
 - My leadership quality is characterized by my ability to inspire and motivate teams to achieve common goals. I lead by example, demonstrating dedication, integrity, and a strong work ethic. I believe in a collaborative approach, valuing diverse perspectives and encouraging open communication to foster a creative and inclusive environment.
