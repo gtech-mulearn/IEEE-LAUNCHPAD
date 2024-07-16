@@ -14,35 +14,36 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **VoteChain**        | Blockchain based e voting system, with biometric face verification feature etc. | [NoLink](https://github.com/aswanthabam/Votechain) |[github repo link](https://github.com/aswanthabam/Votechain)   |
+| **DropIT** | File sharing platform | [drop-it.web.app](https://drop-it.web.app) | https://github.com/aswanthabam/DropIT |
+| **Vijnana Website** | Website for my college techfest, with google signin and onetap event registration | [vijnana.web.app](https://vijnana.web.app/v1) | https://github.com/aswanthabam/Vijnana |
 | **AVC Manager** | AVC Manager is a mobile application for managing device and doing functionalities such as freeing up storage | [Download Link](https://github.com/aswanthabam/Manager)| [github repo link](https://github.com/aswanthabam/Manager) |
+
+> **For knowing about my projects in detail checkout : https://aswanthvc.me/projects**, here you can find complete list of my projects and all details about it.
 
 ### Portfolio Highlights
 
 #### Leadership and Influence:
 
 - Bot Team lead of mulearn
+- COO of IEDC GCT
 
 #### Networking:
 - Participated in many techfests and conferences.
-
-#### Career Plan:
-
-#### Thoughts on Kerala's Tech Ecosystem:
-
 
 #### History of Open Source Contributions:
 
 - Contributed in cyber security package called strombreaker.
 
-#### History of Community Engagement:
-
-
 #### Highly Visible Technical Content:
-
+- DropIT launch on product hunt : https://www.producthunt.com/posts/dropit-0f956d64-4e7a-44ad-8f9b-6dc143b16a0c
+- Posts on X : https://x.com/_aswanthvc
 - Authored a technical blog post on [Linkedin](https://linkedin.com/aswanth-vc).
 
 #### Highly Used Software Tools:
 
-#### Competitive Website Profiles:
+- Django
+- React
+- Flutter
+- FastAPI
 
 ---
