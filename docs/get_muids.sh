@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# to run first ` chmod +x ./get_muids.sh`
+
 # Define the path to the profile folder
 profile_folder="profiles"
 

@@ -35,14 +35,21 @@
 - The digital ecosystem in Kerala is a commendable endeavor that seeks to foster and enhance the startup culture. Young people with an entrepreneurial mindset are becoming more prevalent as a result. For young aspirants interested in startup missions, it will be helpful.
 
 
+- Html
+- Css
+- Js
+- Python
+- 
+#### Highly Visible Technical Content:
+
+- Highlight any highly visible technical blog posts, articles, or video series you have created.
+
 #### Highly Used Software Tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harika-haru&layout=compact)
-
+- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
-
-- (https://www.hackerrank.com/profile/nharika203)
+- https://www.hackerrank.com/profile/nharika203
 
 
 
