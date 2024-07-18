@@ -1,156 +1,58 @@
-# IEEE LAUNCHPAD Job Fair
-
-
-
-
-
-
-
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
-
-
-
-
-
-
-
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
-
-#
-
-
-
-
-<div align="center">
-
-
-
-
-# How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
-
-> **Watch the onboarding video-👆**
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
-
----
+<div class="section">
+        <h1>Sooraj P - Full Stack Developer</h1>
+        <h2 style="color: #007bff; font-size: 1.5rem; margin-bottom: 10px;">About Me</h2>
+        <p>
+            I am a Full Stack Developer passionate about crafting innovative web applications. Proficient in JavaScript, Python, and C Programming, I use frameworks like Reactjs, Nextjs, Angular, and Express to create dynamic solutions. Experienced in managing databases such as MySQL and MongoDB, I excel in team and project management. My strong communication, leadership, and adaptability ensure effective collaboration and outstanding results.
+        </p>
+    </div>
+
+  <div class="section">
+        <h2 style="color: #007bff; font-size: 1.5rem; margin-bottom: 10px;">My Projects</h2>
+        <ul>
+            <li>
+                <strong>Fitness Tea Ecommerce:</strong> A custom-styled e-commerce platform to sell fitness tea, featuring user authentication, a payment gateway, and an admin panel, built with Nextjs, Tailwind, Nodejs, Express, and MongoDB. Hosted Link: <a href="https://dania.com" style="color: #007bff; text-decoration: none;">Dania</a>, Repo Link: <a href="https://github.com/yourusername/dania" style="color: #007bff; text-decoration: none;">github repo link</a>
+            </li>
+            <li>
+                <strong>ERP Software:</strong> A Reactjs-based ERP web application for KEL Electrical Machines Limited, featuring manufacturing, attendance, and payroll functionalities, with authentication and an admin panel, using Reactjs, Material UI, HTML, CSS, and JavaScript. Hosted Link: Not Deployed, Repo Link: <a href="https://github.com/yourusername/erp-software" style="color: #007bff; text-decoration: none;">github repo link</a>
+            </li>
+            <li>
+                <strong>FilmScout:</strong> An Angular-based mobile responsive web application styled using TailwindCSS which fetches movie data from TMDB and displays information. Hosted Link: FilmScout, Repo Link: <a href="https://github.com/yourusername/filmscout" style="color: #007bff; text-decoration: none;">github repo link</a>
+            </li>
+        </ul>
+    </div>
+    <div class="section">
+        <h2 style="color: #007bff; font-size: 1.5rem; margin-bottom: 10px;">Portfolio Highlights</h2>
+        <h3 style="color: #007bff;">Leadership and Influence:</h3>
+        <ul>
+            <li>Community Leadership: District Head at GTech MuLearn, Campus Lead at Tinkerhub, and Hack Club Lead, guiding teams and organizing tech events globally.</li>
+        </ul>
+
+   <h3 style="color: #007bff;">Project Management:</h3>
+        <ul>
+            <li>Led projects like Fitness Tea Ecommerce and ERP Software at KEL Electrical Machines Limited, emphasizing team coordination and effective communication for successful delivery.</li>
+        </ul>
+
+   <h3 style="color: #007bff;">Networking:</h3>
+        <ul>
+            <li>My networking skills involve active engagement in communities like GTech MuLearn and Hack Club, where I lead and influence through effective communication, event management, and fostering collaboration among peers.</li>
+        </ul>
+
+ <h3 style="color: #007bff;">Career Plan:</h3>
+        <p>In the immediate term, I plan to enroll as a junior developer and improve my skills in other areas. In the long term, I aim to launch a tech startup based on emerging needs in Kerala.</p>
+
+ <h3 style="color: #007bff;">Thoughts on Kerala's Tech Ecosystem:</h3>
+        <p>Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups. Collaboration between academia, government, and industry will be key to achieving this vision.</p>
+
+<h3 style="color: #007bff;">History of Open Source Contributions:</h3>
+        <ul>
+            <li>Contributed to the open-source project Mulearn Website multilanguage support as a major contribution. As a part of Hacktoberfest, contributed to various organizations.</li>
+        </ul>
+
+  <h3 style="color: #007bff;">History of Community Engagement:</h3>
+        <ul>
+            <li>Active participant and engaged in the GTech Mulearn, Hack Club, Tinkerhub Discord channels for various activities.</li>
+        </ul>
+
+ <h3 style="color: #007bff;">Highly Used Software Tools:</h3>
+        <p>Developed a web-app Ecommerce platform called Daniasecrets used by users outside India.</p>
+    </div>

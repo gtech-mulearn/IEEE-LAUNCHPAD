@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I am a Full Stack Developer passionate about crafting innovative web applications. Proficient in JavaScript, Python, and C Programming, I use frameworks like Reactjs, Nextjs, and Express to create dynamic solutions. Experienced in managing databases such as MySQLand MongoDB, I excel in team and project management. My strong communication, leadership, and adaptability ensure effective collaboration and outstanding results.
+> I am a Full Stack Developer passionate about crafting innovative web applications. Proficient in JavaScript, Python, and C Programming, I use frameworks like Reactjs, Nextjs, Angular and Express to create dynamic solutions. Experienced in managing databases such as MySQLand MongoDB, I excel in team and project management. My strong communication, leadership, and adaptability ensure effective collaboration and outstanding results.
 
 ---
 
@@ -12,6 +12,7 @@
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Fitness Tea Ecommerce**        | A custom-styled e-commerce platform to sell fitness tea, featuring user authentication, a payment gateway, and an admin panel, built with Nextjs, Tailwind, Nodejs, Express, and MongoDB.                                               | [Dania](https://www.daniasecrets.com/) |[github repo link](https://github.com/Vertecho-Technologies/herbal-frontend-v1)   |
 | **ERP Software**        | A Reactjs-based ERP web application for KEL Electrical Machines Limited, featuring manufacturing, attendance, and payroll functionalities, with authentication and an admin panel, using Reactjs, Material UI, HTML, CSS, and JavaScript    | Not Depoloyed     | [github repo link](https://github.com/KZ-ERP-solutions/ERPfrontend) |
+| **FilmScout**        | A Angular-based mobile responsive web application styled using TailwindCSS which fetches movie data from TMDB and displays information| [FilmScout]([https://www.daniasecrets.com/](https://filmscouts.netlify.app/))    | [github repo link](https://github.com/the3plet/FilmScout) |
 
 ### Portfolio Highlights
 
