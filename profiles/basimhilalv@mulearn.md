@@ -11,7 +11,7 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Verfiable Credential Sharing Using blockchain**  | A blockchain based file or credential sharing website for students in college for their placement purposes or job application                                            | Nil    | Nil             |
-| **Video Games Library**  | A video game website developed using MERN Stack to provide information about varieties of video games, seller, and availability & price in the market                                              | https://basiplay-mern.onrender.com    | https://github.com/basimhilalv/MERN-PROJECT-03-Client             |
+| **Video Games Library**  | A video game website developed using MERN Stack to provide information about varieties of video games, seller, and availability & price in the market                                              | Nil    | Nil             |
 
 #### Leadership and Influence:
 
@@ -23,7 +23,7 @@
 
 #### Career Plan:
 
-- I have both immediate and long term career plan for my future. Learning and practicing my skills using free online resources until I get an opportunity to showcase my skills in a company to earn and become financially stable. On the other hand long term plans are little different, that is, complete masters education in computer science by specialising in any emerging technologies like AI / ML / DL / DS etc and do research & development after getting doctorate in the field. Moreover, starting a product based IT company in my neighbourhood for development of my society and people also a dream. I think after 10-15 years, I can achieve these goals and dreams. I know my dream is crazy but I will definitely reach that mark.
+- I have both immediate and long term career plan for my future. Learning and practicing my skills using free online resources until I get an opportunity to showcase my skills in a company to earn and become financially stable. On the other hand long term plans are little different, that is, complete masters education in computer science and do research & development after getting doctorate in the field. I know my dream is crazy but I will definitely reach that mark.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -37,6 +37,6 @@
 #### Competitive Website Profiles:
 
 - HackerRank - https://www.hackerrank.com/profile/basimhilaloffic1
-
+- Exercism - https://exercism.org/profiles/basimhilalv
 
 ---
