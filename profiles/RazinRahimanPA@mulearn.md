@@ -12,7 +12,6 @@
 | **Android Application for Handwritten text detection** |Developed an Android app using React Native, Python and Deep Learning algorithms for handwritten text detection and conversion into voice  |[https://github.com/Razinpa/Android-Application-for-Handwritten-text-detection](https://github.com/gtech-mulearn/LAUNCHPAD)   |
 | **Image to Text to Speech Converter** | Designed a web application using Python, Flask to seamlessly extract text from images, support multi-language translation, and convert the text into speech.   | [https://github.com/Razinpa/Image-to-Text-to-Speech-Converter](https://github.com/gtech-mulearn/LAUNCHPAD) |
 
-### Portfolio Highlights
 
 
 #### Career Plan:
@@ -21,8 +20,8 @@ I aim to join a dynamic tech company where I can apply my skills in python web d
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups.
-- Collaboration between academia, government, and industry will be key to achieving this vision.
+- Future Prospects: Kerala has a growing tech ecosystem with a strong emphasis on innovation and education. By leveraging the state's talent pool and fostering a culture of collaboration, Kerala can become a hub for tech startups. Investment in infrastructure, support for incubators, and initiatives to bridge the gap between academia and industry are key to this growth.
+
 
 #### Competitive Website Profiles:
 
