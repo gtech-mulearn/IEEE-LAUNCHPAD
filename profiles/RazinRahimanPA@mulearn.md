@@ -26,7 +26,7 @@ I aim to join a dynamic tech company where I can apply my skills in python web d
 #### Competitive Website Profiles:
 
 
-Github : Razinpa(https://github.com/Razinpa/)
+- Github : [Razinpa](https://github.com/Razin/)
 
 ---
 
