@@ -20,13 +20,13 @@ I aim to join a dynamic tech company where I can apply my skills in python web d
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Future Prospects: Kerala has a growing tech ecosystem with a strong emphasis on innovation and education. By leveraging the state's talent pool and fostering a culture of collaboration, Kerala can become a hub for tech startups. Investment in infrastructure, support for incubators, and initiatives to bridge the gap between academia and industry are key to this growth.
+Future Prospects: Kerala has a growing tech ecosystem with a strong emphasis on innovation and education. By leveraging the state's talent pool and fostering a culture of collaboration, Kerala can become a hub for tech startups. Investment in infrastructure, support for incubators, and initiatives to bridge the gap between academia and industry are key to this growth.
 
 
 #### Competitive Website Profiles:
 
 
-- Github : [Razinpa](https://github.com/Razin/)
+Github : [Razinpa](https://github.com/Razin/)
 
 ---
 
