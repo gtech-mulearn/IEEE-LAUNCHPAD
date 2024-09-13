@@ -31,13 +31,6 @@ I aim to actively engage in projects, enhance my expertise, and collaborate with
 
 -  Kerala should collaborate closely with the government to develop and implement policies that encourage entrepreneurship, provide tax incentives for startups, streamline regulations, and create a supportive ecosystem for innovation and growth.Establishing partnerships and collaborations with global tech hubs, startup ecosystems, and multinational corporations can help Kerala-based startups gain access to global markets, technologies, mentors, and investors. This global connectivity can enable Kerala to compete on a global scale and attract international talent, investments, and opportunities for its startups.By leveraging its strengths, fostering innovation, providing access to resources and capital, and creating a supportive and collaborative ecosystem, Kerala has the potential to become a leading technology startup hub in India and a significant player on the global stage
 
-#### History of Open Source Contributions:
-
-- 
-
-
-
-
 #### Competitive Website Profiles:
 
 -  https://www.hackerrank.com
