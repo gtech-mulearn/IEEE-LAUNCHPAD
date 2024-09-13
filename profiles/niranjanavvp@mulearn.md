@@ -18,6 +18,10 @@ I aim to actively engage in projects, enhance my expertise, and collaborate with
 | **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
+#### Competitive Website Profiles:
+Hackerrank : https://www.hackerrank.com/profile/niranjanatvp
+
+
 #### Leadership and Influence:
 
 - Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
