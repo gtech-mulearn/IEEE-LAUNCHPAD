@@ -1,8 +1,12 @@
-# Full Name 
+# NIRANJANA V P
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Hello, tech visionaries!
+I'm Niranjana V P,a technology enthusiast from Kollam.
+I am a motivated IT fresher with a passion for technology and strong academic foundation. 
+My goal is to contribute my strong problem-solving skills, technical knowledge, and eagerness to learn in a dynamic IT company.
+I aim to actively engage in projects, enhance my expertise, and collaborate within a team to drive innovation and achieve collective success.
 
 
 ## Portfolio Highlights
@@ -20,7 +24,9 @@
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- - Being an IEEE member, I utilize this platform to connect, share knowledge, and collaborate on projects, emphasizing my dedication to personal and professional development.
+- Continuously following the work of professionals in my field showcases my commitment to ongoing learning and staying informed about the latest advancements.
+- In terms of influencing and leading others, I aim to inspire action and foster collaboration within the community to drive positive change and innovation.
 
 #### Career Plan:
 
