@@ -40,8 +40,7 @@ I aim to actively engage in projects, enhance my expertise, and collaborate with
 
 #### Competitive Website Profiles:
 
--  https://www.hackerrank.com/profile/niranjanatvp
-
+-  https://www.hackerrank.com
 
 
 > In your portfolio, include the following details:
