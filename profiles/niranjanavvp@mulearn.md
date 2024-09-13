@@ -18,14 +18,9 @@ I aim to actively engage in projects, enhance my expertise, and collaborate with
 | **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
-#### Competitive Website Profiles:
-Hackerrank : https://www.hackerrank.com/profile/niranjanatvp
-
-
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
+- I'm involved in various extracurricular activities and hold memberships in IEEE and IEDC at my college, where I collaborate with like-minded peers to foster innovation and leadership.
 #### Networking:
 
 - - Being an IEEE member, I utilize this platform to connect, share knowledge, and collaborate on projects, emphasizing my dedication to personal and professional development.
@@ -52,18 +47,16 @@ Hackerrank : https://www.hackerrank.com/profile/niranjanatvp
 
 - Highlight any highly visible technical blog posts, articles, or video series you have created.
 
-#### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+-  https://www.hackerrank.com/profile/niranjanatvp
 
 
 
 > In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+>> check out [niranjanavvp@mulearn.md](./profiles/niranjanavvp@mulearn.md) 
 
 ---
 
