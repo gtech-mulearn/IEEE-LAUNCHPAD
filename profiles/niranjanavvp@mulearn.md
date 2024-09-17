@@ -23,7 +23,7 @@ I aim to actively engage in projects, enhance my expertise, and collaborate with
 - I'm involved in various extracurricular activities and hold memberships in IEEE and IEDC at my college, where I collaborate with like-minded peers to foster innovation and leadership.
 #### Networking:
 
-- - Being an IEEE member, I utilize this platform to connect, share knowledge, and collaborate on projects, emphasizing my dedication to personal and professional development.
+- Being an IEEE member, I utilize this platform to connect, share knowledge, and collaborate on projects, emphasizing my dedication to personal and professional development.
 - Continuously following the work of professionals in my field showcases my commitment to ongoing learning and staying informed about the latest advancements.
 - In terms of influencing and leading others, I aim to inspire action and foster collaboration within the community to drive positive change and innovation.
 
