@@ -37,7 +37,7 @@ I aim to actively engage in projects, enhance my expertise, and collaborate with
 
 
 > In your portfolio, include the following details:
->> check out [niranjanavvp@mulearn.md](./profiles/niranjanavvp@mulearn.md) 
+>> check out [niranjanavvp@mulearn.md](./profiles/niranjanavvp@mulearn.md)
 
 ---
 
