@@ -20,45 +20,21 @@ I aim to actively engage in projects, enhance my expertise, and collaborate with
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
+- I'm involved in various extracurricular activities and hold memberships in IEEE and IEDC at my college, where I collaborate with like-minded peers to foster innovation and leadership.
 #### Networking:
 
-- - Being an IEEE member, I utilize this platform to connect, share knowledge, and collaborate on projects, emphasizing my dedication to personal and professional development.
+- Being an IEEE member, I utilize this platform to connect, share knowledge, and collaborate on projects, emphasizing my dedication to personal and professional development.
 - Continuously following the work of professionals in my field showcases my commitment to ongoing learning and staying informed about the latest advancements.
 - In terms of influencing and leading others, I aim to inspire action and foster collaboration within the community to drive positive change and innovation.
 
-#### Career Plan:
-
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
-
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+-  Kerala should collaborate closely with the government to develop and implement policies that encourage entrepreneurship, provide tax incentives for startups, streamline regulations, and create a supportive ecosystem for innovation and growth.Establishing partnerships and collaborations with global tech hubs, startup ecosystems, and multinational corporations can help Kerala-based startups gain access to global markets, technologies, mentors, and investors. This global connectivity can enable Kerala to compete on a global scale and attract international talent, investments, and opportunities for its startups.By leveraging its strengths, fostering innovation, providing access to resources and capital, and creating a supportive and collaborative ecosystem, Kerala has the potential to become a leading technology startup hub in India and a significant player on the global stage
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- Active member on hackerrank 
+-  https://www.hackerrank.com
 
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
+  
 ---
