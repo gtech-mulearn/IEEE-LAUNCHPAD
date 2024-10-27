@@ -18,13 +18,6 @@ Dr. Sarith Divakar M has been serving as an Assistant Professor in the Departmen
 - Coordinator, KTU Faculty Development Programmee on Deep Learning, January 2023
 - Coordinator, ATAL Faculty Development Programmee on Machine Learning Engineering for Production, January 2024
 
-### My Projects
-
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **An integrated approach for flood prediction using deep learning techniques**  | The project titled "An Integrated Approach for Flood Prediction Using Deep Learning Techniques" (i2i2023W0168), as part of the Ideas to Impact (i2I) Challenge 2023-24, aims to enhance flood forecasting accuracy by leveraging deep learning models. Approved on February 19, 2024, this initiative focuses on integrating data sources such as weather forecasts, historical flood data, and topographical information to build a predictive model. The goal is to develop an advanced system that provides timely alerts, minimizing the risk to life and property and supporting resource-efficient disaster preparedness.                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/sarithdm/ideas2impact/tree/master)             |
-| **Mern**  |Mern Stack Example                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/sarithdm/cloudrunapp1)             |
-
 #### Leadership and Influence:
 
 In my domain, leadership and influence are integral aspects of my roles as an educator, mentor, researcher, and innovation coordinator. My experience spans developing curricula, coordinating innovation programs, guiding students and peers, and leading technical initiatives, which underscore my commitment to fostering growth, motivation, and progress within my institution and beyond.
@@ -49,6 +42,12 @@ Networking is an essential part of my professional approach, helping me stay con
 - Plan for Community Engagement and Influence: Going forward, I plan to organize regional workshops and webinars focused on AI, cloud computing, and data analytics, open to faculty and industry professionals. This initiative will encourage knowledge sharing and foster collaboration among local institutions and companies. Additionally, I aim to expand the IEDC network by partnering with more institutions, allowing students and faculty from various colleges to collaborate on research projects and entrepreneurial initiatives.
 
 By leveraging these networking skills and actively engaging with communities, I strive to build an inclusive, supportive network that encourages learning, innovation, and collaboration across my field. Through leadership and shared experiences, I aim to guide others towards impactful contributions in technology and education.
+### My Projects
+
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **An integrated approach for flood prediction using deep learning techniques**  | The project titled "An Integrated Approach for Flood Prediction Using Deep Learning Techniques" (i2i2023W0168), as part of the Ideas to Impact (i2I) Challenge 2023-24, aims to enhance flood forecasting accuracy by leveraging deep learning models. Approved on February 19, 2024, this initiative focuses on integrating data sources such as weather forecasts, historical flood data, and topographical information to build a predictive model. The goal is to develop an advanced system that provides timely alerts, minimizing the risk to life and property and supporting resource-efficient disaster preparedness.                                             | [Hosted Link 1] -    | [Repo Link 1](https://github.com/sarithdm/ideas2impact/tree/master)             |
+| **Mern**  |Mern Stack Example                                              | -   | [Repo Link 2](https://github.com/sarithdm/cloudrunapp1)             |
 
 #### Career Plan:
 
