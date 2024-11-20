@@ -10,7 +10,7 @@
 
 #### History of Open Source Contributions:
 
-- I currently don't have anu Open Source contributions but I would like to do some shortly.
+- I currently don't have any Open Source contributions but I would like to do some shortly.
 
 #### History of Community Engagement:
 
