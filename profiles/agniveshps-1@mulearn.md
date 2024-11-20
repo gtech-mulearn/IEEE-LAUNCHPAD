@@ -6,7 +6,11 @@
 
 
 ### Portfolio Highlights
+### My Projects
 
+| Name           | Description                                                                      | Hosted Link                              | Repo Link                                                      |
+|----------------|----------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| Alarm System      | I built a python based complete alarm system which includes a stopwatch and timer also as part of a micro project at MBCET    | [Hosted Link 1](https://example.com)     | https://github.com/lyfofagni/Simple-Clock-App-using-Python                 |
 
 #### History of Open Source Contributions:
 
