@@ -1,6 +1,6 @@
-# Nafeesathul Misna C
+# Full Name 
 
-### About me
+### About Me
 
 > write about your self .................. (minimum 200 Characters)
 
