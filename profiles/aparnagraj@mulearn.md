@@ -12,13 +12,10 @@ APARNA G RAJ
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Event Management Application**  | Developed a dynamic event managemnt platform using MERN     |[Hosted Link 1](https://example.com)      | [Repo Link 1](https://github.com/username/project1)  
-                                    |  stack and designed a responsive UI and optimized back-end  |
-                                    | for functionality.                                          |               
-| **Staycation Booking System**     | Developed a staycation booking system with features for      |
-                                    |accessing available hotels, villas, apartments and its booking|
-                                    |procedures using Tkinter, MySQL                               | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
-| **Sales Forecast Prediction       |Developed a model that preditcs future sales using python in ML|[Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2) 
+| **Event Management Application**  | Developed a dynamic event managemnt platform using MERN stack and designed a responsive UI and optimized back-end for functionality |[Hosted Link 1]     | [Repo Link 1] 
+                                         |               
+| **Staycation Booking System**     | Developed a staycation booking system with features for accessing available hotels, villas, apartments and its bookingprocedures using Tkinter, MySQL| [Hosted Link 2]| [Repo Link 2]|
+| **Sales Forecast Prediction**       |Developed a model that preditcs future sales using python in ML|[Hosted Link 2]    | [Repo Link 2]
 
 #### Leadership and Influence:
 
