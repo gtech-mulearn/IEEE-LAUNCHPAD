@@ -5,14 +5,13 @@ APARNA G RAJ
 
 > Myself Aparna G Raj from Trivandram. I'm currently doing B.tech in Computer Science and Artificial Intelligence. Passionate about technology and innovation.I have done internship in Full stack development using MERN. And also want to know more about the developing technologies and contribute my works to the impactful projects in thee tech industry.
 
+
 ## Portfolio Highlights
 
 ### My Projects
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Event Management Application**  | Developed a dynamic event managemnt platform using MERN stack and designed a responsive UI and optimized back-end for functionality |[Hosted Link 1]     | [Repo Link 1] 
-                                         |               
 | **Event Management Application**  | Developed a dynamic event managemnt platform using MERN stack and designed a responsive UI and optimized back-end for functionality |[Hosted Link 1]     | [Repo Link 1]                                          |               
 | **Staycation Booking System**     | Developed a staycation booking system with features for accessing available hotels, villas, apartments and its bookingprocedures using Tkinter, MySQL| [Hosted Link 2]| [Repo Link 2]|
 | **Sales Forecast Prediction**       |Developed a model that preditcs future sales using python in ML|[Hosted Link 2]    | [Repo Link 2]
