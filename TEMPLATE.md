@@ -50,6 +50,10 @@ I have used tools such as Python IDLE, Jupyter Notebook, Figma, Canva, FastAPI a
 HackerRank Profile: https://www.hackerrank.com/profile/vasundharasr_331
 
 #### Profile:
-https://app.mulearn.org/dashboard/profile
+https://app.mulearn.org/profile/vasundharasr@mulearn
+<img
+    src="https://mulearn.org/embed/rank/vasundharasr@mulearn"
+    width="400px">
+</img>
 
 ---
