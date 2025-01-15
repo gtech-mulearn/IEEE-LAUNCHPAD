@@ -2,46 +2,45 @@
 
 ### About Me
 
-> I'm Srinivas , currently a second year student presuing B.Tech in Computer Science and Engineering at LBS college of engineering Kasaragod. I have knowledge in python,C,java  programming languages and MySql Database.I have done a project in Bank management for my investigatory project for my 12th.I have certifications in data Structure and Algoriyjums using python by NPTEL and various others you can find it out at my Linkedin profile. You can contact me via Linkedin page. Thank you for visiting my page!
+Hello! I'm Srinivas, a second-year student pursuing a **B.Tech** in **Computer Science and Engineering** at **LBS College of Engineering**, Kasaragod. I have a strong foundation in programming languages like **Python**, **C**, **Java**, and **MySQL**. I also have practical experience from an **investigatory project** on **Bank Management**, completed during my 12th grade. Additionally, I hold certifications in **Data Structures and Algorithms using Python** from **NPTEL**, among others. You can explore more on my [LinkedIn profile](https://www.linkedin.com/in/srinivasammangod/). Feel free to connect with me!
 
+---
 
-## Portfolio Highlights
+### Portfolio Highlights
 
-### My Projects
+#### My Projects
 
-| Name           | Description                                                                      | Github Link                                                      |
-|----------------|----------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| Bank Management System      | Used for effective Bank management        | https://github.com/SRINIVASRAOAMMANGOD/BANK-MANAGEMENT-PYTHON                 |
-|             |
+| Project Name               | Description                                                | GitHub Link                                                                                  |
+|----------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| **Bank Management System**  | A project focused on effective management of banking operations | [Bank Management System on GitHub](https://github.com/SRINIVASRAOAMMANGOD/BANK-MANAGEMENT-PYTHON) |
 
-#### Leadership and Influence:
+---
 
--I have been Scout captain in my school days.
+#### Leadership & Influence:
+
+- I served as the **Scout Captain** during my school days.
 
 #### Networking:
 
--I make a lot of Connections through various Media like Mulearn, LinkedIn, IEDC, IEEE.
+- I actively network through platforms such as **Mulearn**, **LinkedIn**, **IEDC**, and **IEEE**.
 
-#### Career Plan:
+#### Career Plans:
 
--Immediate goal is to graduate B.Tech with an excellent GPA and to be placed at an MNC where
-i could grow myself.
--I would like to Start a startup of myself.
+- My immediate goal is to graduate with an excellent GPA and secure a job at a **multinational corporation (MNC)** where I can grow professionally.
+- In the long run, I aspire to start my own **startup**.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
--Kerala is slowly becoming a Tech industry.
+- Kerala's tech industry is gradually developing, with growing opportunities for innovation and entrepreneurship.
 
 #### Highly Used Software Tools:
 
--VS code editor, Github etc.
+- **VS Code**, **GitHub**, and other industry-standard tools.
 
-#### Competitive Website Profiles:
+#### Competitive Profiles:
 
--check out my freecodecamp profile: https://www.freecodecamp.org/srinivasmulearn
-
-
-
-> check out my Linkedin page https://www.linkedin.com/in/srinivasammangod/ 
+- Check out my **FreeCodeCamp** profile: [FreeCodeCamp](https://www.freecodecamp.org/srinivasmulearn)
 
 ---
+
+For more updates and to connect with me, visit my [LinkedIn profile](https://www.linkedin.com/in/srinivasammangod/).
