@@ -54,11 +54,3 @@ LinkedIn:https://www.linkedin.com/in/akshay-t-manoj-57a962330/
 Github: https://github.com/Akshaytm310
 
 ---
-
-
-I haven’t developed widely used software tools yet,
-
-#### Competitive Website Profiles:
-
-LinkedIn: https://www.linkedin.com/in/milind-krishna-p-829b08338/
-Github: https://github.com/mylel12prime007
