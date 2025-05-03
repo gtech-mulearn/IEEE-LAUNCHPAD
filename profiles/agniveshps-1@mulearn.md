@@ -1,9 +1,8 @@
-# IEEE Launchpad
+# Agnivesh PS 
 
-## Agnivesh PS
 ### About Me
 
-> Myself Agnivesh PS from Trivandrum. I'm a B.Tech Computer Science Student at Mar Baselios College of Engineering and Technology here in Trivandrum. I'm a designer and want to learn more about Python Full Stack Development.
+> Myself Agnivesh PS from Trivandrum. I'm a B.Tech Computer Science Student at Mar Baselios College of Engineering and Technology here in Trivandrum. I'm a designer and would like to learn more about Python Full Stack Development.
 
 
 ### Portfolio Highlights
@@ -19,7 +18,7 @@
 
 #### History of Community Engagement:
 
-- I have been part of the GTech MuLearn for the past 8 months contributing towards the creative and non-creative side.
+- I have been part of the GTech MuLearn for the past 8 months, contributing towards the creative and non-creative side.
 
 #### Highly Visible Technical Content:
 
@@ -57,5 +56,8 @@
 
 - https://app.mulearn.org/profile/agniveshps-1@mulearn
 
-![image](https://github.com/user-attachments/assets/d025f447-bc48-4026-9e5c-a96cd0dc32c7)
+<img
+    src="https://mulearn.org/embed/rank/agniveshps-1@mulearn"
+    width="400px">
+</img>
 
