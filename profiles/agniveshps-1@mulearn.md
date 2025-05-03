@@ -18,7 +18,7 @@
 
 #### History of Community Engagement:
 
-- I have been part of the GTech MuLearn for the past 8 months contributing towards the creative and non-creative side.
+- I have been part of the GTech MuLearn for the past 8 months, contributing towards the creative and non-creative side.
 
 #### Highly Visible Technical Content:
 
