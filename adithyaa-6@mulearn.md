@@ -1,4 +1,4 @@
-# Full Name 
+# Adithya Ambali
 
 ### About Me
 Hello! My name is Adithya A, and I’m someone who’s passionate about learning, creating, and growing through new experiences.I am currently pursuing a btech degree in IT at GECI completing my 2nd sem this month. I’ve developed a strong foundation in C, Python, HTML, CSS, and some of JS throughout my first yreat of college and I’m always eager to expand my knowledge.
