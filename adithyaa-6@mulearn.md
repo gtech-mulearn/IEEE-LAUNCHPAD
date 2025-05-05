@@ -43,12 +43,9 @@ Chat GPT is the most used software tool of mine. Also the website called gamma.a
 
 - Snakify : https://snakify.org/profile/
 - Free Code Camp : https://www.freecodecamp.org/AdithyaAmbali
-- Mulearn : https://app.mulearn.org/dashboard/profile
 - LinkedIn : https://www.linkedin.com/in/adithya-a-656b54306/
+- Mulearn : https://app.mulearn.org/dashboard/profile
 
+#### Profile Card :
+![1000135637](https://github.com/user-attachments/assets/30a225da-213f-402e-bcf6-d2b066a6455e)
 
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
