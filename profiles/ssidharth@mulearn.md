@@ -43,7 +43,7 @@
 - 🐙 [GitHub](https://github.com/callmesidhu)  
 - 💼 [LinkedIn](https://linkedin.com/in/callmesidhu)
   
-<img src="https://mulearn.org/embed/rank/ssidharth@mulearn" width="300" height="400"></img>
+<img src="https://mulearn.org/embed/rank/ssidharth@mulearn" width="300" height="600"></img>
 
 ---
 
