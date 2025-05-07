@@ -42,8 +42,8 @@
 - 🌐 [Portfolio](https://callmesidhu.pages.dev)
 - 🐙 [GitHub](https://github.com/callmesidhu)  
 - 💼 [LinkedIn](https://linkedin.com/in/callmesidhu)
-  
-<img src="https://mulearn.org/embed/rank/ssidharth@mulearn" width="600" height="400"></img>
+  <img src="https://mulearn.org/embed/rank/ssidharth@mulearn" style="width:100%; height:auto;" />
+
 
 ---
 
