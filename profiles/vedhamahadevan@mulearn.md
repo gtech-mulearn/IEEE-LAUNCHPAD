@@ -90,4 +90,5 @@ All these projects are available on my [GitHub](https://github.com/Vedha17Mahade
 - [HackerRank](https://www.hackerrank.com/profile/vedha2327)  
 - [MuLearn](https://app.mulearn.org/profile/vedhamahadevan@mulearn)  
 - [Devfolio](devfolio.co/@Vedha_Mahadevan)
-![MuLearn RankCard](https://drive.google.com/file/d/1UJdiZxYSKPMyh64A8Vt7MR0aHsVLqaeC/view?usp=drive_link)
+
+![MuLearn RankCard](https://postimg.cc/svFnQwBB)
