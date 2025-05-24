@@ -1,7 +1,7 @@
 # Vedha Mahadevan
 
 ## About Me  
-I’m a passionate second-year Computer Science Engineering student with strong problem-solving skills, interest in coding (proficient in C, Python, and Java), and a keen interest in exploring innovative technologies. My interests go beyond just technical things—I find creative inspiration in dance and the arts and also hold basic-level knowledge in designing and editing. My public speaking, leadership, and organizational skills allow me to excel in team projects, thrive under pressure, and deliver quality results. I aspire to bridge technology and creativity while making a meaningful impact.
+I’m a passionate second-year Computer Science Engineering student with strong problem-solving skills, interest in coding (proficient in C, Python, and Java), and a curiosity in exploring innovative technologies. My interests go beyond just technical things—I find creative inspiration in dance and the arts and also hold basic-level knowledge in designing and editing. My public speaking, leadership, and organizational skills allow me to excel in team projects, thrive under pressure, and deliver quality results. I aspire to bridge technology and creativity while making a meaningful impact.
 
 ---
 
@@ -32,7 +32,7 @@ I have been an active contributor and have held leadership roles within various 
 - **CSI SB MBCET – Vice Chairperson** – December 2024 – Present  
 - **MuLearn MBCET – Campus Co-Lead** – October 2024 – Present  
 
-I have also been an active organizer and volunteer for multiple technical, cultural, and creative events at MBCET. These experiences have enhanced my abilities in event planning and organization, budget management, multitasking, and team management, while allowing me to effectively give back to the campus community.
+I have also been an active organizer and volunteer for multiple technical, cultural, and creative events. These experiences have enhanced my abilities in event planning and organization, budget management, multitasking, and team management, while allowing me to effectively give back to the campus community.
 
 ---
 
@@ -44,7 +44,7 @@ I have also been an active organizer and volunteer for multiple technical, cultu
 
 ### Career Plan
 - In the near term, I aim to develop my skills, create small-scale useful projects, and participate in workshops, hackathons, and other such events for maximum exposure and experience.  
-- In the long term, I aspire to contribute to creative tech solutions that blend art, design, and technology to tackle real-world problems.
+- In the long term, I am looking forward to contribute to creative tech solutions that blend art, design, and technology to tackle real-world problems.
 
 ---
 
@@ -55,20 +55,19 @@ Kerala has an emerging tech ecosystem supported by great student potential and i
 
 ### History of Open Source Contributions
 - I have developed a few personal and academic projects that are available on my [GitHub profile](https://github.com/Vedha17Mahadevan) for public access.  
-- I am also collaboratively working on developing product-based solutions with an aim to tackle real-world problems.  
+- I am also collaboratively working on developing software-based solutions with an aim to tackle real-world problems.  
 - Apart from these, I currently do not have any additional open-source contributions.
 
 ---
 
 ### History of Community Engagement
-- Active and executive member of various internal communities and professional bodies at college, including IEEE SB MBCET, CSI SB MBCET, and MuLearn MBCET.  
-- Have been an active member of the MuLearn Foundation since 2023 and regularly follow its events.
+- Active and executive member of various internal communities and professional bodies at college, including [IEEE SB MBCET](https://www.instagram.com/ieeesbmbcet?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==), [CSI SB MBCET](https://www.instagram.com/csimbcet?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==), and [MuLearn MBCET](https://www.instagram.com/mulearn.mbcet?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).  
+- Have been an active member of the [MuLearn Foundation](https://mulearn.org/) since 2023 and regularly follow its events.
 
 ---
 
 ### Highly Visible Technical Content
 I have created various software-based projects aimed at tackling real-world problems. Some of the key highlights include:
-
 - **PrintEase** – (HTML, CSS, JS, MongoDB)  
 - **VedAyu** – (HTML, CSS, JS, GroqCloud) – developed as a part of Define’25 Hackathon  
 - **Library Management System** – (FastAPI)  
@@ -82,7 +81,7 @@ All these projects are available on my [GitHub](https://github.com/Vedha17Mahade
 ---
 
 ### Highly Used Software Tools
-- **PrintEase** *(Work in Progress)* – A web-based platform designed to streamline file submissions and printing services for students. The core prototype is complete and currently being prepared for implementation at the college level as a functional student-shop interface.
+- **PrintEase** *(Work in Progress)* – A web-based platform designed to streamline printing services. The core prototype is complete and currently being prepared for implementation at the college level as a functional student-shop interface.
 
 ---
 
