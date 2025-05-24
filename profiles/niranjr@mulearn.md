@@ -53,3 +53,6 @@ I’m a full-stack web developer passionate about building impactful digital sol
 
 - ShareNSplit is actively used by multiple student groups to manage shared travel expenses.
 
+#### Competitive Website Profiles:
+
+
