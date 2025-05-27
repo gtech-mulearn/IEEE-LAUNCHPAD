@@ -61,4 +61,4 @@
 - Mulearn: https://app.mulearn.org/profile/agniveshps-1@mulearn
 
 #### Rank Card:
-![RankCard](https://cdn.discordapp.com/attachments/789476711867088967/1375874180159115426/rank.png?ex=6833462f&is=6831f4af&hm=49a1da29b96b85a729d2a9ceea7bc2c4c9e7295b9425c625109cc9eba57d2ff9&)
+![RankCard](assets/rankcard.png)
