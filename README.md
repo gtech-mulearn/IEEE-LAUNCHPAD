@@ -1,156 +1,94 @@
-# IEEE LAUNCHPAD Job Fair
+# Vedha Mahadevan
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
-
-#
-
-
-
-
-<div align="center">
-
-
-
-
-# How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
-
-> **Watch the onboarding video-👆**
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
+## About Me  
+I’m a passionate second-year Computer Science Engineering student with strong problem-solving skills, interest in coding (proficient in C, Python, and Java), and a curiosity in exploring innovative technologies. My interests go beyond just technical things—I find creative inspiration in dance and the arts and also hold basic-level knowledge in designing and editing. My public speaking, leadership, and organizational skills allow me to excel in team projects, thrive under pressure, and deliver quality results. I aspire to bridge technology and creativity while making a meaningful impact.
 
 ---
+
+## My Projects
+
+| Name                      | Description                                                             | Hosted Link | Repo Link |
+|---------------------------|-------------------------------------------------------------------------|-------------|-----------|
+| **Scientific Calculator** | A functional scientific calculator with core math operations in Python  | —           | [GitHub](https://github.com/Vedha17Mahadevan/Scientific-Calculator.git)     |
+| **Library Management System** | A Python-based system to manage book records and users            | —           | [GitHub](https://github.com/Vedha17Mahadevan/Library-Management.git)     |
+| **Event Registration System** | Java project to handle event registration workflows              | —           | [GitHub](https://github.com/Vedha17Mahadevan/Event-Registration-System-Java.git)     |
+| **BMI Calculator**        | Simple frontend BMI calculator built with HTML, CSS, JS                 | [Live Link](https://vedha17mahadevan.github.io/BMI-Calculator/)          | [GitHub](https://github.com/Vedha17Mahadevan/BMI-Calculator.git)     |
+| **PrintEase** *(WIP)*     | Online centralized printing platform for shop-customer connectivity                 | [Live Link](https://vedha17mahadevan.github.io/PrintEase/)           | [GitHub](https://github.com/Vedha17Mahadevan/PrintEase)     |
+| **VedAyu**                | AI-driven application that helps increase awareness and knowledge regarding AYUSH based medical practices             | [Live Link](https://ved-ayu-aeternum-define-3-0-8qr3.vercel.app/index.html)           | [GitHub](https://github.com/Vedha17Mahadevan/Aeternum-Define25.git)     |
+| **StreetSafe**            | A hardware-based community safety solution to tackle the concerns related to broken electric cables                              | —           | [Presentation](https://www.canva.com/design/DAGRZlVe1ZE/9xniTiY1_ayl8Nk-hRuzpQ/view?utm_content=DAGRZlVe1ZE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hec71d97975)          |
+| **Disaster Management Module** | Hardware module designed for post-disaster scenarios             | —           | [Presentation](https://drive.google.com/file/d/1K40r3lcjBVJlJGPRdXZ1USML77n7fsZ4/view?usp=sharing)          |
+
+---
+
+## Portfolio Highlights
+
+### Leadership and Influence
+I have been an active contributor and have held leadership roles within various professional bodies and student communities at my college. All these responsibilities and my consistent commitment and determination reflect my leadership, teamwork, and communication strengths.
+
+**Positions Held:**
+- **Class Representative** – November 2023 – Present  
+- **IEEE SB MBCET – Membership Development Sub-Head** – February 2024 – Present  
+- **CSI SB MBCET – Event Organizer** – March 2024 – December 2024  
+- **CSI SB MBCET – Vice Chairperson** – December 2024 – Present  
+- **MuLearn MBCET – Campus Co-Lead** – October 2024 – Present  
+
+I have also been an active organizer and volunteer for multiple technical, cultural, and creative events. These experiences have enhanced my abilities in event planning and organization, budget management, multitasking, and team management, while allowing me to effectively give back to the campus community.
+
+---
+
+### Networking
+- Actively connected with students, mentors, and professors at MBCET.  
+- Contributed to collaborative initiatives through communities like CSI and MuLearn Foundation.
+
+---
+
+### Career Plan
+- In the near term, I aim to develop my skills, create small-scale useful projects, and participate in workshops, hackathons, and other such events for maximum exposure and experience.  
+- In the long term, I am looking forward to contribute to creative tech solutions that blend art, design, and technology to tackle real-world problems.
+
+---
+
+### Thoughts on Kerala's Tech Ecosystem
+Kerala has an emerging tech ecosystem supported by great student potential and innovation. The progress is considerable, but by paving the way for interdisciplinary ideas and cultivating a tech culture, the state can create a great impact and foster sustainable development.
+
+---
+
+### History of Open Source Contributions
+- I have developed a few personal and academic projects that are available on my [GitHub profile](https://github.com/Vedha17Mahadevan) for public access.  
+- I am also collaboratively working on developing software-based solutions with an aim to tackle real-world problems.  
+- Apart from these, I currently do not have any additional open-source contributions.
+
+---
+
+### History of Community Engagement
+- Active and executive member of various internal communities and professional bodies at college, including [IEEE SB MBCET](https://www.instagram.com/ieeesbmbcet?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==), [CSI SB MBCET](https://www.instagram.com/csimbcet?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==), and [MuLearn MBCET](https://www.instagram.com/mulearn.mbcet?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).  
+- Have been an active member of the [MuLearn Foundation](https://mulearn.org/) since 2023 and regularly follow its events.
+
+---
+
+### Highly Visible Technical Content
+I have created various software-based projects aimed at tackling real-world problems. Some of the key highlights include:
+- **PrintEase** – (HTML, CSS, JS, MongoDB)  
+- **VedAyu** – (HTML, CSS, JS, GroqCloud) – developed as a part of Define’25 Hackathon  
+- **Library Management System** – (FastAPI)  
+- Other notable projects include:  
+  - **BMI Calculator** – (HTML, CSS, JS)  
+  - **Scientific Calculator** – (Python)  
+  - **Event Registration System** – (NetBeans and MySQL)  
+
+All these projects are available on my [GitHub](https://github.com/Vedha17Mahadevan) account.
+
+---
+
+### Highly Used Software Tools
+- **PrintEase** *(Work in Progress)* – A web-based platform designed to streamline printing services. The core prototype is complete and currently being prepared for implementation at the college level as a functional student-shop interface.
+
+---
+
+### Competitive Website Profiles
+- [GitHub](https://github.com/Vedha17Mahadevan)  
+- [HackerRank](https://www.hackerrank.com/profile/vedha2327)  
+- [MuLearn](https://app.mulearn.org/profile/vedhamahadevan@mulearn)  
+- [Devfolio](devfolio.co/@Vedha_Mahadevan)
+
+![MuLearn RankCard](https://i.postimg.cc/L65GWW2V/rank.png)
