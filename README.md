@@ -63,5 +63,4 @@
 #### Rank Card:
 <img
     src="https://mulearn.org/embed/rank/niranjr@mulearn"
-    width="400px">
-</img>
+    width="600px">
