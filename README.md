@@ -61,4 +61,7 @@
 - Mulearn: https://app.mulearn.org/profile/agniveshps-1@mulearn
 
 #### Rank Card:
-![RankCard](assets/rankcard.png)
+<img
+    src="https://mulearn.org/embed/rank/niranj-r@mulearn"
+    width="400px">
+</img>
