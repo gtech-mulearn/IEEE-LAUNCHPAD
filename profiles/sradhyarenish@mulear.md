@@ -1,5 +1,3 @@
-# IEEE LAUNCHPAD
-
 # Sradhya Renish
 
 ### About Me
@@ -35,7 +33,7 @@
 
 ### History of Open Source Contributions:
 
-- I’ve shared several student-focused projects on my GitHub, where I actively maintain and develop open-source work https://github.com/sradhya9
+- I’ve shared several student-focused projects on my GitHub, where I actively maintain and develop open-source work [Github](https://github.com/sradhya9)
 - I’m also working towards contributing to public open-source tools in the near future.
   
 ### History of Community Engagement:
@@ -44,7 +42,7 @@
 
 ### Highly Visible Technical Content:
 
-- My projects are available on GitHub and showcased through my portfolio https://github.com/sradhya9
+- My projects are available on GitHub and showcased through my portfolio [GitHub](https://github.com/sradhya9)
 
 ### Highly Used Software Tools:
 
@@ -52,13 +50,8 @@
 
 ### Competitive Website Profiles:
 
-- https://github.com/sradhya9
-- https://app.mulearn.org/dashboard/profile
+- [GitHub](https://github.com/sradhya9)
+- [MuLearn](https://app.mulearn.org/dashboard/profile)
 
-### Rank Card
-
-<img
-    src="https://mulearn.org/embed/rank/sradhyarenish@mulearn"
-    width="600px">
+![MuLearn RankCard](https://cdn.discordapp.com/attachments/789476711867088967/1375877069279330354/rank.png?ex=683348df&is=6831f75f&hm=e83681dca009611a4b2049d091c4870b13f70a816e54407cf969fc794e2c40be&)
 ---
-
