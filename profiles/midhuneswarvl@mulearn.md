@@ -72,7 +72,7 @@ Currently haven’t developed widely adopted tools, but planning to release usef
 ##  Competitive Profiles
 
 - [GitHub]( https://github.com/Midhun6-tech)  
-- [HackerRank]( https://postimg.cc/CzTJ7qyr)  
-- [Devfolio]( https://devfolio.co/@midhun_eswar)  
+- [HackerRank]![ImgName]( https://postimg.cc/CzTJ7qyr)  
+- [Devfolio]( https://devfolio.co/@midhun_eswar/)  
 - [MuLearn](midhuneswarvl@mulearn)
-![image](https://github.com/user-attachments/assets/d1e710be-4134-43f0-a0fb-8991f7bb0f44)
+
