@@ -58,7 +58,7 @@
 #### Competitive Website Profiles:
 
 - Github : https://github.com/niranj-r
-- Mulearn: https://app.mulearn.org/profile/agniveshps-1@mulearn
+- Mulearn: https://app.mulearn.org/profile/niranjr@mulearn
 
 #### Rank Card:
 <img
