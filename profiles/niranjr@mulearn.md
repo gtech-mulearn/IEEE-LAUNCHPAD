@@ -1,10 +1,8 @@
-# IEEE LAUNCHPAD
-
 # Niranj
 
 ### About Me
 
-> I’m a full-stack web developer passionate about building impactful digital solutions that combine dynamic functionality with clean design. With a strong foundation in HTML, CSS, JavaScript, Node.js, and MongoDB, I’ve built projects like ShareNSplit and a Medical Records System that reflect my drive for solving practical problems. I enjoy architecting seamless user experiences, especially in tools designed for group collaboration, and have contributed to full systems from UI to backend. I'm committed to helping grow Kerala’s tech community through real-world tools and peer mentorship.
+I’m a full-stack web developer passionate about building impactful digital solutions that combine dynamic functionality with clean design. With a strong foundation in HTML, CSS, JavaScript, Node.js, and MongoDB, I’ve built projects like ShareNSplit and a Medical Records System that reflect my drive for solving practical problems. I enjoy architecting seamless user experiences, especially in tools designed for group collaboration, and have contributed to full systems from UI to backend. I'm committed to helping grow Kerala’s tech community through real-world tools and peer mentorship.
 
 ## Portfolio Highlights
 
@@ -57,10 +55,7 @@
 
 #### Competitive Website Profiles:
 
-- Github : https://github.com/niranj-r
-- Mulearn: https://app.mulearn.org/profile/niranjr@mulearn
+- Github : ![niranj-r](https://github.com/niranj-r).
 
 #### Rank Card:
-<img
-    src="https://mulearn.org/embed/rank/niranjr@mulearn"
-    width="600px">
+![MuLearn RankCard](https://cdn.discordapp.com/attachments/789476711867088967/1375874180159115426/rank.png?ex=6833462f&is=6831f4af&hm=49a1da29b96b85a729d2a9ceea7bc2c4c9e7295b9425c625109cc9eba57d2ff9&)
