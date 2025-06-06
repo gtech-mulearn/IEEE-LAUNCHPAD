@@ -1,58 +1,53 @@
-# Full Name 
+ADHITHYA MOHAN S
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+I am a person who is very compassionate towards art along with being a tech geek.I love exploring new domains and possibilities of technology and my proffesional course supports me to do the same.
+
+Being an engineering aspirant has always been my passion and I feel fortunate to have been able to get my desired branch, electronics and communication, that has further improved my confidence and will power and has encouraged me to do more.
+
+I also hold deep interst in photography and videography and i have always been inclined to activites associated with oration. I do find joy in wrting essays, poetry and learn new languages in my free time.
 
 
 ## Portfolio Highlights
 
-### My Projects
-
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
-
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+I believe I have strong leadership skills and my experience as RED HOUSE CAPTAIN during my school days has definitely encouraged me to take up a lot of leadership roles without any self doubt. In my opinion, leader is not just a person who leads the people and orders the other people around, but leader is more like a person who will stand infront of the team during failure and take the backseat in the face of success.I consider even the smallest oppurtunity of leadership extremely precious and being and executive commitee member of Enix has motivated me to carry on the the expertise in leadership that I gained from school.A lot of factors has influenced me to be a better leader over the course of time. Of all those facotrs, my teachers, who believed I could be a great leader and their hopeful eyes had influenced me the most.
 
-#### Networking:
-
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
+My peer group also had so many friends who had been my greatest well wishers and have been an honest critic to all the decisions I have made as a leader.
+ 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+In the short term, I want to be hands-on in supporting Kerala’s startup community. I plan to engage with young founders by sharing what I’ve learned—whether that’s through mentoring, workshops, or just being part of conversations at events and incubators. I’m especially interested in helping students and early-stage entrepreneurs connect their ideas to real-world impact, and bridging the gap between education and innovation.
+
+Looking ahead, I hope to play a more active role in shaping a stronger, more inclusive startup ecosystem across the state. That means working with others—policymakers, investors, and community leaders—to make it easier for people to start up, especially outside the big cities. I want to help create more opportunities for funding, better infrastructure, and a culture that supports risk-taking and creativity.
+
+One of my long-term goals is to connect Kerala’s startups with the global stage, tapping into the experience and networks of the Malayali diaspora. I’m also passionate about supporting ventures that solve real problems in health, agriculture, sustainability, and education—areas where Kerala can truly lead.
+
+More than anything, I want to be part of building an ecosystem where innovation is driven by purpose, and where startups grow not just fast, but meaningfully.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+I genuinely think Kerala has something special. There’s so much talent here — especially among students — and communities like IEEE and MuLearn are already helping that talent shine. But there’s still room to grow.
 
-#### History of Open Source Contributions:
+What I’d love to see more of is support for young people not just in coding or tech, but in leadership, communication, and entrepreneurship too. If we combine that with better infrastructure and collaboration across institutions, Kerala can become a place where ideas don’t just start — they thrive.
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+And I’m excited to be a part of that..
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+-  ISTE student chapter MBCET-PR AND MEDIA CO LEAD
+-  ACTIVE MEMBER AT FRAMES-MBCET PHOTOGRAPHY CLUB
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Currently running an active instagram page with 1k+ followers featuring photography
 
 #### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
+- LinkedIn: www.linkedin.com/in/adhithya-mohan-613245330
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
----
+
+
