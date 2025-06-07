@@ -48,6 +48,14 @@ And I’m excited to be a part of that..
 - LinkedIn: www.linkedin.com/in/adhithya-mohan-613245330
 
 
+#### Profile card
+
+<img
+    src="https://mulearn.org/embed/rank/adhithyamohans@mulearn"
+    width="400px">
+</img>
+
+
 
 
 
