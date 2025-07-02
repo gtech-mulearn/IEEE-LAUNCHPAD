@@ -20,15 +20,15 @@ I lead peer learning sessions in my college club and actively assist juniors wit
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+I engage in several Discord and GitHub-based tech communities. I plan to expand networking by contributing more consistently to open-source and mentoring new contributors. My goal is to inspire others by creating starter-friendly issues and project guides, encouraging collaboration.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+In the short term, I aim to build strong foundational projects and gain internships in full-stack or mobile development. Long term, I envision building developer-friendly tools/startups that solve real community problems, while mentoring others in the Kerala Startup Ecosystem through forums and local meetups.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+Kerala has talent and creativity but needs stronger startup exposure and mentorship ecosystems. With platforms like µLearn and community-driven spaces, Kerala can become a hub for young innovators. More support for open-source and early-stage projects will spark the next generation of startup founders.
 
 #### History of Open Source Contributions:
 
@@ -36,23 +36,28 @@ I lead peer learning sessions in my college club and actively assist juniors wit
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+- Actively engage in the µLearn Discord server .
+- Created helpful replies, code snippets, and beginner explanations.
+- Participate in TryHackMe rooms and mentor friends interested in cybersecurity.
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Wrote guides for Thunkable app building and Flutter UI layout in study groups.
+- Planning a blog series on Dart vs Kotlin and Firebase integration.
+- Shared Figma UI/UX prototype designs in community channels.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Figma.
+- Flutter.
+- React.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+ HackerRank-https://tryhackme.com/p/arnavmanesh
+ Mulearn-https://app.mulearn.org/dashboard/profile
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
