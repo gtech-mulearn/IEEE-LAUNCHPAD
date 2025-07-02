@@ -12,7 +12,7 @@ I’m a Computer Science Engineering student at Perumon Engineering College unde
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Task Manager app**  | A task manager app that helps users organize, add, and manage their daily tasks with a clean and user-friendly interface.                                              | [Prototype Link](https://www.figma.com/proto/2p7AjghLhe14nc8Nc6XbjM/great-ui?page-id=0%3A1&node-id=1-46&p=f&viewport=-23%2C451%2C0.07&t=frkNgnhQteOVAw7b-1&scaling=scale-down&content-scaling=fixed)    | [Design Link](https://www.figma.com/design/2p7AjghLhe14nc8Nc6XbjM/great-ui?node-id=0-1&t=Fl1NqLMnn4m4e7S6-1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Product Launching page**  | Description of the project 2                                              | [Hosted Link](https://arnavmanesh.github.io/final-project/)    | [Repo Link](https://github.com/Arnavmanesh/final-project)             |
 
 #### Leadership and Influence:
 
