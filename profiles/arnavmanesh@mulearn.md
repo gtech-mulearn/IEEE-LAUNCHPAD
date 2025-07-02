@@ -1,8 +1,8 @@
-# Full Name 
+# Arnav Manesh
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+I’m a Computer Science Engineering student at Perumon Engineering College under KTU, passionate about building practical, creative, and impactful software. I enjoy working across the stack—developing web apps,UI/UX designing, and exploring network security . Currently, I’m exploring  web development , mobile apps development (Flutter/Kotlin) and cyber securit . I strongly believe in the power of open knowledge and peer learning.
 
 
 ## Portfolio Highlights
@@ -11,12 +11,12 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Task Manager app**  | A task manager app that helps users organize, add, and manage their daily tasks with a clean and user-friendly interface.                                              | [Prototype Link](https://www.figma.com/proto/2p7AjghLhe14nc8Nc6XbjM/great-ui?page-id=0%3A1&node-id=1-46&p=f&viewport=-23%2C451%2C0.07&t=frkNgnhQteOVAw7b-1&scaling=scale-down&content-scaling=fixed)    | [Design Link](https://www.figma.com/design/2p7AjghLhe14nc8Nc6XbjM/great-ui?node-id=0-1&t=Fl1NqLMnn4m4e7S6-1)             |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+I lead peer learning sessions in my college club and actively assist juniors with project guidance. Through the µLearn community, I’ve taken initiative in group challenges, providing guidance and building documentation that others refer to. I regularly assist on Discord tech channels.
 
 #### Networking:
 
