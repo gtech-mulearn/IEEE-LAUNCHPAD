@@ -1,4 +1,4 @@
-# IEEE LAUNCHPAD Job Fair
+# LAUNCHPAD 2025
 
 
 
@@ -15,7 +15,7 @@
 
 
 <div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
+Welcome to the LAUNCHPAD 2025, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
 </div>
 
 #
@@ -29,7 +29,7 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 
 # How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
+[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/IwpOmzSqYao?si=2LlKYpSDcluNls-b)
 
 > **Watch the onboarding video-👆**
 
@@ -42,16 +42,19 @@ Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and c
 
 
 
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
+### Join the MuLearn Foundation Discord Server by registering [here](https://app.mulearn.org/register).
 #### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
 
 #
 
 ## Step 2:
 
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
+### Follow the onboarding workflow. During this process, ensure you:
+-   Connect your Discord account to obtain your MUID (Mulearn User ID).
+-   Enable the 'Open to Work' toggle in the profile settings of your learner's dashboard.
 
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
+<img width="1440" height="900" alt="Screenshot 2025-07-20 at 8 47 26 PM" src="https://github.com/user-attachments/assets/5e9bb999-3dbc-4530-84a9-44b9c69f99e8" />
+
 
 </div>
 
@@ -102,12 +105,14 @@ Once you're ready, create a pull request targeting the main branch. Let the worl
 
 ## 🚀 Step 4: Dive into the Digital Arena!
 
-### Welcome to the heart of our **LAUNCHPAD**
+### Welcome to the heart of our **LAUNCHPAD 2025**
 
 > The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
 
 
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
+<img width="273" height="111" alt="Screenshot 2025-07-20 at 9 17 25 PM" src="https://github.com/user-attachments/assets/d4980f35-1f60-46ae-87b8-65cd1b2d9565" />
+
+
 
 
 
@@ -115,24 +120,20 @@ Once you're ready, create a pull request targeting the main branch. Let the worl
 
 <div align="left">
 
-#### 📢 #ieee-launchpad-announcment 
+#### 📢 #launchpad-announcment
 
 - Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
 - Tip: Stay alert! You wouldn't want to miss out on any crucial info.
 
-#### 🤖 #ieee-lp-introduction 
+#### 🤖 #launchpad-self-intro
 - Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
+- Action: Drop a short bio and the GitHub repo link of your profile for the Launchpad 2025.
 
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
+#### 🎙️ #Basecamp
 
 - Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
+- Timing: Tune in every day from 7 PM to 8 PM.
+- Meeting Place - Google Meet.
 - Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
 
 
@@ -144,11 +145,11 @@ Once you're ready, create a pull request targeting the main branch. Let the worl
 #
 
 
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
+:memo: **Note:** That's it! You're all set to participate in **Launchpad 2025**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
 
 #
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
 
 
