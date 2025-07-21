@@ -16,10 +16,11 @@ and impactful solutions.
 - Former Technical Lead at Radio Community SJCET.
 - Former Campus Co-Lead at Gtech MuLearn SJCET.
 
-#### Networking:
+### Networking
 
-- Strong networking skills demonstrated through active participation summits and events.
-- I'm able to interact with people in a professional manner also expanding my network with people by buildung a root connection with them with the help of technology.
+- Actively engaged in tech summits, community events, and bootcamps to expand industry exposure.  
+- Skilled at fostering meaningful professional relationships through collaboration, communication, and shared technical interests.
+
 
 #### As a IEEE Launchpad participant:
 
