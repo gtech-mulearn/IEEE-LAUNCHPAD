@@ -2,20 +2,19 @@
 
 ### About Me
 
-> I'm a Tech Enthusiast and  Frontend Web Developer with a passion for creating frontend for innovative web applications. I have a deep understanding of the full backend web development life cycle. I am proficient in `C`, `Python` and a bunch of frameworks, such as Django and React. I have experience working with databases such as MySQL. Currently I am exploring and have practical experience in IoT, DevOps, Figma and software quality testing.  I look forward to learning new tools and technologies and gaining new experiences, collaborating with my fellow developers.
-
+>Dynamic Electrical & Electronics Engineering professional skilled in IoT, circuit design, renewable energy systems, proficient in UI/UX design, web development, manual software testing, an open-source enthusiast, adaptable and disciplined, with strong teamwork abilities and event management experience, committed to delivering innovative
+and impactful solutions.
 ---
 
 ### Portfolio Highlights
 
-#### Leadership and Influence:
+### Leadership and Influence
 
-
-- Organized Smart India Hackathon as a part of SJCET Startup Bootcamp IEDC.
-- Hosted various events in college.
-- Worked as a Technical Officer at SJCET Startup Bootcamp IEDC.
-- Currently working as Chief Financial Officer at SJCET Startup Bootcamp IEDC.
-- Currently working as Technical Lead at Radio Community SJCET 
+- Organized Smart India Hackathon with SJCET Startup Bootcamp IEDC.
+- Hosted multiple campus events and workshops.
+- Former Technical Officer and CFO at Startup Bootcamp SJCET IEDC.
+- Former Technical Lead at Radio Community SJCET.
+- Former Campus Co-Lead at Gtech MuLearn SJCET.
 
 #### Networking:
 
@@ -39,11 +38,6 @@ I have contributed to various open-source projects. The links for the original r
 - [Medcare](https://github.com/BTANISHA11/medcare)
 - [Reading-Matters](https://github.com/ishitaraina1807/Reading-Matters)
 - [WebQuest-QuizGame](https://github.com/ishitaraina1807/WebQuest-QuizGame)
-- [Blog_Website](https://github.com/Kritika30032002/Blog_Website)
-- [CityPlus](https://github.com/Nandini80/CityPlus)
-- [Dorm-Deals-Frontend](https://github.com/RishabhJain0721/Dorm-Deals-Frontend)
-- [Spotify_Api](https://github.com/Eklavya-sus/Spotify_Api)
-- [SkillShala](https://github.com/Namya13Jain/Skill_Shala)
   
  Contributions to college repos
 - [Mulearn SJCET](https://github.com/mulearnsjc/campus-chapter)
@@ -53,7 +47,6 @@ I have contributed to various open-source projects. The links for the original r
 
 - Regularly answer technical questions and doubts of students from my college and help them in their tasks.
 - Active participant in Gtech Mulearn where I help newcomers and share my knowledge in my college.
-- Active user in GitHub for the purpose of backend web development and deployment of websites.
 - Active user in LinkedIn where I post and share valuable content.
 - Active member at Startup Bootcamp IEDC SJCET.
 - Active member at GDSC SJCET.
@@ -61,17 +54,16 @@ I have contributed to various open-source projects. The links for the original r
 
 #### Highly Visible Technical Content:
 
-- Currently, I have not published any technical content as I am learning new technical tools and technologies.
+- Currently, I have not published any technical content.
 
 #### Highly Used Software Tools:
 
-- SQL
 - Figma
 - GitHub
 - Git
 - Firebase
 - Vercel
-- Postman
+- Hoppscotch
 - Netlify
 - VScode
 
@@ -81,7 +73,7 @@ I have contributed to various open-source projects. The links for the original r
 
 -[LinkedIn](https://www.linkedin.com/in/alvin-dennis-0a70ba163)
 
--[Portfolio](https://www.alvindennis.vercel.app)
+-[Portfolio](https://www.alvindennis.tech)
 
 -[MuLearn](https://app.mulearn.org/profile/alvindennis@mulearn)
 
