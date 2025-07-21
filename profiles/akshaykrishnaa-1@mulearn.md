@@ -1,52 +1,168 @@
 # AKSHAY KRISHNA A
 
-### Student from Louredes Matha College of Science and Technology ,Trivandrum 
+### Bachelor of Technology in Computer Science (2021-2025)
+**Lourdes Matha College of Science and Technology, Thiruvananthapuram**  
+**APJ Abdul Kalam Technological University**
 
->I am AKSHAY KRISHNA A, pursuing B.Tech in Computer Science and Engineering at Lourdes matha college of science and technology Trivandrum,Under APJ Abdul Kalam Technological University. Currently serving As Chair IEEE SB LMC, Mulearn Campus lead, IEDC finace lead LMC, IEEE EXTREME 18.0 Kerala Section Co Lead.
+**Contact Information**  
+📧 akshaykrishna.a.2002@gmail.com | 📞 9495339212  
+📍 Nedumangad, Thiruvananthapuram, Kerala  
+🔗 LinkedIn: [akshay-krishna-a-749151222](https://linkedin.com/in/akshay-krishna-a-749151222)  
+💻 HackerRank: [AKSHAYKRISHNA012](https://www.hackerrank.com/AKSHAYKRISHNA012)
 
+---
 
-## Portfolio Highlights
+## Professional Experience
 
-### My Projects
+### **IEDC InnovateX Mentor** (Jan 2025 - Present)
+- Guided student teams through complete innovation lifecycle: ideation → prototyping → pitching
+- Evaluated 15+ project proposals with constructive feasibility assessments
+- Built campus innovation ecosystem through mentorship programs
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Dorsal Hand Vein Authentication**  | A Secure Bio-metric identification System     
-                                         | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Hand-Gesture Mouse Control**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+### **IEEE SB LMC Chair** (Jan 2024 - Apr 2025)
+- Organized 8+ technical events:
+  - Coding workshops with industry experts
+  - Annual 24-hour hackathons
+  - Guest lectures by academic researchers
+- Trained 50+ students for IEEE Xtreme programming competition
 
-#### Leadership and Influence:
+### **Mu Learn Campus Lead** (Aug 2023 - Apr 2025)
+- Established first institutional chapter with 120+ members
+- Conducted peer-learning initiatives:
+  - Weekly study circles
+  - Project collaboration groups
+  - Technical skill-building sessions
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+### **IEDC Finance & Student Lead** (Aug 2023 - Apr 2025)
+- Managed budgets for 12+ innovation events (Total: ₹2L+)
+- Coordinated 6 entrepreneur-student networking sessions
 
-#### Networking:
+### **GDSC Lead** (Oct 2024 - Apr 2025)
+- Founded first Google Developer Student Club at institution
+- Built community of 150+ developers
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+### **IEEE Xtreme Kerala Section Co-Lead** (May 2024 - Oct 2024)
+- Mentored 80+ IEEE student branches across Kerala
+- Conducted 3 regional training workshops
 
-#### Career Plan:
+---
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+## Technical Projects
 
-#### Thoughts on Kerala's Tech Ecosystem:
+### **Dorsal Hand Vein Authentication**
+- **Tech Stack**: Python, OpenCV, Machine Learning
+- Developed contactless biometric system using dorsal vein patterns
+- Implemented spoofing-resistant verification with 98.7% accuracy
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+### **Farm Direct** (KSUM Funded)
+- **Tech Stack**: Flutter, Firebase, Dart
+- Created farmer-to-consumer marketplace with:
+  - Real-time inventory tracking
+  - Secure payment gateway
+  - Firebase authentication
 
-#### History of Open Source Contributions:
+### **Smart Wipe**
+- **Tech Stack**: C#, .NET Framework, SQL
+- Designed cloud data deletion system using:
+  - Invertible Bloom Filters
+  - Malicious behavior detection
+  - Low-complexity verification
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+### **Agri Guru** (Infosys Hackathon 2025)
+- **Tech Stack**: ReactJS, Node.js, Gemini API
+- AI-powered agricultural advisory system featuring:
+  - Real-time crop recommendations
+  - Weather alert system
+  - Soil health analytics
 
-#### History of Community Engagement:
+### **Fake Currency Detection**
+- **Tech Stack**: Python, OpenCV, ML
+- Currency authentication system analyzing:
+  - Security thread patterns
+  - Watermark verification
+  - Serial number validation
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+---
 
-#### Highly Visible Technical Content:
+## Education
+- **B.Tech in Computer Science** (2021-2025)  
+  Lourdes Matha College of Science and Technology, Kuttichal  
+  CGPA: [Your CGPA if mentioned]
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- **Higher Secondary** (2019-2021)  
+  St. Thomas Higher Secondary School  
+  Percentage: [Your Percentage]
 
-#### Highly Used Software Tools:
+- **Secondary School** (2019)  
+  Lourdes Mount Public School  
+  Percentage: [Your Percentage]
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+---
 
-#### Competitive Website Profiles:
+## Skills Matrix
 
-- https://www.hackerrank.com/profile/akshaykrishna_a2
+**Programming Languages**  
+Python | Java | C | C++ | C# | Dart
+
+**Web Technologies**  
+HTML | CSS | JavaScript | React.js | Django | ASP.NET Core
+
+**Mobile Development**  
+Flutter | Firebase
+
+**Database Systems**  
+SQL | MySQL | MongoDB | DBMS
+
+**Data Science**  
+Pandas | NumPy | Matplotlib | scikit-learn
+
+**Machine Learning**  
+TensorFlow | Keras | OpenCV
+
+**Cloud Computing**  
+AWS (EC2, S3, Lambda, RDS)
+
+**Tools**  
+Git | GitHub | Figma
+
+**Soft Skills**  
+Leadership | Team Management | Public Speaking | Technical Writing
+
+---
+
+## Achievements & Awards
+1. **KSUM Startup Funding** (₹60,000)  
+   - For developing travel assistant solution for visually impaired
+
+2. **IDEA FEST 2022 Winner**  
+   - Kerala Startup Mission competition
+
+3. **Infosys Global Hackathon 2025**  
+   - Developed Agri Guru agricultural AI system
+
+4. **GTech MuLearner Level 7**
+
+5. **Viksit Bharat Young Leaders Delegate**  
+   - Represented Kerala at Bharat Mandapam, New Delhi
+
+6. **ISRO World Space Week 2022**  
+   - Submitted "In Orbit: Space Station Design Challenge"
+
+---
+
+## Certifications
+1. **Cryptography I** - Stanford University (Coursera)  
+   Instructor: Prof. Dan Boneh | June 2022
+
+2. **Networking Basics** - Cisco Networking Academy
+
+3. **Data Management & ML** - LT EduTech (Nov 2022-Jun 2023)
+
+4. **Java Project Development** - [Institution]
+
+---
+
+## Additional Information
+**Languages**: English (Professional) | Malayalam (Native) | Hindi (Working)  
+**Interests**: Competitive Programming | Community Leadership | Technical Blogging | Aerospace  
+**Conferences Attended**: Huddle Global 2022 | FFS Preincubation Program (KSUM)
