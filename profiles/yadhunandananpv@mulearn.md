@@ -1,4 +1,4 @@
-# JAIHIND 
+# Yadhu Nandanan
 
 ### About Me
 
@@ -11,7 +11,7 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Indian Expressway Tracker**  | A web platform that showcases major Indian infrastructure projects with interactive maps and details. Built with HTML/CSS/JS. | [InfraVision](https://example.vercel.app) | [Repo Link]([https://github.com/yourusername/infravision-bharat](https://github.com/helloyadhunandanan/indian-expressway-tracker)) |
-| **UPSC Vision Guide** | A simple and clean guide website for UPSC aspirants, especially from rural India. | [Vision Guide](https://example.vercel.app) | [Repo Link](https://github.com/yourusername/upsc-guide) |
+| **UPSC Vision Guide** | A simple and clean guide website for UPSC aspirants, especially from rural India. | [Vision Guide](https://example.vercel.app) | [Repo Link]([https://github.com/yourusername/upsc-guide](https://github.com/helloyadhunandanan/logicians)) |
 
 #### Leadership and Influence:
 
@@ -50,8 +50,7 @@
 #### Competitive Website Profiles:
 
 - [HackerRank Profile](https://www.hackerrank.com/yourprofile)
-- [Kaggle Profile](https://www.kaggle.com/yourprofile)
-- [GitHub Profile](https://github.com/yourusername)
+- [Leet Code](https://leetcode.com/u/helloyadhunandanan/)
+- [GitHub Profile](https://github.com/helloyadhunandanan)
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an example.
+
