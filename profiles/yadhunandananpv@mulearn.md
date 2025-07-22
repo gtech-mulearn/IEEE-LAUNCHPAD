@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I’m a B.Tech Computer Science Engineering student with a strong passion for national development, technology, and public service. Currently an Execom Member at µLearn CETKR and IEDC Tech Coordinator, I strive to bridge technology with impact. I'm actively learning Data Structures, Web Development, and contributing to communities while preparing myself for a future in civil services and entrepreneurship.
+> I’m a B.Tech Computer Science Engineering student with a strong passion for national development, technology, and public service. Currently an Execom Member at µLearn CETKR and IEDC Tech Coordinator, I strive to bridge technology with impact. I'm actively learning Data Structures, Web Development, and contributing to communities while preparing myself for a future.
 
 ## Portfolio Highlights
 
@@ -49,7 +49,6 @@
 
 #### Competitive Website Profiles:
 
-- [HackerRank Profile](https://www.hackerrank.com/yourprofile)
 - [Leet Code](https://leetcode.com/u/helloyadhunandanan/)
 - [GitHub Profile](https://github.com/helloyadhunandanan)
 
