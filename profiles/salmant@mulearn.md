@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a passionate Computer Science student in my 3rd year, deeply focused on Flutter app development, full-stack web development, and artificial intelligence. With over a year of consistent project-building and certification-based learning from platforms like freeCodeCamp and Scrimba, I have developed multiple full-stack applications, AI-integrated apps, and participated in open-source communities. My goal is to build practical, scalable, and impactful tech solutions while contributing to the Kerala Startup Ecosystem through innovation, collaboration, and mentorship.
+I am a passionate Computer Science student in my 4th year, deeply focused on Flutter app development, full-stack web development, and artificial intelligence. With over a year of consistent project-building and certification-based learning from platforms like freeCodeCamp and Scrimba, I have developed multiple full-stack applications, AI-integrated apps, and participated in open-source communities. My goal is to build practical, scalable, and impactful tech solutions while contributing to the Kerala Startup Ecosystem through innovation, collaboration, and mentorship.
 
 ## Portfolio Highlights
 
