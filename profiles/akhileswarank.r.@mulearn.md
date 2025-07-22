@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I am a third-year Computer Science student at Sree Chitra Thirunal College of Engineering, Thiruvananthapuram. I enjoy coding and web programming, and I am currently learning React and Express.js to build full-stack web applications. I am always curious to explore new technologies and improve my skills through hands-on projects and collaboration.
+> I am a third-year Computer Science student at Sree Chitra Thirunal College of Engineering, Thiruvananthapuram. I enjoy coding,dsa problem solving and web development, and I am currently learning React and Express.js to build full-stack web applications. I am always curious to explore new technologies and improve my skills through hands-on projects and collaboration.
 
 ## Portfolio Highlights
 
