@@ -1,8 +1,8 @@
-# Full Name 
+# Mariat Ignatious 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> Enthusiastic learner on a transformative journey in Full Stack Development! With a comprehensive understanding of HTML, CSS, and Bootstrap, and actively honing my skills in JavaScript and Python. Very interested in AI and ML. Eager to delve deeper into the world of web development and explore new technologies. Passionate about contributing to meaningful projects and making a positive impact.
 
 
 ## Portfolio Highlights
@@ -11,48 +11,30 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Deep Learning Based Speech Disorder Detection System**  |    Developed a deep learning model to detect speech disorder like dysarthria and stuttering by inputing the audio.                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Learning Path Generator using MCP**  |Developed a AI agent that can help you create your own learning path for learning anything.                                              | [Hosted Link 2](https://example.com)    | [LearningPathGenerator](https://github.com/mariatignatious/Learning-Path-Generator-using-MCP.git)             |
+| **Educator AI - Smart Learning Assistant**  |  It is an intelligent learning companion that allows you to upload PDF documents, receive AI-generated summaries, ask questions, and generate MCQs for study and revision.                                              | [Hosted Link 2](https://example.com)    | [Educator AI](https://github.com/mariatignatious/Educator-AI.git)             |
 
-#### Leadership and Influence:
+
+#### Leadership:
 
 - Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
-#### Networking:
-
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- I plan to enhance my coding skills and learn full stack development. I aim to be part of a company where I can provide my full potential.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- I haven't developed any tools, but I use Visual Studio Code, Github, CursorIDE etc for my projects.
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+- Hackerrank : https://www.hackerrank.com/Mariat_Ignatious
+- LinkedIn : https://www.linkedin.com/in/mariat-ignatious
 
 ---
