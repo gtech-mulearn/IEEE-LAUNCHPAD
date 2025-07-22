@@ -1,157 +1,69 @@
-# LAUNCHPAD 2025
+ # Devananda S J
 
+## About Me
 
+Hi, I’m Devananda SJ, an 2nd yr ECE student at SCTCE TVM who’s always curious about how tech can shape the world around us. 
+My interests stretch beyond the screen — into the embedded systems and IoT world, where software meets hardware, and into the realm of cybersecurity, where every vulnerability is a puzzle waiting to be solved.
+Whether it’s building interactive web apps or tinkering with microcontrollers, I thrive at the intersection of creativity and logic. 
+I believe that real innovation comes from collaboration — not competition.
+That’s why I value friends who share not just skills but sincerity, curiosity, and a desire to build something real in this noisy world. 
+For me, technology is a tool to understand the world better, not escape it.
+I’m here to learn continuously, share what I know, and contribute to building a smarter, more connected, and secure future.
 
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Project Name 1**  | SplitSmart - Bill Splitting Web App                                           | https://devananda2027.github.io/tinkerhub/   |  https://github.com/Devananda2027/tinkerhub             |
+| **Project Name 2**  |EMAIL _ VALIDATOR                                               |  https://devananda2027.github.io/email-validator/   |  https://github.com/Devananda2027/email-validator         |
 
+#### Leadership and Influence:
 
+-  As the Tech Sublead of the µLearn SCT chapter and an active member of the IEEE SCT chapter,
+-  I’ve had the opportunity to grow not just as a learner, but as a leader who supports and uplifts others in their tech journey.
+-  Through organizing and participating in bootcamps, workshops, and community events, I’ve learned the value of collaboration, knowledge-sharing, and staying curious.
+-  I believe true leadership isn’t about titles — it’s about creating spaces where people feel inspired to learn, build, and push boundaries together.
 
+#### Networking:
 
+ I excel in networking by building genuine connections and engaging actively in community events. I plan to influence and lead by sharing insights, collaborating on projects, and fostering mutual growth. By being approachable and supportive,
+ I will inspire others and strengthen our professional network.
 
+#### Career Plan:
 
+ mmediate Career Plans My immediate goal is to deepen my technical expertise in areas like web development, cybersecurity, and embedded systems, so I can contribute meaningfully to real-world projects and become a valuable asset to forward-thinking tech companies. I'm actively engaging in upskilling through hands-on bootcamps, workshops, and community-led initiatives, with a focus on building practical, problem-solving skills.
+ I aim to bridge the gap between learning and application, and step into roles where I can create secure, efficient, and user-centered technology solutions.
+#### Thoughts on Kerala's Tech Ecosystem:
 
+ Kerala’s tech ecosystem is evolving into a vibrant, inclusive space that nurtures innovation and young talent. Initiatives like the Kerala Startup Mission (KSUM) have played a pivotal role in creating a strong foundation for startups by offering mentorship, funding, and infrastructure support. At the same time, community-driven platforms like GTech µLearn are bridging the skill gap by encouraging peer-to-peer learning, upskilling, and collaboration among students across the state. With academic institutions, tech communities, and government initiatives working hand in hand, 
+ Kerala is steadily becoming a hub where curiosity meets opportunity, empowering the next generation of technologists and changemakers.
 
+#### History of Open Source Contributions:
 
-<div align="center">
-Welcome to the LAUNCHPAD 2025, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
-#
+#### History of Community Engagement:
 
+ Mulearn SCT Chapter Tech Co-Lead Active IEEE MEMBER,IEEE SCT SB
+#### Highly Visible Technical Content:
 
+ Although I am not active in tech part due to my limited knowledge i update my program updates and other activities actively on my LinkedIn profile.
 
+#### Highly Used Software Tools:
+ Figma, KiCad ,VScode, github,tryhackme,hackerrank
 
-<div align="center">
+#### Competitive Website Profiles:
 
+ LinkedIn : https://www.linkedin.com/in/deva-nanda-s-j-80a6422b8
 
+Github : https://github.com/Devananda2027
 
+tryhackme : https://tryhackme.com/p/devalinux
 
-# How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/IwpOmzSqYao?si=2LlKYpSDcluNls-b)
 
-> **Watch the onboarding video-👆**
 
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the MuLearn Foundation Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### Follow the onboarding workflow. During this process, ensure you:
--   Connect your Discord account to obtain your MUID (Mulearn User ID).
--   Enable the 'Open to Work' toggle in the profile settings of your learner's dashboard.
-
-<img width="1440" height="900" alt="Screenshot 2025-07-20 at 8 47 26 PM" src="https://github.com/user-attachments/assets/5e9bb999-3dbc-4530-84a9-44b9c69f99e8" />
-
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD 2025**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="273" height="111" alt="Screenshot 2025-07-20 at 9 17 25 PM" src="https://github.com/user-attachments/assets/d4980f35-1f60-46ae-87b8-65cd1b2d9565" />
-
-
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #launchpad-announcment
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #launchpad-self-intro
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the Launchpad 2025.
-
-#### 🎙️ #Basecamp
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 7 PM to 8 PM.
-- Meeting Place - Google Meet.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **Launchpad 2025**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
-
----
+> In your portfolio, include the following details:
+>> check out [devanandasj@mulearn.md](./profiles/devanandasj@mulearn.md) for an exmaple
