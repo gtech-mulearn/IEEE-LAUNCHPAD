@@ -10,7 +10,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Indian Expressway Tracker**  | A web platform that showcases major Indian infrastructure projects with interactive maps and details. Built with HTML/CSS/JS. | [InfraVision](https://example.vercel.app) | [Repo Link](https://github.com/helloyadhunandanan/indian-expressway-tracker) |
+| **Indian Expressway Tracker**  | A web platform that showcases major Indian infrastructure projects with interactive maps and details. Built with HTML/CSS/JS. | [Indian Expressways](https://indian-expressway-tracker.vercel.app/) | [Repo Link](https://github.com/helloyadhunandanan/indian-expressway-tracker) |
 | **Logicians** | Logicians is a vibrant and active tech community built for tech update like NPTEL,etc. | [Logicians](https://logicians.vercel.app) | [Repo Link](https://github.com/helloyadhunandanan/logicians) |
 
 #### Leadership and Influence:
