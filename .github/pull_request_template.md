@@ -2,8 +2,8 @@
 
 ### Help or Support
 
-If you continue to face any challenges or have further questions, we're here to help! Additionally, you can join our **IEEE LAUNCHPAD** Support WhatsApp Group for real-time assistance. Just click on the link:
-[join group]( https://chat.whatsapp.com/J8PvsGmFsjl2ykn5VckAVj)
+If you continue to face any challenges or have further questions, we're here to help! Additionally, you can join our **Launchpad 2025** Support WhatsApp Group for real-time assistance. Just click on the link:
+[join group]( https://chat.whatsapp.com/L4CIDAPIaG4HPwkuOdJaPu)
 
 ### Profile Highlights
 
@@ -35,4 +35,4 @@ Before submitting this PR, please ensure that you have:
 - [ ] Followed the provided template for each section.
 - [ ] Make sure you joined the Whatsapp Group 
 
-Thank you for participating in **IEEE LAUNCHPAD** 2024!
+Thank you for participating in **LAUNCHPAD KERALA** 2025!
