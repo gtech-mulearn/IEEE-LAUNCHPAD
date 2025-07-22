@@ -12,8 +12,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **ShuchitwaEye**  | AI-powered smart city system using YOLO-based object and pose detection to identify waste and illegal dumping in real-time, with a Node.js dashboard for efficient municipal monitoring.                                          | [Hosted Link 1](Nil)    | [Repo Link 1](Nil)             |
-| **Kasaroam**  | A cultural and culinary web platform showcasing Kasaragod’s traditional cuisine and heritage, promoting local food tourism with an engaging, responsive design                                              | [Hosted Link 2](kasaroam.in)    | [Repo Link 2](Nil)             |
+| **ShuchitwaEye**  | AI-powered smart city system using YOLO-based object and pose detection to identify waste and illegal dumping in real-time, with a Node.js dashboard for efficient municipal monitoring.                                          | Nil   | nil             |
+| **Kasaroam**  | A cultural and culinary web platform showcasing Kasaragod’s traditional cuisine and heritage, promoting local food tourism with an engaging, responsive design                                              | [Hosted Link 2](https://kasaroam.in/)    | nil             |
 
 #### Leadership and Influence:
 
