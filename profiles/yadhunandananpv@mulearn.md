@@ -11,7 +11,8 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Indian Expressway Tracker**  | A web platform that showcases major Indian infrastructure projects with interactive maps and details. Built with HTML/CSS/JS. | [InfraVision](https://example.vercel.app) | [Repo Link]([https://github.com/yourusername/infravision-bharat](https://github.com/helloyadhunandanan/indian-expressway-tracker)) |
-| **UPSC Vision Guide** | A simple and clean guide website for UPSC aspirants, especially from rural India. | [Vision Guide](https://example.vercel.app) | [Repo Link](https://github.com/helloyadhunandanan/logicians) |
+| **Logicians** | Logicians is a vibrant and active tech community built by and for students of our class.
+We focus on sharing knowledge, helping each other academically, and providing updates on internships, NPTEL assignments, and the latest tech trends. | [Vision Guide](https://logicians.vercel.app | [Repo Link](https://github.com/helloyadhunandanan/logicians) |
 
 #### Leadership and Influence:
 
