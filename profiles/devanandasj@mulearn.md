@@ -1,4 +1,4 @@
- # Devananda S J
+# Devananda S J
 
 ## About Me
 
@@ -67,3 +67,5 @@ tryhackme : https://tryhackme.com/p/devalinux
 
 > In your portfolio, include the following details:
 >> check out [devanandasj@mulearn.md](./profiles/devanandasj@mulearn.md) for an exmaple
+
+---
