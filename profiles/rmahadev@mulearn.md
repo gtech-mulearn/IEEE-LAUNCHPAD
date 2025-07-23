@@ -84,4 +84,16 @@ I'm eager to help Kerala's startup scene grow, using my skills in web design (UI
 
   - Technical Blog
         - I occasionally write blog posts where I share my journey with specific projects, tools, or new experiences in tech.
+
+
+#### Highly Used Software Tools:
+
+- i do have plans havent really started yet
+
+#### Competitive Website Profiles:
+
+-  https://www.hackerrank.com/profile/mahadevr385
+
+
+
   
