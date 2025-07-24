@@ -11,7 +11,7 @@ Hi, I'm Joel Anto, a passionate Full-Stack Developer with expertise in building 
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **SafeScope**  | Security Intrusion Detection System                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **SafeScope**  | Security Intrusion Detection System                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/j0ec0de/SafeScope)             |
 | **Jobhive**  | Job Portal Management                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
