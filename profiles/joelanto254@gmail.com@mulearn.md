@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi, I'm Joel Anto, a passionate Full-Stack Developer with expertise in building dynamic, scalable, and efficient web applications. I'm eager to apply my skills and creativity to develop innovative projects. Let's create something amazing together!
+Hi, I'm Joel Anto, a passionate Full-Stack Developer with expertise in building dynamic, scalable, and efficient web applications. I'm eager to apply my skills and creativity to develop innovative projects.Currently on Java and Springboot Let's create something amazing together!
 
 
 ## Portfolio Highlights
