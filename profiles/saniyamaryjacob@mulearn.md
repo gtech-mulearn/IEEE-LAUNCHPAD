@@ -14,3 +14,16 @@
 #### Thoughts on Kerala's Tech Ecosystem:
 
 - Kerala has immense potential in the cybersecurity and DevOps space. With its growing student community, supportive government initiatives, and innovation ecosystems like KSUM, it can become a leading tech hub. All we need is more awareness, mentorship, and hands-on exposure!
+
+## Interests & Skills
+
+- Programming Languages: C, Shellscipt, JavaScript, Python  
+- Frameworks/Tools: React, Streamlit, React Query  
+- Topics: Web Development, AI/LLM integration, Open Source, DevOps, Cybersecurity tools
+
+---
+
+## Contact
+
+- GitHub: [github.com/Zaniyahm](https://github.com/Zaniyahm)  
+- Email: itzmezaniyah@gmail.com
