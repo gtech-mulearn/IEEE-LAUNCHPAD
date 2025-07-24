@@ -40,16 +40,3 @@ I have contributed to several personal and collaborative projects on GitHub. Som
 
 I actively help other developers on platforms like Stack Overflow, Discord (developer and cybersecurity servers), and Reddit communities related to web development, cybersecurity, and programming. I've also created educational content explaining Java fundamentals, backend architecture. Mainly on Reddit.
 
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
----
