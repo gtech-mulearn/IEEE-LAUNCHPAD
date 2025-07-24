@@ -1,4 +1,4 @@
-# Full Name 
+# Deon Sebastian 
 
 ### About Me
 
@@ -9,10 +9,10 @@
 
 ### My Projects
 
-| Name                | Description                                                                 | Repo Link                                                      |
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **File Encryption and Decryption**  | Python based tool to encrypt and decrypt files                                               | [Repo Link ](https://github.com/deonsebastian/FileEncryptionDecryption)             |
-| **Password Complexity Checker**  | A tool that checks how strong your password is                                              | [Repo Link ](https://github.com/deonsebastian/PasswordStrengthChecker )             |
+| **File Encryption and Decryption**  | A tool to encrpyt and decrypt your files                                             |   | [Repo Link 1](https://github.com/deonsebastian/FileEncryptionDecryption)             |
+| **Password Strength Checker**  | A tool that checks the complexity of your password                                             |   | [Repo Link 2](https://github.com/deonsebastian/PasswordStrengthChecker)             |
 
 #### Networking:
 
@@ -20,7 +20,7 @@
 
 #### Career Plan:
 
-- I am focused on building a good career i cyber security and web development
+- I am focused on building a good career in cyber security and web development
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
