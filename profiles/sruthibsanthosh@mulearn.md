@@ -1,0 +1,5 @@
+I am a dedicated and passionate engineer with a Bachelor of Technology (B.Tech) degree in Electrical and Electronics Engineering. Currently, I am advancing my expertise by pursuing a Master of Technology (M.Tech) in Electronic Design Technology from National Institute of Electronics and Information Technology. My academic background has equipped me with a strong foundation in electrical and electronics engineering principles, while my ongoing postgraduate studies are enhancing my skills in the specialized field of electronic design.
+
+Throughout my academic journey, I have developed a keen interest in designing and developing innovative electronic systems. I have gained hands-on experience through various projects and internships, where I applied theoretical knowledge to practical scenarios. My proficiency in circuit design, embedded systems, and digital electronics, combined with my analytical and problem-solving abilities, allows me to approach complex engineering challenges with confidence and creativity.
+
+I am enthusiastic about leveraging my skills and knowledge to contribute to cutting-edge advancements in electronic design technology.
