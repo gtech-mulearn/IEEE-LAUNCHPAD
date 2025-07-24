@@ -9,10 +9,10 @@
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+| Name                | Description                                                                 | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **File Encryption and Decryption**  | Python based tool to encrypt and decrypt files                                             |    | [Repo Link ](https://github.com/deonsebastian/FileEncryptionDecryption)             |
-
+| **File Encryption and Decryption**  | Python based tool to encrypt and decrypt files                                               | [Repo Link ](https://github.com/deonsebastian/FileEncryptionDecryption)             |
+| **Password Complexity Checker**  | A tool that checks how strong your password is                                              | [Repo Link ](https://github.com/deonsebastian/PasswordStrengthChecker )             |
 
 #### Networking:
 
@@ -38,7 +38,3 @@
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
