@@ -40,7 +40,7 @@
 
 #### Competitive Website Profiles:
 
-- Active Member on TryHackMe as SEEKER currently
+- Active Member on TryHackMe as SEEKER currently https://tryhackme.com/p/IrregularLuck
 
 
 ---
