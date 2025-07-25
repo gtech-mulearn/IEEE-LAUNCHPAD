@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **ChatBuddy     **  | An AI chatbot powered by the Llama 2 model                                | Need local install, not hosted on cloud  | [Repo Link](https://github.com/PrasanthPradeep/saturday-hack-night-langchain)             |
-| **MOJO TASKS    **  | Plan organizer that keep you motivated and focused built with Expo        | Need local install, not hosted on cloud  | [Repo Link](https://github.com/PrasanthPradeep/Saturday-Hacknight-JS-and-React-)             |
+|   ChatBuddy         | An AI chatbot powered by the Llama 2 model                                | Need local install, not hosted on cloud  | [Repo Link](https://github.com/PrasanthPradeep/saturday-hack-night-langchain)             |
+|   MOJO TASKS        | Plan organizer that keep you motivated and focused built with Expo        | Need local install, not hosted on cloud  | [Repo Link](https://github.com/PrasanthPradeep/Saturday-Hacknight-JS-and-React-)             |
 
 #### Leadership and Influence:
 
