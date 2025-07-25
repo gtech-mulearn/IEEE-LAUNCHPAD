@@ -3,7 +3,7 @@
 ## 🔍 About Me
 I am a B.Tech student passionate about cybersecurity, explainable AI (XAI), test automation, and AI-powered tools. During my internship at **Nethram LLC**, I developed advanced AI-based solutions and continued building impactful personal projects in security and automation.
 
-## 💼 Notable Projects & Experience
+## 💼 Projects & Experience
 
 ### ➤ **Internship: AI‑Based Robot Generator — Nethram LLC**
 - Built an AI-driven robot content generation tool using deep learning and transformer models.
