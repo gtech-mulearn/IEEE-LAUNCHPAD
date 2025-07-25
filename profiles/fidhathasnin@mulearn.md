@@ -36,4 +36,4 @@ I am a B.Tech student passionate about cybersecurity, explainable AI (XAI), test
 
 ## 📬 Let's Connect
 - Discord: `fidhathasni`  
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/fidha-thasni-n/)
+- LinkedIn: [linkedin.com/in/fidha-thasni-n](https://www.linkedin.com/in/fidha-thasni-n/)
