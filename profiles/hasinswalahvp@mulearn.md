@@ -8,10 +8,9 @@
 
 ### My Projects
 
-| Name                     | Description                                                                                                          | Hosted Link                              | Repo Link                                                        |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------------------------------------------------|
-| **Smart Retail App**     | A cashier-less smart shopping app using Flutter + Firebase + Python (OpenCV). Real-time cart tracking, wallet system.| —                                        | [Repo](https://github.com/hsnvp313/Smart-Retail-App)             |
-| **Health Monitoring IoT**| IoT-based health monitoring app presented to Seronas Group. Built using Raspberry Pi and sensors for remote tracking.| —                                        | [Repo](https://github.com/hsnvp313) *(Project nested repo)*     |
+| Name                     | Description                                                                                                          | Repo Link                                                        |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| **Smart Retail App**     | A cashier-less smart shopping app using Flutter + Firebase + Python (OpenCV). Real-time cart tracking, wallet system.| [Repo](https://github.com/hsnvp313/Smart-Retail-App)             |
 
 #### Leadership and Influence:
 
