@@ -29,8 +29,8 @@
 - Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
 
 #### Career Plan:
+My immediate goal is to build a strong foundation in coding and development by working on real-world projects and continuously upskilling through internships and community involvement. I aim to intern at startups to understand their challenges, contribute to meaningful products, and gain hands-on experience. In the long term, I plan to work closely with startups, helping them with Web development, UI/UX design, automation while also mentoring student developers and promoting open-source collaboration. By staying active in Kerala’s tech scene, I hope to support and strengthen the state’s growing startup ecosystem through skill-sharing, innovation, and community-driven initiatives.
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
@@ -44,6 +44,7 @@
 - Member of the **UiPath Club Execom Operations Team**
 - Active user on GitHub for coding, upskilling and website deployment.
 - Active on LinkedIn where I post and share useful technical contentcand other contents.
+- Design Team Member of CSEA SJCET Palai (2024–25) – Collaborated on department design tasks like placement posters, hackathon winner posts, and event creatives under the guidance of the CSEA Design Lead.
 
 
 #### Highly Visible Technical Content:
