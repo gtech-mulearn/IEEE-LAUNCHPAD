@@ -1,8 +1,8 @@
-# Full Name
+# Akhileswaran K.R.
 
 ### About Me
 
-> I am a third-year Computer Science student at Sree Chitra Thirunal College of Engineering, Thiruvananthapuram. I enjoy coding,dsa problem solving and web development, and I am currently learning React and Express.js to build full-stack web applications. I am always curious to explore new technologies and improve my skills through hands-on projects and collaboration.
+> I'm a third-year student at Sree Chitra Thirunal College of Engineering in Thiruvananthapuram, where I study computer science. I like to code, solve problems with DSA, and construct websites. I'm learning React and Express.js to create full-stack web apps right now. Exploring new technology and honing my abilities through practical tasks and teamwork constantly draws my interest.
 
 ## Portfolio Highlights
 
@@ -14,17 +14,17 @@
 
 #### Networking:
 
-- I actively build connections with peers by participating in tech events, academic groups, and student communities. I enjoy collaborating, sharing knowledge, and helping others get involved in new opportunities. I lead by being approachable, encouraging, and consistent—motivating others to step up, learn, and grow within the field.
+- By taking part in student communities, academic groups, and tech events, I actively cultivate relationships with my peers. I like working with others, exchanging ideas, and assisting others in taking advantage of new chances. I inspire others to take charge, learn, and advance in the industry by being personable, supportive, and reliable.
 
 #### Career Plan:
 
-- In the immediate term, I plan to focus on developing my technical and communication skills by working on real-world projects and learning from the environment around me. I aim to engage with like-minded peers, attend events, and understand how early-stage ideas grow.
+- By working on practical projects and taking in information from my surroundings, I intend to concentrate on improving my technical and communication abilities in the near future. In addition to attending events and interacting with like-minded individuals, I want to learn how early-stage ideas develop.
 
-- In the long term, I hope to use these experiences to contribute meaningfully to the Kerala Startup Ecosystem by supporting local innovations, collaborating on impactful projects, and encouraging a culture of learning, creativity, and entrepreneurship among students.
+- Through fostering a culture of learning, creativity, and entrepreneurship among students, supporting local inventions, and working together on significant projects, I intend to use these experiences to make a significant long-term contribution to the Kerala Startup Ecosystem.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- I believe Kerala can grow a strong tech startup ecosystem by encouraging student innovation, improving skill development, and making resources more accessible. With better mentorship, exposure, and support, more young ideas can turn into real impact.
+- I think that by promoting student creativity, enhancing skill development, and expanding access to resources, Kerala can establish a robust environment for tech startups. More young ideas can have a significant influence if they receive more support, exposure, and mentoring.
 
 #### History of Open Source Contributions:
 
