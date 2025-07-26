@@ -13,9 +13,10 @@ Now, my interest is more into building and shipping products
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **SQL Ease**        | An AI powered webapp which let's you convert Natural Language into SQL Query                                                 |  [SQL-Ease](https://sqlease.buildnship.in) |[github repo link](https://github.com/gtech-mulearn/LAUNCHPAD](https://github.com/arjun-ms/SQL-Ease))   |
+| **SQL Ease**        | An AI powered webapp which let's you convert Natural Language into SQL Query                                                 |  [SQL-Ease](https://sqlease.buildnship.in) |[github repo link](https://github.com/arjun-ms/SQL-Ease)   |
 | **HuberMind AI**        | HuberMind AI is an innovative tool inspired by the expertise of neuroscientist Andrew Huberman. Just 'Ask Andrew' anything you want to know, and get intelligent, AI-powered responses.    | [Demo Video](https://youtu.be/BILcnys0luY)     | [github repo link](https://github.com/arjun-ms/HuberMind-AI/blob/main/README.md) |
 | **pre-owned**       | A web-based application uses machine learning to predict the price of used cars in India.  | [pre-owned](carpricepredict0r.herokuapp.com/)     | [github repo link](https://github.com/arjun-ms/pre-owned) |
+| **20-20**           | CNN image classifier to distinguish between actors Mammootty and Mohanlal from the Malayalam film industry  | [Live](https://github.com/arjun-ms/20-20)     | [github repo link](https://github.com/arjun-ms/20-20) |
 
 
 #### History of Open Source Contributions:
@@ -31,6 +32,7 @@ Now, my interest is more into building and shipping products
 - Campus Lead for 3 years at TinkerHub-JEC
 - ACTO for IEDC-JEC
 - AI Interest Group Lead for Gtech Mulearn
+- Bot Developer at GTech Mulearn - Enhanced user experience for over 1600+ community members
 - Made Python, ML, and tech content on X, gaining over 2,000 followers.
 
 #### Highly Visible Technical Content:
@@ -50,52 +52,66 @@ Now, my interest is more into building and shipping products
 - Postman
 - Netlify
 - Cursor.sh
+- Docker
+- AWS
 
 #### Competitive Website Profiles:
 
 - [Exercism](https://exercism.org/profiles/arjun-ms)
 - [Kaggle](https://www.kaggle.com/arjunachu)
-- [LeetCode](https://leetcode.com/arjun-ms/)
+- [LeetCode](https://leetcode.com/u/arjun-ms/)
 - [HackerRank](https://www.hackerrank.com/profile/arjun_ms)
 
 #### Leadership and Influence:
 
-1. Campus Lead at TinkerHub Foundation
+1. AI Developer Consultant at The Apprentice Project (TAP)
+    • Developing and implementing AI-driven solutions to improve personalized learning experiences for students from different backgrounds.
+    • Researching and introducing new AI technologies and methods to enhance the platform's capabilities.
 
+2. AI Researcher at DocketGo
+    • Conducted in-depth research on Vector databases for Indian Law system.
+    • Significantly improved law point extraction accuracy by 25% through advanced tuning of Large Language Models (LLMs).
+
+3. Campus Lead at TinkerHub Foundation
     • Managed 150+ students with my team.
-
     • Spread the importance of technology and communities in my college by conducting online sessions.
 
-2. ACTO at IEDC-JECC
-
+4. ACTO at IEDC-JECC
     • Conducted many events related to Entrepreneurship and Tech.
 
-3. AI Interest Group Lead for Gtech Mulearn
-
+5. AI Interest Group Lead for Gtech Mulearn
     • Conducted many sessions on "Grab Your Superpowers" which introduces a new AI tool to the Mulearners.
     • Planned for conducting bootcamps and workshops with my fellow teammates.
+    • Managed Mulearn AI learning circles across Kerala, promoting peer-to-peer learning.
+
+6. Bot Developer at GTech Mulearn
+    • Developed and integrated advanced chat moderation and user engagement features into the Discord bot.
+    • Enhanced user experience for over 1600+ community members.
    
 #### Networking:
 
-I have been actively connecting with like-minded using my social media accounts as a medium. Earlier, I used to share a lot of content related to Python, ML and Tech on my social media accounts and have grown a total of more than 2,000+ followers on Twitter, and about 1000+ connection on LinkedIn and around 100+ Followers on Github.
+I have been actively connecting with like-minded using my social media accounts as a medium. Earlier, I used to share a lot of content related to Python, ML and Tech on my social media accounts and have grown a total of more than 2,000+ followers on Twitter, and about 1000+ connection on LinkedIn and around 100+ Followers on Github. I actively engage with tech communities through Discord servers, technical forums, and participate in Think Tank meetings with mentors and interest group leads for collaborative innovation and future planning.
 
 #### Career Plan:
 
 - Immediate plans:
-
-    - To work as an intern or a full time employee in a product based startup company.
-    - Connect with a lot of like-minded people and to collabrate together.
+    - Continue advancing expertise in Large Language Models and Retrieval-Augmented Generation systems.
+    - Expand technical writing portfolio with focus on AI/ML best practices and emerging technologies.
+    - Connect with a lot of like-minded people and to collaborate together.
     - To focus on my health and relations more.
     - To learn new things that I am curious about whether it's tech or non-tech.
     - Build a Product and earn an MRR from it.
 
 - Long-term plans:
-
     - To be a Founder of a well-established Product based startup.
+    - Establish myself as a thought leader in AI-driven educational technology.
+    - Launch innovative AI products that democratize access to quality education.
     - To learn and grow as much as I can.
     - To achieve financial freedom.
 
 #### Thoughts on Kerala's Tech Ecosystem:
+
+Kerala has immense potential to become a leading technology hub in India, particularly in AI and emerging technologies. Here are my thoughts:
 
 - Focus on emerging technologies such as artificial intelligence, machine learning, robotics, and blockchain.
 
@@ -104,5 +120,9 @@ I have been actively connecting with like-minded using my social media accounts 
 - Provide access to funding through grants, loans, and venture capital funds.
 
 - Create a supportive culture for startups and entrepreneurs by promoting a risk-taking culture and celebrating success stories.
+
+- Strengthen industry-academia collaboration to ensure curriculum relevance and bridge the gap between academic learning and industry requirements.
+
+- Improve infrastructure and internet connectivity in tier-2 and tier-3 cities to support distributed tech development.
 
 ---
