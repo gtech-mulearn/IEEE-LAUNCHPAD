@@ -18,7 +18,7 @@
 | **20-20**           | CNN image classifier to distinguish between actors Mammootty and Mohanlal from the Malayalam film industry  | [Live](https://github.com/arjun-ms/20-20)     | [github repo link](https://github.com/arjun-ms/20-20) |
 | **Intvue**          | AI-powered technical interview simulation platform to help users practice and ace tech interviews  | [Demo](demo-link)     | [github repo link](https://github.com/arjun-ms/Intvue) |
 
-#### Experience:
+### Experience:
 
 **The Apprentice Project (TAP)** - *AI Developer Consultant* (Jun. 2024 - Present)
 - Developed and implemented AI-driven solutions to improve personalized learning experiences for students from different backgrounds.
@@ -46,7 +46,7 @@
 **LambdaTest** - *Technical Writer* (Oct. 2022 - Present)
 - Authored comprehensive technical guides including "What Is pytest: Complete Guide With Best Practices"
 
-#### History of Open Source Contributions:
+### History of Open Source Contributions:
 
 - [SQL-Ease](https://sqlease.buildnship.in/)
 - [Annual Report Reader](https://github.com/arjun-ms/Annual-Report-Reader)
@@ -54,7 +54,7 @@
 - [20-20](https://github.com/arjun-ms/20-20)
 
 
-#### History of Community Engagement:
+### History of Community Engagement:
 
 - Campus Lead for 3 years at TinkerHub-JEC
 - ACTO for IEDC-JEC
@@ -62,7 +62,7 @@
 - Bot Developer at GTech Mulearn - Enhanced user experience for over 1600+ community members
 - Made Python, ML, and tech content on X, gaining over 2,000 followers.
 
-#### Highly Visible Technical Content:
+### Highly Visible Technical Content:
 
 - [Pytest Tutorial](https://www.lambdatest.com/learning-hub/pytest-tutorial)
 - [SQL-Ease Shorts](https://youtube.com/shorts/S_bu1qPaz_w)
@@ -70,7 +70,7 @@
 - [Static Typing VS Dynamic Typing: The Difference Explained](https://medium.com/@arjun-ms/static-typing-vs-dynamic-typing-the-difference-explained-9b6c847ac1ee)
 - [𝐇𝐚𝐜𝐤𝐚𝐭𝐡𝐨𝐧𝐬: 𝐅𝐢𝐧𝐝 𝐓𝐡𝐞𝐦 𝐀𝐧𝐝 𝐖𝐢𝐧 🏆](https://medium.com/@arjun-ms/-fb09722e21d6)
 
-#### Highly Used Software Tools:
+### Highly Used Software Tools:
 - ChatGPT
 - GitHub
 - Git
@@ -82,14 +82,14 @@
 - Docker
 - AWS
 
-#### Competitive Website Profiles:
+### Competitive Website Profiles:
 
 - [Exercism](https://exercism.org/profiles/arjun-ms)
 - [Kaggle](https://www.kaggle.com/arjunachu)
 - [LeetCode](https://leetcode.com/u/arjun-ms/)
 - [HackerRank](https://www.hackerrank.com/profile/arjun_ms)
 
-#### Leadership and Influence:
+### Leadership and Influence:
 
 > AI Developer Consultant at The Apprentice Project (TAP)
 • Developing and implementing AI-driven solutions to improve personalized learning experiences for students from different backgrounds.
@@ -115,11 +115,11 @@
 • Developed and integrated advanced chat moderation and user engagement features into the Discord bot.
 • Enhanced user experience for over 1600+ community members.
    
-#### Networking:
+### Networking:
 
 I have been actively connecting with like-minded using my social media accounts as a medium. Earlier, I used to share a lot of content related to Python, ML and Tech on my social media accounts and have grown a total of more than 2,000+ followers on Twitter, and about 1000+ connection on LinkedIn and around 100+ Followers on Github. I actively engage with tech communities through Discord servers, technical forums, and participate in Think Tank meetings with mentors and interest group leads for collaborative innovation and future planning.
 
-#### Career Plan:
+### Career Plan:
 
 - Immediate plans:
     - Continue advancing expertise in Large Language Models and Retrieval-Augmented Generation systems.
@@ -136,7 +136,7 @@ I have been actively connecting with like-minded using my social media accounts 
     - To learn and grow as much as I can.
     - To achieve financial freedom.
 
-#### Thoughts on Kerala's Tech Ecosystem:
+### Thoughts on Kerala's Tech Ecosystem:
 
 Kerala has immense potential to become a leading technology hub in India, particularly in AI and emerging technologies. Here are my thoughts:
 
