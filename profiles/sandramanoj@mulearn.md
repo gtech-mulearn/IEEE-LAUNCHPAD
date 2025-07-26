@@ -9,10 +9,10 @@
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Xcess Food**  | Implemented a food donation system.                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/sandr3120/food-donation-system-project)             |
-| **Career Match**  | Implemented a job search platform.                                             | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/sandr3120/career-match)             |
+| Name                | Description                                                               | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
+| **Xcess Food**  | Implemented a food donation system.                                              | [Repo Link 1](https://github.com/sandr3120/food-donation-system-project)             |
+| **Career Match**  | Implemented a job search platform.                                             | [Repo Link 2](https://github.com/sandr3120/career-match)             |
 
 #### Leadership and Influence:
 
