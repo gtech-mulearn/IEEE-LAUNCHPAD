@@ -55,13 +55,12 @@ My immediate goal is to build a strong foundation in coding and development by w
 
 #### Highly Used Software Tools:
 
-- SQL
-- Figma
-- Vercel
-- Netlify
-- Git & GitHub
-- VScode
-- N8N
+Frontend: React, TypeScript, Vite, CSS
+Automation: n8n, Node.js
+Design: Figma, Canva
+Deployment: Vercel, Netlify
+Productivity: VS Code, Git & GitHub
+Database: SQL (basic level), MongoDB (learning)
 
 #### Competitive Website Profiles:
 
