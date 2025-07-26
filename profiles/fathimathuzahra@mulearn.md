@@ -1,4 +1,4 @@
-# 👩‍💻 Fathimathu Zahra @mulearn
+# 👩‍💻 Fathimathuzahra@mulearn
 
 ---
 
