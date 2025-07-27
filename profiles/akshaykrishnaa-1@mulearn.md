@@ -87,15 +87,14 @@
 ## Education
 - **B.Tech in Computer Science** (2021-2025)  
   Lourdes Matha College of Science and Technology, Kuttichal  
-  CGPA: [Your CGPA if mentioned]
+  
 
 - **Higher Secondary** (2019-2021)  
   St. Thomas Higher Secondary School  
-  Percentage: [Your Percentage]
 
 - **Secondary School** (2019)  
   Lourdes Mount Public School  
-  Percentage: [Your Percentage]
+
 
 ---
 
@@ -158,7 +157,7 @@ Leadership | Team Management | Public Speaking | Technical Writing
 
 3. **Data Management & ML** - LT EduTech (Nov 2022-Jun 2023)
 
-4. **Java Project Development** - [Institution]
+
 
 ---
 
