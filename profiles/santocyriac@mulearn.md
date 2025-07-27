@@ -13,12 +13,12 @@
 
 ### My Projects
 
-| Name                | Description                                                                | Hosted Link                                             | Repo Link                                                                                |
-|---------------------|----------------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------|
-| Traffic Nexus -V1   | A Tool which monitors IP network traffic in a server and plots the incoming| (Currrently Not hosted due to reworks)                  | [Front End] https://github.com/Tw0side/Traffic-Nexus-V1-Frontend.git|
-                      |  and out going IP geolocation, it also warns of server overload            |  https://youtu.be/O2gbEhh7nX8 (Project video)             [Backend] https://github.com/IncognitoJR-007/Traffic-Nexus-Backend.git (Currently Private) 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|                        
-| Toralizer           | A tool which redirect traffic via onion routing protocol from terminal     | Tool (Not Hosted                                        | [Repo Link 2](https://github.com/Tw0side/Toralize.git)                                   |
+| PROJECT                                         | GITHUB REPO         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Tw0side/Cyber-Intern-Phase-1">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Tw0side/Traffic-Nexus-V1-Frontend">Traffic Nexus</a>|
+| NOAA LOG Visualization                         |  <a href="https://github.com/Tw0side/NOAALOGVISUALIZATION">NOAA</a>|
+| PYTHON Scripts                                 |  <a href="https://github.com/Tw0side/scripting/tree/main">Scripting</a>|                                 |
 
 
 #### Leadership and Influence:
@@ -71,4 +71,18 @@
 
 #### Competitive Website Profiles:
 
-- Tryhackme : <img src="https://tryhackme-badges.s3.amazonaws.com/Twoside.png" alt="Your Image Badge" />
+-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1890220" style='border:none;'></iframe>
+
+#### Experience as a speaker
+
+<div>
+-Awareness Session at St Anns HSS
+<img src="./STANS.jpg" alt="Awareness Session at ST Anns HSS " width="400"/>
+</div>
+<div>
+-Workshop on Digital Forensics
+<img src="./ssf.jpg" alt="Awareness Session at ST Anns HSS " width="400"/>
+</div>
+-ISRA COMMUNITY MEETUP session on The topic Quantum Resistant Framework for SCADA systems.
+<img src="./talk%20at%20ISRA.jpeg" alt="ISRA " width="400"/>
+<img src="./Talk%20at%20ISRA%20(2).jpeg" alt="ISRA " width="400"/>
