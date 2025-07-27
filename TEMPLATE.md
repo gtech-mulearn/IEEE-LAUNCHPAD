@@ -35,7 +35,38 @@ I'm a 3rd year BTech student in Computer Science at College of Engineering, Chen
 
 #### History of Open Sourse Contributions:
 
-No contributions on open course till now.
+* Open source began with early software sharing among developers and was popularized in the 1990s with projects like Linux and the founding of the Open Source Initiative.
+* Today, platforms like GitHub enable global collaboration, making open source contributions a vital part of technology innovation.
+
+
+#### History of Community Engagement:
+
+* Community engagement has roots in grassroots movements where people collaborated locally to address shared needs and build social support networks.
+* With the rise of the internet and social media, community engagement expanded globally, allowing diverse groups to connect, collaborate, and drive social and technological change.
+
+
+#### Highly Visible Technical Content:
+
+* Detailed blog posts on platforms like Medium or Dev.to that explain complex tech topics clearly and accessibly.
+* Popular open source projects on GitHub with strong documentation and active community contributions.
+
+
+
+#### Highly Used Software Tools:
+
+* Highly used software tools are Git for version control, Visual Studio Code for coding.
+
+
+#### Competitive Website Profiles:
+
+* GitHub
+* LinkedIn
+
+
+
+
+
+
 
 
 
