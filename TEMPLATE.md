@@ -1,8 +1,13 @@
-# Full Name 
+Abraham Santhosh
 
 ### About Me
+I’m a passionate and curious coder with a strong interest in building smart, efficient, and user-friendly applications. I love solving real-world problems with code, and I’m constantly looking to learn new technologies and improve my skills. My journey began with the basics of HTML, CSS, and JavaScript, and has grown to include experience with modern tools and frameworks like Node.js, Express, MongoDB, and React.
 
-> write about your self .................. (minimum 200 Characters)
+Whether it’s designing a responsive front end or working with APIs and databases on the back end, I enjoy every part of the development process. I believe in clean code, strong logic, and writing programs that not only work but also scale well.
+
+I'm always experimenting with personal projects — from web apps to automation scripts — and enjoy collaborating with others to bring ideas to life. I’m also committed to continuous learning, whether it’s through open-source contributions, coding challenges, or online courses.
+
+As a coder, I value creativity, problem-solving, and persistence. My goal is to grow into a full-stack developer who builds impactful, reliable, and meaningful software. I’m excited about what the future holds and the opportunities that code can create.
 
 
 ## Portfolio Highlights
@@ -11,7 +16,7 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| bill splitter website  | SplitEasy is a modern web application designed to simplify bill splitting among friends, roommates, or groups. Whether you're dining out, traveling, or sharing expenses, Split Easy makes it effortless to track and settle shared costs transparently.Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1]https://github.com/abraham-santhosh/pay-chat-interact-design-64.git            |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
