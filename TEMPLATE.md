@@ -1,30 +1,34 @@
-Nandana Krishnan
+**Nandana Krishnan**
+
+I'm a 3rd year BTech student in Computer Science at College of Engineering, Chengannur interested in Web Development, UI/UX and AI. I,m also passionate about new technologies.
 
 
 
-> write about your self .................. (minimum 200 Characters)
+
+**Portforlio Highlights**
+
+            |
+
+**Leadership and Influence:**
+
+* A leader or influencer must set a clear direction and communicate it effectively to ensure everyone understands the goals and their role in achieving them.
+* It’s important to encourage and empower others, helping them stay engaged and committed to the shared objectives.
+* Leaders gain trust through honesty and consistency, which enables them to influence others and successfully guide teams through change or challenges.
 
 
-## Portfolio Highlights
+**Networking:**
 
-### My Projects
+* Build strong professional relationships through clear communication and active listening.
+* Engage with communities by attending events, joining groups, and sharing insights online.
+* Influence and lead by setting a positive example, sharing knowledge, and encouraging teamwork.
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
-#### Leadership and Influence:
+**Career Plan:**
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking:
-
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
-
-#### Career Plan:
-
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+Immediate Plan:
+* Mentor early-stage startups and actively engage in local startup events to support growth.
+Longer-Term Plan:
+* Build stronger partnerships between startups, investors, and institutions to create a sustainable ecosystem.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
