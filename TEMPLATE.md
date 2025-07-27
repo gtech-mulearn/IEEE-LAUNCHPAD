@@ -1,6 +1,6 @@
-# Full Name 
+Lulu Pradeepan
 
-### About Me
+Computer science aspirant
 
 > write about your self .................. (minimum 200 Characters)
 
