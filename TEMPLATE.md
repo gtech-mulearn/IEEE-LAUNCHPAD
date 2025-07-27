@@ -33,3 +33,9 @@ I'm a 3rd year BTech student in Computer Science at College of Engineering, Chen
 * Foster a culture of innovation and risk-taking that encourages entrepreneurs to experiment, learn from failure, and grow sustainably.
 
 
+#### History of Open Sourse Contributions:
+
+No contributions on open course till now.
+
+
+
