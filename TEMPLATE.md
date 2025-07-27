@@ -7,8 +7,6 @@ I'm a 3rd year BTech student in Computer Science at College of Engineering, Chen
 
 **Portforlio Highlights**
 
-            |
-
 **Leadership and Influence:**
 
 * A leader or influencer must set a clear direction and communicate it effectively to ensure everyone understands the goals and their role in achieving them.
@@ -25,14 +23,15 @@ I'm a 3rd year BTech student in Computer Science at College of Engineering, Chen
 
 **Career Plan:**
 
-Immediate Plan:
-* Mentor early-stage startups and actively engage in local startup events to support growth.
-Longer-Term Plan:
-* Build stronger partnerships between startups, investors, and institutions to create a sustainable ecosystem.
+* Immediate Plan: Mentor early-stage startups and actively engage in local startup events to support growth.
+* Longer-Term Plan: Build stronger partnerships between startups, investors, and institutions to create a sustainable ecosystem.
+
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+* Strengthen collaboration between government, academia, and industry to provide better infrastructure, funding, and skill development for startups.
+* Foster a culture of innovation and risk-taking that encourages entrepreneurs to experiment, learn from failure, and grow sustainably.
+
 
 #### History of Open Source Contributions:
 
