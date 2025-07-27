@@ -1,4 +1,4 @@
-**Nandana Krishnan**
+**NANDANA KRISHNAN**
 
 I'm a 3rd year BTech student in Computer Science at College of Engineering, Chengannur interested in Web Development, UI/UX and AI. I,m also passionate about new technologies.
 
