@@ -16,7 +16,7 @@ As a coder, I value creativity, problem-solving, and persistence. My goal is to 
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| bill splitter website  | SplitEasy is a modern web application designed to simplify bill splitting among friends, roommates, or groups. Whether you're dining out, traveling, or sharing expenses, Split Easy makes it effortless to track and settle shared costs transparently.Description of the project 1                                              | [Hosted Link 1]: https://lovable.dev/projects/5885f59d-f015-482e-a528-0a3af452c709    | [Repo Link 1]https://github.com/abraham-santhosh/pay-chat-interact-design-64.git            |
+| bill splitter website  | SplitEasy is a modern web application designed to simplify bill splitting among friends, roommates, or groups. Whether you're dining out, traveling, or sharing expenses, Split Easy makes it effortless to track and settle shared costs transparently.                                        | [Hosted Link 1]: https://lovable.dev/projects/5885f59d-f015-482e-a528-0a3af452c709    | [Repo Link 1]https://github.com/abraham-santhosh/pay-chat-interact-design-64.git            |
 | **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
