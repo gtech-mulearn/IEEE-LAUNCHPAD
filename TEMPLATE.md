@@ -1,58 +1,45 @@
-# Full Name 
+# Fathima Fida N
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I’m a B.Tech student (2020-2024) passionate in learning technical skills, skilled in UI/UX designing, and currently studying web development.
 
 
 ## Portfolio Highlights
 
+Proficient in Multiple Languages: Skilled in C , HTML, CSS, and database, equipped to tackle diverse software development challenges.
+
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                               | 
+|---------------------|---------------------------------------------------------------------------|
+| **ONLINE RENTAL HOUSES**  | A Website that provide way to find rental houses and help to connect landlords and tenants with each other. |
+| **IOT BASED SMART MONITORING DIGITALIZED ELECTRICITY METER**  |Smart Energy Meter System uses Arduino Uno and NodeMCU to monitor and manage energy consumption, sending data to database in real time.| 
+
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking:
-
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+- Tinkerhub hub Campus Ambassador 
+- Microsoft learn student ambassador
+- Tinker Hub member
+- Actively contributed in the project groups during college, demonstrating strong teamwork and problem-solving skills. Assumed leadership responsibilities, coordinated tasks, and facilitated effective communication to achieve project objectives within established timelines
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+- To get a software developer job at any reputed company.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- Kerala has a good chance to do well in the technology startup world. The state has smart people, likes new ideas, and helps small companies grow. It's important for schools, government, and businesses to work together. If they do, Kerala could become a top spot for tech startups.
 
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
+- Member at gtech mulearn.
+- Participated in hackathon conducted by Gtech mulearn in collaboration with KKEM.
+- I have actively participated in inter-college and intra-college IEEE community activities and was an IEEE member from 2021 to 2023.
+  
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
+- VS Code
+- PyCharm
