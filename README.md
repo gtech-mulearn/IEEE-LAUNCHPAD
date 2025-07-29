@@ -2,7 +2,7 @@
 
 ### About Me
 
->I'm a Computer Science graduate (2024) with a specialization in Intelligent Systems. I'm genuinely passionate about technology. Over the past few years, I've built a solid technical foundation through hands-on projects, coursework, and self-learning.
+I'm a Computer Science graduate (2024) with a specialization in Intelligent Systems. I'm genuinely passionate about technology. Over the past few years, I've built a solid technical foundation through hands-on projects, coursework, and self-learning.
 
 For the last 8 months, I’ve been working on an idea that tries to solve real-world logistics challenges using Route Optimization combined with Bin Packing. The aim was to build a product that could improve delivery efficiency by finding the best travel routes while optimizing space usage. Although the project is still in progress and not fully completed, it’s been a great learning journey that pushed me to explore complex algorithms and practical system design.
 
