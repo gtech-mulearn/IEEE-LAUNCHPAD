@@ -2,11 +2,7 @@
 
 ### About Me
 
-I'm a Computer Science graduate (2024) with a specialization in Intelligent Systems. I'm genuinely passionate about technology. Over the past few years, I've built a solid technical foundation through hands-on projects, coursework, and self-learning.
-
-For the last 8 months, I’ve been working on an idea that tries to solve real-world logistics challenges using Route Optimization combined with Bin Packing. The aim was to build a product that could improve delivery efficiency by finding the best travel routes while optimizing space usage. Although the project is still in progress and not fully completed, it’s been a great learning journey that pushed me to explore complex algorithms and practical system design.
-
-Alongside my technical skills, I value clear communication, teamwork, and creative problem-solving. I enjoy experimenting with new technologies and take pride in learning things on my own when needed. Whether it’s building intelligent systems, designing full-stack applications, or exploring new ideas, I’m always excited to take on meaningful challenges and grow along the way..
+>I'm a Computer Science graduate (2024) with a specialization in Intelligent Systems. I'm genuinely passionate about technology. Over the past few years, I've built a solid technical foundation through hands-on projects, coursework, and self-learning.For the last 8 months, I’ve been working on an idea that tries to solve real-world logistics challenges using Route Optimization combined with Bin Packing. The aim was to build a product that could improve delivery efficiency by finding the best travel routes while optimizing space usage. Although the project is still in progress and not fully completed, it’s been a great learning journey that pushed me to explore complex algorithms and practical system design.Alongside my technical skills, I value clear communication, teamwork, and creative problem-solving. I enjoy experimenting with new technologies and take pride in learning things on my own when needed. Whether it’s building intelligent systems, designing full-stack applications, or exploring new ideas, I’m always excited to take on meaningful challenges and grow along the way..
 <br><br>Checkout my github profile : [athifal](https://github.com/athifal)
 <br>Checkout my linkedln profile : [athifal](www.linkedin.com/in/athifal)
 <br>Checkout my porfolio profile : [profileathifal](https://profileathifal.vercel.app/)
