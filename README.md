@@ -10,7 +10,7 @@
 
 
 ### My Projects
-tl
+
 | Name                | Description                                                               |Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
 | **Drug Repurposing**  |  This project uses Python with NumPy, TensorFlow, Pandas, and Keras to develop a novel graph neural network for drug repositioning. The model optimizes drug–disease association modeling and validation, showcasing Python's power in advanced machine learning for biomedical applications.        |  [Drug Repurposing](https://github.com/athifal/Drug-repurposing-using-GNN)             |
