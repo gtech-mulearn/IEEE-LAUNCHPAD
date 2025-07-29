@@ -9,7 +9,6 @@ I'm a passionate backend developer and final-year Computer Science student at AW
 ## Portfolio Highlights
 
 ### My Projects
-### My Projects
 
 | Name                      | Description                                                                 | Hosted Link                                    | Repo Link                                                        |
 |---------------------------|-----------------------------------------------------------------------------|------------------------------------------------|------------------------------------------------------------------|
