@@ -2,18 +2,24 @@
 
 ### About Me
 
->As a master's student pursuing computer science with a specialization in intelligent systems, I am deeply passionate about the fields of web development, IoT, network, and cyber security. Throughout my studies, I have developed a strong technical skillset in programming languages, software tools, and other relevant areas of expertise.In addition to my technical skills, I possess strong soft skills such as effective communication, teamwork, and problem-solving, which are essential in any technology-related field. Through various projects I have worked on, I have gained valuable experience and contributed to the development of various intelligent systems.I am always eager to learn and grow in my field and have completed relevant certifications and courses to enhance my skills. As I move forward in my career, I am excited to contribute my knowledge and expertise to the advancement of technology and to connect with like-minded professionals in the industry.
+>I'm a Computer Science graduate (2024) with a specialization in Intelligent Systems. I'm genuinely passionate about technology. Over the past few years, I've built a solid technical foundation through hands-on projects, coursework, and self-learning.
+
+For the last 8 months, I’ve been working on an idea that tries to solve real-world logistics challenges using Route Optimization combined with Bin Packing. The aim was to build a product that could improve delivery efficiency by finding the best travel routes while optimizing space usage. Although the project is still in progress and not fully completed, it’s been a great learning journey that pushed me to explore complex algorithms and practical system design.
+
+Alongside my technical skills, I value clear communication, teamwork, and creative problem-solving. I enjoy experimenting with new technologies and take pride in learning things on my own when needed. Whether it’s building intelligent systems, designing full-stack applications, or exploring new ideas, I’m always excited to take on meaningful challenges and grow along the way..
 <br><br>Checkout my github profile : [athifal](https://github.com/athifal)
 <br>Checkout my linkedln profile : [athifal](www.linkedin.com/in/athifal)
-## Portfolio Highlights
+<br>Checkout my porfolio profile : [profileathifal](https://profileathifal.vercel.app/)
+
+
 
 ### My Projects
-
+tl
 | Name                | Description                                                               |Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|----------------------------------------------------------------|
 | **Drug Repurposing**  |  This project uses Python with NumPy, TensorFlow, Pandas, and Keras to develop a novel graph neural network for drug repositioning. The model optimizes drug–disease association modeling and validation, showcasing Python's power in advanced machine learning for biomedical applications.        |  [Drug Repurposing](https://github.com/athifal/Drug-repurposing-using-GNN)             |
 | **CircRNA-Disease association prediction based on Autoencoder And XGBoost Classifier**  |This project is a computer-based method that combines XGBoost and autoencoders to analyze the relationships between Circular RNAs (circRNA) and chronic human diseases. By leveraging circRNA sequences, disease semantics, and disease interactions, XGB-AE generates valuable features for classification. Our model achieved high performance                                          |  [Circ-RNA-Disease association](https://github.com/athifal/CirRNA-interaction-XGboost-autoencoder)  |
-| **React-PHP  Website**  | This is a professional company website built using React and PHP, focusing on providing comprehensive manpower solutions. The website serves as a central hub for the company's services, offerings, and information.       |  [React+PHP](https://github.com/athifal/React-Deeyeef)             |
+            
 
 
 #### Networking:
