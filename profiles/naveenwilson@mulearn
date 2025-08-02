@@ -1,0 +1,63 @@
+# Naveen Wilson
+
+### About Me
+
+> I am Naveen Wilson, a passionate and driven Artificial Intelligence and Data Science student with a strong foundation in machine learning, computer vision, and full-stack development. I thrive in collaborative environments and enjoy solving real-world problems through innovative projects, such as a real-time video-to-sign-language converter and a compact sports ball tracking system. My leadership roles, diverse internships, and achievements in hackathons have shaped me into a versatile and proactive individual. I am constantly learning and eager to contribute to impactful tech solutions that can create positive change in society.
+
+## Portfolio Highlights
+
+### My Projects
+
+| Name                                                       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Hosted Link | Repo Link |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- |
+| **Real-time Video to Sign Language Converter**             | This project aims to bridge the communication gap between the hearing and the deaf/hard-of-hearing communities. Using advanced deep learning models and computer vision techniques, the system captures live video input (typically from a webcam), processes the visual data, and translates spoken language or gestures into accurate and context-aware sign language. The system employs CNN-based pose detection, hand landmark tracking, and NLP techniques to understand spoken content and generate corresponding sign gestures in real time. This inclusive technology enhances accessibility, especially in educational institutions, public services, and virtual communication platforms. |
+| [Hosted Link 1](github.com/navwil/sign-language-generator) | [Repo Link 1](github.com/navwil/sign-language-generator)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+| **Ball Tracking System (DRS)** | A simplified and cost-effective Decision Review System (DRS) for cricket. It tracks the trajectory of a ball using input from just a single camera, eliminating the need for expensive multi-camera setups. The system uses object detection algorithms (like YOLO or CNNs), frame-by-frame tracking, and trajectory prediction models to determine if the ball was within a specific zone (e.g., goal line, LBW path). The key innovation is in using deep learning and computer vision to simulate real-time decisions, helping referees and umpires make fair judgments during games.
+| [Hosted Link 2](https://github.com/navwil/navwil-cricket-ball-tracking-using-yolo-v8-mini-DRS-system.git) | [Repo Link 2](https://github.com/navwil/navwil-cricket-ball-tracking-using-yolo-v8-mini-DRS-system.git) |
+
+| **BinTrack Pro** | An AI and IoT-enabled waste management solution that improves cleanliness in urban areas. BinTrack Pro uses smart sensors to monitor bin levels and informs authorities in real-time. It also features a gamified reward system to encourage users to participate in responsible waste disposal. A mobile app enables interaction and tracking of user activity, while the backend applies analytics for route optimization and operational efficiency. |
+[Repo Link](https://github.com/navwil/bintrack-pro) |
+Notes:
+
+#### Leadership and Influence:
+
+- One of my key leadership experiences was serving as the Team Lead for the project “Real-time Video to Sign Language Converter.” I guided my team through the end-to-end development of a deep learning-based system that translates spoken language into sign language gestures. I was responsible for setting clear project milestones, dividing tasks based on strengths, and ensuring seamless collaboration. This project involved advanced computer vision and NLP techniques and was a major step in developing inclusive technologies.
+
+- Another example is my role as Team Lead for the “Ball Tracking System (Mini DRS)”, where I spearheaded the development of a cost-effective decision review system using YOLOv8 for single-camera ball trajectory tracking. My leadership ensured that the team overcame technical challenges and delivered a working model that was recognized in various hackathons.
+
+- In addition to technical leadership, I’ve held core organizational roles. I served as the Coordinator of the Sponsorship Committee for Tharang 2024—our college’s annual national-level tech fest. In this position, I was responsible for leading a team of students in reaching out to potential sponsors, preparing presentations and proposals, managing communications, and finalizing deals. Through this, I developed critical skills in negotiation, networking, and strategic planning. My ability to influence and communicate effectively played a significant role in securing sponsorships, contributing to the success of the event.
+
+- I also held the position of ProShow Coordinator for Tharang 2023, Media Lead for GDSC, and Secretary of KCYM Ollukara, further showing my ability to take initiative, manage teams, and engage stakeholders. These roles helped me influence my peers, mentor juniors, and promote innovation and collaboration within student communities.
+
+#### Networking:
+
+- I have developed strong networking skills through my involvement in various college-level and national-level events. As the Sponsorship Committee Coordinator for Tharang 2024, I led outreach to potential sponsors, communicated proposals, and built relationships with corporate representatives. This role sharpened my professional communication, negotiation, and relationship-building skills.
+  In my role as Media Lead for the Google Developer Student Club (GDSC), I engaged with fellow tech enthusiasts, organized collaborative events, and promoted active participation in workshops. This position helped me connect with student developers from other institutions and enabled me to build a strong peer network in the developer ecosystem.
+  Additionally, I’ve participated in multiple hackathons and workshops (such as Karthavya National Hackathon, Techy Showdown, and events organized by IBM, NDLI, and others), where I connected with like-minded innovators, shared ideas, and learned from others' experiences. These events have expanded my understanding of real-world tech applications and allowed me to engage with the broader AI/ML community.
+
+#### Career Plan:
+
+- My immediate plan is to secure a job in the field of Artificial Intelligence, Machine Learning, or Data Science, where I can apply my technical skills and gain hands-on industry experience. This will help me understand real-world problem-solving, product development, and business workflows. In the long term, I aim to start my own AI-based startup in Kerala, focused on solving region-specific challenges and contributing meaningfully to the growth of the Kerala startup ecosystem.
+
+#### Thoughts on Kerala's Tech Ecosystem:
+
+- Kerala has immense potential to become a leading technology startup hub due to its strong literacy rate, talented youth population, and growing digital infrastructure. To excel further, Kerala must strengthen industry-academia collaboration, promote practical skill development, and increase funding opportunities for early-stage startups. Support from initiatives like Kerala Startup Mission (KSUM) is already laying a solid foundation, but scaling mentorship programs, incubators, and R&D partnerships with global tech leaders will accelerate innovation. By focusing on sectors like AI, healthcare, sustainability, and education, Kerala can create a unique startup identity that not only drives economic growth but also addresses real social challenges, setting an example for inclusive and impactful technological development.
+
+#### History of Community Engagement:
+
+- I have been actively involved in technical communities through roles like Media Lead in GDSC, where I helped organize workshops and tech events. I participate in AI and data science forums on Discord, contribute to GitHub by sharing projects and assisting with code issues, and collaborate during hackathons and tech meetups to exchange ideas and support peers.
+
+#### Highly Visible Technical Content:
+
+- Highlight any highly visible technical blog posts, articles, or video series you have created.
+
+#### Highly Used Software Tools:
+
+- CNN, YOLO, NLP, OpenCV, Flask, Streamlit, Git, GitHub, Jupyter Notebook, Google Colab
+
+#### Competitive Website Profiles:
+
+- https://www.kaggle.com/naveenwilso
+
+---
