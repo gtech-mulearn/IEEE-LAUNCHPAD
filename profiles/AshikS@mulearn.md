@@ -11,7 +11,7 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **Sports Tracker WebApp**  |The goal was to create a platform where we can host sports events in colleges schools etc and any other institutions can register in this event.   | []   | []             |
-| **Ummini Thankam Rentals**  |This is a rental jewellary site that i am now working on.| []    | []            |
+| **Ummini Thankam Rentals**  |This is a rental jewellary site that i am now working on.| []    | [https://github.com/Ashikshahu7781/Ummini-Thankam]            |
 
 #### Leadership and Influence:
 
