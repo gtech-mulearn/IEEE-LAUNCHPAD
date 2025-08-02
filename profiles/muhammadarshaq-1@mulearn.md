@@ -78,5 +78,6 @@ I have also worked with designing tools like Canva , Figma
 #### Competitive Website Profiles:
 
 - [**GiTHub**](https://github.com/Ettatu-Arshaq) 
-- [**LinkedIn**](https://www.linkedin.com/in/muhammad-arshaq-0b7455237/)  
+- [**LinkedIn**](https://www.linkedin.com/in/muhammad-arshaq-0b7455237/)
+- [**Launchpad**](https://github.com/Ettatu-Arshaq/Launchpad-2025/edit/main/profiles/muhammadarshaq-1%40mulearn.md#L79C0)
 ---
