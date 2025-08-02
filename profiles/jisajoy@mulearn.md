@@ -26,7 +26,7 @@ Whether it’s debugging code, designing intuitive UI, or learning about AI-powe
 
 #### Networking:
 
-- I am passionate about computer networking, with a strong understanding of protocols, IP addressing, and network configuration, and enjoy building and troubleshooting efficient communication systems
+- I am eager to connect with professionals and innovative minds.
 
 #### Career Plan:
 
@@ -52,12 +52,8 @@ Whether it’s debugging code, designing intuitive UI, or learning about AI-powe
 
 - I have worked extensively with highly used software tools such as Git, VS Code, Postman, and popular frameworks like React and Node.js, enabling efficient development, collaboration, and deployment of robust applications.
 
-#### Competitive Website Profiles:
-
-- I have built a competitive website profile showcasing my projects, skills, and achievements, designed with a user-friendly interface and optimized performance to reflect my technical expertise and professional identity.
 
 
 
-> In your portfolio, include the following details:
->> check out [evlinsarajohny@mulearn.md](./profiles/evlinsarajohny@mulearn.md) f
+
 ---
