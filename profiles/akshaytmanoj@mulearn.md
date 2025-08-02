@@ -10,8 +10,6 @@ I'm an Electronics and Communication Engineering student with a strong passion f
 
 ### My Projects
 
-I am currently in second year and thus has not done any projects.
-
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **ACADEMIND**  | An AI model which generates the questions and also grades the inputs                                         | [Hosted Link 1](http://127.0.0.1:5000)    | [Repo Link 1](https://github.com/404-Debuggable/IUIT-Project)             |
