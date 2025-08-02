@@ -1,12 +1,10 @@
-#NANDANA S NAIR
+# NANDANA S NAIR
 
 ### About Me
 
-I am a passionate and driven Computer Science and Engineering student at St. Joseph's College of Engineering and Technology, with a strong foundation in software development, web technologies, and programming languages such as Java, Python, HTML, and JavaScript. My journey in tech has been enriched through hands-on projects like "Pawfect Match," a pet adoption platform developed during my internship at NeST Cyber Campus, which deepened my understanding of full-stack development and problem-solving in real-world scenarios.
+I’m a bright and motivated student with a passion for continuous learning and personal growth. Currently pursuing studies in Artificial Intelligence, I have a keen interest in machine learning, neural networks, and emerging technologies in the AI domain. I am deeply committed to academic excellence and strive to push my boundaries through self-driven exploration and hands-on learning.
 
-I enjoy building creative and functional applications, especially using the MERN stack and modern tools like Vite, React, and GitHub for version control and deployment. I’ve also explored cybersecurity concepts like online privacy and database security, reflecting my curiosity across domains. My adaptability, attention to detail, and eagerness to learn make me well-suited for collaborative projects and fast-paced environments.
-
-Whether it’s debugging code, designing intuitive UI, or learning about AI-powered tools for presentations and automation, I approach each task with enthusiasm and a growth mindset. I’m currently seeking opportunities to further sharpen my skills and contribute meaningfully to projects that make a difference.
+Beyond academics, I value the power of teamwork and believe in the importance of collaboration to solve complex problems. I enjoy working in diverse teams where ideas are shared, challenges are tackled together, and mutual growth is encouraged. My ability to adapt, communicate effectively, and contribute meaningfully has helped me thrive in both academic projects and co-curricular initiatives.
 
 
 
@@ -17,9 +15,8 @@ Whether it’s debugging code, designing intuitive UI, or learning about AI-powe
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Pawfect Match**  |  pet adoption platform designed to connect loving homes with pets in need through an intuitive and user-friendly interface.                                             | [Hosted Link 1](https://pet-adoption-platform-ecru.vercel.app/)    | [Repo Link 1](https://github.com/Evlinsara/PetAdoptionPlatform.git)             |
-| **TODO App**  | A collaborative task management tool with real-time updates, drag-and-drop functionality, and collaboration features.                                             | [Hosted Link 2](https://evlinsara.github.io/Todo-List/)    | [Repo Link 2](https://github.com/Evlinsara/Todo-List.git)             |
-| **Tic-Tac-Toe**  | A simple interactive Tic-Tac-Toe game where two players take turns marking X and O to win by aligning three symbols in a row, column, or diagonal.                                             | [Hosted Link 3](https://evlinsara.github.io/Tic-tac-toe/)    | [Repo Link 3](https://github.com/Evlinsara/Tic-tac-toe.git)             |
+| **Fake news detection**  |a simple ml project as my begginer one which classfies news as fake or not | [Hosted Link 1]([https://fakenewsdetection-aikvhssttgyl9jvzmyjkdu.streamlit.app/?ref=producthunt])    | [Repo Link 1](https://github.com/nandana1311/FAKE_NEWS_DETECTION)             |
+
 
 #### Leadership and Influence:
 
