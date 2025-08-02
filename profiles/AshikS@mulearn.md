@@ -1,6 +1,6 @@
 # Ashik S
 
-### Abo
+### About
 > Hi, I am Ashik S. I am an engineering student specialized in computer science engineering.I am passionate about developing and launching new projects in web development and internet of things (IOT).
 
 
