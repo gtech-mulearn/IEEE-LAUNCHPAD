@@ -20,7 +20,7 @@ Debugging the code was my favourite part in coding. Designing website, coding an
 
 ### Leadership and Influence:
 
-- Mulearn Campus Lead - enabling me to share new opportunities and skill development methods to beginners
+- Mulearn Campus Lead - enabling me to share new opportunities and skill development methods to beginners.
 
 ### Career Plan:
 
@@ -32,7 +32,11 @@ Debugging the code was my favourite part in coding. Designing website, coding an
 
 ### History of Community Engagement:
 
-- I have actively engaged in community initiatives, participating in tech fests and college clubs, fostering knowledge sharing, peer learning. Actively conducted and participated on tech fests. I'm a member of Gtech MuLearn community
+- I have actively engaged in community initiatives, participating in tech fests and college clubs, fostering knowledge sharing, peer learning. Actively conducted and participated on tech fests. I'm a member of Gtech MuLearn community.
+
+### Competitive Website Profiles:
+
+- Member on Leetcode, able to solve 31 questions.
 
 ## Personal Links
 
