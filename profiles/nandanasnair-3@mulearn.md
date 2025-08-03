@@ -32,7 +32,7 @@ Beyond academics, I value the power of teamwork and believe in the importance of
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- It may not have the scale of places like Bengaluru or Hyderabad yet, but there’s something uniquely powerful about the way innovation is growing here.One of the things I appreciate most is the focus on initiatives like muLearn, TinkerHub, and various campus tech clubs are making tech learning more accessible and collaborative.Programs by Kerala Startup Mission are opening doors for young minds to explore ideas and actually build them into something meaningful
+- There’s something uniquely powerful about the way innovation is growing here.One of the things I appreciate most is the focus on initiatives like muLearn, TinkerHub, and various campus tech clubs are making tech learning more accessible and collaborative.Programs by Kerala Startup Mission are opening doors for young minds to explore ideas and actually build them into something meaningful
 
 #### History of Open Source Contributions:
 
