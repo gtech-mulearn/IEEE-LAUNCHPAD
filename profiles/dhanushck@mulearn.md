@@ -34,6 +34,10 @@ Debugging the code was my favourite part in coding. Designing website, coding an
 
 - I have actively engaged in community initiatives, participating in tech fests and college clubs, fostering knowledge sharing, peer learning. Actively conducted and participated on tech fests. I'm a member of Gtech MuLearn community.
 
+### Highly Visible Technical Content:
+
+- Active on LinkedIn, posts achievement, projects and expand my network.
+
 ### Competitive Website Profiles:
 
 - Member on Leetcode, able to solve 31 questions.
