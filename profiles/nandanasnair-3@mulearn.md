@@ -54,8 +54,5 @@ Beyond academics, I value the power of teamwork and believe in the importance of
 
 - I have built a competitive website profile showcasing my projects, skills, and achievements, designed with a user-friendly interface and optimized performance to reflect my technical expertise and professional identity.
 
-
-
-> In your portfolio, include the following details:
->> check out [evlinsarajohny@mulearn.md](./profiles/evlinsarajohny@mulearn.md) f
+>> check out (https://nandana1311.github.io/portfolio_/) f
 ---
