@@ -38,6 +38,10 @@ Debugging the code was my favourite part in coding. Designing website, coding an
 
 - Active on LinkedIn, posts achievement, projects and expand my network.
 
+### Highly Used Software Tools:
+
+- Uses VS Code for coding, Git & Github for version control and code storing and Firebase for website hosting
+
 ### Competitive Website Profiles:
 
 - Member on Leetcode, able to solve 31 questions.
