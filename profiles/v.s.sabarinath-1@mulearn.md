@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hey!, I am a second year engineering student pursuing B.Tech in Mechanical Engineering from 
+Hey!, I am a third year engineering student pursuing B.Tech in Mechanical Engineering from 
 Mar Baselios College of Engineering and Technology, Trivandrum.
 Seeking a challenging and growth-oriented environment where I can further enhance my technical expertise 
 while making meaningful contributions to the team's success.
@@ -13,7 +13,7 @@ while making meaningful contributions to the team's success.
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Task Assigner**   | Used to assign tasks to employees based on their skill                    | [Hosted Link 1](https://github.com/AbelLouisFernandez/Employ_Management)    | [Repo Link 1](https://abellouisfernandez.github.io/Employ_Management/templates/index.html)             |
+| **Sign2Speech**   | Converts sign language to real time speech                    | -    | PPT- https://drive.google.com/file/d/1wOudtzZrACVNwZpbzi1MBqgA4NF1BxJ_/view?usp=sharing             |
 
 #### Leadership and Influence:
 
