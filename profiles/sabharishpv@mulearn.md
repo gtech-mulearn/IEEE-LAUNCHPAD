@@ -16,8 +16,7 @@ I thrive in **problem-solving, research, and experimentation**, whether it’s o
 
 | **Name**                                 | **Description**                                                                                                         | **Repo Link / Hosted Link**                                   |
 |------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| **Facial Expression Recognition (FER)**  | LSTM-based video-level FER system using MediaPipe landmarks and weighted graph edge features for temporal emotion analysis. | Private GitHub Repo                                           |
-| **Edge-based DAF Graph FER**             | Novel approach for FER using dynamic edge-weighted facial graphs with temporal variation tracking for classification.      | Private GitHub Repo                                           |
+| **Facial Expression Recognition (FER)**  | LSTM-based video-level FER system using MediaPipe landmarks and weighted graph edge features for temporal emotion analysis. | Private GitHub Repo                                           |                                       |
 | **Context Prediction System**            | Hybrid dense-sparse retrieval + reinforcement learning over knowledge graphs for long-term conversational context prediction. | In Progress                                                  |
 | **AI Chat Assistant (Mini Project)**     | Contextual, multi-turn AI chat assistant with modular intent handling and knowledge integration.                         | Local Deployment                                             |
 
