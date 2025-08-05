@@ -42,12 +42,12 @@ I thrive in **problem-solving, research, and experimentation**, whether it’s o
 
 ### **History of Open Source Contributions**
 
-- Regularly shares **project pipelines, ML experiments, and technical insights** on GitHub.  
-- Plans to **open-source modular AI utilities** for community-driven innovation.
+- None
 
 ### **History of Community Engagement**
 
-- None
+- IEEE Design Lead,
+- Media Lead, MuLearn RET
 
 ### **Highly Visible Technical Content**
 
