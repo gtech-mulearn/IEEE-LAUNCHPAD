@@ -63,4 +63,3 @@ I thrive in **problem-solving, research, and experimentation**, whether it’s o
 
 - **GitHub**: [github.com/sabharishhh](#)  
 - **LinkedIn**: [linkedin.com/in/sabharishhh](#)  
-- **µLearn**: [sabharish@mulearn.md](./profiles/sabharish@mulearn.md)
