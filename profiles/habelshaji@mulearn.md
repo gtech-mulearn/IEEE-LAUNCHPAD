@@ -53,24 +53,6 @@ Build a future in **AI-powered automation**, real-time communication systems, an
 
 ---
 
-### 🌐 Community and Content
-
-#### Open Source and Community:
-- Advocate for minimalistic, high-utility open-source solutions
-- Engaged in forums and technical collaboration spaces
-- Contributor to practical STT and AI tools for regional languages
-
-#### Technical Content:
-- GitHub-focused technical visibility
-- Practical code > flashy UI — every time
-
-#### Software Stack I Use:
-- Whisper (fine-tuned) , VsCode
-- Firebase, Flutter, Html, Node
-- Python , ChromaDB, Gemini API
-- Asterisk 22.4.1 (PJSIP), SQLite, Mac
-
----
 
 > 📨 Reach out or follow my work:
 >> GitHub: [github.com/Habel2005](https://github.com/Habel2005)  
