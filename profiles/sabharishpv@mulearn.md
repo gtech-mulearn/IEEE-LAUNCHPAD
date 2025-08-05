@@ -48,16 +48,15 @@ I thrive in **problem-solving, research, and experimentation**, whether it’s o
 
 ### **History of Community Engagement**
 
-- Active in **IEEE RSET** and **µLearn**, participating in **research-oriented collaborations and tech meetups**.  
-- Supports **peer learning** and **student-led AI initiatives**.
+- None
 
 ### **Highly Visible Technical Content**
 
-- Published **well-structured GitHub repos, project demos, and notebooks** documenting ML workflows and FER research.  
+- Paper publication for FER project in progress. 
 
 ### **Highly Used Software Tools**
 
-- **Python, PyTorch, OpenCV, MediaPipe, TensorFlow, scikit-learn** for AI workflows.  
+- **Python, PyTorch, scikit-learn** for AI workflows.  
 - **VS Code, GitHub, Jupyter, Google Colab** for development and prototyping.
 
 ### **Competitive Website Profiles**
