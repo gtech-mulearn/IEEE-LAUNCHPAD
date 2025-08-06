@@ -1,6 +1,5 @@
 # MOHAMMED AFSAL A M
 
-
 ### About Me
 >* 👨‍💻 I’m a passionate and motivated B.tech ECE student.
 >* 💡 I enjoy learning new technologies, and sharing what I learn with others.
