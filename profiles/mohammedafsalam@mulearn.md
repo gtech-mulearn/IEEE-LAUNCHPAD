@@ -5,7 +5,7 @@
 * 👨‍💻 I’m a passionate and motivated B.tech ECE student.
 * 💡 I enjoy learning new technologies, and sharing what I learn with others.
 > * 📧 Email: [mohammedafsal.am@acetvm.com](mailto:mohammedafsal.am@acetvm.com)
-> * 🔗 GitHub: [SH4N1D](https://github.com/moafsal)
+> * 🔗 GitHub: [moafsal](https://github.com/moafsal)
 
 
 ## Portfolio Highlights 
