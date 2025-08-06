@@ -32,4 +32,4 @@ Python, TensorFlow, PyTorch, OpenCV, React, Git, VS Code, Jupyter Notebooks, Num
 
 ### Competitive Website Profiles
 - GitHub: [github.com/adithyakrish0](https://github.com/adithyakrish0)
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/adithyakrishnanpn/)
+- LinkedIn: [linkedin.com/in/adithyakrishnanpn](https://www.linkedin.com/in/adithyakrishnanpn/)
