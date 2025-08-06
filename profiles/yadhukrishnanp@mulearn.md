@@ -2,7 +2,7 @@
 
 ### About Me
 
-> Hello, I'm Yadhukrishna, a final year BCA student at Government College Thalassery. Experienced in Python Django full stack, skilled in HTML, CSS, Bootstrap, and JS. Currently honing my Python core knowledge for further development.
+> Hello, I’m Yadhukrishna, a final-year MCA student at the College of Engineering Trivandrum. I’m an enthusiastic Java software engineer with a strong foundation in Java, OOP, and Data Structures & Algorithms. Alongside Java, I bring a full-stack perspective from my experience with MERN and Django development. I’m particularly passionate about contributing to forward-thinking teams, especially in solving challenges within the AI/ML space.
 
 
 ## Portfolio Highlights
@@ -12,6 +12,7 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **OPTIFIT**  | OPTIFIT IS A REAL TIME FORM ASSESSING FITNES APPLICATION                                              | [Hosted Link 1](https://optifi-ai.web.app)    | [Repo Link 1](https://github.com/yadhukrishnx/OPTIFIT)             |
+| **CETMCA26**  | Community Driven Course Platform                                 | [Hosted Link 1](https://cetmca26.live)    | [Repo Link 1](https://github.com/yadhukrishnx/cetmca26)             |
 
 
 #### Leadership and Influence:
@@ -46,4 +47,6 @@
 
 #### Competitive Website Profiles:
 
-- [twitter](https://twitter.com/Yadhukrishnx).
+- [LeetCode](https://leetcode.com/yadhukrishnx)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yadhukrishnx)
+- [HackerRank](https://www.hackerrank.com/yadhukrishnx)
