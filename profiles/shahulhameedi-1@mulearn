@@ -15,10 +15,11 @@
 
 ### My Projects
 
-| Name                            | Description                                                                              | Hosted Link                                         | Repo Link                                                      |
-| ------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------- |
-| **Object Detection & Sorting Robotic Arm** | Working on a 6-DOF robotic arm that is capable of identifying different kinds of objects and sorting them.    | project in progress |    |
-| **RFID-Based Gate Automation System**           | Designed and implemented an automated gate system using RFID technology for secure access control. Developed and programmed the system using Arduino to read RFID tags and trigger gate operations  |         |
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Object Detection & Sorting Robotic Arm**  |Working on a 6-DOF robotic arm that is capable of identifying different kinds of objects and sorting them| |
+| **RFID-Based Gate Automation System**  |Designed and implemented an automated gate system using RFID technology for secure access control. Developed and programmed the system using Arduino to read RFID tags and trigger gate operations.. |   |   |
+
 
 ### Education
 
