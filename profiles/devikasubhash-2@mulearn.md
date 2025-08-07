@@ -1,5 +1,5 @@
-# Full Name 
-Devika Subhash
+# Devika Subhash
+
 
 ### About Me
 Final-year B.Tech CSE student with a strong passion for software development, cybersecurity, and exploring
