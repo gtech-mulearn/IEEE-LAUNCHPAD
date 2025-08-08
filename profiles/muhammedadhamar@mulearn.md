@@ -4,7 +4,7 @@ I’m passionate about AI and how it’s reshaping the world. I enjoy blending t
 I’m a fast learner, always curious, and constantly looking for ways to level up my skills — especially in AI, app development, and building things that matter.
 ________________________________________
 Work Experience
-Currently working at Hyphen Pvt Ltd as a Junior Front-End Developer using Flutter, where I get hands-on experience building clean, user-friendly interfaces.
+Currently working at Hyphen , where I get hands-on experience , coordinating Technical events at college
 ________________________________________
 Skills
 • Business Management
