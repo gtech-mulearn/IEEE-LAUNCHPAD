@@ -13,7 +13,7 @@ I am passionate about driving innovation in the tech industry through leadership
 
 #### Networking:
 
-I am passionate about computer networking, with a strong understanding of protocols, IP addressing, and network configuration, and enjoy building and troubleshooting efficient communication systems
+I actively build and maintain professional relationships to share knowledge, collaborate on projects, and discover new opportunities in the tech community. I believe strong networking fosters mutual growth, opens doors to mentorship, and accelerates career development
 
 #### Career Plan:
 
