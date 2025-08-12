@@ -53,7 +53,7 @@ Whether it’s debugging code, designing intuitive UI, or learning about AI-powe
 
 #### Competitive Website Profiles:
 
-- 
+- https://tryhackme.com/p/vinyxzeditxz
 
 
 
