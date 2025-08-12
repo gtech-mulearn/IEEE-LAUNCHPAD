@@ -1,4 +1,4 @@
- Evlin Sara Johny
+ VINAYAK D
 
 ### About Me
 
@@ -17,7 +17,7 @@ Whether it’s debugging code, designing intuitive UI, or learning about AI-powe
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **VEEZHUMO**  |  useless project alert if in storms, rain, winds things might fall.                                             | [Hosted Link 1]NIL right now    | [Repo Link 1]:          |
+| **VEEZHUMO**  |  useless project alert if in storms, rain, winds things might fall.                                             | [Hosted Link 1]NIL right now    | [Repo Link 1]: https://github.com/nerdemon/useless_project_temp         |
 
 #### Leadership and Influence:
 
