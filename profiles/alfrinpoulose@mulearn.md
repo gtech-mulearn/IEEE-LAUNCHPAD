@@ -1,4 +1,4 @@
-# 💡 Alfrin Poulose
+# Alfrin Poulose
 
 ## 👨‍💻 About Me
 
@@ -12,8 +12,6 @@ My ultimate goal is to gain knowledge to the point where I can create anything I
 
 Currently, my focus is on **writing clean, readable, and easily understandable code** that others can work with seamlessly.  
 
----
-
 ## 🚀 Portfolio Highlights
 
 ### 🛠 My Projects
@@ -24,41 +22,35 @@ Currently, my focus is on **writing clean, readable, and easily understandable c
 | **My Portfolio** | A simple and clean portfolio website showcasing my work, projects, and contributions. Built with Next.js and Tailwind CSS. | [alfrin.vercel.app](https://alfrin.vercel.app/) | [GitHub](https://github.com/AlfrinP/portfolio) |
 | **Blog** | A blog platform built with Next.js (frontend) and FastAPI (backend) with a Tailwind CSS UI. | [Hosted Link](https://blog-nextjs.appwrite.network/) | [GitHub](https://github.com/AlfrinP/Blog) |
 
----
 
 ## 📌 Leadership & Influence
 
 I enjoy leading teams and value feedback from diverse perspectives.  
 I served as **Tech Lead** for my college’s **TinkerHub chapter** and actively participated in multiple clubs promoting technology.  
 
----
 
 ## 🌐 Networking
 
 My networking knowledge — including **SSH into servers** — comes from my attempts to set up the “perfect” homelab (which, in reality, is never truly complete).  
 I work with Linux commands, host static & dynamic websites, and use tools like **`tmux`** and other terminal utilities.  
 
----
 
 ## 🎯 Career Plan
 
 I aim to grow into a skilled, curious software developer who actively contributes to solving real-world problems.  
 I take pride in seeing a feature I’ve built being **used and appreciated by the public**.  
 
----
 
 ## 💭 Thoughts on Kerala’s Tech Ecosystem
 
 Kerala has a **vibrant and fun tech community** that promotes creativity while making coding enjoyable.  
 It fosters skill-building, concept understanding, and has the potential to become a **global leader in software innovation**.  
 
----
 
 ## 🛠 Open Source Contributions
 
 I’m working towards becoming an **active contributor** to impactful tech projects while learning from the **best practices and coding standards** of established communities and companies.  
 
----
 
 ## 🔗 Connect With Me
 
@@ -67,4 +59,3 @@ I’m working towards becoming an **active contributor** to impactful tech proje
 - **Portfolio** → [portfolioa](https://alfrin.vercel.app)
 - **MulearnProfile** → [alfrin@mulearn](https://app.mulearn.org/profile/alfrinpoulose@mulearn)
 
----
