@@ -14,35 +14,43 @@
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **VoteChain**        | Blockchain based e voting system, with biometric face verification feature etc. | [NoLink](https://github.com/aswanthabam/Votechain) |[github repo link](https://github.com/aswanthabam/Votechain)   |
+| **DropIT** | File sharing platform | [drop-it.web.app](https://drop-it.web.app) | https://github.com/aswanthabam/DropIT |
+| **YIP Interns** | Backend  for Young Innovators Program to manage their interns, made using Django and rest framework. | [yip.mulearn.org](https://yip.mulearn.org) | https://github.com/aswanthabam/yiptrackingbk |
+| **Vijnana Website** | Website for my college techfest, with google signin and onetap event registration | [vijnana.web.app](https://vijnana.web.app/v1) | https://github.com/aswanthabam/Vijnana |
 | **AVC Manager** | AVC Manager is a mobile application for managing device and doing functionalities such as freeing up storage | [Download Link](https://github.com/aswanthabam/Manager)| [github repo link](https://github.com/aswanthabam/Manager) |
+| **Portfolio Website** | My Portfolio website | [aswanthvc.me](https://aswanthvc.me) | https://github.com/aswanthabam/Portfolio |
+
+> **For knowing about my projects in detail checkout : https://aswanthvc.me/projects**, here you can find complete list of my projects and all details about it.
 
 ### Portfolio Highlights
 
 #### Leadership and Influence:
 
 - Bot Team lead of mulearn
+- COO of IEDC GCT
 
 #### Networking:
 - Participated in many techfests and conferences.
 
-#### Career Plan:
-
-#### Thoughts on Kerala's Tech Ecosystem:
-
+### Thoughts on Kerala's Tech Ecosystem:
+- Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups.
+- Collaboration between academia, government, and industry will be key to achieving this vision.
 
 #### History of Open Source Contributions:
 
 - Contributed in cyber security package called strombreaker.
 
-#### History of Community Engagement:
-
-
 #### Highly Visible Technical Content:
-
+- DropIT launch on product hunt : https://www.producthunt.com/posts/dropit-0f956d64-4e7a-44ad-8f9b-6dc143b16a0c
+- [YIP Interns Management Website](https://yip.mulearn.org/) 5000+ users
+- Posts on X : https://x.com/_aswanthvc
 - Authored a technical blog post on [Linkedin](https://linkedin.com/aswanth-vc).
 
 #### Highly Used Software Tools:
 
-#### Competitive Website Profiles:
+- Django
+- React
+- Flutter
+- FastAPI
 
 ---
