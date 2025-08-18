@@ -2,7 +2,7 @@
 
 ### About Me
 
-> I am a recent MCA graduate and dedicated technology enthusiast with excellent analytical and leadership skills. I am passionate about the latest technologies and have a strong foundation in web development and programming. My comprehensive knowledge spans various technologies, including HTML, CSS, JavaScript, AJAX, jQuery, database management systems (DBMS), Python, and the Django framework. I am enthusiastic about continuous learning and innovation in the tech industry, which fuels my ability to deliver high-quality solutions.
+> I am a recent MCA graduate and dedicated technology enthusiast with excellent analytical and leadership skills. I am passionate about the latest technologies and have a strong foundation in web development and programming. My comprehensive knowledge spans various technologies, including HTML, CSS, JavaScript, AJAX, jQuery, database management systems (DBMS), Python, and the Django framework. I recently completed a 6-month internship at Ainsurtech Trivandrum, where I received extensive training in HTML, CSS, JavaScript, AJAX, jQuery, database management systems (DBMS) like PostgreSQL and MySQL, Python, and the Django framework. I am enthusiastic about continuous learning and innovation in the tech industry, which fuels my ability to deliver high-quality solutions.
 
 ## Portfolio Highlights
 
@@ -10,28 +10,27 @@
 
 | Name                                                           | Description                                                                                                                               | Hosted Link                                  | Repo Link                                                                              |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------- |
-| **Liveliness Checks And Facial Recognition For Fraud Prevention With Virtual Kyc Onboarding** | Comprehensive virtual onboarding application developed during an internship at Ainsurtech Trivandrum, also serving as a master's project. |                                              | https://github.com/ananthudev/Liveliness-Check-Facial-Recognition-for-Fraud-Prevention |
-| **Event Scheduling System**                                        | Event Scheduling System (ESS) using Java Swing for GUI, MySQL for data storage, and JDBC for connectivity.                                 |                                              | https://github.com/ananthudev/Event-Scheduling-System                                   |
-| **Verismo Department Fest College Website**                      | Dynamic event website for the annual Techno-Cultural fest at Lourdes Matha College (LMCST).                                             | https://verismo2k23.github.io/                 | https://github.com/ananthudev/verismo2k23.github.io                                    |
-| **Equinox College Annual Fest 2023 Website Development**          | Dynamic event website (equinox2023.github.io) for the college annual fest, Equinox.                                                        | https://equinox2023.github.io/                 | https://github.com/ananthudev/equinox2023.github.io                                    |
+| **Liveliness Checks And Facial Recognition For Fraud Prevention With Virtual Kyc Onboarding** | Comprehensive virtual onboarding application developed during an internship at Ainsurtech Trivandrum, also serving as a master's project. |                                              | [View on GitHub](https://github.com/ananthudev/Liveliness-Check-Facial-Recognition-for-Fraud-Prevention) |
+| **Event Scheduling System**                                        | Event Scheduling System (ESS) using Java Swing for GUI, MySQL for data storage, and JDBC for connectivity.                                 |                                              | [View on GitHub](https://github.com/ananthudev/Event-Scheduling-System) |
+| **Verismo Department Fest College Website**                      | Dynamic event website for the annual Techno-Cultural fest at Lourdes Matha College (LMCST).                                             | [Visit the website](https://verismo2k23.github.io/)                 | [View on GitHub](https://github.com/ananthudev/verismo2k23.github.io) |
+| **Equinox College Annual Fest 2023 Website Development**          | Dynamic event website for the college annual fest, Equinox.                                                        | [Visit the website](https://equinox2023.github.io/)                 | [View on GitHub](https://github.com/ananthudev/equinox2023.github.io) |
 | **Eye Ball Cursor Movement Using OpenCV for Disabled Persons** | Intuitive "Eye Ball Cursor Control" system with a Pytinter-based GUI, utilizing a low-cost webcam for real-time eye tracking.           |                                              |                                                          |
-| **Employee Management System**                                    | Ainsurtech 6 months Internship - 2-day task. Created using the Django Framework 2.                                                                   |                                              | https://github.com/ananthudev/Employee-Management-System                               |
-| **Cat and Dog API**                                            | Cat and Dog API - Ainsurtech 6 months Internship - 1-day task. Created with HTML, CSS, and JavaScript.                                             | https://ananthudev.github.io/woofandmeow/      | https://github.com/ananthudev/woofandmeow
-| **QR Code Based Covid Check In**                                            | This project is a contactless check-in system designed to mitigate the spread of COVID-19. It replaces traditional registers with QR codes that users scan to log their entry and exit times, along with personal details. This approach eliminates the need for shared materials and physical contact, reducing the risk of infection.Created with HTML, CSS, and JavaScript.                                             |     | https://github.com/ananthudev/QR-Code-Based-Covid-Check-In
-| **Portfolio Website**                                            | Portfolio Website hosted on Github Pages                                             |https://ananthudev.github.io/     | https://github.com/ananthudev/ananthudev.github.io                                               |                                               |
-                                                                                              
+| **Employee Management System**                                    | Created using the Django Framework during a 2-day task at Ainsurtech.                                                                   |                                              | [View on GitHub](https://github.com/ananthudev/Employee-Management-System) |
+| **Cat and Dog API**                                            | Developed with HTML, CSS, and JavaScript during a 1-day task at Ainsurtech.                                             | [Visit the website](https://ananthudev.github.io/woofandmeow/)      | [View on GitHub](https://github.com/ananthudev/woofandmeow) |
+| **QR Code Based Covid Check In**                                            | Contactless check-in system designed to mitigate the spread of COVID-19, using QR codes to log entry and exit times, along with personal details. Created with HTML, CSS, and JavaScript.                                             |     | [View on GitHub](https://github.com/ananthudev/QR-Code-Based-Covid-Check-In) |
+| **Portfolio Website**                                            | Personal portfolio website hosted on GitHub Pages.                                             | [Visit the website](https://ananthudev.github.io/)     | [View on GitHub](https://github.com/ananthudev/ananthudev.github.io) |
 
 #### Leadership and Influence:
-
+- Served as an Executive Committee Member and Media Head for the KTU MCA Students Community, managing communication platforms, providing academic support to a large student body, and conducting social media 
+  digital marketing campaigns for other educational companies by promoting their posts on platforms like Instagram, WhatsApp, and Telegram
 - Demonstrated leadership as Class Representative in both undergraduate and graduate studies, fostering a positive and collaborative learning environment.
 - Coordinated and led the Verismo Techno-Cultural Fest in 2022 and 2023, showcasing organizational and management skills.
-- Served as an Executive Committee Member and Media Head for the KTU MCA Students Community, managing communication platforms and providing - academic support to a large student body.
 - Actively volunteered with People for Animals, demonstrating initiative and compassion in animal welfare efforts.
 
 #### Networking:
 
 - Actively expanding my professional network by attending industry events and conferences like Launchpad.
-- ngaging with online communities and forums to connect with fellow developers and learn from their experiences.
+- Engaging with online communities and forums to connect with fellow developers and learn from their experiences.
 - Leveraging my experience as Media Head for the KTU MCA Students Community to foster connections and collaborations within the Kerala tech ecosystem.
 
 #### Career Plan:
@@ -43,7 +42,7 @@
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Kerala possesses immense potential to become a thriving tech hub. The state boasts a strong educational foundation, a growing pool of talented individuals, and a supportive government initiative. However, to truly excel, Kerala needs to focus on fostering a culture of innovation, encouraging entrepreneurship, and attracting more investment in the tech sector. By creating a conducive environment for startups and promoting collaboration between academia and industry, Kerala can unlock its full potential and establish itself as a leading player in the global tech landscape.
+- Kerala possesses immense potential to become a thriving tech hub. The state boasts a strong educational foundation, a growing pool of talented individuals, and supportive government initiatives. However, to truly excel, Kerala needs to focus on fostering a culture of innovation, encouraging entrepreneurship, and attracting more investment in the tech sector. By creating a conducive environment for startups and promoting collaboration between academia and industry, Kerala can unlock its full potential and establish itself as a leading player in the global tech landscape.
 
 #### History of Open Source Contributions:
 
@@ -68,6 +67,6 @@
 
 #### Where to find me:
 
-- [Github](https://github.com/ananthudev) - Want to what I am working on. 🚀
-- [Linkedin](https://www.linkedin.com/in/ananthudev/) - Want to contact and connect me? ☎
+- [Github](https://github.com/ananthudev) - Want to see what I am working on? 🚀
+- [LinkedIn](https://www.linkedin.com/in/ananthudev/) - Want to contact and connect with me? ☎
 - [My website](https://ananthudev.github.io) - Know Who I am 🔖
